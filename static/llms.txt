@@ -1,0 +1,42 @@
+# Comparatif-Pro
+
+> Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels et les entreprises.
+
+## A propos
+
+Comparatif-Pro est une plateforme editoriale independante qui publie des comparatifs B2B rigoureux destines aux decideurs, acheteurs et responsables techniques. La ligne editoriale repose sur trois principes : independance vis-a-vis des marques, methodologie appuyee sur les normes (NF EN, ISO, CE) et les fiches techniques officielles, vulgarisation accessible aux decideurs non specialistes.
+
+Le site couvre six thematiques :
+- Amenagement de bureaux et espaces de travail
+- Equipements industriels et instrumentation
+- Logiciels professionnels (ERP, CAO, GMAO, SaaS B2B)
+- Formations continues et certifications techniques
+- Outillage professionnel et equipements de protection individuelle
+- Services aux entreprises (audit, conseil, maintenance, sous-traitance)
+
+## Contenu principal
+
+- [Amenagement de bureaux](https://comparatif-pro.fr/categories/amenagement-de-bureaux/) : mobilier, agencement, ergonomie, design d'entreprise
+- [Equipements industriels](https://comparatif-pro.fr/categories/equipements-industriels/) : machines, instrumentation, securite, maintenance
+- [Logiciels professionnels](https://comparatif-pro.fr/categories/logiciels-professionnels/) : ERP, CAO, GMAO, SaaS B2B, solutions metiers
+- [Formations et certifications](https://comparatif-pro.fr/categories/formations-et-certifications/) : formations techniques, certifications reconnues, organismes
+- [Outillage et materiel](https://comparatif-pro.fr/categories/outillage-et-materiel/) : outillage pro, EPI, consommables
+- [Services aux entreprises](https://comparatif-pro.fr/categories/services-aux-entreprises/) : audit, conseil, maintenance, sous-traitance technique
+
+## Articles recents
+
+- [Comment choisir le mobilier de bureau professionnel](https://comparatif-pro.fr/blog/comment-choisir-mobilier-bureau-professionnel/)
+- [Instruments de mesure industriels : guide comparatif](https://comparatif-pro.fr/blog/instruments-mesure-industriels-guide-comparatif/)
+- [Choisir un ERP pour PME : guide complet](https://comparatif-pro.fr/blog/choisir-erp-pme-guide-complet/)
+- [Formations en management de projet : comparatif des certifications](https://comparatif-pro.fr/blog/formations-management-projet-certifications/)
+- [EPI et securite industrielle : guide de selection](https://comparatif-pro.fr/blog/epi-securite-industrielle-guide/)
+- [GMAO : comparatif des logiciels de maintenance](https://comparatif-pro.fr/blog/gmao-comparatif-logiciels-maintenance/)
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Langues : francais (principale) + anglais
+- Sitemap : https://comparatif-pro.fr/sitemap.xml
+- RSS : https://comparatif-pro.fr/index.xml
+- Contact : contact@comparatif-pro.fr

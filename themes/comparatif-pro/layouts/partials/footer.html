@@ -1,0 +1,37 @@
+{{ $isEN := eq .Site.Language.Lang "en" }}
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>{{ .Site.Title }}</h4>
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            <div class="footer-col">
+                <h4>{{ if $isEN }}Categories{{ else }}Categories{{ end }}</h4>
+                <ul>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>{{ if $isEN }}Navigation{{ else }}Navigation{{ end }}</h4>
+                <nav aria-label="Footer navigation">
+                    <ul>
+                        {{ range .Site.Menus.main }}
+                        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                        {{ end }}
+                        <li><a href="{{ if $isEN }}{{ "site-map/" | relLangURL }}{{ else }}{{ "plan-du-site/" | relLangURL }}{{ end }}">{{ if $isEN }}Sitemap{{ else }}Plan du site{{ end }}</a></li>
+                        <li><a href="{{ if $isEN }}{{ "about/" | relLangURL }}{{ else }}{{ "a-propos/" | relLangURL }}{{ end }}">{{ if $isEN }}About{{ else }}A propos{{ end }}</a></li>
+                        <li><a href="{{ if $isEN }}{{ "contact/" | relLangURL }}{{ else }}{{ "contact/" | relLangURL }}{{ end }}">Contact</a></li>
+                        <li><a href="{{ if $isEN }}{{ "legal-notice/" | relLangURL }}{{ else }}{{ "mentions-legales/" | relLangURL }}{{ end }}">{{ if $isEN }}Legal notice{{ else }}Mentions legales{{ end }}</a></li>
+                        <li><a href="{{ if $isEN }}{{ "privacy-policy/" | relLangURL }}{{ else }}{{ "politique-de-confidentialite/" | relLangURL }}{{ end }}">{{ if $isEN }}Privacy policy{{ else }}Politique de confidentialite{{ end }}</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if $isEN }}All rights reserved.{{ else }}Tous droits reserves.{{ end }}</p>
+        </div>
+    </div>
+</footer>
