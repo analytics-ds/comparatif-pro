@@ -1,34 +1,276 @@
 {{ define "main" }}
 
-<!-- Hero Section -->
-<section class="hero">
-    <div class="hero-content">
-        <span class="hero-badge">Comparatifs B2B</span>
-        <h1>Trouvez la solution pro qui correspond a votre entreprise</h1>
-        <p class="hero-description">Comparatifs independants de logiciels, equipements, formations et services pour les professionnels.</p>
-        <a href="{{ "blog/" | relURL }}" class="btn-primary">Explorer le blog</a>
-    </div>
-</section>
-
-<!-- Categories Section -->
-<section class="categories-section">
-    <div class="container">
-        <h2 class="section-title">Nos categories</h2>
-        <div class="grid-categories">
-            {{ range .Site.Taxonomies.categories }}
-            <a href="{{ .Page.RelPermalink }}" class="category-card">
-                <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
-            </a>
-            {{ end }}
+<!-- 1. Hero 2 colonnes -->
+<section class="home-hero">
+    <div class="container home-hero-grid">
+        <div class="home-hero-content">
+            <span class="home-hero-badge">Comparatifs B2B independants</span>
+            <h1>Comparez les meilleures <span class="accent-orange">solutions pro</span> pour votre entreprise</h1>
+            <p class="home-hero-description">Logiciels, equipements industriels, formations et services : des comparatifs rigoureux et factuels pour aider les decideurs a faire les bons choix.</p>
+            <div class="home-hero-ctas">
+                <a href="{{ "blog/" | relURL }}" class="btn-primary">Explorer les comparatifs</a>
+                <a href="{{ "a-propos/" | relURL }}" class="btn-outline">Qui sommes-nous</a>
+            </div>
+        </div>
+        <div class="home-hero-visual" aria-hidden="true">
+            <svg viewBox="0 0 480 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration comparatif">
+                <defs>
+                    <linearGradient id="heroGrad" x1="0" y1="0" x2="1" y2="1">
+                        <stop offset="0" stop-color="#0F2A47"/>
+                        <stop offset="1" stop-color="#1E4370"/>
+                    </linearGradient>
+                </defs>
+                <!-- Card 1 -->
+                <rect x="40" y="80" width="180" height="240" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+                <rect x="60" y="100" width="140" height="10" rx="4" fill="#0F2A47"/>
+                <rect x="60" y="120" width="100" height="6" rx="3" fill="#E2E8F0"/>
+                <rect x="60" y="140" width="140" height="70" rx="8" fill="#EEF2F7"/>
+                <circle cx="80" cy="175" r="12" fill="#F59E0B"/>
+                <rect x="100" y="170" width="90" height="10" rx="3" fill="#0F2A47"/>
+                <rect x="60" y="230" width="140" height="6" rx="3" fill="#E2E8F0"/>
+                <rect x="60" y="250" width="120" height="6" rx="3" fill="#E2E8F0"/>
+                <rect x="60" y="280" width="80" height="28" rx="14" fill="#F59E0B"/>
+                <!-- Card 2 (mise en avant) -->
+                <rect x="260" y="60" width="180" height="280" rx="16" fill="url(#heroGrad)"/>
+                <rect x="280" y="80" width="140" height="10" rx="4" fill="#F59E0B"/>
+                <rect x="280" y="100" width="100" height="6" rx="3" fill="rgba(255,255,255,0.3)"/>
+                <rect x="280" y="124" width="140" height="80" rx="8" fill="rgba(255,255,255,0.1)"/>
+                <!-- Bar chart -->
+                <rect x="295" y="180" width="14" height="18" rx="2" fill="#F59E0B"/>
+                <rect x="315" y="165" width="14" height="33" rx="2" fill="#F59E0B"/>
+                <rect x="335" y="150" width="14" height="48" rx="2" fill="#F59E0B"/>
+                <rect x="355" y="140" width="14" height="58" rx="2" fill="#FFFFFF"/>
+                <rect x="375" y="130" width="14" height="68" rx="2" fill="#FFFFFF"/>
+                <rect x="395" y="145" width="14" height="53" rx="2" fill="#FFFFFF"/>
+                <rect x="280" y="220" width="140" height="6" rx="3" fill="rgba(255,255,255,0.3)"/>
+                <rect x="280" y="240" width="120" height="6" rx="3" fill="rgba(255,255,255,0.2)"/>
+                <rect x="280" y="295" width="100" height="28" rx="14" fill="#F59E0B"/>
+                <!-- Petit badge check -->
+                <circle cx="420" cy="80" r="18" fill="#F59E0B"/>
+                <path d="M413 80 l5 5 l10 -10" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            </svg>
         </div>
     </div>
 </section>
 
-<!-- Latest Articles Section -->
-<section class="latest-section">
+<!-- 2. Nos expertises -->
+<section class="home-services">
     <div class="container">
-        <h2 class="section-title">Derniers articles</h2>
+        <div class="home-section-header">
+            <h2 class="section-title">Nos <span class="accent-orange">expertises</span></h2>
+            <p class="home-section-subtitle">Six thematiques B2B couvertes par des comparatifs independants et factuels</p>
+        </div>
+        <div class="home-services-grid">
+            <a href="{{ "categories/amenagement-de-bureaux/" | relURL }}" class="home-service-card">
+                <span class="home-service-icon home-service-icon-blue" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21v-8a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v8"/><path d="M3 17h18"/><path d="M6 9V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v4"/></svg>
+                </span>
+                <h3>Amenagement de bureaux</h3>
+                <p>Mobilier, agencement, ergonomie et design d'entreprise pour des espaces de travail performants.</p>
+            </a>
+            <a href="{{ "categories/equipements-industriels/" | relURL }}" class="home-service-card">
+                <span class="home-service-icon home-service-icon-orange" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+                </span>
+                <h3>Equipements industriels</h3>
+                <p>Machines, instrumentation, securite et maintenance pour la production industrielle.</p>
+            </a>
+            <a href="{{ "categories/logiciels-professionnels/" | relURL }}" class="home-service-card">
+                <span class="home-service-icon home-service-icon-green" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                </span>
+                <h3>Logiciels professionnels</h3>
+                <p>ERP, CAO, GMAO, SaaS B2B : comparatifs fonctionnels et analyses de couts.</p>
+            </a>
+            <a href="{{ "categories/formations-et-certifications/" | relURL }}" class="home-service-card">
+                <span class="home-service-icon home-service-icon-purple" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+                </span>
+                <h3>Formations et certifications</h3>
+                <p>Parcours de formation continue et certifications techniques reconnues sur le marche.</p>
+            </a>
+            <a href="{{ "categories/outillage-et-materiel/" | relURL }}" class="home-service-card">
+                <span class="home-service-icon home-service-icon-red" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+                </span>
+                <h3>Outillage et materiel</h3>
+                <p>Outillage professionnel, equipements de protection individuelle et consommables terrain.</p>
+            </a>
+            <a href="{{ "categories/services-aux-entreprises/" | relURL }}" class="home-service-card">
+                <span class="home-service-icon home-service-icon-teal" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+                </span>
+                <h3>Services aux entreprises</h3>
+                <p>Audit, conseil, maintenance, sous-traitance technique : les prestataires a comparer.</p>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- 3. Comment on compare -->
+<section class="home-process">
+    <div class="container home-process-grid">
+        <div class="home-process-visual" aria-hidden="true">
+            <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="procGrad" x1="0" y1="0" x2="1" y2="1">
+                        <stop offset="0" stop-color="#F59E0B"/>
+                        <stop offset="1" stop-color="#D97706"/>
+                    </linearGradient>
+                </defs>
+                <!-- Laptop base -->
+                <rect x="60" y="230" width="280" height="120" rx="12" fill="#1F2937"/>
+                <rect x="80" y="250" width="240" height="90" rx="4" fill="#FFFFFF"/>
+                <!-- Screen content: comparison table -->
+                <rect x="90" y="260" width="60" height="8" rx="2" fill="#0F2A47"/>
+                <rect x="160" y="260" width="40" height="8" rx="2" fill="#64748B"/>
+                <rect x="210" y="260" width="40" height="8" rx="2" fill="#64748B"/>
+                <rect x="260" y="260" width="40" height="8" rx="2" fill="#64748B"/>
+                <line x1="90" y1="278" x2="310" y2="278" stroke="#E2E8F0" stroke-width="1"/>
+                <!-- rows -->
+                <rect x="90" y="285" width="50" height="6" rx="2" fill="#64748B"/>
+                <circle cx="180" cy="288" r="4" fill="#F59E0B"/>
+                <circle cx="230" cy="288" r="4" fill="#F59E0B"/>
+                <circle cx="280" cy="288" r="4" fill="#E2E8F0"/>
+                <rect x="90" y="300" width="50" height="6" rx="2" fill="#64748B"/>
+                <circle cx="180" cy="303" r="4" fill="#F59E0B"/>
+                <circle cx="230" cy="303" r="4" fill="#E2E8F0"/>
+                <circle cx="280" cy="303" r="4" fill="#F59E0B"/>
+                <rect x="90" y="315" width="50" height="6" rx="2" fill="#64748B"/>
+                <circle cx="180" cy="318" r="4" fill="#E2E8F0"/>
+                <circle cx="230" cy="318" r="4" fill="#F59E0B"/>
+                <circle cx="280" cy="318" r="4" fill="#F59E0B"/>
+                <!-- Keyboard base -->
+                <rect x="50" y="350" width="300" height="14" rx="4" fill="#374151"/>
+                <!-- Floating icons -->
+                <g transform="translate(80 80)">
+                    <circle cx="30" cy="30" r="30" fill="url(#procGrad)"/>
+                    <path d="M20 30 l7 7 l13 -14" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+                <g transform="translate(260 60)">
+                    <circle cx="30" cy="30" r="30" fill="#0F2A47"/>
+                    <rect x="20" y="20" width="20" height="20" rx="3" fill="none" stroke="#F59E0B" stroke-width="2"/>
+                    <line x1="24" y1="30" x2="36" y2="30" stroke="#F59E0B" stroke-width="2"/>
+                </g>
+                <g transform="translate(320 160)">
+                    <circle cx="25" cy="25" r="25" fill="#F59E0B" opacity="0.9"/>
+                    <text x="25" y="32" font-family="DM Sans, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">?</text>
+                </g>
+            </svg>
+        </div>
+        <div class="home-process-content">
+            <span class="home-hero-badge">Methodologie</span>
+            <h2>Comment on <span class="accent-orange">compare</span></h2>
+            <p class="home-section-subtitle">Chaque comparatif suit une methodologie structuree en quatre etapes pour garantir la rigueur et l'independance.</p>
+            <ol class="home-process-steps">
+                <li>
+                    <span class="home-process-step-num">1</span>
+                    <div>
+                        <h3>Identifier les besoins</h3>
+                        <p>Definition du cas d'usage, des contraintes techniques et des enjeux metier du decideur.</p>
+                    </div>
+                </li>
+                <li>
+                    <span class="home-process-step-num">2</span>
+                    <div>
+                        <h3>Comparer les solutions</h3>
+                        <p>Analyse des fonctionnalites, conformite aux normes (NF EN, ISO, CE) et retours terrain.</p>
+                    </div>
+                </li>
+                <li>
+                    <span class="home-process-step-num">3</span>
+                    <div>
+                        <h3>Analyser les couts</h3>
+                        <p>Evaluation du cout total de possession : licence, integration, formation, maintenance.</p>
+                    </div>
+                </li>
+                <li>
+                    <span class="home-process-step-num">4</span>
+                    <div>
+                        <h3>Choisir en connaissance</h3>
+                        <p>Synthese et recommandations adaptees au profil d'entreprise pour un choix eclaire.</p>
+                    </div>
+                </li>
+            </ol>
+            <div class="home-hero-ctas">
+                <a href="{{ "blog/" | relURL }}" class="btn-primary">Voir les comparatifs</a>
+                <a href="{{ "a-propos/" | relURL }}" class="btn-outline">Notre methodologie</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 4. Pourquoi Comparatif-Pro -->
+<section class="home-about">
+    <div class="container home-about-grid">
+        <div class="home-about-content">
+            <span class="home-hero-badge">A propos</span>
+            <h2>Pourquoi <span class="accent-orange">Comparatif-Pro</span></h2>
+            <p class="home-section-subtitle">Une plateforme editoriale independante qui place la rigueur factuelle au coeur de chaque comparatif B2B.</p>
+            <ul class="home-about-list">
+                <li>
+                    <strong>Independance editoriale</strong>
+                    <span>Aucune remuneration des marques pour orienter nos analyses. Les partenariats commerciaux, quand ils existent, sont declares de facon transparente.</span>
+                </li>
+                <li>
+                    <strong>Methodologie rigoureuse</strong>
+                    <span>Fiches techniques officielles, normes NF EN / ISO / CE, retours d'experience terrain et donnees publiques de marche : chaque affirmation est sourcee.</span>
+                </li>
+                <li>
+                    <strong>Vulgarisation technique</strong>
+                    <span>Un vocabulaire professionnel precis, mais accessible aux decideurs non specialistes. On explique le "pourquoi", pas seulement le "comment".</span>
+                </li>
+            </ul>
+            <a href="{{ "a-propos/" | relURL }}" class="btn-primary">En savoir plus</a>
+        </div>
+        <div class="home-about-visual" aria-hidden="true">
+            <svg viewBox="0 0 400 360" xmlns="http://www.w3.org/2000/svg">
+                <!-- Background card -->
+                <rect x="30" y="40" width="340" height="280" rx="16" fill="#EEF2F7"/>
+                <!-- Chart card -->
+                <rect x="60" y="70" width="280" height="220" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+                <!-- Header -->
+                <rect x="80" y="90" width="120" height="10" rx="3" fill="#0F2A47"/>
+                <rect x="80" y="108" width="80" height="6" rx="3" fill="#E2E8F0"/>
+                <!-- Grid lines -->
+                <line x1="80" y1="150" x2="320" y2="150" stroke="#F3F4F6" stroke-width="1"/>
+                <line x1="80" y1="190" x2="320" y2="190" stroke="#F3F4F6" stroke-width="1"/>
+                <line x1="80" y1="230" x2="320" y2="230" stroke="#F3F4F6" stroke-width="1"/>
+                <!-- Line chart path -->
+                <polyline points="80,240 130,210 180,220 230,170 280,180 320,140" fill="none" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                <!-- Dots -->
+                <circle cx="80" cy="240" r="5" fill="#F59E0B"/>
+                <circle cx="130" cy="210" r="5" fill="#F59E0B"/>
+                <circle cx="180" cy="220" r="5" fill="#F59E0B"/>
+                <circle cx="230" cy="170" r="5" fill="#F59E0B"/>
+                <circle cx="280" cy="180" r="5" fill="#F59E0B"/>
+                <circle cx="320" cy="140" r="6" fill="#0F2A47"/>
+                <!-- Bottom legend -->
+                <rect x="80" y="255" width="40" height="6" rx="2" fill="#E2E8F0"/>
+                <rect x="130" y="255" width="40" height="6" rx="2" fill="#E2E8F0"/>
+                <rect x="180" y="255" width="40" height="6" rx="2" fill="#E2E8F0"/>
+                <rect x="230" y="255" width="40" height="6" rx="2" fill="#E2E8F0"/>
+                <rect x="280" y="255" width="40" height="6" rx="2" fill="#E2E8F0"/>
+                <!-- Floating mini card -->
+                <g transform="translate(250 30)">
+                    <rect x="0" y="0" width="130" height="60" rx="8" fill="#0F2A47"/>
+                    <circle cx="20" cy="30" r="10" fill="#F59E0B"/>
+                    <path d="M15 30 l4 4 l7 -7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <rect x="40" y="22" width="70" height="6" rx="2" fill="#FFFFFF"/>
+                    <rect x="40" y="34" width="50" height="4" rx="2" fill="rgba(255,255,255,0.5)"/>
+                </g>
+            </svg>
+        </div>
+    </div>
+</section>
+
+<!-- 5. Derniers articles -->
+<section class="home-latest">
+    <div class="container">
+        <div class="home-section-header">
+            <h2 class="section-title">Derniers <span class="accent-orange">comparatifs</span></h2>
+            <p class="home-section-subtitle">Les analyses les plus recentes publiees sur Comparatif-Pro</p>
+        </div>
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
             <article class="article-card">
@@ -53,6 +295,17 @@
             </article>
             {{ end }}
         </div>
+    </div>
+</section>
+
+<!-- 6. CTA final -->
+<section class="home-cta-final">
+    <div class="container home-cta-final-inner">
+        <div>
+            <h2>Pret a comparer les meilleures solutions B2B ?</h2>
+            <p>Parcourez les comparatifs et trouvez la reference adaptee a votre entreprise.</p>
+        </div>
+        <a href="{{ "blog/" | relURL }}" class="btn-primary home-cta-final-btn">Explorer le blog</a>
     </div>
 </section>
 
