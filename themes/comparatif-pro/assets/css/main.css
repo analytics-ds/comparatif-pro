@@ -1830,10 +1830,51 @@ img {
     margin: 0 auto;
 }
 
-/* 5. Derniers articles */
-.home-latest {
+/* 5. Notre histoire */
+.home-story {
     padding: var(--space-xl) 0;
     background-color: var(--background-alt);
+}
+.home-story-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-lg);
+    align-items: center;
+}
+.home-story-visual svg {
+    width: 100%;
+    max-width: 460px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.home-story-content h2 {
+    font-family: var(--font-heading);
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: var(--primary);
+    margin-bottom: var(--space-sm);
+    letter-spacing: -0.3px;
+    text-transform: none;
+}
+.home-story-content p {
+    font-size: 1rem;
+    color: var(--text);
+    line-height: 1.7;
+    margin-bottom: var(--space-sm);
+}
+.home-story-content p:last-child {
+    margin-bottom: 0;
+}
+.home-story-content strong {
+    color: var(--primary);
+    font-weight: 700;
+}
+
+/* 6. Derniers articles */
+.home-latest {
+    padding: var(--space-xl) 0;
+    background-color: var(--white);
 }
 .home-latest .section-title { text-transform: none; letter-spacing: -0.3px; }
 
@@ -1880,12 +1921,14 @@ img {
 @media (max-width: 768px) {
     .home-hero-grid,
     .home-process-grid,
-    .home-about-grid {
+    .home-about-grid,
+    .home-story-grid {
         grid-template-columns: 1fr;
     }
     .home-hero-visual,
     .home-process-visual,
-    .home-about-visual {
+    .home-about-visual,
+    .home-story-visual {
         order: 2;
     }
     .home-hero-content h1 {
@@ -1893,6 +1936,7 @@ img {
     }
     .home-process-content h2,
     .home-about-content h2,
+    .home-story-content h2,
     .home-cta-final h2 {
         font-size: 1.6rem;
     }
