@@ -2,8 +2,8 @@ baseURL = "https://comparatif-pro.com/"
 title = "Comparatif-Pro"
 theme = "comparatif-pro"
 
-languageCode = "fr-FR"
 defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
 enableEmoji = false
@@ -19,38 +19,91 @@ enableEmoji = false
   category = "categories"
   tag = "tags"
 
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Francais"
+    weight = 1
+    contentDir = "content"
+    title = "Comparatif-Pro"
+    [languages.fr.params]
+      description = "Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels."
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    title = "Comparatif-Pro"
+    [languages.en.params]
+      description = "Independent comparisons of software, industrial equipment, training and services for professionals."
+
 # Menu FR
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Accueil"
   url = "/"
   weight = 1
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Amenagement de bureaux"
   url = "/categories/amenagement-de-bureaux/"
   weight = 2
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Equipements industriels"
   url = "/categories/equipements-industriels/"
   weight = 3
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Logiciels professionnels"
   url = "/categories/logiciels-professionnels/"
   weight = 4
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Formations et certifications"
   url = "/categories/formations-et-certifications/"
   weight = 5
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Outillage et materiel"
   url = "/categories/outillage-et-materiel/"
   weight = 6
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Services aux entreprises"
   url = "/categories/services-aux-entreprises/"
   weight = 7
-[[menus.main]]
+[[languages.fr.menus.main]]
   name = "Le Blog"
   url = "/blog/"
+  weight = 99
+
+# Menu EN
+[[languages.en.menus.main]]
+  name = "Home"
+  url = "/en/"
+  weight = 1
+[[languages.en.menus.main]]
+  name = "Office furnishing"
+  url = "/en/categories/office-furnishing/"
+  weight = 2
+[[languages.en.menus.main]]
+  name = "Industrial equipment"
+  url = "/en/categories/industrial-equipment/"
+  weight = 3
+[[languages.en.menus.main]]
+  name = "Professional software"
+  url = "/en/categories/professional-software/"
+  weight = 4
+[[languages.en.menus.main]]
+  name = "Training & certifications"
+  url = "/en/categories/training-certifications/"
+  weight = 5
+[[languages.en.menus.main]]
+  name = "Tools & equipment"
+  url = "/en/categories/tools-equipment/"
+  weight = 6
+[[languages.en.menus.main]]
+  name = "Business services"
+  url = "/en/categories/business-services/"
+  weight = 7
+[[languages.en.menus.main]]
+  name = "The Blog"
+  url = "/en/blog/"
   weight = 99
 
 [related]
