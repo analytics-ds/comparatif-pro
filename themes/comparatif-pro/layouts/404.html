@@ -1,14 +1,13 @@
 {{ define "main" }}
-{{ $isEN := eq .Site.Language.Lang "en" }}
 
 <section class="error-page">
     <div class="container">
         <span class="error-code">404</span>
-        <h1>{{ if $isEN }}Page not found{{ else }}Page introuvable{{ end }}</h1>
-        <p>{{ if $isEN }}The page you are looking for does not exist or has been moved.{{ else }}La page que vous recherchez n'existe pas ou a ete deplacee.{{ end }}</p>
+        <h1>Page introuvable</h1>
+        <p>La page que vous recherchez n'existe pas ou a ete deplacee.</p>
         <div class="error-links">
-            <a href="{{ "/" | relLangURL }}" class="btn-primary">{{ if $isEN }}Back to home{{ else }}Retour a l'accueil{{ end }}</a>
-            <a href="{{ "blog/" | relLangURL }}" class="btn-outline">{{ if $isEN }}See articles{{ else }}Voir les articles{{ end }}</a>
+            <a href="{{ "/" | relURL }}" class="btn-primary">Retour a l'accueil</a>
+            <a href="{{ "blog/" | relURL }}" class="btn-outline">Voir les articles</a>
         </div>
     </div>
 </section>

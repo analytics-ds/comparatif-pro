@@ -36,7 +36,7 @@ Le site couvre six thematiques :
 
 - Generateur : Hugo
 - Hebergement : GitHub Pages
-- Langues : francais (principale) + anglais
+- Langue : francais
 - Sitemap : https://comparatif-pro.fr/sitemap.xml
 - RSS : https://comparatif-pro.fr/index.xml
 - Contact : contact@comparatif-pro.fr

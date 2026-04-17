@@ -77,19 +77,19 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 > Elle permet a Claude de connaitre le contexte du site pour les futures actions.
 
 - **Nom du site** : Comparatif-Pro
-- **Description (FR)** : Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels.
-- **Description (EN)** : Independent comparisons of software, industrial equipment, training and services for professionals.
-- **URL** : https://comparatif-pro.fr
+- **Description** : Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels.
+- **URL actuelle (GitHub Pages)** : https://analytics-ds.github.io/comparatif-pro/
+- **URL cible (domaine custom a acheter)** : https://comparatif-pro.fr (DNS non configure — domaine non enregistre au 2026-04-17)
 - **Couleurs** : bleu marine `#0F2A47` (primaire), bleu clair `#1E4370` (variante), orange ambre `#F59E0B` (accent/CTA), fond `#F8F9FB`, texte `#1F2937`, texte secondaire `#64748B`, bordure `#E2E8F0`
 - **Polices** : DM Sans (titres), Inter (corps + UI)
-- **Langue principale** : francais (fr) (la version EN en sous-dossier `/en/` est TOUJOURS active)
-- **Categories (FR ↔ EN)** :
-  - Amenagement de bureaux / Office furnishing
-  - Equipements industriels / Industrial equipment
-  - Logiciels professionnels / Professional software
-  - Formations et certifications / Training and certifications
-  - Outillage et materiel / Tools and equipment
-  - Services aux entreprises / Business services
+- **Langue** : francais uniquement (site monolingue — version EN retiree a la demande du consultant)
+- **Categories** :
+  - Amenagement de bureaux
+  - Equipements industriels
+  - Logiciels professionnels
+  - Formations et certifications
+  - Outillage et materiel
+  - Services aux entreprises
 - **Auteur principal du site** : `thomas-durand` (expert tech, pertinent pour ERP, GMAO, instrumentation, logiciels). `/create-article` peut basculer dynamiquement vers un autre auteur selon le sujet (ex: Claire Beaumont pour amenagement de bureaux, Kevin Moreau pour EPI/outillage)
 - **Positionnement** : site de comparaison B2B destine aux decideurs, acheteurs et responsables techniques. Thematiques volontairement larges pour accueillir de futurs partenariats et articles sponsorises (ex: coeo-design.com, techniques-ingenieur.fr)
 

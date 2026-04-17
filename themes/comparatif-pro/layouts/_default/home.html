@@ -1,25 +1,24 @@
 {{ define "main" }}
-{{ $isEN := eq .Site.Language.Lang "en" }}
 
 <!-- Hero Section -->
 <section class="hero">
     <div class="hero-content">
-        <span class="hero-badge">{{ if $isEN }}B2B comparisons{{ else }}Comparatifs B2B{{ end }}</span>
-        <h1>{{ if $isEN }}Find the professional solution that fits your business{{ else }}Trouvez la solution pro qui correspond a votre entreprise{{ end }}</h1>
-        <p class="hero-description">{{ if $isEN }}Independent comparisons of software, industrial equipment, training and services for professionals.{{ else }}Comparatifs independants de logiciels, equipements, formations et services pour les professionnels.{{ end }}</p>
-        <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ if $isEN }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+        <span class="hero-badge">Comparatifs B2B</span>
+        <h1>Trouvez la solution pro qui correspond a votre entreprise</h1>
+        <p class="hero-description">Comparatifs independants de logiciels, equipements, formations et services pour les professionnels.</p>
+        <a href="{{ "blog/" | relURL }}" class="btn-primary">Explorer le blog</a>
     </div>
 </section>
 
 <!-- Categories Section -->
 <section class="categories-section">
     <div class="container">
-        <h2 class="section-title">{{ if $isEN }}Our categories{{ else }}Nos categories{{ end }}</h2>
+        <h2 class="section-title">Nos categories</h2>
         <div class="grid-categories">
             {{ range .Site.Taxonomies.categories }}
             <a href="{{ .Page.RelPermalink }}" class="category-card">
                 <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if $isEN }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
             </a>
             {{ end }}
         </div>
@@ -29,7 +28,7 @@
 <!-- Latest Articles Section -->
 <section class="latest-section">
     <div class="container">
-        <h2 class="section-title">{{ if $isEN }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <h2 class="section-title">Derniers articles</h2>
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
             <article class="article-card">
@@ -49,7 +48,7 @@
                     </div>
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <p>{{ .Description }}</p>
-                    <a href="{{ .RelPermalink }}" class="read-more">{{ if $isEN }}Read more{{ else }}Lire la suite{{ end }}</a>
+                    <a href="{{ .RelPermalink }}" class="read-more">Lire la suite</a>
                 </div>
             </article>
             {{ end }}
