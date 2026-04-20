@@ -1,9 +1,6 @@
-# Auteurs du blog — multilingue FR/EN
-# Ce fichier est copie dans `data/authors.yaml` a la racine du site Hugo a la creation du site.
-# Hugo le lit nativement via `.Site.Data.authors` dans les templates.
-#
-# Structure : map d'auteurs indexee par ID (slug)
-# L'ID est utilise dans le frontmatter des articles comme `author: thomas-durand`
+# Auteurs du site Comparatif-Pro — multilingue FR/EN
+# Un auteur dedie par categorie (6 auteurs B2B = 6 categories).
+# L'ID (slug) est utilise dans le frontmatter des articles comme `author: thomas-durand`.
 #
 # Le champ `topics` sert a la selection automatique de l'auteur dans /create-article.
 # Le champ `expertise` alimente le schema.org Person -> knowsAbout.
@@ -14,72 +11,35 @@ thomas-durand:
   type: person
   avatar: /images/authors/thomas-durand.jpg
   linkedinUrl: ""
+  category: logiciels-professionnels
   jobTitle:
-    fr: Redacteur en chef & analyste tech
-    en: Editor-in-Chief & tech analyst
+    fr: Analyste logiciels B2B
+    en: B2B software analyst
   role:
-    fr: Redacteur en chef & analyste tech
-    en: Editor-in-Chief & tech analyst
+    fr: Analyste logiciels B2B
+    en: B2B software analyst
   bio:
-    fr: "Thomas Durand est redacteur en chef. Passionne de technologie, il teste et compare les solutions numeriques pour aider les professionnels et particuliers a faire les bons choix."
-    en: "Thomas Durand is Editor-in-Chief. Passionate about technology, he tests and compares digital solutions to help professionals and individuals make the right choices."
+    fr: "Thomas Durand est journaliste specialise dans les logiciels professionnels depuis plus de douze ans. Ancien chef de projet en transformation numerique chez un integrateur, il a accompagne plus d'une centaine de deploiements ERP et CRM en PME et ETI avant de se consacrer au conseil editorial. Il decortique les solutions SaaS, les offres cloud et les outils de cybersecurite pour donner aux decideurs des cles de choix objectives, loin des discours marketing."
+    en: "Thomas Durand is a journalist specialized in business software for over twelve years. A former digital transformation project manager at an integrator, he has supported more than a hundred ERP and CRM deployments in SMEs and mid-cap companies before dedicating himself to editorial consulting. He dissects SaaS solutions, cloud offerings and cybersecurity tools to provide decision-makers with objective selection criteria, far from marketing rhetoric."
   expertise:
-    - SaaS
-    - Cloud Computing
+    - ERP
+    - CRM
+    - SaaS B2B
+    - Cloud computing
     - Cybersecurite
-    - Outils de productivite
-    - Intelligence artificielle
-    - Materiel informatique
+    - Dematerialisation
+    - BI et reporting
   topics:
-    - tech
-    - technologie
-    - saas
     - logiciel
+    - saas
+    - erp
+    - crm
     - cloud
     - cybersecurite
-    - securite informatique
-    - ia
-    - intelligence artificielle
-    - productivite
-    - outils pro
+    - informatique professionnelle
+    - outil pro
     - b2b
-    - informatique
-    - hardware
-
-magalie-ergoz:
-  id: magalie-ergoz
-  name: Magalie Ergoz
-  type: person
-  avatar: /images/authors/magalie-ergoz.jpg
-  linkedinUrl: ""
-  jobTitle:
-    fr: Blogueuse mode & beaute
-    en: Fashion & beauty blogger
-  role:
-    fr: Specialiste mode & beaute
-    en: Fashion & beauty specialist
-  bio:
-    fr: "Magalie Ergoz est blogueuse specialisee en mode et beaute. Elle teste et compare les marques pour aider ses lectrices et lecteurs a trouver les meilleurs produits au juste prix."
-    en: "Magalie Ergoz is a fashion and beauty blogger. She tests and compares brands to help her readers find the best products at the right price."
-  expertise:
-    - Mode
-    - Beaute
-    - Cosmetiques
-    - Accessoires
-    - Skincare
-    - Parfums
-  topics:
-    - mode
-    - fashion
-    - beaute
-    - cosmetique
-    - maquillage
-    - skincare
-    - parfum
-    - accessoire
-    - vetement
-    - lifestyle feminin
-    - luxe
+    - transformation numerique
 
 claire-beaumont:
   id: claire-beaumont
@@ -87,151 +47,184 @@ claire-beaumont:
   type: person
   avatar: /images/authors/claire-beaumont.jpg
   linkedinUrl: ""
+  category: amenagement-de-bureaux
   jobTitle:
-    fr: Architecte d'interieur & blogueuse deco
-    en: Interior designer & home blogger
+    fr: Architecte d'interieur specialisee en espaces tertiaires
+    en: Interior designer specialized in tertiary spaces
   role:
-    fr: Experte habitat & renovation
-    en: Home & renovation expert
+    fr: Architecte d'interieur & experte amenagement tertiaire
+    en: Interior designer & tertiary workspace expert
   bio:
-    fr: "Claire Beaumont est architecte d'interieur de formation et blogueuse depuis plus de 10 ans. Elle teste et compare outils, materiaux et prestataires pour aider particuliers et bricoleurs a reussir leurs projets habitat."
-    en: "Claire Beaumont is a trained interior designer and has been blogging for over 10 years. She tests and compares tools, materials and service providers to help homeowners and DIYers succeed in their home projects."
+    fr: "Claire Beaumont est architecte d'interieur diplomee de l'Ecole Boulle et intervient depuis plus de douze ans sur l'amenagement d'espaces tertiaires. Apres avoir dirige les projets d'un cabinet parisien specialise dans le flex office, elle conseille desormais des entreprises sur l'ergonomie, l'acoustique et la modularite de leurs bureaux. Sur Comparatif-Pro, elle partage ses grilles de selection de mobilier, ses retours terrain et ses methodes pour concilier confort collaborateur et budget maitrise."
+    en: "Claire Beaumont is an interior designer graduated from Ecole Boulle and has been working on tertiary space design for over twelve years. After leading projects at a Paris-based firm specialized in flex office, she now advises companies on ergonomics, acoustics and modularity of their offices. On Comparatif-Pro, she shares her furniture selection criteria, field feedback and methods to balance employee comfort with controlled budget."
   expertise:
-    - Renovation
-    - Decoration interieure
-    - Bricolage
-    - Amenagement exterieur
-    - Materiaux de construction
-    - Mobilier
+    - Amenagement tertiaire
+    - Flex office
+    - Ergonomie au poste de travail
+    - Acoustique des bureaux
+    - Mobilier professionnel
+    - Cloisonnement et modularite
+    - Eclairage tertiaire
   topics:
-    - maison
-    - habitat
-    - renovation
-    - decoration
-    - bricolage
+    - bureau
     - amenagement
-    - jardin
-    - exterieur
-    - mobilier
+    - mobilier professionnel
+    - flex office
+    - ergonomie
+    - espace de travail
+    - acoustique
+    - open space
+    - cloisonnement
+    - coworking
+
+marc-lefevre:
+  id: marc-lefevre
+  name: Marc Lefevre
+  type: person
+  avatar: /images/authors/marc-lefevre.jpg
+  linkedinUrl: ""
+  category: equipements-industriels
+  jobTitle:
+    fr: Ingenieur instrumentation & automatismes industriels
+    en: Industrial instrumentation & automation engineer
+  role:
+    fr: Ingenieur instrumentation & automatismes
+    en: Industrial instrumentation & automation engineer
+  bio:
+    fr: "Marc Lefevre est ingenieur diplome de l'ENSIAME, specialise en instrumentation et automatismes industriels. Il a exerce quinze ans dans l'industrie, notamment dans l'agroalimentaire, la pharmacie et l'automobile, ou il a pilote des projets de metrologie et de controle qualite en ligne. Depuis 2023, il partage son expertise en redigeant des comparatifs techniques destines aux responsables maintenance, bureaux d'etudes et acheteurs industriels qui cherchent a fiabiliser leurs choix d'equipements."
+    en: "Marc Lefevre is an engineer graduated from ENSIAME, specialized in industrial instrumentation and automation. He has spent fifteen years in industry, notably in food processing, pharmaceuticals and automotive, where he led metrology and in-line quality control projects. Since 2023, he shares his expertise by writing technical comparisons aimed at maintenance managers, design offices and industrial buyers seeking to secure their equipment choices."
+  expertise:
+    - Metrologie industrielle
+    - Instrumentation de mesure
+    - Capteurs industriels
+    - Automatismes et API
+    - Controle qualite en ligne
+    - Normes ISO 9001 et IATF 16949
+    - Oscilloscopes et analyseurs
+  topics:
+    - equipement industriel
+    - instrumentation
+    - metrologie
+    - capteur
+    - automatisme
+    - controle qualite
+    - industrie
+    - mesure industrielle
+    - oscilloscope
+    - multimetre
+    - production
+
+sophie-bertrand:
+  id: sophie-bertrand
+  name: Sophie Bertrand
+  type: person
+  avatar: /images/authors/sophie-bertrand.jpg
+  linkedinUrl: ""
+  category: formations-et-certifications
+  jobTitle:
+    fr: Consultante en ingenierie de formation
+    en: Training engineering consultant
+  role:
+    fr: Consultante formation & certifications professionnelles
+    en: Training & professional certification consultant
+  bio:
+    fr: "Sophie Bertrand a exerce dix ans comme responsable formation dans un grand groupe industriel avant de fonder son cabinet de conseil en ingenierie pedagogique. Certifiee PMP et PRINCE2, elle accompagne desormais des DRH et des responsables de developpement des competences dans le choix de leurs organismes et de leurs certifications. Sur Comparatif-Pro, elle decortique les parcours de formation, les dispositifs CPF et les certifications reconnues sur le marche, avec un souci constant de leur valeur reelle a l'embauche."
+    en: "Sophie Bertrand worked for ten years as training manager in a major industrial group before founding her consulting firm specialized in instructional design. Certified PMP and PRINCE2, she now supports HR directors and skills development managers in choosing their training providers and certifications. On Comparatif-Pro, she breaks down training paths, CPF schemes and certifications recognized in the market, with constant attention to their real value in hiring."
+  expertise:
+    - Ingenierie de formation
+    - Certification PMP
+    - Certification PRINCE2
+    - Methodes agiles (PMI-ACP, Scrum)
+    - Developpement des competences
+    - Dispositifs CPF et OPCO
+    - Evaluation des organismes de formation
+  topics:
+    - formation
+    - certification
+    - management de projet
+    - pmp
+    - prince2
+    - agile
+    - scrum
+    - competence
+    - cpf
+    - opco
+    - formation professionnelle
+    - ressources humaines
+
+julien-marchand:
+  id: julien-marchand
+  name: Julien Marchand
+  type: person
+  avatar: /images/authors/julien-marchand.jpg
+  linkedinUrl: ""
+  category: outillage-et-materiel
+  jobTitle:
+    fr: Charge de prevention & expert EPI
+    en: Prevention officer & PPE expert
+  role:
+    fr: Expert outillage professionnel & prevention
+    en: Professional tooling & prevention expert
+  bio:
+    fr: "Julien Marchand a debute sa carriere comme chef de chantier dans le batiment avant de se reconvertir, apres une formation IPRP, dans le conseil en prevention des risques professionnels. Depuis huit ans, il audite des chantiers, forme les equipes aux equipements de protection individuelle et accompagne les acheteurs dans la selection d'outillage professionnel. Sur Comparatif-Pro, il croise les exigences terrain et les normes en vigueur pour livrer des comparatifs utiles aux artisans, responsables HSE et directeurs techniques."
+    en: "Julien Marchand started his career as a construction site manager before retraining, after IPRP training, into occupational risk prevention consulting. For eight years, he has been auditing construction sites, training teams on personal protective equipment and supporting buyers in selecting professional tools. On Comparatif-Pro, he combines field requirements and current standards to deliver comparisons useful to craftsmen, HSE managers and technical directors."
+  expertise:
+    - Equipements de Protection Individuelle (EPI)
+    - Outillage professionnel
+    - Prevention des risques (IPRP)
+    - Normes EN 388, EN 397, EN ISO 20345
+    - Securite chantier BTP
+    - Travail en hauteur
+    - Equipements electroportatifs
+  topics:
     - outillage
-    - construction
-    - materiau
-    - travaux
-    - immobilier residentiel
+    - materiel
+    - epi
+    - protection individuelle
+    - securite
+    - chantier
+    - btp
+    - batiment
+    - prevention
+    - risques professionnels
+    - casque
+    - chaussures securite
+    - harnais
+    - electroportatif
 
-laura-verdier:
-  id: laura-verdier
-  name: Laura Verdier
+aurelie-vasseur:
+  id: aurelie-vasseur
+  name: Aurelie Vasseur
   type: person
-  avatar: /images/authors/laura-verdier.jpg
+  avatar: /images/authors/aurelie-vasseur.jpg
   linkedinUrl: ""
+  category: services-aux-entreprises
   jobTitle:
-    fr: Journaliste sante & bien-etre
-    en: Health & wellness journalist
+    fr: Consultante facility management & services industriels
+    en: Facility management & industrial services consultant
   role:
-    fr: Specialiste nutrition & bien-etre
-    en: Nutrition & wellness specialist
+    fr: Consultante facility & services aux entreprises
+    en: Facility & business services consultant
   bio:
-    fr: "Laura Verdier est journaliste specialisee en sante, nutrition et bien-etre depuis 8 ans. Elle decortique les marques, les etudes et les tendances pour offrir a ses lecteurs une information fiable et accessible."
-    en: "Laura Verdier has been a journalist specializing in health, nutrition, and wellness for 8 years. She dissects brands, studies, and trends to provide her readers with reliable and accessible information."
+    fr: "Aurelie Vasseur est consultante independante en facility management et services aux entreprises apres un parcours de onze ans en cabinet de conseil, ou elle a pilote des missions d'externalisation pour des grands comptes industriels. Specialiste des contrats de maintenance, de la GMAO et du pilotage multi-sites, elle accompagne des directions immobilieres et des responsables de production dans leurs arbitrages entre regie interne, externalisation et solutions hybrides. Sur Comparatif-Pro, elle analyse logiciels et prestataires avec l'oeil d'une ancienne acheteuse de services."
+    en: "Aurelie Vasseur is an independent consultant in facility management and business services after eleven years in consulting, where she led outsourcing projects for major industrial clients. A specialist in maintenance contracts, CMMS and multi-site management, she supports real estate directors and production managers in their decisions between in-house management, outsourcing and hybrid solutions. On Comparatif-Pro, she analyzes software and service providers with the eye of a former services buyer."
   expertise:
-    - Nutrition
-    - Bien-etre
-    - Complements alimentaires
-    - Medecine douce
-    - Fitness
-    - Sommeil
+    - Facility management
+    - GMAO (Gestion de Maintenance Assistee par Ordinateur)
+    - Externalisation des services generaux
+    - Pilotage multi-sites
+    - Contrats de maintenance
+    - Achats de prestations
+    - Indicateurs de performance (KPI) services
   topics:
-    - sante
-    - bien etre
-    - nutrition
-    - alimentation
-    - complement alimentaire
-    - medecine naturelle
-    - phytotherapie
-    - fitness
-    - sport
-    - sommeil
-    - stress
-    - mental
-    - dietetique
-    - vitalite
-
-kevin-moreau:
-  id: kevin-moreau
-  name: Kevin Moreau
-  type: person
-  avatar: /images/authors/kevin-moreau.jpg
-  linkedinUrl: ""
-  jobTitle:
-    fr: Journaliste auto & mobilite
-    en: Auto & mobility journalist
-  role:
-    fr: Specialiste transport & mobilite
-    en: Transport & mobility specialist
-  bio:
-    fr: "Kevin Moreau couvre l'actualite automobile et des nouvelles mobilites depuis 12 ans. Il teste vehicules, solutions de transport et services de voyage pour guider les lecteurs dans leurs choix."
-    en: "Kevin Moreau has covered automotive news and new mobility for 12 years. He tests vehicles, transport solutions and travel services to guide readers in their choices."
-  expertise:
-    - Automobile
-    - Mobilite electrique
-    - Transport urbain
-    - Voyage
-    - Train
-    - Aviation
-  topics:
-    - transport
-    - automobile
-    - voiture
-    - auto
-    - moto
-    - velo
-    - trottinette
-    - mobilite
-    - electrique
-    - vehicule
-    - voyage
-    - train
-    - avion
-    - deplacement
-    - location vehicule
-
-sophie-martin:
-  id: sophie-martin
-  name: Sophie Martin
-  type: person
-  avatar: /images/authors/sophie-martin.jpg
-  linkedinUrl: ""
-  jobTitle:
-    fr: Journaliste finance & patrimoine
-    en: Finance & wealth journalist
-  role:
-    fr: Specialiste epargne & investissement
-    en: Savings & investment specialist
-  bio:
-    fr: "Sophie Martin est journaliste financiere independante depuis 10 ans. Elle analyse et compare produits d'epargne, solutions d'investissement et strategies patrimoniales pour democratiser la finance personnelle."
-    en: "Sophie Martin has been an independent financial journalist for 10 years. She analyzes and compares savings products, investment solutions and wealth strategies to democratize personal finance."
-  expertise:
-    - Epargne
-    - Investissement
-    - Immobilier locatif
-    - Fiscalite
-    - Assurance vie
-    - Bourse
-  topics:
-    - finance
-    - placement
-    - epargne
-    - investissement
-    - bourse
-    - immobilier locatif
-    - scpi
-    - assurance vie
-    - pel
-    - livret
-    - fiscalite
-    - impot
-    - patrimoine
-    - retraite
-    - credit
-    - banque
+    - services aux entreprises
+    - facility management
+    - gmao
+    - maintenance
+    - externalisation
+    - services generaux
+    - prestataire
+    - pilotage multisite
+    - sous traitance
+    - achat prestation
+    - b2b service

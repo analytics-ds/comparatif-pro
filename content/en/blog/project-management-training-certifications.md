@@ -7,7 +7,7 @@ draft: false
 categories: ["Training and certifications"]
 tags: ["project management", "PMP", "PRINCE2", "Agile"]
 translationKey: "formations-management-projet"
-author: thomas-durand
+author: sophie-bertrand
 image: ""
 imageAlt: "Project management training session in a classroom"
 imageCredit: ""

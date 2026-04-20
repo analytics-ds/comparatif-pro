@@ -7,7 +7,7 @@ draft: false
 categories: ["Services aux entreprises"]
 tags: ["GMAO", "maintenance", "services industriels"]
 translationKey: "gmao-logiciels-maintenance"
-author: thomas-durand
+author: aurelie-vasseur
 image: ""
 imageAlt: "Tableau de bord de GMAO sur ecran industriel"
 imageCredit: ""

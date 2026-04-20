@@ -7,7 +7,7 @@ draft: false
 categories: ["Outillage et materiel"]
 tags: ["EPI", "securite", "protection individuelle"]
 translationKey: "epi-securite-industrielle"
-author: kevin-moreau
+author: julien-marchand
 image: ""
 imageAlt: "Equipements de protection individuelle sur un chantier industriel"
 imageCredit: ""

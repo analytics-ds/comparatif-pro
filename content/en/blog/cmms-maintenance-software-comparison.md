@@ -7,7 +7,7 @@ draft: false
 categories: ["Business services"]
 tags: ["CMMS", "maintenance", "industrial services"]
 translationKey: "gmao-logiciels-maintenance"
-author: thomas-durand
+author: aurelie-vasseur
 image: ""
 imageAlt: "CMMS dashboard on an industrial screen"
 imageCredit: ""

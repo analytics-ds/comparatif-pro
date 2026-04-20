@@ -1,3 +1,5 @@
+{{ $lang := .Site.Language.Lang }}
+{{ $isEN := eq $lang "en" }}
 <footer class="site-footer">
     <div class="footer-container">
         <div class="footer-grid">
@@ -6,31 +8,38 @@
                 <p>{{ .Site.Params.description }}</p>
             </div>
             <div class="footer-col">
-                <h4>Categories</h4>
+                <h4>{{ if $isEN }}Categories{{ else }}Categories{{ end }}</h4>
                 <ul>
-                    {{ range .Site.Taxonomies.categories }}
-                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
                     {{ end }}
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>Navigation</h4>
-                <nav aria-label="Footer navigation">
+                <nav aria-label="{{ if $isEN }}Footer navigation{{ else }}Navigation du pied de page{{ end }}">
                     <ul>
-                        {{ range .Site.Menus.main }}
-                        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                        {{ end }}
+                        {{ if $isEN }}
+                        <li><a href="{{ "en/site-map/" | relURL }}">Sitemap</a></li>
+                        <li><a href="{{ "en/about/" | relURL }}">About</a></li>
+                        <li><a href="{{ "en/authors/" | relURL }}">Authors</a></li>
+                        <li><a href="{{ "en/contact/" | relURL }}">Contact</a></li>
+                        <li><a href="{{ "en/legal-notice/" | relURL }}">Legal notice</a></li>
+                        <li><a href="{{ "en/privacy-policy/" | relURL }}">Privacy policy</a></li>
+                        {{ else }}
                         <li><a href="{{ "plan-du-site/" | relURL }}">Plan du site</a></li>
                         <li><a href="{{ "a-propos/" | relURL }}">A propos</a></li>
+                        <li><a href="{{ "authors/" | relURL }}">Nos auteurs</a></li>
                         <li><a href="{{ "contact/" | relURL }}">Contact</a></li>
                         <li><a href="{{ "mentions-legales/" | relURL }}">Mentions legales</a></li>
                         <li><a href="{{ "politique-de-confidentialite/" | relURL }}">Politique de confidentialite</a></li>
+                        {{ end }}
                     </ul>
                 </nav>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; {{ now.Year }} {{ .Site.Title }}. Tous droits reserves.</p>
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if $isEN }}All rights reserved.{{ else }}Tous droits reserves.{{ end }}</p>
         </div>
     </div>
 </footer>

@@ -7,7 +7,7 @@ draft: false
 categories: ["Formations et certifications"]
 tags: ["management de projet", "PMP", "PRINCE2", "Agile"]
 translationKey: "formations-management-projet"
-author: thomas-durand
+author: sophie-bertrand
 image: ""
 imageAlt: "Session de formation en management de projet en salle"
 imageCredit: ""

@@ -38,11 +38,7 @@ enableEmoji = false
     [languages.en.params]
       description = "Independent comparisons of software, industrial equipment, training and services for professionals."
 
-# Menu FR
-[[languages.fr.menus.main]]
-  name = "Accueil"
-  url = "/"
-  weight = 1
+# Menu FR (categories uniquement, pas d'Accueil ni de Blog dans le header)
 [[languages.fr.menus.main]]
   name = "Amenagement de bureaux"
   url = "/categories/amenagement-de-bureaux/"
@@ -67,16 +63,8 @@ enableEmoji = false
   name = "Services aux entreprises"
   url = "/categories/services-aux-entreprises/"
   weight = 7
-[[languages.fr.menus.main]]
-  name = "Le Blog"
-  url = "/blog/"
-  weight = 99
 
-# Menu EN
-[[languages.en.menus.main]]
-  name = "Home"
-  url = "/en/"
-  weight = 1
+# Menu EN (categories only, no Home or Blog in header)
 [[languages.en.menus.main]]
   name = "Office furnishing"
   url = "/en/categories/office-furnishing/"
@@ -101,10 +89,6 @@ enableEmoji = false
   name = "Business services"
   url = "/en/categories/business-services/"
   weight = 7
-[[languages.en.menus.main]]
-  name = "The Blog"
-  url = "/en/blog/"
-  weight = 99
 
 [related]
   includeNewer = true

@@ -7,7 +7,7 @@ draft: false
 categories: ["Tools and equipment"]
 tags: ["PPE", "safety", "personal protection"]
 translationKey: "epi-securite-industrielle"
-author: kevin-moreau
+author: julien-marchand
 image: ""
 imageAlt: "Personal protective equipment on an industrial site"
 imageCredit: ""

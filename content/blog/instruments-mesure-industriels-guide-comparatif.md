@@ -7,7 +7,7 @@ draft: false
 categories: ["Equipements industriels"]
 tags: ["instrumentation", "metrologie", "capteurs"]
 translationKey: "instruments-mesure-industriels"
-author: thomas-durand
+author: marc-lefevre
 image: ""
 imageAlt: "Instruments de mesure industriels sur un banc de test"
 imageCredit: ""
