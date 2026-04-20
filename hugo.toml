@@ -7,6 +7,7 @@ defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = false
 enableEmoji = false
+removePathAccents = true
 
 [params]
   description = "Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels."
@@ -40,11 +41,11 @@ enableEmoji = false
 
 # Menu FR (categories uniquement, pas d'Accueil ni de Blog dans le header)
 [[languages.fr.menus.main]]
-  name = "Amenagement de bureaux"
+  name = "Aménagement de bureaux"
   url = "/categories/amenagement-de-bureaux/"
   weight = 2
 [[languages.fr.menus.main]]
-  name = "Equipements industriels"
+  name = "Équipements industriels"
   url = "/categories/equipements-industriels/"
   weight = 3
 [[languages.fr.menus.main]]
@@ -56,7 +57,7 @@ enableEmoji = false
   url = "/categories/formations-et-certifications/"
   weight = 5
 [[languages.fr.menus.main]]
-  name = "Outillage et materiel"
+  name = "Outillage et matériel"
   url = "/categories/outillage-et-materiel/"
   weight = 6
 [[languages.fr.menus.main]]

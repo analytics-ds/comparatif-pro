@@ -4,4 +4,4 @@ description: "Comparatifs de services B2B : audit, conseil, maintenance, sous-tr
 translationKey: "cat-business-services"
 ---
 
-Audit, conseil, maintenance externalisee, sous-traitance technique : les services aux entreprises couvrent un spectre large de prestations strategiques. Cette categorie analyse les acteurs du marche, les criteres de selection et les bonnes pratiques de gestion des prestataires.
+Audit, conseil, maintenance externalisée, sous-traitance technique : les services aux entreprises couvrent un spectre large de prestations stratégiques. Cette catégorie analyse les acteurs du marché, les critères de sélection et les bonnes pratiques de gestion des prestataires.

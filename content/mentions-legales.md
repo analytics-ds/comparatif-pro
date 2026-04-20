@@ -1,12 +1,12 @@
 ---
-title: "Mentions legales"
-description: "Mentions legales du site Comparatif-Pro : editeur, hebergeur, propriete intellectuelle, responsabilite."
+title: "Mentions légales"
+description: "Mentions légales du site Comparatif-Pro : éditeur, hébergeur, propriété intellectuelle, responsabilité."
 translationKey: "legal-notice"
 ---
 
-## Editeur du site
+## Éditeur du site
 
-Le site Comparatif-Pro, accessible a l'adresse https://comparatif-pro.fr, est edite par :
+Le site Comparatif-Pro, accessible à l'adresse https://comparatif-pro.fr, est edite par :
 
 **Comparatif-Pro**
 Adresse : France
@@ -14,31 +14,31 @@ Email : contact@comparatif-pro.fr
 
 ## Directeur de la publication
 
-Le directeur de la publication est le representant legal de Comparatif-Pro.
+Le directeur de la publication est le représentant légal de Comparatif-Pro.
 
-## Hebergeur
+## Hébergeur
 
-Le site est heberge par :
+Le site est hébergé par :
 
 **GitHub Pages**
 GitHub, Inc.
-88 Colin P Kelly Jr St, San Francisco, CA 94107, Etats-Unis
+88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis
 https://github.com
 
-## Propriete intellectuelle
+## Propriété intellectuelle
 
-L'ensemble des contenus presents sur Comparatif-Pro (textes, images, graphismes, logo, icones, sons, logiciels) sont la propriete exclusive de Comparatif-Pro ou de ses partenaires, a l'exception des contenus sous licences libres correctement attribues.
+L'ensemble des contenus presents sur Comparatif-Pro (textes, images, graphismes, logo, icones, sons, logiciels) sont la propriété exclusive de Comparatif-Pro ou de ses partenaires, à l'exception des contenus sous licences libres correctement attribues.
 
-Toute reproduction, representation, modification, publication, adaptation de tout ou partie des elements du site, quel que soit le moyen ou le procede utilise, est interdite sans autorisation ecrite prealable.
+Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des elements du site, quel que soit le moyen ou le procede utilisé, est interdite sans autorisation ecrite préalable.
 
-## Responsabilite
+## Responsabilité
 
-Les informations publiees sur Comparatif-Pro sont fournies a titre informatif. Malgre le soin apporte a leur exactitude, des erreurs ou omissions peuvent subsister. Comparatif-Pro ne saurait etre tenu responsable des decisions prises sur la base de ces informations.
+Les informations publiees sur Comparatif-Pro sont fournies à titre informatif. Malgre le soin apporte a leur exactitude, des erreurs ou omissions peuvent subsister. Comparatif-Pro ne saurait être tenu responsable des decisions prises sur la base de ces informations.
 
 ## Liens hypertextes
 
-Le site peut contenir des liens vers des sites tiers. Comparatif-Pro n'exerce aucun controle sur ces sites et decline toute responsabilite quant a leur contenu.
+Le site peut contenir des liens vers des sites tiers. Comparatif-Pro n'exerce aucun contrôle sur ces sites et decline toute responsabilité quant à leur contenu.
 
 ## Droit applicable
 
-Le present site est soumis au droit francais. Tout litige relatif a son utilisation releve des tribunaux francais competents.
+Le présent site est soumis au droit français. Tout litige relatif à son utilisation releve des tribunaux français compétents.

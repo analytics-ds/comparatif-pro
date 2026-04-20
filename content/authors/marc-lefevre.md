@@ -1,6 +1,6 @@
 ---
 title: "Marc Lefevre"
-description: "Marc Lefevre — Ingenieur instrumentation et automatismes industriels. Il signe les comparatifs d'equipements industriels de Comparatif-Pro."
+description: "Marc Lefevre — Ingénieur instrumentation et automatismes industriels. Il signe les comparatifs d'équipements industriels de Comparatif-Pro."
 slug: "marc-lefevre"
 translationKey: "author-marc-lefevre"
 ---
