@@ -1,0 +1,3 @@
+{{- /* Remplace le placeholder {year} par l'annee courante. Usage : {{ partial "dyn.html" .Title }} */ -}}
+{{- $in := . | default "" -}}
+{{- return (replace (string $in) "{year}" (string now.Year)) -}}

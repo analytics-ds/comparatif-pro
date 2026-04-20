@@ -41,8 +41,8 @@
 {{- /* Open Graph */ -}}
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:title" content="{{ partial "dyn.html" .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ partial "dyn.html" . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:locale" content="{{ .Site.Language.LanguageCode | default (.Site.LanguageCode | default "fr_FR") | replaceRE "-" "_" }}">
 {{- range .Site.Languages }}
@@ -62,8 +62,8 @@
 
 {{- /* Twitter / X Card */ -}}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:title" content="{{ partial "dyn.html" .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ partial "dyn.html" . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 {{- with $ogImage }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
 {{- with .Site.Params.twitter_handle }}
 <meta name="twitter:site" content="{{ . }}">
@@ -122,8 +122,8 @@
 {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": {{ .Title | jsonify }},
-    "description": {{ .Description | jsonify }},
+    "headline": {{ partial "dyn.html" .Title | jsonify }},
+    "description": {{ partial "dyn.html" .Description | jsonify }},
     "inLanguage": "{{ .Site.Language.LanguageCode | default "fr-FR" }}",
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
@@ -192,7 +192,7 @@
         {
             "@type": "ListItem",
             "position": 4,
-            "name": {{ .Title | jsonify }},
+            "name": {{ partial "dyn.html" .Title | jsonify }},
             "item": "{{ .Permalink }}"
         }
     ]
@@ -209,10 +209,10 @@
         {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
         {
             "@type": "Question",
-            "name": {{ $item.question | jsonify }},
+            "name": {{ partial "dyn.html" $item.question | jsonify }},
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ $item.answer | jsonify }}
+                "text": {{ partial "dyn.html" $item.answer | jsonify }}
             }
         }
         {{ end }}

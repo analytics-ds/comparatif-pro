@@ -39,7 +39,7 @@
         <ul class="plan-site-list">
           <li><span class="plan-emoji">📁</span> <a href="{{ "blog/" | relLangURL }}"><strong>{{ if $isEN }}All articles{{ else }}Tous les articles{{ end }}</strong></a></li>
           {{ range $blogPages.ByDate.Reverse }}
-            <li><span class="plan-emoji">📝</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            <li><span class="plan-emoji">📝</span> <a href="{{ .RelPermalink }}">{{ partial "dyn.html" .Title }}</a></li>
           {{ end }}
         </ul>
       </div>

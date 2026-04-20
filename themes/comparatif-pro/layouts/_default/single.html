@@ -21,7 +21,7 @@
                 </li>
                 {{ end }}
                 <li class="breadcrumb-item">
-                    <span aria-current="page">{{ .Title }}</span>
+                    <span aria-current="page">{{ partial "dyn.html" .Title }}</span>
                 </li>
             </ol>
         </nav>
@@ -42,9 +42,9 @@
                     </span>
                 </div>
 
-                <h1 class="article-title">{{ .Title }}</h1>
+                <h1 class="article-title">{{ partial "dyn.html" .Title }}</h1>
                 {{ with .Description }}
-                <p class="article-description">{{ . }}</p>
+                <p class="article-description">{{ partial "dyn.html" . }}</p>
                 {{ end }}
 
                 {{ $lang := .Site.Language.Lang }}
@@ -85,7 +85,7 @@
 
             {{ with .Params.image }}
             <div class="article-hero-image">
-                <img src="{{ . | relURL }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" width="600" height="400" loading="eager" fetchpriority="high">
+                <img src="{{ . | relURL }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ partial "dyn.html" $.Title }}{{ end }}" width="600" height="400" loading="eager" fetchpriority="high">
                 {{ with $.Params.imageCredit }}
                 <small class="article-hero-image-credit">{{ . }}</small>
                 {{ end }}
@@ -160,8 +160,8 @@
                             {{ with .Params.categories }}
                             <span class="related-category">{{ index . 0 }}</span>
                             {{ end }}
-                            <h3>{{ .Title }}</h3>
-                            <p>{{ .Description }}</p>
+                            <h3>{{ partial "dyn.html" .Title }}</h3>
+                            <p>{{ partial "dyn.html" .Description }}</p>
                         </a>
                         {{ end }}
                     </div>
@@ -174,13 +174,13 @@
                         {{ with .PrevInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-prev">
                             <span class="nav-label">Article precedent</span>
-                            <span class="nav-title">{{ .Title }}</span>
+                            <span class="nav-title">{{ partial "dyn.html" .Title }}</span>
                         </a>
                         {{ end }}
                         {{ with .NextInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-next">
                             <span class="nav-label">Article suivant</span>
-                            <span class="nav-title">{{ .Title }}</span>
+                            <span class="nav-title">{{ partial "dyn.html" .Title }}</span>
                         </a>
                         {{ end }}
                     </div>

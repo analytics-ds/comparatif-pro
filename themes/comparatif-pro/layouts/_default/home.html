@@ -329,9 +329,9 @@
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
             <article class="article-card">
-                <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
+                <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ partial "dyn.html" .Title }}">
                     {{ if .Params.image }}
-                    <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="400">
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default (partial "dyn.html" .Title) }}" class="article-card-image" loading="lazy" width="600" height="400">
                     {{ else }}
                     <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
                     {{ end }}
@@ -343,8 +343,8 @@
                         {{ end }}
                         <time>{{ .Date.Format "2 January 2006" }}</time>
                     </div>
-                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                    <p>{{ .Description }}</p>
+                    <h3><a href="{{ .RelPermalink }}">{{ partial "dyn.html" .Title }}</a></h3>
+                    <p>{{ partial "dyn.html" .Description }}</p>
                     <a href="{{ .RelPermalink }}" class="read-more">Lire la suite</a>
                 </div>
             </article>
