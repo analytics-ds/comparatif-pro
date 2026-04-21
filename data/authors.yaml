@@ -11,7 +11,7 @@ thomas-durand:
   id: thomas-durand
   name: Thomas Durand
   type: person
-  avatar: /images/authors/thomas-durand.jpg
+  avatar: /images/authors/thomas-durand.png
   linkedinUrl: ""
   category: logiciels-professionnels
   location: "Paris, France"
@@ -157,7 +157,7 @@ claire-beaumont:
   id: claire-beaumont
   name: Claire Beaumont
   type: person
-  avatar: /images/authors/claire-beaumont.jpg
+  avatar: /images/authors/claire-beaumont.png
   linkedinUrl: ""
   category: aménagement-de-bureaux
   location: "Paris, France"
@@ -298,7 +298,7 @@ marc-lefevre:
   id: marc-lefevre
   name: Marc Lefevre
   type: person
-  avatar: /images/authors/marc-lefevre.jpg
+  avatar: /images/authors/marc-lefevre.png
   linkedinUrl: ""
   category: équipements-industriels
   location: "Lyon, France"
@@ -454,7 +454,7 @@ sophie-bertrand:
   id: sophie-bertrand
   name: Sophie Bertrand
   type: person
-  avatar: /images/authors/sophie-bertrand.jpg
+  avatar: /images/authors/sophie-bertrand.png
   linkedinUrl: ""
   category: formations-et-certifications
   location: "Nantes, France"
@@ -609,7 +609,7 @@ julien-marchand:
   id: julien-marchand
   name: Julien Marchand
   type: person
-  avatar: /images/authors/julien-marchand.jpg
+  avatar: /images/authors/julien-marchand.png
   linkedinUrl: ""
   category: outillage-et-materiel
   location: "Bordeaux, France"
@@ -752,7 +752,7 @@ aurelie-vasseur:
   id: aurelie-vasseur
   name: Aurélie Vasseur
   type: person
-  avatar: /images/authors/aurelie-vasseur.jpg
+  avatar: /images/authors/aurelie-vasseur.png
   linkedinUrl: ""
   category: services-aux-entreprises
   location: "Lille, France"
