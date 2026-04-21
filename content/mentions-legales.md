@@ -6,7 +6,7 @@ translationKey: "legal-notice"
 
 ## Éditeur du site
 
-Le site Comparatif-Pro, accessible à l'adresse https://comparatif-pro.fr, est edite par :
+Le site Comparatif-Pro, accessible à l'adresse https://comparatif-pro.fr, est édité par :
 
 **Comparatif-Pro**
 Adresse : France
@@ -27,18 +27,18 @@ https://github.com
 
 ## Propriété intellectuelle
 
-L'ensemble des contenus presents sur Comparatif-Pro (textes, images, graphismes, logo, icones, sons, logiciels) sont la propriété exclusive de Comparatif-Pro ou de ses partenaires, à l'exception des contenus sous licences libres correctement attribues.
+L'ensemble des contenus présents sur Comparatif-Pro (textes, images, graphismes, logo, icônes, sons, logiciels) sont la propriété exclusive de Comparatif-Pro ou de ses partenaires, à l'exception des contenus sous licences libres correctement attribués.
 
-Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des elements du site, quel que soit le moyen ou le procede utilisé, est interdite sans autorisation ecrite préalable.
+Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite sans autorisation écrite préalable.
 
 ## Responsabilité
 
-Les informations publiees sur Comparatif-Pro sont fournies à titre informatif. Malgre le soin apporte a leur exactitude, des erreurs ou omissions peuvent subsister. Comparatif-Pro ne saurait être tenu responsable des decisions prises sur la base de ces informations.
+Les informations publiées sur Comparatif-Pro sont fournies à titre informatif. Malgré le soin apporté à leur exactitude, des erreurs ou omissions peuvent subsister. Comparatif-Pro ne saurait être tenu responsable des décisions prises sur la base de ces informations.
 
 ## Liens hypertextes
 
-Le site peut contenir des liens vers des sites tiers. Comparatif-Pro n'exerce aucun contrôle sur ces sites et decline toute responsabilité quant à leur contenu.
+Le site peut contenir des liens vers des sites tiers. Comparatif-Pro n'exerce aucun contrôle sur ces sites et décline toute responsabilité quant à leur contenu.
 
 ## Droit applicable
 
-Le présent site est soumis au droit français. Tout litige relatif à son utilisation releve des tribunaux français compétents.
+Le présent site est soumis au droit français. Tout litige relatif à son utilisation relève des tribunaux français compétents.

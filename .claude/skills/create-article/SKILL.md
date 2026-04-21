@@ -298,6 +298,7 @@ Lire les commentaires HTML `<!-- NOTES POUR CLAUDE -->` en bas du template chois
 - [ ] `image`, `imageAlt` et `imageCredit` renseignes (auto via `fetch-image.sh`)
 - [ ] Fichier image present dans `static/images/blog/[slug].webp`
 - [ ] Pas de separateur horizontal (---) ni de tiret cadratin/demi-cadratin
+- [ ] **Accents FR corrects sur tout le contenu FR** : title, description, imageAlt, imageCredit, body, H2/H3, tableaux, FAQ (questions et reponses). Utiliser é è ê ë à â ù û ç ô î ï et À É È Ê Ç. Ne jamais laisser "ete" pour "été", "apres" pour "après", "deja" pour "déjà", "categorie" pour "catégorie", etc. Les slugs, URLs, translationKey et tags en slug restent sans accents
 - [ ] Build Hugo OK (`hugo`)
 
 ## Etape 5 — Sauvegarde et build

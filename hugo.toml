@@ -10,11 +10,11 @@ enableEmoji = false
 removePathAccents = true
 
 [params]
-  description = "Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels."
+  description = "Comparatifs indépendants de logiciels, équipements industriels, formations et services pour les professionnels."
   default_og_image = "/images/og-default.jpg"
   logo = "/favicon.svg"
   founding_year = "2026"
-  expertise = ["Comparatif B2B", "Logiciels professionnels", "Equipements industriels", "Formations techniques"]
+  expertise = ["Comparatif B2B", "Logiciels professionnels", "Équipements industriels", "Formations techniques"]
 
 [taxonomies]
   category = "categories"
@@ -23,12 +23,12 @@ removePathAccents = true
 [languages]
   [languages.fr]
     languageCode = "fr-FR"
-    languageName = "Francais"
+    languageName = "Français"
     weight = 1
     contentDir = "content"
     title = "Comparatif-Pro"
     [languages.fr.params]
-      description = "Comparatifs independants de logiciels, equipements industriels, formations et services pour les professionnels."
+      description = "Comparatifs indépendants de logiciels, équipements industriels, formations et services pour les professionnels."
 
   [languages.en]
     languageCode = "en-US"

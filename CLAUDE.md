@@ -107,6 +107,7 @@ Cette limite sert a eviter la publication en masse et a maintenir un rythme de p
 - Toujours utiliser `relURL` dans les templates Hugo pour les liens (compatibilite GitHub Pages)
 - Les articles vont dans `content/blog/` (langue principale) et `content/en/blog/` (anglais)
 - Les slugs sont en minuscules, sans accents, mots separes par des tirets
+- **Accents francais obligatoires sur tout texte FR visible** : tous les textes FR visibles par l'utilisateur (body des articles, frontmatter `title`/`description`/`imageAlt`/`imageCredit`, FAQ, pages statiques, templates HTML, bios auteurs, menus, libellés UI) doivent utiliser les accents francais corrects (é è ê ë à â ù û ç ô î ï, et leurs majuscules À É È Ê Ç). Les slugs, noms de fichiers, URLs, `translationKey`, clés `id`/`category` et tags en slug restent sans accents (identifiants techniques)
 - Ne JAMAIS utiliser `&` dans les noms de categories ou de tags — toujours remplacer par "et" (Hugo genere un double tiret `--` dans le slug, ce qui casse les URLs)
 - Le ton des articles est impersonnel (pas de je/tu/nous/vous) sauf instruction contraire
 - Les specs d'article (mots minimum, H2, blocs obligatoires) dependent du type choisi — lire les `<!-- NOTES POUR CLAUDE -->` dans chaque template d'article

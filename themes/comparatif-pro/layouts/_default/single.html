@@ -26,7 +26,7 @@
             </ol>
         </nav>
 
-        <!-- Hero article (titre + image cote a cote) -->
+        <!-- Hero article (titre + image côte à côte) -->
         <div class="article-hero">
             <div class="article-hero-text">
                 <div class="article-meta">
@@ -71,7 +71,7 @@
                     {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
                     <div class="article-updated">
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
-                        {{ if eq $lang "en" }}Updated on {{ .Lastmod.Format "2 January 2006" }}{{ else }}Mis a jour le {{ .Lastmod.Format "2 January 2006" }}{{ end }}
+                        {{ if eq $lang "en" }}Updated on {{ .Lastmod.Format "2 January 2006" }}{{ else }}Mis à jour le {{ .Lastmod.Format "2 January 2006" }}{{ end }}
                     </div>
                     {{ end }}
                 </div>
@@ -124,14 +124,14 @@
 
                 <!-- Bloc auteur (bio complete en fin d'article) -->
                 {{ with $authorData }}
-                <aside class="author-box" aria-label="{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}">
+                <aside class="author-box" aria-label="{{ if eq $lang "en" }}About the author{{ else }}À propos de l'auteur{{ end }}">
                     {{ with .avatar }}
                     <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-box-avatar" width="96" height="96" loading="lazy">
                     {{ else }}
                     <div class="author-box-avatar author-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</div>
                     {{ end }}
                     <div class="author-box-content">
-                        <span class="author-box-label">{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}</span>
+                        <span class="author-box-label">{{ if eq $lang "en" }}About the author{{ else }}À propos de l'auteur{{ end }}</span>
                         <h3 class="author-box-name">{{ .name }}</h3>
                         {{ with index .role $lang }}
                         <span class="author-box-role">{{ . }}</span>
@@ -173,7 +173,7 @@
                     <div class="article-nav">
                         {{ with .PrevInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-prev">
-                            <span class="nav-label">Article precedent</span>
+                            <span class="nav-label">Article précédent</span>
                             <span class="nav-title">{{ partial "dyn.html" .Title }}</span>
                         </a>
                         {{ end }}

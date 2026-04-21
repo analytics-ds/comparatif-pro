@@ -141,4 +141,6 @@ NOTES POUR CLAUDE :
 - La FAQ doit AUSSI etre dans le frontmatter (champ `faq`) pour generer automatiquement le schema FAQPage JSON-LD. Les questions/reponses du frontmatter et du body doivent correspondre
 - Les champs `image`, `imageAlt` et `imageCredit` sont OBLIGATOIRES et remplis automatiquement par le script `.claude/scripts/fetch-image.sh` (Openverse API, images libres de droit compatibles usage commercial). L'image est affichee dans les cards du blog, en bannière de l'article, dans og:image et le schema Article
 - Min. 1800 mots, 5+ H2, 2+ tableaux
+- **Accents FR obligatoires** : toute la partie FR de l'article (title, description, imageAlt, imageCredit, body, tableau comparatif, H2/H3, FAQ) doit utiliser les accents francais corrects (é è ê ë à â ù û ç ô î ï, et À É È Ê Ç en majuscule). Seuls les slugs, URLs, translationKey et tags en slug restent sans accents. Ne jamais ecrire "ete" pour "été", "apres" pour "après", "deja" pour "déjà", etc.
+- **Pas de tiret cadratin (—) ni demi-cadratin (–) dans le corps FR** : utiliser une virgule, un point, des parentheses ou reformuler
 -->

@@ -1,6 +1,6 @@
-# Auteurs du site Comparatif-Pro — multilingue FR/EN
-# Un auteur dedie par categorie (6 auteurs B2B = 6 categories).
-# L'ID (slug) est utilise dans le frontmatter des articles comme `author: thomas-durand`.
+# Auteurs du site Comparatif-Pro, multilingue FR/EN
+# Un auteur dédié par catégorie (6 auteurs B2B = 6 catégories).
+# L'ID (slug) est utilisé dans le frontmatter des articles comme `author: thomas-durand`.
 #
 # Le champ `topics` sert à la sélection automatique de l'auteur dans /create-article.
 # Le champ `expertise` alimente le schema.org Person -> knowsAbout.
@@ -41,6 +41,7 @@ thomas-durand:
     - b2b
     - transformation numérique
 
+
 claire-beaumont:
   id: claire-beaumont
   name: Claire Beaumont
@@ -55,7 +56,7 @@ claire-beaumont:
     fr: Architecte d'intérieur & experte aménagement tertiaire
     en: Interior designer & tertiary workspace expert
   bio:
-    fr: "Claire Beaumont est architecte d'intérieur diplômée de l'École Boulle et intervient depuis plus de douze ans sur l'aménagement d'espaces tertiaires. Apres avoir dirigé les projets d'un cabinet parisien spécialisé dans le flex office, elle conseille désormais des entreprises sur l'ergonomie, l'acoustique et la modularité de leurs bureaux. Sur Comparatif-Pro, elle partage ses grilles de sélection de mobilier, ses retours terrain et ses méthodes pour concilier confort collaborateur et budget maîtrisé."
+    fr: "Claire Beaumont est architecte d'intérieur diplômée de l'École Boulle et intervient depuis plus de douze ans sur l'aménagement d'espaces tertiaires. Après avoir dirigé les projets d'un cabinet parisien spécialisé dans le flex office, elle conseille désormais des entreprises sur l'ergonomie, l'acoustique et la modularité de leurs bureaux. Sur Comparatif-Pro, elle partage ses grilles de sélection de mobilier, ses retours terrain et ses méthodes pour concilier confort collaborateur et budget maîtrisé."
     en: "Claire Beaumont is an interior designer graduated from École Boulle and has been working on tertiary space design for over twelve years. After leading projects at a Paris-based firm specialized in flex office, she now advises companies on ergonomics, acoustics and modularity of their offices. On Comparatif-Pro, she shares her furniture selection criteria, field feedback and methods to balance employee comfort with controlled budget."
   expertise:
     - Aménagement tertiaire
@@ -91,14 +92,14 @@ marc-lefevre:
     fr: Ingénieur instrumentation & automatismes
     en: Industrial instrumentation & automation engineer
   bio:
-    fr: "Marc Lefevre est ingénieur diplômé de l'ENSIAME, spécialisé en instrumentation et automatismes industriels. Il a exercé quinze ans dans l'industrie, notamment dans l'agroalimentaire, la pharmacie et l'automobile, ou il a piloté des projets de métrologie et de contrôle qualité en ligne. Depuis 2023, il partage son expertise en redigeant des comparatifs techniques destinés aux responsables maintenance, bureaux d'études et acheteurs industriels qui cherchent à fiabiliser leurs choix d'équipements."
+    fr: "Marc Lefèvre est ingénieur diplômé de l'ENSIAME, spécialisé en instrumentation et automatismes industriels. Il a exercé quinze ans dans l'industrie, notamment dans l'agroalimentaire, la pharmacie et l'automobile, où il a piloté des projets de métrologie et de contrôle qualité en ligne. Depuis 2023, il partage son expertise en rédigeant des comparatifs techniques destinés aux responsables maintenance, bureaux d'études et acheteurs industriels qui cherchent à fiabiliser leurs choix d'équipements."
     en: "Marc Lefevre is an engineer graduated from ENSIAME, specialized in industrial instrumentation and automation. He has spent fifteen years in industry, notably in food processing, pharmaceuticals and automotive, where he led metrology and in-line quality control projects. Since 2023, he shares his expertise by writing technical comparisons aimed at maintenance managers, design offices and industrial buyers seeking to secure their equipment choices."
   expertise:
     - Métrologie industrielle
     - Instrumentation de mesure
     - Capteurs industriels
     - Automatismes et API
-    - Controle qualité en ligne
+    - Contrôle qualité en ligne
     - Normes ISO 9001 et IATF 16949
     - Oscilloscopes et analyseurs
   topics:
@@ -111,7 +112,7 @@ marc-lefevre:
     - industrie
     - mesure industrielle
     - oscilloscope
-    - multimetre
+    - multimètre
     - production
 
 sophie-bertrand:
@@ -128,16 +129,16 @@ sophie-bertrand:
     fr: Consultante formation & certifications professionnelles
     en: Training & professional certification consultant
   bio:
-    fr: "Sophie Bertrand a exercé dix ans comme responsable formation dans un grand groupe industriel avant de fonder son cabinet de conseil en ingénierie pedagogique. Certifiée PMP et PRINCE2, elle accompagné désormais des DRH et des responsables de développement des compétences dans le choix de leurs organismes et de leurs certifications. Sur Comparatif-Pro, elle décortique les parcours de formation, les dispositifs CPF et les certifications reconnues sur le marche, avec un souci constant de leur valeur réelle à l'embauche."
+    fr: "Sophie Bertrand a exercé dix ans comme responsable formation dans un grand groupe industriel avant de fonder son cabinet de conseil en ingénierie pédagogique. Certifiée PMP et PRINCE2, elle accompagne désormais des DRH et des responsables de développement des compétences dans le choix de leurs organismes et de leurs certifications. Sur Comparatif-Pro, elle décortique les parcours de formation, les dispositifs CPF et les certifications reconnues sur le marché, avec un souci constant de leur valeur réelle à l'embauche."
     en: "Sophie Bertrand worked for ten years as training manager in a major industrial group before founding her consulting firm specialized in instructional design. Certified PMP and PRINCE2, she now supports HR directors and skills development managers in choosing their training providers and certifications. On Comparatif-Pro, she breaks down training paths, CPF schemes and certifications recognized in the market, with constant attention to their real value in hiring."
   expertise:
     - Ingénierie de formation
     - Certification PMP
     - Certification PRINCE2
     - Méthodes agiles (PMI-ACP, Scrum)
-    - Developpement des compétences
+    - Développement des compétences
     - Dispositifs CPF et OPCO
-    - Evaluation des organismes de formation
+    - Évaluation des organismes de formation
   topics:
     - formation
     - certification
@@ -146,7 +147,7 @@ sophie-bertrand:
     - prince2
     - agile
     - scrum
-    - competence
+    - compétence
     - cpf
     - opco
     - formation professionnelle
@@ -160,13 +161,13 @@ julien-marchand:
   linkedinUrl: ""
   category: outillage-et-materiel
   jobTitle:
-    fr: Charge de prévention & expert EPI
+    fr: Chargé de prévention & expert EPI
     en: Prévention officer & PPE expert
   role:
     fr: Expert outillage professionnel & prévention
     en: Professional tooling & prévention expert
   bio:
-    fr: "Julien Marchand a debute sa carriere comme chef de chantier dans le bâtiment avant de se reconvertir, apres une formation IPRP, dans le conseil en prévention des risques professionnels. Depuis huit ans, il audite des chantiers, formé les equipes aux équipements de protection individuelle et accompagné les acheteurs dans la sélection d'outillage professionnel. Sur Comparatif-Pro, il croise les exigences terrain et les normes en vigueur pour livrer des comparatifs utiles aux artisans, responsables HSE et directeurs techniques."
+    fr: "Julien Marchand a débuté sa carrière comme chef de chantier dans le bâtiment avant de se reconvertir, après une formation IPRP, dans le conseil en prévention des risques professionnels. Depuis huit ans, il audite des chantiers, forme les équipes aux équipements de protection individuelle et accompagne les acheteurs dans la sélection d'outillage professionnel. Sur Comparatif-Pro, il croise les exigences terrain et les normes en vigueur pour livrer des comparatifs utiles aux artisans, responsables HSE et directeurs techniques."
     en: "Julien Marchand started his career as a construction site manager before retraining, after IPRP training, into occupational risk prévention consulting. For eight years, he has been auditing construction sites, training teams on personal protective equipment and supporting buyers in selecting professional tools. On Comparatif-Pro, he combines field requirements and current standards to deliver comparisons useful to craftsmen, HSE managers and technical directors."
   expertise:
     - Équipements de Protection Individuelle (EPI)
@@ -175,10 +176,10 @@ julien-marchand:
     - Normes EN 388, EN 397, EN ISO 20345
     - Sécurité chantier BTP
     - Travail en hauteur
-    - Équipements electroportatifs
+    - Équipements électroportatifs
   topics:
     - outillage
-    - materiel
+    - matériel
     - epi
     - protection individuelle
     - sécurité
@@ -190,11 +191,11 @@ julien-marchand:
     - casque
     - chaussures sécurité
     - harnais
-    - electroportatif
+    - électroportatif
 
 aurelie-vasseur:
   id: aurelie-vasseur
-  name: Aurelie Vasseur
+  name: Aurélie Vasseur
   type: person
   avatar: /images/authors/aurelie-vasseur.jpg
   linkedinUrl: ""
@@ -206,7 +207,7 @@ aurelie-vasseur:
     fr: Consultante facility & services aux entreprises
     en: Facility & business services consultant
   bio:
-    fr: "Aurelie Vasseur est consultante indépendante en facility management et services aux entreprises apres un parcours de onze ans en cabinet de conseil, ou elle a piloté des missions d'externalisation pour des grands comptes industriels. Spécialiste des contrats de maintenance, de la GMAO et du pilotage multi-sites, elle accompagné des directions immobilieres et des responsables de production dans leurs arbitrages entre regie interne, externalisation et solutions hybrides. Sur Comparatif-Pro, elle analyse logiciels et prestataires avec l'oeil d'une ancienne acheteuse de services."
+    fr: "Aurélie Vasseur est consultante indépendante en facility management et services aux entreprises après un parcours de onze ans en cabinet de conseil, où elle a piloté des missions d'externalisation pour des grands comptes industriels. Spécialiste des contrats de maintenance, de la GMAO et du pilotage multi-sites, elle accompagne des directions immobilières et des responsables de production dans leurs arbitrages entre régie interne, externalisation et solutions hybrides. Sur Comparatif-Pro, elle analyse logiciels et prestataires avec l'œil d'une ancienne acheteuse de services."
     en: "Aurelie Vasseur is an independent consultant in facility management and business services after eleven years in consulting, where she led outsourcing projects for major industrial clients. A specialist in maintenance contracts, CMMS and multi-site management, she supports real estate directors and production managers in their decisions between in-house management, outsourcing and hybrid solutions. On Comparatif-Pro, she analyzes software and service providers with the eye of a former services buyer."
   expertise:
     - Facility management
@@ -225,6 +226,6 @@ aurelie-vasseur:
     - services généraux
     - prestataire
     - pilotage multisite
-    - sous traitance
+    - sous-traitance
     - achat prestation
     - b2b service
