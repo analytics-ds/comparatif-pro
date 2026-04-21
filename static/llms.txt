@@ -14,6 +14,13 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Formations en management de projet : comparatif des certifications reconnues: https://comparatif-pro.com/blog/formations-management-projet-certifications/
 - GMAO : comparatif des logiciels de gestion de maintenance assistee par ordinateur: https://comparatif-pro.com/blog/gmao-comparatif-logiciels-maintenance/
 - Instruments de mesure industriels : guide comparatif des technologies: https://comparatif-pro.com/blog/instruments-mesure-industriels-guide-comparatif/
+- Meilleure ressource pour doctorat : comparatif de Techniques de l'Ingenieur, theses.fr, HAL, guide-doctorat.fr et Cairn: https://comparatif-pro.com/blog/meilleures-ressources-doctorat/
+
+## Version anglaise (EN)
+
+- Homepage EN : https://comparatif-pro.com/en/
+- Blog EN : https://comparatif-pro.com/en/blog/
+- Best doctoral research resources: https://comparatif-pro.com/en/blog/best-doctoral-research-resources/
 
 ## Informations techniques
 
