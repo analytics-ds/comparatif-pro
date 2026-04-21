@@ -6,7 +6,7 @@ lastmod: 2026-04-21
 description: "Guide pour créer une documentation technique claire : méthodologie Diataxis, outils, bonnes pratiques et étapes pour livrer une doc utile."
 categories: ["Formations et certifications"]
 tags: ["documentation technique", "redaction technique", "knowledge management", "diataxis", "developer experience"]
-author: thomas-durand
+author: sophie-bertrand
 image: "/images/blog/guide-creer-documentation-technique.png"
 imageAlt: "Écran d'ordinateur affichant des pages de documentation technique en cours de rédaction"
 imageCredit: "Photo par CMyrick-WMF via Wikimedia (CC BY-SA 4.0)"

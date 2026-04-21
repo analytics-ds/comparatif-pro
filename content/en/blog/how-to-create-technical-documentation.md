@@ -6,7 +6,7 @@ lastmod: 2026-04-21
 description: "Guide to creating clear technical documentation: Diataxis framework, tools, best practices and steps to deliver useful docs."
 categories: ["Training and certifications"]
 tags: ["technical documentation", "technical writing", "knowledge management", "diataxis", "developer experience"]
-author: thomas-durand
+author: sophie-bertrand
 image: "/images/blog/guide-creer-documentation-technique.png"
 imageAlt: "Computer screen displaying technical documentation pages under review"
 imageCredit: "Photo by CMyrick-WMF via Wikimedia (CC BY-SA 4.0)"
