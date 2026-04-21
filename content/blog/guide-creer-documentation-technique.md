@@ -4,7 +4,7 @@ translationKey: "guide-creer-documentation-technique"
 date: 2026-04-21
 lastmod: 2026-04-21
 description: "Guide pour créer une documentation technique claire : méthodologie Diataxis, outils, bonnes pratiques et étapes pour livrer une doc utile."
-categories: ["Logiciels professionnels"]
+categories: ["Formations et certifications"]
 tags: ["documentation technique", "redaction technique", "knowledge management", "diataxis", "developer experience"]
 author: thomas-durand
 image: "/images/blog/guide-creer-documentation-technique.png"

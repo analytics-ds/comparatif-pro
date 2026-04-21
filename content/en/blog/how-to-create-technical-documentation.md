@@ -4,7 +4,7 @@ translationKey: "guide-creer-documentation-technique"
 date: 2026-04-21
 lastmod: 2026-04-21
 description: "Guide to creating clear technical documentation: Diataxis framework, tools, best practices and steps to deliver useful docs."
-categories: ["Professional software"]
+categories: ["Training and certifications"]
 tags: ["technical documentation", "technical writing", "knowledge management", "diataxis", "developer experience"]
 author: thomas-durand
 image: "/images/blog/guide-creer-documentation-technique.png"
