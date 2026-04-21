@@ -7,9 +7,9 @@ description: "Guide to creating clear technical documentation: Diataxis framewor
 categories: ["Training and certifications"]
 tags: ["technical documentation", "technical writing", "knowledge management", "diataxis", "developer experience"]
 author: sophie-bertrand
-image: "/images/blog/guide-creer-documentation-technique.png"
-imageAlt: "Computer screen displaying technical documentation pages under review"
-imageCredit: "Photo by CMyrick-WMF via Wikimedia (CC BY-SA 4.0)"
+image: "/images/blog/guide-creer-documentation-technique.jpg"
+imageAlt: "Open pages of a documentation book illustrating technical writing"
+imageCredit: "Photo by Jo Naylor via Flickr (CC BY 2.0)"
 faq:
   - question: "How do you create effective technical documentation?"
     answer: "Effective technical documentation relies on four pillars: a clearly identified target audience, a standardized structure (often the Diataxis framework with tutorials, how-to guides, references and explanations), proper tooling (docs-as-code with Markdown, Git and a static site generator such as MkDocs or Docusaurus) and a review cycle integrated into the development workflow. Well-maintained documentation reduces tier-1 support tickets by 35 to 50 percent according to the Association for Information and Image Management (2023)."

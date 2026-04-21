@@ -7,9 +7,9 @@ description: "Guide pour créer une documentation technique claire : méthodolog
 categories: ["Formations et certifications"]
 tags: ["documentation technique", "redaction technique", "knowledge management", "diataxis", "developer experience"]
 author: sophie-bertrand
-image: "/images/blog/guide-creer-documentation-technique.png"
-imageAlt: "Écran d'ordinateur affichant des pages de documentation technique en cours de rédaction"
-imageCredit: "Photo par CMyrick-WMF via Wikimedia (CC BY-SA 4.0)"
+image: "/images/blog/guide-creer-documentation-technique.jpg"
+imageAlt: "Pages ouvertes d'un livre de documentation illustrant la rédaction technique"
+imageCredit: "Photo par Jo Naylor via Flickr (CC BY 2.0)"
 faq:
   - question: "Comment créer une documentation technique efficace ?"
     answer: "Une documentation technique efficace repose sur quatre piliers : un public cible clairement identifié, une structure normalisée (souvent le framework Diataxis avec tutoriels, guides pratiques, références et explications), un outillage adapté (docs-as-code avec Markdown, Git et générateur statique type MkDocs ou Docusaurus) et un cycle de revue intégré au workflow de développement. Une doc bien menée réduit de 35 à 50 pour cent les tickets support de premier niveau selon l'Association for Information and Image Management (2023)."
