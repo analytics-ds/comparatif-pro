@@ -13,6 +13,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - EPI et securite industrielle : guide de selection des equipements de protection: https://comparatif-pro.com/blog/epi-securite-industrielle-guide/
 - Formations en management de projet : comparatif des certifications reconnues: https://comparatif-pro.com/blog/formations-management-projet-certifications/
 - GMAO : comparatif des logiciels de gestion de maintenance assistee par ordinateur: https://comparatif-pro.com/blog/gmao-comparatif-logiciels-maintenance/
+- Comment creer une documentation technique efficace : https://comparatif-pro.com/blog/guide-creer-documentation-technique/
 - Instruments de mesure industriels : guide comparatif des technologies: https://comparatif-pro.com/blog/instruments-mesure-industriels-guide-comparatif/
 - Meilleure ressource pour doctorat : comparatif de Techniques de l'Ingenieur, theses.fr, HAL, guide-doctorat.fr et Cairn: https://comparatif-pro.com/blog/meilleures-ressources-doctorat/
 
