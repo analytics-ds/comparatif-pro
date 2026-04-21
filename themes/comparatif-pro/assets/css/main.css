@@ -2124,15 +2124,345 @@ img {
 /* === Author pages === */
 .author-hero { padding: 3rem 0 2rem; }
 .author-hero-inner { display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; }
-.author-hero-avatar { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
+.author-hero-avatar { width: 160px; height: 160px; border-radius: 50%; object-fit: cover; flex-shrink: 0; border: 4px solid var(--background-alt); box-shadow: 0 6px 22px rgba(15, 42, 71, 0.12); }
 .author-hero-content { flex: 1; min-width: 260px; }
-.author-hero-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.6; }
-.author-hero-name { font-size: clamp(1.8rem, 3vw, 2.5rem); margin: 0.3rem 0 0.5rem; }
-.author-hero-role { font-size: 1rem; opacity: 0.75; margin-bottom: 1rem; }
-.author-hero-bio { font-size: 1rem; line-height: 1.6; margin-bottom: 1rem; }
+.author-hero-label { font-family: var(--font-ui); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-light); font-weight: 600; }
+.author-hero-name { font-family: var(--font-heading); font-size: clamp(1.8rem, 3vw, 2.5rem); margin: 0.3rem 0 0.5rem; color: var(--text); }
+.author-hero-role { font-family: var(--font-ui); font-size: 1rem; color: var(--primary); font-weight: 500; margin-bottom: 0.75rem; }
+.author-hero-meta { list-style: none; padding: 0; margin: 0 0 1rem; display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
+.author-hero-meta-item { display: inline-flex; align-items: center; gap: 0.4rem; font-family: var(--font-ui); font-size: 0.85rem; color: var(--text-light); }
+.author-hero-meta-item svg { color: var(--primary); flex-shrink: 0; }
+.author-hero-bio { font-size: 1rem; line-height: 1.65; margin-bottom: 1rem; color: var(--text); }
 .author-hero-expertise { display: flex; flex-wrap: wrap; gap: 6px; }
-.author-tag { padding: 4px 10px; border-radius: 999px; font-size: 0.78rem; background: rgba(120,120,140,0.1); border: 1px solid rgba(120,120,140,0.2); }
+.author-tag { padding: 4px 10px; border-radius: 999px; font-family: var(--font-ui); font-size: 0.78rem; background: rgba(15, 42, 71, 0.06); border: 1px solid rgba(15, 42, 71, 0.12); color: var(--primary); }
 .author-articles { padding: 2rem 0 4rem; }
+
+/* === Author CV sections (keynumbers, timeline, certifications, significant work) === */
+.author-section { padding: 2.5rem 0; border-top: 1px solid var(--border); }
+.author-section .section-title {
+    font-family: var(--font-heading);
+    font-size: clamp(1.3rem, 2.2vw, 1.7rem);
+    margin: 0 0 1.5rem;
+    color: var(--text);
+    position: relative;
+    padding-left: 0.85rem;
+}
+.author-section .section-title::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.2em;
+    bottom: 0.2em;
+    width: 4px;
+    background: var(--primary);
+    border-radius: 2px;
+}
+
+/* Chiffres clés */
+.author-keynumbers-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: var(--space-sm);
+}
+.author-keynumber {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.25rem 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    transition: transform 180ms ease, box-shadow 180ms ease;
+}
+.author-keynumber:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(15, 42, 71, 0.08); }
+.author-keynumber-value {
+    font-family: var(--font-heading);
+    font-size: clamp(1.8rem, 3vw, 2.5rem);
+    font-weight: 700;
+    color: var(--primary);
+    line-height: 1.1;
+}
+.author-keynumber-label {
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+}
+
+/* Timeline parcours professionnel */
+.author-timeline {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    padding-left: 1.75rem;
+}
+.author-timeline::before {
+    content: "";
+    position: absolute;
+    left: 0.4rem;
+    top: 0.5rem;
+    bottom: 0.5rem;
+    width: 2px;
+    background: var(--border);
+}
+.author-timeline-item {
+    position: relative;
+    padding-bottom: 1.75rem;
+}
+.author-timeline-item:last-child { padding-bottom: 0; }
+.author-timeline-item::before {
+    content: "";
+    position: absolute;
+    left: -1.48rem;
+    top: 0.35rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--primary);
+    box-shadow: 0 0 0 4px #fff, 0 0 0 5px var(--primary);
+}
+.author-timeline-period {
+    display: inline-block;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 0.25rem;
+}
+.author-timeline-role {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text);
+    margin: 0 0 0.25rem;
+}
+.author-timeline-context {
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    color: var(--text-light);
+    font-style: italic;
+    margin: 0 0 0.4rem;
+}
+.author-timeline-description {
+    font-size: 0.95rem;
+    color: var(--text);
+    line-height: 1.55;
+    margin: 0;
+}
+
+/* Certifications */
+.author-certifications-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: var(--space-sm);
+}
+.author-certification-item {
+    display: flex;
+    gap: 0.85rem;
+    padding: 1rem 1.1rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    border-left: 3px solid var(--primary);
+}
+.author-certification-year {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--primary);
+    padding-top: 0.1rem;
+    flex-shrink: 0;
+}
+.author-certification-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 0;
+}
+.author-certification-name {
+    font-family: var(--font-heading);
+    font-size: 0.98rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.3;
+}
+.author-certification-issuer {
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    color: var(--text-light);
+}
+
+/* Travaux significatifs */
+.author-significantwork-cards {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--space-sm);
+}
+.author-significantwork-card {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+.author-significantwork-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 22px rgba(15, 42, 71, 0.08);
+    border-color: rgba(15, 42, 71, 0.2);
+}
+.author-significantwork-type {
+    align-self: flex-start;
+    display: inline-block;
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--primary);
+    background: rgba(245, 158, 11, 0.12);
+    border: 1px solid rgba(245, 158, 11, 0.3);
+    color: #A8670B;
+    padding: 3px 9px;
+    border-radius: 999px;
+}
+.author-significantwork-title {
+    font-family: var(--font-heading);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text);
+    margin: 0;
+    line-height: 1.3;
+}
+.author-significantwork-description {
+    font-size: 0.92rem;
+    color: var(--text-light);
+    line-height: 1.55;
+    margin: 0;
+}
+
+/* Domaines d'expertise enrichi */
+.author-expertise-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.5rem var(--space-sm);
+}
+.author-expertise-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.55rem 0.85rem;
+    background: var(--background-alt);
+    border-radius: var(--radius-md);
+    font-family: var(--font-ui);
+    font-size: 0.92rem;
+    color: var(--text);
+}
+.author-expertise-item svg {
+    color: var(--primary);
+    flex-shrink: 0;
+}
+
+/* Langues parlées */
+.author-languages-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+.author-language-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.45rem 0.9rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-family: var(--font-ui);
+    font-size: 0.88rem;
+    color: var(--text);
+}
+.author-language-item svg {
+    color: var(--primary);
+    flex-shrink: 0;
+}
+
+/* Author box (bloc bas d'article) : rendre cliquable */
+.author-box-avatar-link {
+    display: block;
+    line-height: 0;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: transform 180ms ease;
+}
+.author-box-avatar-link:hover { transform: scale(1.04); }
+.author-box-name a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 180ms ease;
+}
+.author-box-name a:hover { color: var(--primary); }
+.author-box-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-top: var(--space-sm);
+    padding: 0.55rem 1rem;
+    background: var(--primary);
+    color: #fff;
+    font-family: var(--font-ui);
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    align-self: flex-start;
+    transition: background 180ms ease, transform 180ms ease;
+}
+.author-box-cta:hover {
+    background: var(--primary-dark);
+    transform: translateY(-1px);
+    color: #fff;
+    text-decoration: none;
+}
+.author-box-cta span { transition: transform 180ms ease; }
+.author-box-cta:hover span { transform: translateX(3px); }
+
+@media (max-width: 640px) {
+    .author-hero-avatar { width: 120px; height: 120px; }
+    .author-keynumbers-grid { grid-template-columns: repeat(2, 1fr); }
+    .author-keynumber-value { font-size: 1.6rem; }
+    .author-timeline { padding-left: 1.5rem; }
+    .author-timeline-item::before { left: -1.23rem; }
+    .author-certifications-list,
+    .author-significantwork-cards,
+    .author-expertise-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 420px) {
+    .author-keynumbers-grid { grid-template-columns: 1fr; }
+}
 .authors-list-hero { padding: 4rem 0 1rem; text-align: center; }
 .authors-grid-section { padding: 2rem 0 4rem; }
 .authors-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }

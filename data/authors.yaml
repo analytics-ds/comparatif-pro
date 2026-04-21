@@ -4,6 +4,8 @@
 #
 # Le champ `topics` sert à la sélection automatique de l'auteur dans /create-article.
 # Le champ `expertise` alimente le schema.org Person -> knowsAbout.
+# Les champs `experience`, `certifications`, `significantWork`, `keyNumbers`, `languages`,
+# `location`, `yearsExperience` alimentent la fiche "CV" de la page auteur et le schema.org.
 
 thomas-durand:
   id: thomas-durand
@@ -12,6 +14,8 @@ thomas-durand:
   avatar: /images/authors/thomas-durand.jpg
   linkedinUrl: ""
   category: logiciels-professionnels
+  location: "Paris, France"
+  yearsExperience: 12
   jobTitle:
     fr: Analyste logiciels B2B
     en: B2B software analyst
@@ -40,6 +44,113 @@ thomas-durand:
     - outil pro
     - b2b
     - transformation numérique
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (professionnel)"
+    en:
+      - "French (native)"
+      - "English (professional)"
+  keyNumbers:
+    fr:
+      - label: "Années d'expérience"
+        value: "12+"
+      - label: "Déploiements ERP et CRM accompagnés"
+        value: "100+"
+      - label: "Comparatifs logiciels publiés"
+        value: "60+"
+      - label: "Catégories logicielles couvertes"
+        value: "15"
+    en:
+      - label: "Years of experience"
+        value: "12+"
+      - label: "ERP and CRM deployments supported"
+        value: "100+"
+      - label: "Software comparisons published"
+        value: "60+"
+      - label: "Software categories covered"
+        value: "15"
+  experience:
+    fr:
+      - period: "2018 à aujourd'hui"
+        role: "Analyste logiciels B2B indépendant"
+        context: "Conseil éditorial pour médias professionnels et cabinets spécialisés"
+        description: "Rédaction de comparatifs ERP, CRM, cybersécurité et collaboration pour décideurs IT de PME et ETI. Plus de soixante analyses publiées."
+      - period: "2013 à 2018"
+        role: "Chef de projet transformation numérique"
+        context: "Intégrateur de systèmes d'information pour l'industrie"
+        description: "Pilotage de déploiements ERP et CRM en mode agile, sur des scopes de 50 à 500 utilisateurs, principalement en PME industrielles."
+      - period: "2010 à 2013"
+        role: "Consultant fonctionnel ERP"
+        context: "Cabinet de conseil en transformation numérique"
+        description: "Cadrage fonctionnel, ateliers métier et recette sur des projets ERP PME, avec une appétence particulière pour la finance et la supply chain."
+    en:
+      - period: "2018 to present"
+        role: "Independent B2B software analyst"
+        context: "Editorial consulting for professional media and specialized firms"
+        description: "Writing ERP, CRM, cybersecurity and collaboration comparisons for IT decision-makers in SMEs and mid-cap companies. Over sixty analyses published."
+      - period: "2013 to 2018"
+        role: "Digital transformation project manager"
+        context: "IT systems integrator for industry"
+        description: "Led ERP and CRM deployments in agile mode, for scopes of 50 to 500 users, mainly in industrial SMEs."
+      - period: "2010 to 2013"
+        role: "ERP functional consultant"
+        context: "Digital transformation consulting firm"
+        description: "Functional scoping, business workshops and acceptance testing on SME ERP projects, with a particular focus on finance and supply chain."
+  certifications:
+    fr:
+      - year: 2021
+        name: "ITIL 4 Foundation"
+        issuer: "AXELOS"
+      - year: 2019
+        name: "PRINCE2 Practitioner"
+        issuer: "AXELOS"
+      - year: 2017
+        name: "AWS Certified Cloud Practitioner"
+        issuer: "Amazon Web Services"
+      - year: 2015
+        name: "Salesforce Administrator"
+        issuer: "Salesforce"
+    en:
+      - year: 2021
+        name: "ITIL 4 Foundation"
+        issuer: "AXELOS"
+      - year: 2019
+        name: "PRINCE2 Practitioner"
+        issuer: "AXELOS"
+      - year: 2017
+        name: "AWS Certified Cloud Practitioner"
+        issuer: "Amazon Web Services"
+      - year: 2015
+        name: "Salesforce Administrator"
+        issuer: "Salesforce"
+  significantWork:
+    fr:
+      - title: "Cartographie ERP PME 2025"
+        type: "Étude publique"
+        description: "Analyse de douze solutions ERP pour PME, avec benchmark prix et fonctionnalités, relayée par deux médias B2B spécialisés."
+      - title: "Baromètre cybersécurité TPE et PME"
+        type: "Enquête terrain"
+        description: "Enquête auprès de cinquante dirigeants de PME sur leurs pratiques de cybersécurité, publiée en accès libre."
+      - title: "Guide SaaS vs on-premise"
+        type: "Dossier long format"
+        description: "Dossier de trente pages sur les arbitrages SaaS et on-premise pour les directions informatiques de PME."
+      - title: "Panorama CRM pour ETI industrielles"
+        type: "Benchmark sectoriel"
+        description: "Benchmark de huit CRM orientés ETI industrielles, avec grille de scoring publiée en open data."
+    en:
+      - title: "SME ERP Market Map 2025"
+        type: "Public study"
+        description: "Analysis of twelve ERP solutions for SMEs, with pricing and feature benchmark, relayed by two specialized B2B media outlets."
+      - title: "SMB Cybersecurity Barometer"
+        type: "Field survey"
+        description: "Survey of fifty SMB executives on their cybersecurity practices, published with open access."
+      - title: "SaaS vs on-premise guide"
+        type: "Long-form report"
+        description: "Thirty-page report on SaaS versus on-premise trade-offs for SME IT departments."
+      - title: "CRM landscape for industrial mid-caps"
+        type: "Sector benchmark"
+        description: "Benchmark of eight CRMs targeting industrial mid-caps, with a scoring grid published as open data."
 
 
 claire-beaumont:
@@ -49,15 +160,17 @@ claire-beaumont:
   avatar: /images/authors/claire-beaumont.jpg
   linkedinUrl: ""
   category: aménagement-de-bureaux
+  location: "Paris, France"
+  yearsExperience: 12
   jobTitle:
     fr: Architecte d'intérieur spécialisée en espaces tertiaires
     en: Interior designer specialized in tertiary spaces
   role:
-    fr: Architecte d'intérieur & experte aménagement tertiaire
-    en: Interior designer & tertiary workspace expert
+    fr: Architecte d'intérieur et experte aménagement tertiaire
+    en: Interior designer and tertiary workspace expert
   bio:
-    fr: "Claire Beaumont est architecte d'intérieur diplômée de l'École Boulle et intervient depuis plus de douze ans sur l'aménagement d'espaces tertiaires. Après avoir dirigé les projets d'un cabinet parisien spécialisé dans le flex office, elle conseille désormais des entreprises sur l'ergonomie, l'acoustique et la modularité de leurs bureaux. Sur Comparatif-Pro, elle partage ses grilles de sélection de mobilier, ses retours terrain et ses méthodes pour concilier confort collaborateur et budget maîtrisé."
-    en: "Claire Beaumont is an interior designer graduated from École Boulle and has been working on tertiary space design for over twelve years. After leading projects at a Paris-based firm specialized in flex office, she now advises companies on ergonomics, acoustics and modularity of their offices. On Comparatif-Pro, she shares her furniture selection criteria, field feedback and methods to balance employee comfort with controlled budget."
+    fr: "Claire Beaumont est architecte d'intérieur diplômée et intervient depuis plus de douze ans sur l'aménagement d'espaces tertiaires. Après avoir dirigé les projets d'un cabinet parisien spécialisé dans le flex office, elle conseille désormais des entreprises sur l'ergonomie, l'acoustique et la modularité de leurs bureaux. Sur Comparatif-Pro, elle partage ses grilles de sélection de mobilier, ses retours terrain et ses méthodes pour concilier confort collaborateur et budget maîtrisé."
+    en: "Claire Beaumont is a qualified interior designer who has been working on tertiary space design for over twelve years. After leading projects at a Paris-based firm specialized in flex office, she now advises companies on ergonomics, acoustics and modularity of their offices. On Comparatif-Pro, she shares her furniture selection criteria, field feedback and methods to balance employee comfort with controlled budget."
   expertise:
     - Aménagement tertiaire
     - Flex office
@@ -77,6 +190,109 @@ claire-beaumont:
     - open space
     - cloisonnement
     - coworking
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (professionnel)"
+      - "Italien (notions)"
+    en:
+      - "French (native)"
+      - "English (professional)"
+      - "Italian (basic)"
+  keyNumbers:
+    fr:
+      - label: "Années d'expérience"
+        value: "12+"
+      - label: "Projets d'aménagement livrés"
+        value: "80+"
+      - label: "Mètres carrés aménagés"
+        value: "120 000"
+      - label: "Articles publiés"
+        value: "40+"
+    en:
+      - label: "Years of experience"
+        value: "12+"
+      - label: "Workspace projects delivered"
+        value: "80+"
+      - label: "Square meters fitted out"
+        value: "120,000"
+      - label: "Articles published"
+        value: "40+"
+  experience:
+    fr:
+      - period: "2020 à aujourd'hui"
+        role: "Architecte d'intérieur indépendante"
+        context: "Conseil auprès d'entreprises et de foncières tertiaires"
+        description: "Études de programmation, space planning et choix de mobilier pour des projets de 500 à 5 000 mètres carrés, principalement en Île-de-France."
+      - period: "2015 à 2020"
+        role: "Cheffe de projet flex office"
+        context: "Cabinet d'architecture tertiaire parisien"
+        description: "Pilotage de projets de transformation d'espaces en flex office pour grands groupes, de la phase diagnostic à la livraison."
+      - period: "2012 à 2015"
+        role: "Architecte d'intérieur junior"
+        context: "Agence de design tertiaire"
+        description: "Conception d'aménagements de bureaux et d'espaces d'accueil pour sièges sociaux, avec une spécialisation sur l'acoustique des open spaces."
+    en:
+      - period: "2020 to present"
+        role: "Independent interior designer"
+        context: "Advisory for companies and tertiary real estate investors"
+        description: "Programming studies, space planning and furniture selection for projects of 500 to 5,000 square meters, mainly in the Paris region."
+      - period: "2015 to 2020"
+        role: "Flex office project manager"
+        context: "Paris-based tertiary architecture firm"
+        description: "Led transformation projects to flex office for large corporates, from diagnostic phase to delivery."
+      - period: "2012 to 2015"
+        role: "Junior interior designer"
+        context: "Tertiary design agency"
+        description: "Designed office layouts and reception areas for corporate headquarters, with a specialty in open-space acoustics."
+  certifications:
+    fr:
+      - year: 2022
+        name: "WELL AP (Accredited Professional)"
+        issuer: "International WELL Building Institute"
+      - year: 2020
+        name: "LEED Green Associate"
+        issuer: "U.S. Green Building Council"
+      - year: 2018
+        name: "Certification ergonomie au poste de travail"
+        issuer: "CEE (Collège des Enseignants d'Ergonomie)"
+    en:
+      - year: 2022
+        name: "WELL AP (Accredited Professional)"
+        issuer: "International WELL Building Institute"
+      - year: 2020
+        name: "LEED Green Associate"
+        issuer: "U.S. Green Building Council"
+      - year: 2018
+        name: "Workplace ergonomics certification"
+        issuer: "CEE (French Ergonomics Teaching College)"
+  significantWork:
+    fr:
+      - title: "Guide flex office pour DRH"
+        type: "Livre blanc"
+        description: "Livre blanc de quarante pages sur la mise en place du flex office, méthodes de mesure du taux d'occupation et pièges à éviter."
+      - title: "Baromètre acoustique open space"
+        type: "Étude publique"
+        description: "Étude comparative de dix solutions acoustiques (cloisons, panneaux, plafonds), avec protocoles de mesure documentés."
+      - title: "Intervention au salon Workspace Expo"
+        type: "Intervention en conférence"
+        description: "Table ronde sur l'ergonomie post-télétravail et la refonte des postes de travail assis-debout."
+      - title: "Dossier éclairage tertiaire"
+        type: "Dossier long format"
+        description: "Dossier comparatif sur les luminaires LED à gradation, avec grille de choix selon la norme EN 12464-1."
+    en:
+      - title: "Flex office guide for HR directors"
+        type: "White paper"
+        description: "Forty-page white paper on flex office deployment, occupancy measurement methods and common pitfalls."
+      - title: "Open-space acoustics barometer"
+        type: "Public study"
+        description: "Comparative study of ten acoustic solutions (partitions, panels, ceilings), with documented measurement protocols."
+      - title: "Talk at Workspace Expo"
+        type: "Conference talk"
+        description: "Panel discussion on post-remote ergonomics and the redesign of sit-stand workstations."
+      - title: "Tertiary lighting report"
+        type: "Long-form report"
+        description: "Comparative report on dimmable LED fixtures, with a selection grid based on the EN 12464-1 standard."
 
 marc-lefevre:
   id: marc-lefevre
@@ -85,15 +301,17 @@ marc-lefevre:
   avatar: /images/authors/marc-lefevre.jpg
   linkedinUrl: ""
   category: équipements-industriels
+  location: "Lyon, France"
+  yearsExperience: 15
   jobTitle:
-    fr: Ingénieur instrumentation & automatismes industriels
-    en: Industrial instrumentation & automation engineer
+    fr: Ingénieur instrumentation et automatismes industriels
+    en: Industrial instrumentation and automation engineer
   role:
-    fr: Ingénieur instrumentation & automatismes
-    en: Industrial instrumentation & automation engineer
+    fr: Ingénieur instrumentation et automatismes
+    en: Industrial instrumentation and automation engineer
   bio:
-    fr: "Marc Lefèvre est ingénieur diplômé de l'ENSIAME, spécialisé en instrumentation et automatismes industriels. Il a exercé quinze ans dans l'industrie, notamment dans l'agroalimentaire, la pharmacie et l'automobile, où il a piloté des projets de métrologie et de contrôle qualité en ligne. Depuis 2023, il partage son expertise en rédigeant des comparatifs techniques destinés aux responsables maintenance, bureaux d'études et acheteurs industriels qui cherchent à fiabiliser leurs choix d'équipements."
-    en: "Marc Lefevre is an engineer graduated from ENSIAME, specialized in industrial instrumentation and automation. He has spent fifteen years in industry, notably in food processing, pharmaceuticals and automotive, where he led metrology and in-line quality control projects. Since 2023, he shares his expertise by writing technical comparisons aimed at maintenance managers, design offices and industrial buyers seeking to secure their equipment choices."
+    fr: "Marc Lefèvre est ingénieur diplômé en génie industriel, spécialisé en instrumentation et automatismes industriels. Il a exercé quinze ans dans l'industrie, notamment dans l'agroalimentaire, la pharmacie et l'automobile, où il a piloté des projets de métrologie et de contrôle qualité en ligne. Depuis 2023, il partage son expertise en rédigeant des comparatifs techniques destinés aux responsables maintenance, bureaux d'études et acheteurs industriels qui cherchent à fiabiliser leurs choix d'équipements."
+    en: "Marc Lefevre is a qualified industrial engineer specialized in instrumentation and industrial automation. He spent fifteen years in industry, notably in food processing, pharmaceuticals and automotive, where he led metrology and in-line quality control projects. Since 2023, he shares his expertise by writing technical comparisons aimed at maintenance managers, design offices and industrial buyers seeking to secure their equipment choices."
   expertise:
     - Métrologie industrielle
     - Instrumentation de mesure
@@ -114,6 +332,123 @@ marc-lefevre:
     - oscilloscope
     - multimètre
     - production
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (professionnel)"
+      - "Allemand (technique)"
+    en:
+      - "French (native)"
+      - "English (professional)"
+      - "German (technical)"
+  keyNumbers:
+    fr:
+      - label: "Années dans l'industrie"
+        value: "15"
+      - label: "Lignes de production instrumentées"
+        value: "40+"
+      - label: "Audits métrologie réalisés"
+        value: "70+"
+      - label: "Comparatifs techniques publiés"
+        value: "35+"
+    en:
+      - label: "Years in industry"
+        value: "15"
+      - label: "Production lines instrumented"
+        value: "40+"
+      - label: "Metrology audits performed"
+        value: "70+"
+      - label: "Technical comparisons published"
+        value: "35+"
+  experience:
+    fr:
+      - period: "2023 à aujourd'hui"
+        role: "Rédacteur technique indépendant"
+        context: "Médias professionnels industrie et bureaux d'études"
+        description: "Rédaction de comparatifs capteurs, instruments de mesure et automatismes pour responsables maintenance et acheteurs industriels."
+      - period: "2016 à 2023"
+        role: "Responsable métrologie et contrôle qualité"
+        context: "Grand groupe industriel agroalimentaire"
+        description: "Pilotage des plans d'étalonnage multi-sites, déploiement de systèmes de contrôle qualité en ligne et mise en conformité ISO 9001."
+      - period: "2011 à 2016"
+        role: "Ingénieur instrumentation et automatismes"
+        context: "Équipementier pour l'industrie pharmaceutique et automobile"
+        description: "Études et mise en service de systèmes d'instrumentation, programmation API et supervision SCADA sur lignes de production."
+      - period: "2009 à 2011"
+        role: "Ingénieur d'études junior"
+        context: "Bureau d'études en automatisme industriel"
+        description: "Conception de schémas électriques et programmation PLC sur projets de rétrofit de lignes de conditionnement."
+    en:
+      - period: "2023 to present"
+        role: "Independent technical writer"
+        context: "Industrial professional media and design offices"
+        description: "Writes comparisons of sensors, measurement instruments and automation for maintenance managers and industrial buyers."
+      - period: "2016 to 2023"
+        role: "Metrology and quality control manager"
+        context: "Major food-processing industrial group"
+        description: "Ran multi-site calibration plans, deployed in-line quality control systems and led ISO 9001 compliance."
+      - period: "2011 to 2016"
+        role: "Instrumentation and automation engineer"
+        context: "Equipment supplier for pharmaceutical and automotive industries"
+        description: "Studies and commissioning of instrumentation systems, PLC programming and SCADA supervision on production lines."
+      - period: "2009 to 2011"
+        role: "Junior design engineer"
+        context: "Industrial automation engineering firm"
+        description: "Electrical schematics and PLC programming on retrofit projects for packaging lines."
+  certifications:
+    fr:
+      - year: 2022
+        name: "ISO 9001 Lead Auditor"
+        issuer: "AFNOR Compétences"
+      - year: 2020
+        name: "Certification métrologie COFRAC"
+        issuer: "COFRAC"
+      - year: 2018
+        name: "Habilitation électrique B2V BR BC"
+        issuer: "Norme NF C 18-510"
+      - year: 2014
+        name: "Formation Siemens TIA Portal"
+        issuer: "Siemens"
+    en:
+      - year: 2022
+        name: "ISO 9001 Lead Auditor"
+        issuer: "AFNOR Compétences"
+      - year: 2020
+        name: "COFRAC metrology certification"
+        issuer: "COFRAC"
+      - year: 2018
+        name: "Electrical authorization B2V BR BC"
+        issuer: "NF C 18-510 standard"
+      - year: 2014
+        name: "Siemens TIA Portal training"
+        issuer: "Siemens"
+  significantWork:
+    fr:
+      - title: "Benchmark capteurs de température industriels"
+        type: "Benchmark sectoriel"
+        description: "Comparatif de vingt capteurs PT100 et thermocouples, avec protocole d'essai reproductible et grille de scoring."
+      - title: "Guide d'achat multimètres industriels"
+        type: "Dossier long format"
+        description: "Guide de quarante pages sur les critères de choix des multimètres pour techniciens de maintenance et électriciens industriels."
+      - title: "Tribune sur l'Industrie 4.0 et la métrologie"
+        type: "Tribune publiée"
+        description: "Tribune sur l'impact des capteurs connectés et de la remontée de données sur la mise en conformité ISO 9001."
+      - title: "Conférence Préventica Lyon"
+        type: "Intervention en conférence"
+        description: "Intervention sur la sécurité des automatismes industriels et la mise en conformité des machines selon la directive 2006/42/CE."
+    en:
+      - title: "Industrial temperature sensors benchmark"
+        type: "Sector benchmark"
+        description: "Comparison of twenty PT100 sensors and thermocouples, with a reproducible testing protocol and scoring grid."
+      - title: "Industrial multimeter buying guide"
+        type: "Long-form report"
+        description: "Forty-page guide on multimeter selection criteria for maintenance technicians and industrial electricians."
+      - title: "Opinion piece on Industry 4.0 and metrology"
+        type: "Opinion piece"
+        description: "Opinion piece on the impact of connected sensors and data feedback on ISO 9001 compliance."
+      - title: "Preventica Lyon conference"
+        type: "Conference talk"
+        description: "Talk on industrial automation safety and machine compliance with Directive 2006/42/EC."
 
 sophie-bertrand:
   id: sophie-bertrand
@@ -122,12 +457,14 @@ sophie-bertrand:
   avatar: /images/authors/sophie-bertrand.jpg
   linkedinUrl: ""
   category: formations-et-certifications
+  location: "Nantes, France"
+  yearsExperience: 14
   jobTitle:
     fr: Consultante en ingénierie de formation
     en: Training engineering consultant
   role:
-    fr: Consultante formation & certifications professionnelles
-    en: Training & professional certification consultant
+    fr: Consultante formation et certifications professionnelles
+    en: Training and professional certification consultant
   bio:
     fr: "Sophie Bertrand a exercé dix ans comme responsable formation dans un grand groupe industriel avant de fonder son cabinet de conseil en ingénierie pédagogique. Certifiée PMP et PRINCE2, elle accompagne désormais des DRH et des responsables de développement des compétences dans le choix de leurs organismes et de leurs certifications. Sur Comparatif-Pro, elle décortique les parcours de formation, les dispositifs CPF et les certifications reconnues sur le marché, avec un souci constant de leur valeur réelle à l'embauche."
     en: "Sophie Bertrand worked for ten years as training manager in a major industrial group before founding her consulting firm specialized in instructional design. Certified PMP and PRINCE2, she now supports HR directors and skills development managers in choosing their training providers and certifications. On Comparatif-Pro, she breaks down training paths, CPF schemes and certifications recognized in the market, with constant attention to their real value in hiring."
@@ -152,6 +489,121 @@ sophie-bertrand:
     - opco
     - formation professionnelle
     - ressources humaines
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (courant)"
+      - "Espagnol (professionnel)"
+    en:
+      - "French (native)"
+      - "English (fluent)"
+      - "Spanish (professional)"
+  keyNumbers:
+    fr:
+      - label: "Années d'expérience"
+        value: "14"
+      - label: "Plans de formation pilotés"
+        value: "50+"
+      - label: "Organismes audités"
+        value: "30+"
+      - label: "Stagiaires accompagnés"
+        value: "1 500+"
+    en:
+      - label: "Years of experience"
+        value: "14"
+      - label: "Training plans managed"
+        value: "50+"
+      - label: "Training providers audited"
+        value: "30+"
+      - label: "Learners supported"
+        value: "1,500+"
+  experience:
+    fr:
+      - period: "2019 à aujourd'hui"
+        role: "Consultante indépendante en ingénierie de formation"
+        context: "Cabinet personnel, clients DRH et OPCO"
+        description: "Audit d'organismes, ingénierie de parcours et accompagnement à la certification Qualiopi pour des structures de 50 à 2 000 salariés."
+      - period: "2014 à 2019"
+        role: "Responsable formation et développement des compétences"
+        context: "Grand groupe industriel multi-sites"
+        description: "Pilotage du plan de développement des compétences, gestion des budgets OPCO et déploiement de parcours certifiants PMP et Scrum."
+      - period: "2011 à 2014"
+        role: "Chargée de formation"
+        context: "Filiale RH d'un grand groupe industriel"
+        description: "Gestion opérationnelle des plans de formation, recensement des besoins et sourcing d'organismes sur les métiers techniques."
+    en:
+      - period: "2019 to present"
+        role: "Independent training engineering consultant"
+        context: "Own firm, HR departments and OPCO clients"
+        description: "Auditing training providers, designing learning paths and supporting Qualiopi certification for organizations of 50 to 2,000 employees."
+      - period: "2014 to 2019"
+        role: "Training and skills development manager"
+        context: "Multi-site industrial group"
+        description: "Led the skills development plan, managed OPCO budgets and deployed PMP and Scrum certification paths."
+      - period: "2011 to 2014"
+        role: "Training officer"
+        context: "HR subsidiary of a major industrial group"
+        description: "Operational management of training plans, needs assessment and provider sourcing on technical roles."
+  certifications:
+    fr:
+      - year: 2023
+        name: "Formateur certifié Qualiopi"
+        issuer: "Ministère du Travail"
+      - year: 2021
+        name: "PMI-ACP (Agile Certified Practitioner)"
+        issuer: "Project Management Institute"
+      - year: 2019
+        name: "PSM I (Professional Scrum Master)"
+        issuer: "Scrum.org"
+      - year: 2017
+        name: "PRINCE2 Practitioner"
+        issuer: "AXELOS"
+      - year: 2015
+        name: "PMP (Project Management Professional)"
+        issuer: "Project Management Institute"
+    en:
+      - year: 2023
+        name: "Qualiopi certified trainer"
+        issuer: "French Ministry of Labour"
+      - year: 2021
+        name: "PMI-ACP (Agile Certified Practitioner)"
+        issuer: "Project Management Institute"
+      - year: 2019
+        name: "PSM I (Professional Scrum Master)"
+        issuer: "Scrum.org"
+      - year: 2017
+        name: "PRINCE2 Practitioner"
+        issuer: "AXELOS"
+      - year: 2015
+        name: "PMP (Project Management Professional)"
+        issuer: "Project Management Institute"
+  significantWork:
+    fr:
+      - title: "Panorama des certifications projet 2025"
+        type: "Étude publique"
+        description: "Comparatif de douze certifications en management de projet (PMP, PRINCE2, PMI-ACP, Scrum) avec analyse de leur reconnaissance marché."
+      - title: "Guide Qualiopi pour PME"
+        type: "Livre blanc"
+        description: "Livre blanc sur la mise en conformité Qualiopi pour les petits organismes de formation, avec checklist d'audit."
+      - title: "Baromètre CPF 2024"
+        type: "Enquête terrain"
+        description: "Enquête sur l'usage du Compte Personnel de Formation dans 40 PME, publiée en accès libre."
+      - title: "Tribune sur le retour sur investissement de la formation"
+        type: "Tribune publiée"
+        description: "Tribune sur les méthodes de mesure du ROI des plans de formation, publiée dans un média RH spécialisé."
+    en:
+      - title: "Project certification landscape 2025"
+        type: "Public study"
+        description: "Comparison of twelve project management certifications (PMP, PRINCE2, PMI-ACP, Scrum) with analysis of market recognition."
+      - title: "Qualiopi guide for SMEs"
+        type: "White paper"
+        description: "White paper on Qualiopi compliance for small training providers, with an audit checklist."
+      - title: "CPF Barometer 2024"
+        type: "Field survey"
+        description: "Survey on the use of the Personal Training Account across 40 SMEs, published with open access."
+      - title: "Opinion piece on training ROI"
+        type: "Opinion piece"
+        description: "Opinion piece on methods for measuring training plan ROI, published in a specialized HR media outlet."
 
 julien-marchand:
   id: julien-marchand
@@ -160,12 +612,14 @@ julien-marchand:
   avatar: /images/authors/julien-marchand.jpg
   linkedinUrl: ""
   category: outillage-et-materiel
+  location: "Bordeaux, France"
+  yearsExperience: 8
   jobTitle:
-    fr: Chargé de prévention & expert EPI
-    en: Prévention officer & PPE expert
+    fr: Chargé de prévention et expert EPI
+    en: Prévention officer and PPE expert
   role:
-    fr: Expert outillage professionnel & prévention
-    en: Professional tooling & prévention expert
+    fr: Expert outillage professionnel et prévention
+    en: Professional tooling and prévention expert
   bio:
     fr: "Julien Marchand a débuté sa carrière comme chef de chantier dans le bâtiment avant de se reconvertir, après une formation IPRP, dans le conseil en prévention des risques professionnels. Depuis huit ans, il audite des chantiers, forme les équipes aux équipements de protection individuelle et accompagne les acheteurs dans la sélection d'outillage professionnel. Sur Comparatif-Pro, il croise les exigences terrain et les normes en vigueur pour livrer des comparatifs utiles aux artisans, responsables HSE et directeurs techniques."
     en: "Julien Marchand started his career as a construction site manager before retraining, after IPRP training, into occupational risk prévention consulting. For eight years, he has been auditing construction sites, training teams on personal protective equipment and supporting buyers in selecting professional tools. On Comparatif-Pro, he combines field requirements and current standards to deliver comparisons useful to craftsmen, HSE managers and technical directors."
@@ -192,6 +646,107 @@ julien-marchand:
     - chaussures sécurité
     - harnais
     - électroportatif
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (technique)"
+    en:
+      - "French (native)"
+      - "English (technical)"
+  keyNumbers:
+    fr:
+      - label: "Années en prévention"
+        value: "8"
+      - label: "Chantiers audités"
+        value: "120+"
+      - label: "Compagnons formés"
+        value: "400+"
+      - label: "Comparatifs EPI et outillage"
+        value: "25+"
+    en:
+      - label: "Years in prevention"
+        value: "8"
+      - label: "Construction sites audited"
+        value: "120+"
+      - label: "Workers trained"
+        value: "400+"
+      - label: "PPE and tooling comparisons"
+        value: "25+"
+  experience:
+    fr:
+      - period: "2019 à aujourd'hui"
+        role: "Chargé de prévention des risques (IPRP)"
+        context: "Cabinet de conseil en prévention BTP et industrie"
+        description: "Audits de chantiers, plans de prévention, formation EPI et accompagnement au choix d'outillage sur des TPE et PME du bâtiment."
+      - period: "2017 à 2019"
+        role: "Animateur HSE chantier"
+        context: "Entreprise générale de bâtiment"
+        description: "Animation des causeries sécurité, mise en oeuvre des plans particuliers de sécurité et suivi de l'outillage électroportatif."
+      - period: "2014 à 2017"
+        role: "Chef de chantier gros oeuvre"
+        context: "PME du bâtiment"
+        description: "Pilotage d'équipes de 10 à 20 compagnons, gestion du matériel et responsabilité sécurité sur chantiers de logements collectifs."
+    en:
+      - period: "2019 to present"
+        role: "Occupational risk prevention officer (IPRP)"
+        context: "Prévention consulting firm, construction and industry"
+        description: "Site audits, prévention plans, PPE training and tooling selection support for small and mid-size construction firms."
+      - period: "2017 to 2019"
+        role: "On-site HSE coordinator"
+        context: "General construction contractor"
+        description: "Led safety briefings, implemented site-specific safety plans and monitored power tool inventory."
+      - period: "2014 to 2017"
+        role: "Structural works site manager"
+        context: "SME in the construction sector"
+        description: "Led crews of 10 to 20 workers, managed equipment and held safety responsibility on multi-family housing sites."
+  certifications:
+    fr:
+      - year: 2022
+        name: "IPRP (Intervenant en Prévention des Risques Professionnels)"
+        issuer: "DIRECCTE"
+      - year: 2020
+        name: "Sauveteur Secouriste du Travail (SST)"
+        issuer: "INRS"
+      - year: 2019
+        name: "Habilitation travail en hauteur (R408)"
+        issuer: "CNAM / INRS"
+    en:
+      - year: 2022
+        name: "IPRP (Occupational Risk Prévention Specialist)"
+        issuer: "DIRECCTE"
+      - year: 2020
+        name: "Workplace First Aider (SST)"
+        issuer: "INRS"
+      - year: 2019
+        name: "Work-at-height authorization (R408)"
+        issuer: "CNAM / INRS"
+  significantWork:
+    fr:
+      - title: "Guide EPI tous corps d'état"
+        type: "Livre blanc"
+        description: "Livre blanc de trente pages sur le choix des EPI par corps de métier, avec renvoi systématique aux normes européennes."
+      - title: "Comparatif casques de chantier 2025"
+        type: "Benchmark sectoriel"
+        description: "Benchmark de quinze casques EN 397 avec essais terrain sur confort, ventilation et compatibilité accessoires."
+      - title: "Intervention Préventica"
+        type: "Intervention en conférence"
+        description: "Atelier pratique sur le choix des harnais antichute et l'audit des points d'ancrage sur chantiers BTP."
+      - title: "Dossier chaussures de sécurité"
+        type: "Dossier long format"
+        description: "Dossier comparatif sur les chaussures de sécurité S1P, S3 et S3S, avec grille de scoring par métier."
+    en:
+      - title: "Cross-trade PPE guide"
+        type: "White paper"
+        description: "Thirty-page white paper on PPE selection by trade, with systematic references to European standards."
+      - title: "Construction helmets 2025 comparison"
+        type: "Sector benchmark"
+        description: "Benchmark of fifteen EN 397 helmets with field tests on comfort, ventilation and accessory compatibility."
+      - title: "Preventica talk"
+        type: "Conference talk"
+        description: "Hands-on workshop on fall-arrest harness selection and anchor point audits on construction sites."
+      - title: "Safety footwear report"
+        type: "Long-form report"
+        description: "Comparative report on S1P, S3 and S3S safety shoes, with a trade-by-trade scoring grid."
 
 aurelie-vasseur:
   id: aurelie-vasseur
@@ -200,14 +755,16 @@ aurelie-vasseur:
   avatar: /images/authors/aurelie-vasseur.jpg
   linkedinUrl: ""
   category: services-aux-entreprises
+  location: "Lille, France"
+  yearsExperience: 11
   jobTitle:
-    fr: Consultante facility management & services industriels
-    en: Facility management & industrial services consultant
+    fr: Consultante facility management et services industriels
+    en: Facility management and industrial services consultant
   role:
-    fr: Consultante facility & services aux entreprises
-    en: Facility & business services consultant
+    fr: Consultante facility et services aux entreprises
+    en: Facility and business services consultant
   bio:
-    fr: "Aurélie Vasseur est consultante indépendante en facility management et services aux entreprises après un parcours de onze ans en cabinet de conseil, où elle a piloté des missions d'externalisation pour des grands comptes industriels. Spécialiste des contrats de maintenance, de la GMAO et du pilotage multi-sites, elle accompagne des directions immobilières et des responsables de production dans leurs arbitrages entre régie interne, externalisation et solutions hybrides. Sur Comparatif-Pro, elle analyse logiciels et prestataires avec l'œil d'une ancienne acheteuse de services."
+    fr: "Aurélie Vasseur est consultante indépendante en facility management et services aux entreprises après un parcours de onze ans en cabinet de conseil, où elle a piloté des missions d'externalisation pour des grands comptes industriels. Spécialiste des contrats de maintenance, de la GMAO et du pilotage multi-sites, elle accompagne des directions immobilières et des responsables de production dans leurs arbitrages entre régie interne, externalisation et solutions hybrides. Sur Comparatif-Pro, elle analyse logiciels et prestataires avec l'oeil d'une ancienne acheteuse de services."
     en: "Aurelie Vasseur is an independent consultant in facility management and business services after eleven years in consulting, where she led outsourcing projects for major industrial clients. A specialist in maintenance contracts, CMMS and multi-site management, she supports real estate directors and production managers in their decisions between in-house management, outsourcing and hybrid solutions. On Comparatif-Pro, she analyzes software and service providers with the eye of a former services buyer."
   expertise:
     - Facility management
@@ -229,3 +786,106 @@ aurelie-vasseur:
     - sous-traitance
     - achat prestation
     - b2b service
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (courant)"
+      - "Néerlandais (notions)"
+    en:
+      - "French (native)"
+      - "English (fluent)"
+      - "Dutch (basic)"
+  keyNumbers:
+    fr:
+      - label: "Années en conseil services"
+        value: "11"
+      - label: "Sites industriels pilotés"
+        value: "60+"
+      - label: "Contrats de maintenance analysés"
+        value: "200+"
+      - label: "Comparatifs GMAO et FM publiés"
+        value: "20+"
+    en:
+      - label: "Years in services consulting"
+        value: "11"
+      - label: "Industrial sites managed"
+        value: "60+"
+      - label: "Maintenance contracts analyzed"
+        value: "200+"
+      - label: "CMMS and FM comparisons published"
+        value: "20+"
+  experience:
+    fr:
+      - period: "2022 à aujourd'hui"
+        role: "Consultante indépendante facility management"
+        context: "Cabinet personnel, clients directions immobilières et industriels"
+        description: "Appels d'offres services généraux, choix de GMAO et refonte des contrats multi-sites pour des groupes de 500 à 10 000 collaborateurs."
+      - period: "2016 à 2022"
+        role: "Manager services aux entreprises"
+        context: "Cabinet de conseil en achats et supply chain"
+        description: "Pilotage de missions d'externalisation pour grands comptes industriels, négociation de contrats cadres et mise en place de KPI services."
+      - period: "2013 à 2016"
+        role: "Consultante junior achats indirects"
+        context: "Cabinet de conseil en achats"
+        description: "Analyse des portefeuilles achats, benchmarks prestataires et recommandations sur les catégories nettoyage, sûreté et restauration."
+    en:
+      - period: "2022 to present"
+        role: "Independent facility management consultant"
+        context: "Own firm, real estate and industrial clients"
+        description: "Service RFPs, CMMS selection and multi-site contract redesign for groups of 500 to 10,000 employees."
+      - period: "2016 to 2022"
+        role: "Business services manager"
+        context: "Procurement and supply chain consulting firm"
+        description: "Led outsourcing projects for major industrial clients, negotiated framework contracts and rolled out service KPIs."
+      - period: "2013 to 2016"
+        role: "Junior indirect procurement consultant"
+        context: "Procurement consulting firm"
+        description: "Analyzed procurement portfolios, benchmarked providers and issued recommendations on cleaning, security and catering categories."
+  certifications:
+    fr:
+      - year: 2023
+        name: "ISO 41001 Facility Management"
+        issuer: "AFNOR Compétences"
+      - year: 2021
+        name: "PMP (Project Management Professional)"
+        issuer: "Project Management Institute"
+      - year: 2019
+        name: "IFMA Facility Management Professional (FMP)"
+        issuer: "IFMA (International Facility Management Association)"
+    en:
+      - year: 2023
+        name: "ISO 41001 Facility Management"
+        issuer: "AFNOR Compétences"
+      - year: 2021
+        name: "PMP (Project Management Professional)"
+        issuer: "Project Management Institute"
+      - year: 2019
+        name: "IFMA Facility Management Professional (FMP)"
+        issuer: "IFMA (International Facility Management Association)"
+  significantWork:
+    fr:
+      - title: "Benchmark GMAO multi-sites 2025"
+        type: "Benchmark sectoriel"
+        description: "Analyse comparative de dix solutions GMAO SaaS pour pilotage multi-sites, avec grille de scoring sur 30 critères."
+      - title: "Guide externalisation des services généraux"
+        type: "Livre blanc"
+        description: "Livre blanc sur l'arbitrage entre régie interne, externalisation totale et modèle hybride, avec retours d'expérience anonymisés."
+      - title: "Baromètre contrats FM 2024"
+        type: "Étude publique"
+        description: "Étude sur les clauses de performance et les pénalités dans les contrats de facility management des grands comptes."
+      - title: "Intervention conférence SERVICES EXPO"
+        type: "Intervention en conférence"
+        description: "Table ronde sur la structuration d'un portefeuille services et la mesure de la performance des prestataires."
+    en:
+      - title: "Multi-site CMMS benchmark 2025"
+        type: "Sector benchmark"
+        description: "Comparative analysis of ten SaaS CMMS solutions for multi-site management, with a 30-criteria scoring grid."
+      - title: "Services outsourcing guide"
+        type: "White paper"
+        description: "White paper on the trade-offs between in-house, full outsourcing and hybrid models, with anonymized feedback."
+      - title: "FM contracts barometer 2024"
+        type: "Public study"
+        description: "Study on performance clauses and penalties in facility management contracts for large accounts."
+      - title: "SERVICES EXPO talk"
+        type: "Conference talk"
+        description: "Panel on structuring a services portfolio and measuring provider performance."

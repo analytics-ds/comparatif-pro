@@ -15,12 +15,28 @@
         <div class="author-hero-inner">
             {{ with $authorData }}
             {{ with .avatar }}
-            <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-hero-avatar" width="120" height="120" loading="eager">
+            <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-hero-avatar" width="160" height="160" loading="eager">
             {{ end }}
             <div class="author-hero-content">
-                <span class="author-hero-label">{{ i18n "author_label" | default "Auteur" }}</span>
+                <span class="author-hero-label">{{ if eq $lang "en" }}Author{{ else }}Auteur{{ end }}</span>
                 <h1 class="author-hero-name">{{ .name }}</h1>
                 {{ with index .role $lang }}<p class="author-hero-role">{{ . }}</p>{{ end }}
+
+                <ul class="author-hero-meta" aria-label="{{ if eq $lang "en" }}Quick facts{{ else }}Informations clés{{ end }}">
+                    {{ with .location }}
+                    <li class="author-hero-meta-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                        <span>{{ . }}</span>
+                    </li>
+                    {{ end }}
+                    {{ with .yearsExperience }}
+                    <li class="author-hero-meta-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        <span>{{ if eq $lang "en" }}{{ . }}+ years of experience{{ else }}{{ . }}+ ans d'expérience{{ end }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+
                 {{ with index .bio $lang }}<p class="author-hero-bio">{{ . }}</p>{{ end }}
                 {{ with .expertise }}
                 <div class="author-hero-expertise">
@@ -32,6 +48,117 @@
         </div>
     </div>
 </section>
+
+{{ with $authorData }}
+
+{{ $keyNumbers := index .keyNumbers $lang }}
+{{ if $keyNumbers }}
+<section class="author-section author-keynumbers-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq $lang "en" }}Key figures{{ else }}Chiffres clés{{ end }}</h2>
+        <ul class="author-keynumbers-grid">
+            {{ range $keyNumbers }}
+            <li class="author-keynumber">
+                <span class="author-keynumber-value">{{ .value }}</span>
+                <span class="author-keynumber-label">{{ .label }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+{{ end }}
+
+{{ $experience := index .experience $lang }}
+{{ if $experience }}
+<section class="author-section author-experience-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq $lang "en" }}Career path{{ else }}Parcours professionnel{{ end }}</h2>
+        <ol class="author-timeline">
+            {{ range $experience }}
+            <li class="author-timeline-item">
+                <span class="author-timeline-period">{{ .period }}</span>
+                <h3 class="author-timeline-role">{{ .role }}</h3>
+                {{ with .context }}<p class="author-timeline-context">{{ . }}</p>{{ end }}
+                {{ with .description }}<p class="author-timeline-description">{{ . }}</p>{{ end }}
+            </li>
+            {{ end }}
+        </ol>
+    </div>
+</section>
+{{ end }}
+
+{{ $certifications := index .certifications $lang }}
+{{ if $certifications }}
+<section class="author-section author-certifications-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq $lang "en" }}Certifications{{ else }}Certifications{{ end }}</h2>
+        <ul class="author-certifications-list">
+            {{ range $certifications }}
+            <li class="author-certification-item">
+                <span class="author-certification-year">{{ .year }}</span>
+                <div class="author-certification-body">
+                    <span class="author-certification-name">{{ .name }}</span>
+                    {{ with .issuer }}<span class="author-certification-issuer">{{ . }}</span>{{ end }}
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+{{ end }}
+
+{{ $significantWork := index .significantWork $lang }}
+{{ if $significantWork }}
+<section class="author-section author-significantwork-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq $lang "en" }}Significant work{{ else }}Travaux significatifs{{ end }}</h2>
+        <ul class="author-significantwork-cards">
+            {{ range $significantWork }}
+            <li class="author-significantwork-card">
+                {{ with .type }}<span class="author-significantwork-type">{{ . }}</span>{{ end }}
+                <h3 class="author-significantwork-title">{{ .title }}</h3>
+                {{ with .description }}<p class="author-significantwork-description">{{ . }}</p>{{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+{{ end }}
+
+{{ with .expertise }}
+<section class="author-section author-expertise-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq $lang "en" }}Areas of expertise{{ else }}Domaines d'expertise{{ end }}</h2>
+        <ul class="author-expertise-grid">
+            {{ range . }}
+            <li class="author-expertise-item">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+                <span>{{ . }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+{{ end }}
+
+{{ $languages := index .languages $lang }}
+{{ if $languages }}
+<section class="author-section author-languages-section">
+    <div class="container">
+        <h2 class="section-title">{{ if eq $lang "en" }}Languages{{ else }}Langues parlées{{ end }}</h2>
+        <ul class="author-languages-list">
+            {{ range $languages }}
+            <li class="author-language-item">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                <span>{{ . }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+{{ end }}
+
+{{ end }}
 
 <section class="author-articles">
     <div class="container">

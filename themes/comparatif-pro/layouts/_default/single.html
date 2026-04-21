@@ -124,15 +124,18 @@
 
                 <!-- Bloc auteur (bio complete en fin d'article) -->
                 {{ with $authorData }}
+                {{ $authorURL := printf "authors/%s/" $.Params.author | relLangURL }}
                 <aside class="author-box" aria-label="{{ if eq $lang "en" }}About the author{{ else }}À propos de l'auteur{{ end }}">
-                    {{ with .avatar }}
-                    <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-box-avatar" width="96" height="96" loading="lazy">
-                    {{ else }}
-                    <div class="author-box-avatar author-avatar-placeholder" aria-hidden="true">{{ slicestr .name 0 1 }}</div>
-                    {{ end }}
+                    <a href="{{ $authorURL }}" class="author-box-avatar-link" aria-label="{{ if eq $lang "en" }}View full profile of {{ .name }}{{ else }}Voir le profil complet de {{ .name }}{{ end }}">
+                        {{ with .avatar }}
+                        <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-box-avatar" width="96" height="96" loading="lazy">
+                        {{ else }}
+                        <div class="author-box-avatar author-avatar-placeholder" aria-hidden="true">{{ slicestr $authorData.name 0 1 }}</div>
+                        {{ end }}
+                    </a>
                     <div class="author-box-content">
                         <span class="author-box-label">{{ if eq $lang "en" }}About the author{{ else }}À propos de l'auteur{{ end }}</span>
-                        <h3 class="author-box-name">{{ .name }}</h3>
+                        <h3 class="author-box-name"><a href="{{ $authorURL }}">{{ .name }}</a></h3>
                         {{ with index .role $lang }}
                         <span class="author-box-role">{{ . }}</span>
                         {{ end }}
@@ -145,6 +148,7 @@
                             {{ range $i, $e := . }}{{ if $i }}, {{ end }}<span class="author-box-expertise-item">{{ $e }}</span>{{ end }}
                         </div>
                         {{ end }}
+                        <a href="{{ $authorURL }}" class="author-box-cta">{{ if eq $lang "en" }}View full profile{{ else }}Voir le profil complet{{ end }} <span aria-hidden="true">&rarr;</span></a>
                     </div>
                 </aside>
                 {{ end }}

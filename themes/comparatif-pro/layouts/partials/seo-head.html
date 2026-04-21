@@ -142,7 +142,14 @@
         "image": "{{ . | absURL }}"{{ end }}{{ with index .jobTitle $lang }},
         "jobTitle": {{ . | jsonify }}{{ end }}{{ with index .bio $lang }},
         "description": {{ . | jsonify }}{{ end }}{{ with .expertise }},
-        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}]{{ end }}{{ with .linkedinUrl }},
+        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}]{{ end }}{{ $certifs := index .certifications $lang }}{{ with $certifs }},
+        "hasCredential": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}{
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "certification",
+            "name": {{ $c.name | jsonify }}{{ with $c.issuer }},
+            "recognizedBy": { "@type": "Organization", "name": {{ . | jsonify }} }{{ end }}{{ with $c.year }},
+            "dateCreated": "{{ . }}"{{ end }}
+        }{{ end }}]{{ end }}{{ with .linkedinUrl }},
         "sameAs": ["{{ . }}"]{{ end }},
         "worksFor": { "@id": "{{ $.Site.BaseURL }}#organization" }
     },
