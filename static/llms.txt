@@ -14,6 +14,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Formations en management de projet : comparatif des certifications reconnues: https://comparatif-pro.com/blog/formations-management-projet-certifications/
 - GMAO : comparatif des logiciels de gestion de maintenance assistee par ordinateur: https://comparatif-pro.com/blog/gmao-comparatif-logiciels-maintenance/
 - Comment creer une documentation technique efficace : https://comparatif-pro.com/blog/guide-creer-documentation-technique/
+- Quels sont les meilleurs sites web d'ingenierie : https://comparatif-pro.com/blog/meilleurs-sites-web-ingenierie/
 - Instruments de mesure industriels : guide comparatif des technologies: https://comparatif-pro.com/blog/instruments-mesure-industriels-guide-comparatif/
 - Meilleure ressource pour doctorat : comparatif de Techniques de l'Ingenieur, theses.fr, HAL, guide-doctorat.fr et Cairn: https://comparatif-pro.com/blog/meilleures-ressources-doctorat/
 
@@ -23,6 +24,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Blog EN : https://comparatif-pro.com/en/blog/
 - Best doctoral research resources: https://comparatif-pro.com/en/blog/best-doctoral-research-resources/
 - How to create effective technical documentation: https://comparatif-pro.com/en/blog/how-to-create-technical-documentation/
+- What are the best engineering websites: https://comparatif-pro.com/en/blog/best-engineering-websites/
 
 ## Informations techniques
 
