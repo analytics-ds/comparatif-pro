@@ -22,6 +22,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Homepage EN : https://comparatif-pro.com/en/
 - Blog EN : https://comparatif-pro.com/en/blog/
 - Best doctoral research resources: https://comparatif-pro.com/en/blog/best-doctoral-research-resources/
+- How to create effective technical documentation: https://comparatif-pro.com/en/blog/how-to-create-technical-documentation/
 
 ## Informations techniques
 
