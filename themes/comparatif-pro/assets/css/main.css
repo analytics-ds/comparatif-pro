@@ -883,7 +883,7 @@ img {
     min-width: 0;
 }
 
-/* Table of Contents : design minimal avec rail vertical */
+/* Table of Contents : hierarchie visible avec tirets */
 .toc {
     padding: 0;
     background: transparent;
@@ -911,13 +911,6 @@ img {
     flex-shrink: 0;
 }
 
-.toc nav > ul {
-    padding: 0;
-    list-style: none;
-    margin: 0;
-    border-left: 2px solid var(--border);
-}
-
 .toc nav ul {
     list-style: none;
     margin: 0;
@@ -926,52 +919,88 @@ img {
 
 .toc nav ul li {
     margin: 0;
-    line-height: 1.4;
-    position: relative;
+    line-height: 1.45;
 }
 
-.toc nav ul li a {
+/* Niveau H2 : tiret long, position de base */
+.toc nav > ul > li > a {
     font-family: var(--font-ui);
     font-size: 0.82rem;
-    font-weight: 500;
-    color: var(--text-light);
+    font-weight: 600;
+    color: var(--text);
     text-decoration: none;
-    transition: color 150ms ease, border-color 150ms ease, padding-left 150ms ease;
-    display: block;
-    padding: 0.4rem 0 0.4rem 0.9rem;
-    margin-left: -2px;
-    border-left: 2px solid transparent;
-    position: relative;
+    transition: color 150ms ease;
+    display: flex;
+    align-items: baseline;
+    gap: 0.45rem;
+    padding: 0.35rem 0;
 }
 
-.toc nav ul li a:hover {
+.toc nav > ul > li > a::before {
+    content: "—";
+    color: var(--gray-300);
+    font-weight: 400;
+    flex-shrink: 0;
+    transition: color 150ms ease;
+}
+
+.toc nav > ul > li > a:hover {
     color: var(--primary);
 }
 
-.toc nav ul li a.toc-active {
-    color: var(--accent);
-    font-weight: 600;
-    border-left-color: var(--accent);
+.toc nav > ul > li > a:hover::before {
+    color: var(--primary-light);
 }
 
+.toc nav > ul > li > a.toc-active {
+    color: var(--accent);
+}
+
+.toc nav > ul > li > a.toc-active::before {
+    color: var(--accent);
+}
+
+/* Niveau H3 : alinea + tiret court */
 .toc nav ul ul {
-    padding-left: 0.85rem;
+    padding-left: 1.25rem;
+    margin: 0.1rem 0 0.35rem;
 }
 
 .toc nav ul ul li a {
+    font-family: var(--font-ui);
     font-size: 0.76rem;
     font-weight: 400;
-    color: var(--gray-400);
-    padding: 0.3rem 0 0.3rem 0.7rem;
+    color: var(--text-light);
+    text-decoration: none;
+    transition: color 150ms ease;
+    display: flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    padding: 0.25rem 0;
+}
+
+.toc nav ul ul li a::before {
+    content: "–";
+    color: var(--gray-300);
+    flex-shrink: 0;
+    transition: color 150ms ease;
 }
 
 .toc nav ul ul li a:hover {
+    color: var(--primary);
+}
+
+.toc nav ul ul li a:hover::before {
     color: var(--primary-light);
 }
 
 .toc nav ul ul li a.toc-active {
     color: var(--accent);
-    font-weight: 600;
+    font-weight: 500;
+}
+
+.toc nav ul ul li a.toc-active::before {
+    color: var(--accent);
 }
 
 /* Barre de progression de lecture (fixe, tout en haut) */
