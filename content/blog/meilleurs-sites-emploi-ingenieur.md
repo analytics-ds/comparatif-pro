@@ -120,6 +120,45 @@ La maîtrise des certifications reconnues renforce aussi la candidature. Comme d
 4. Activer le réseau personnel et professionnel, incluant les forums alumni des écoles d'ingénieurs
 5. Préparer un portfolio technique pour les postes en ingénierie logicielle ou en conception, en s'inspirant des bonnes pratiques présentées dans notre [guide pour créer une documentation technique efficace](/blog/guide-creer-documentation-technique/)
 
+## Zoom sur les spécialités en ingénierie
+
+Chaque spécialité d'ingénierie dispose de réseaux professionnels, associations sectorielles et plateformes qualifiées qui enrichissent le panel des sites généralistes. Trois familles méritent un focus particulier pour leur dynamique 2026 : la robotique, la photonique et l'électronique, et le génie industriel.
+
+### Robotique et automatismes industriels
+
+La robotique française recrute activement, portée par l'essor de la robotique collaborative et la relocalisation industrielle. Le Symop (Syndicat des machines et technologies de production) estime à 8 500 le nombre d'emplois directs dans la robotique en France, avec une croissance annuelle de 12 pour cent depuis 2022. Les plateformes ciblées sont :
+
+- Robotique.fr Emploi : portail sectoriel avec environ 600 offres actives
+- L'Usine Nouvelle Jobs et L'Usine Digitale Jobs : industrie et robotique 4.0
+- Page carrières des intégrateurs : FANUC, ABB, KUKA, Stäubli, Universal Robots
+- Portails des laboratoires publics : CEA-List, Inria (équipes robotique), LAAS-CNRS
+
+Le salaire médian d'embauche d'un ingénieur roboticien atteint 42 000 euros brut annuels selon l'enquête IESF 2025, avec une prime de 8 à 12 pour cent pour les profils spécialisés en vision par ordinateur, ROS ou cobotique.
+
+### Photonique et électronique
+
+La filière photonique et électronique représente environ 70 000 emplois en France selon le panorama Photonics France 2024, avec un tissu industriel concentré autour de Paris-Saclay, Grenoble, Rennes et Bordeaux. Les plateformes de référence sont :
+
+- Photonics France : portail emploi de la filière photonique, environ 400 offres actives
+- SEE Société : Société de l'Électricité, de l'Électronique et des TIC, espace carrières pour ingénieurs électroniciens
+- GIFAS Jobs : aéronautique et systèmes embarqués
+- ElectroniqueS et ElectroniqueS Magazine : offres et tendances
+- Careers pages majors : STMicroelectronics, Thales, Safran Electronics, Lynred, Airbus Defence
+
+Les profils pénuriques incluent les ingénieurs en conception de circuits intégrés (ASIC, FPGA), les ingénieurs optique et laser, et les spécialistes en compatibilité électromagnétique. Les salaires d'embauche s'échelonnent de 40 000 à 48 000 euros selon la spécialité.
+
+### Génie industriel et supply chain
+
+Le génie industriel couvre l'organisation de la production, la logistique, la qualité et l'amélioration continue. La filière emploie environ 180 000 cadres techniques en France selon Syntec Ingénierie 2024. Les plateformes spécialisées sont :
+
+- AfLog et Supply Chain Village : portails logistique et supply chain
+- Les Usines Roi et L'Usine Nouvelle Jobs : performance industrielle
+- AFAV (Association Française pour l'Analyse de la Valeur) : annonces et réseau
+- Kepler Consulting et Argon Consulting : portails carrières des cabinets spécialisés
+- APICS France : profils certifiés CPIM, CSCP, CLTD
+
+Les métiers les plus porteurs sont ingénieur méthodes et amélioration continue (lean six sigma), responsable supply chain, ingénieur qualité industrielle et pilote d'excellence opérationnelle. Les salaires d'embauche oscillent entre 38 000 et 45 000 euros, avec des progressions rapides vers 55 000 à 70 000 euros après cinq ans d'expérience.
+
 ## Secteurs porteurs et tendances de recrutement
 
 Les secteurs les plus porteurs en 2026 concentrent l'essentiel des offres d'emploi ingénieur. L'ingénierie logicielle reste le premier vivier avec plus de 40 000 créations de postes prévues selon l'étude France Num 2025. L'énergie et la transition écologique représentent 25 000 postes supplémentaires, portés par les projets nucléaires, éoliens et hydrogène.

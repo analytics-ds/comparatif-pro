@@ -1,6 +1,10 @@
 # Journal de publication
 
 ## Semaine 17 (20/04/2026 - 26/04/2026)
+- 2026-04-23 | Quels sont les meilleurs sites d'emploi dans l'environnement (FR+EN) | Formations et certifications
+- 2026-04-23 | Quels sont les meilleurs sites d'emploi dans les energies (FR+EN) | Formations et certifications
+- 2026-04-23 | Quels sont les meilleurs sites d'emploi en travaux publics et genie civil (FR+EN) | Formations et certifications
+- 2026-04-23 | Quels sont les meilleurs sites d'emploi en biomedical et pharmaceutique (FR+EN) | Formations et certifications
 - 2026-04-23 | Quels sont les meilleurs sites d'emploi pour doctorants et docteurs (FR+EN) | Formations et certifications
 - 2026-04-23 | Quels sont les meilleurs sites d'emploi pour ingenieur (FR+EN) | Formations et certifications
 - 2026-04-22 | Quels sont les meilleurs sites web d'ingenierie (FR+EN) | Equipements industriels [programme]

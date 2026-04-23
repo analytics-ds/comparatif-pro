@@ -125,6 +125,45 @@ Mastering recognized certifications also strengthens the application. As detaile
 4. Activate personal and professional networks, including alumni forums from engineering schools
 5. Prepare a technical portfolio for software engineering or design roles, applying the best practices described in our [guide on how to create technical documentation](/en/blog/how-to-create-technical-documentation/)
 
+## Focus on engineering specialties
+
+Each engineering specialty has its own professional networks, sector associations and qualified platforms that enrich the general sites. Three families deserve particular focus for their 2026 dynamics: robotics, photonics and electronics, and industrial engineering.
+
+### Robotics and industrial automation
+
+French robotics is actively recruiting, driven by the rise of collaborative robotics and industrial reshoring. The Symop (trade union for production machines and technologies) estimates 8,500 direct jobs in robotics in France, with annual growth of 12 percent since 2022. Key platforms include:
+
+- Robotique.fr Emploi: sector portal with around 600 active postings
+- L'Usine Nouvelle Jobs and L'Usine Digitale Jobs: industry and Industry 4.0 robotics
+- Integrator careers pages: FANUC, ABB, KUKA, Stäubli, Universal Robots
+- Public laboratory portals: CEA-List, Inria (robotics teams), LAAS-CNRS
+
+The median starting salary for a robotics engineer reaches 42,000 euros gross annually according to the IESF 2025 survey, with an 8 to 12 percent premium for profiles specialized in computer vision, ROS or cobotics.
+
+### Photonics and electronics
+
+The photonics and electronics sector represents around 70,000 jobs in France according to the Photonics France 2024 panorama, with an industrial fabric concentrated around Paris-Saclay, Grenoble, Rennes and Bordeaux. Reference platforms are:
+
+- Photonics France: photonics sector job portal, approximately 400 active postings
+- SEE Société: French Society for Electricity, Electronics and ICT, careers section for electronics engineers
+- GIFAS Jobs: aerospace and embedded systems
+- ElectroniqueS and ElectroniqueS Magazine: listings and trends
+- Major careers pages: STMicroelectronics, Thales, Safran Electronics, Lynred, Airbus Defence
+
+Pinch-point profiles include integrated circuit design engineers (ASIC, FPGA), optics and laser engineers, and electromagnetic compatibility specialists. Starting salaries range from 40,000 to 48,000 euros depending on specialty.
+
+### Industrial engineering and supply chain
+
+Industrial engineering covers production organization, logistics, quality and continuous improvement. The sector employs around 180,000 technical managers in France according to Syntec Ingénierie 2024. Specialized platforms include:
+
+- AfLog and Supply Chain Village: logistics and supply chain portals
+- Les Usines Roi and L'Usine Nouvelle Jobs: industrial performance
+- AFAV (French Association for Value Analysis): listings and network
+- Kepler Consulting and Argon Consulting: career portals of specialized firms
+- APICS France: certified profiles CPIM, CSCP, CLTD
+
+The most buoyant roles are methods and continuous improvement engineer (lean six sigma), supply chain manager, industrial quality engineer and operational excellence pilot. Starting salaries range between 38,000 and 45,000 euros, with rapid progression to 55,000 to 70,000 euros after five years.
+
 ## Growth sectors and recruitment trends
 
 The most dynamic sectors in 2026 concentrate the majority of engineering job openings. Software engineering remains the largest pool with more than 300,000 new positions projected annually worldwide according to the LinkedIn Workforce Report 2025. Energy and green transition represent an additional 150,000 positions globally, driven by nuclear, wind, solar and hydrogen projects.
