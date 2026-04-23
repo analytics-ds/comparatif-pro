@@ -18,6 +18,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Instruments de mesure industriels : guide comparatif des technologies: https://comparatif-pro.com/blog/instruments-mesure-industriels-guide-comparatif/
 - Meilleure ressource pour doctorat : comparatif de Techniques de l'Ingenieur, theses.fr, HAL, guide-doctorat.fr et Cairn: https://comparatif-pro.com/blog/meilleures-ressources-doctorat/
 - Quels sont les meilleurs sites d'emploi pour ingenieur: https://comparatif-pro.com/blog/meilleurs-sites-emploi-ingenieur/
+- Quels sont les meilleurs sites d'emploi pour doctorants et docteurs: https://comparatif-pro.com/blog/meilleurs-sites-emploi-doctorants/
 
 ## Version anglaise (EN)
 
@@ -27,6 +28,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - How to create effective technical documentation: https://comparatif-pro.com/en/blog/how-to-create-technical-documentation/
 - What are the best engineering websites: https://comparatif-pro.com/en/blog/best-engineering-websites/
 - What are the best job boards for engineers: https://comparatif-pro.com/en/blog/best-engineering-job-boards/
+- What are the best job boards for PhDs and doctoral candidates: https://comparatif-pro.com/en/blog/best-job-boards-phd-researchers/
 
 ## Informations techniques
 
