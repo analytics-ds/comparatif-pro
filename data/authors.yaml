@@ -2,7 +2,7 @@
 # Un auteur dédié par catégorie (6 auteurs B2B = 6 catégories).
 # L'ID (slug) est utilisé dans le frontmatter des articles comme `author: thomas-durand`.
 #
-# Le champ `topics` sert à la sélection automatique de l'auteur dans /create-article.
+# Le champ `topics` sert à la sélection automatique de l'auteur dans /create-article-geo.
 # Le champ `expertise` alimente le schema.org Person -> knowsAbout.
 # Les champs `experience`, `certifications`, `significantWork`, `keyNumbers`, `languages`,
 # `location`, `yearsExperience` alimentent la fiche "CV" de la page auteur et le schema.org.
