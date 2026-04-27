@@ -77,12 +77,78 @@
 #   longue traine).
 
 articles:
-  # ----- exemple (a supprimer ou remplacer) -----
-  - kw: "exemple de mot cle"
-    category: "Exemple de categorie"
-    volume: 1200
-    kd: 35
+
+  - kw: "meilleur logiciel comptabilite TPE"
+    category: "Logiciels professionnels"
+    volume: null
+    kd: null
     scheduled_date: "2026-04-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment amenager un bureau open space"
+    category: "Amenagement de bureaux"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur CRM pour PME"
+    category: "Logiciels professionnels"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "formation management certifiante"
+    category: "Formations et certifications"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur logiciel de paie"
+    category: "Logiciels professionnels"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment choisir son ERP"
+    category: "Logiciels professionnels"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "outillage professionnel pas cher"
+    category: "Outillage et materiel"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-19"
     status: todo
     published_date: null
     published_url_fr: null
