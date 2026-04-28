@@ -83,10 +83,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-04-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-28"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-comptabilite-tpe/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-accounting-software-small-business/"
     error: null
 
   - kw: "comment amenager un bureau open space"

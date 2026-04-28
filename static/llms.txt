@@ -23,6 +23,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Quels sont les meilleurs sites d'emploi en travaux publics et genie civil: https://comparatif-pro.com/blog/meilleurs-sites-emploi-travaux-publics-genie-civil/
 - Quels sont les meilleurs sites d'emploi dans les energies: https://comparatif-pro.com/blog/meilleurs-sites-emploi-energies/
 - Quels sont les meilleurs sites d'emploi dans l'environnement: https://comparatif-pro.com/blog/meilleurs-sites-emploi-environnement/
+- Meilleur logiciel comptabilite TPE en 2026 : comparatif Pennylane, Sage, EBP, Indy: https://comparatif-pro.com/blog/meilleur-logiciel-comptabilite-tpe/
 
 ## Version anglaise (EN)
 
@@ -37,6 +38,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - What are the best job boards for civil engineering and construction: https://comparatif-pro.com/en/blog/best-job-boards-civil-engineering-construction/
 - What are the best job boards in the energy sector: https://comparatif-pro.com/en/blog/best-job-boards-energy-sector/
 - What are the best job boards in the environmental sector: https://comparatif-pro.com/en/blog/best-job-boards-environmental-sector/
+- Best accounting software for small business in 2026: https://comparatif-pro.com/en/blog/best-accounting-software-small-business/
 
 ## Informations techniques
 
