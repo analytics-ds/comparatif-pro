@@ -40,43 +40,10 @@
 # 2. Corriger si besoin (kw trop concurrentiel, category invalide, etc.)
 # 3. Repasser `status: todo` et vider `error: null`
 # 4. Commit + push, l'agent reprendra l'entree au prochain run
-#
-# CHAMPS EDITABLES PAR L'HUMAIN
-# -----------------------------
-#   kw              (obligatoire) Mot-cle principal SEO cible. Langue principale du blog.
-#   category        (obligatoire) Categorie du blog. Doit matcher une categorie definie
-#                                 dans le hugo.toml (en langue principale).
-#   volume          (informatif)  Volume mensuel de recherche. Aide l'humain a prioriser,
-#                                 ignore par l'agent. Laisser null si inconnu.
-#   kd              (informatif)  Keyword Difficulty 0-100. Aide l'humain a doser l'ambition,
-#                                 ignore par l'agent. Laisser null si inconnu.
-#   scheduled_date  (obligatoire) Date a partir de laquelle l'agent peut publier.
-#                                 Format : YYYY-MM-DD.
-#   status          todo | done | failed. Passer un failed en todo apres correction
-#                                 manuelle pour relancer.
-#
-# CHAMPS REMPLIS PAR L'AGENT (ne pas toucher sauf pour debloquer un failed)
-# -----------------------------------------------------------------------
-#   published_date    YYYY-MM-DD reel de publication
-#   published_url_fr  URL complete de la version FR
-#   published_url_en  URL complete de la version EN
-#   error             message d'erreur si status: failed
-#
-# AJOUT D'UNE NOUVELLE ENTREE
-# ---------------------------
-# Copier le bloc "exemple" ci-dessous, remplir kw, category, scheduled_date,
-# laisser les autres champs tels quels.
-#
-# BONNES PRATIQUES
-# ----------------
-# - Espacer les scheduled_date selon la frequence de publication du blog
-#   (ex: 2x/semaine = mardi et vendredi).
-# - Eviter 2 KW cannibalisants dans des dates rapprochees.
-# - Verifier que la category existe bien dans hugo.toml avant d'ajouter.
-# - Eviter les KW trop concurrentiels pour un blog qui demarre (preferer la
-#   longue traine).
 
 articles:
+
+  # === Articles publies ===
 
   - kw: "meilleur logiciel comptabilite TPE"
     category: "Logiciels professionnels"
@@ -89,19 +56,111 @@ articles:
     published_url_en: "https://comparatif-pro.com/en/blog/best-accounting-software-small-business/"
     error: null
 
-  - kw: "comment amenager un bureau open space"
-    category: "Amenagement de bureaux"
-    volume: null
+  # === Batch 9 articles SaaS admin entreprise (publication 2026-04-30) ===
+
+  - kw: "meilleur logiciel facture gratuit"
+    category: "Logiciels professionnels"
+    volume: 590
     kd: null
-    scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-facture-gratuit/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-free-invoicing-software/"
     error: null
 
-  - kw: "meilleur CRM pour PME"
+  - kw: "meilleur logiciel crm"
     category: "Logiciels professionnels"
+    volume: 320
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-crm/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-crm-software/"
+    error: null
+
+  - kw: "meilleur logiciel de paie"
+    category: "Logiciels professionnels"
+    volume: 260
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-de-paie/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-payroll-software/"
+    error: null
+
+  - kw: "meilleur logiciel gestion locative"
+    category: "Logiciels professionnels"
+    volume: 210
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-gestion-locative/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-property-management-software/"
+    error: null
+
+  - kw: "meilleur logiciel auto-entrepreneur gratuit"
+    category: "Logiciels professionnels"
+    volume: 170
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-auto-entrepreneur-gratuit/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-free-self-employed-software/"
+    error: null
+
+  - kw: "meilleur logiciel de caisse gratuit"
+    category: "Logiciels professionnels"
+    volume: 140
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-caisse-gratuit/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-free-pos-software/"
+    error: null
+
+  - kw: "meilleur logiciel emailing"
+    category: "Logiciels professionnels"
+    volume: 140
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-emailing/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-email-marketing-software/"
+    error: null
+
+  - kw: "meilleur logiciel gestion de projet"
+    category: "Logiciels professionnels"
+    volume: 110
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-gestion-de-projet/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-project-management-software/"
+    error: null
+
+  - kw: "meilleur logiciel gestion de stock"
+    category: "Logiciels professionnels"
+    volume: 90
+    kd: null
+    scheduled_date: "2026-04-30"
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-gestion-de-stock/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-inventory-management-software/"
+    error: null
+
+  # === Articles existants repousses (cascade post batch 30/04) ===
+
+  - kw: "comment amenager un bureau open space"
+    category: "Amenagement de bureaux"
     volume: null
     kd: null
     scheduled_date: "2026-05-05"
@@ -115,17 +174,6 @@ articles:
     category: "Formations et certifications"
     volume: null
     kd: null
-    scheduled_date: "2026-05-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: null
-
-  - kw: "meilleur logiciel de paie"
-    category: "Logiciels professionnels"
-    volume: null
-    kd: null
     scheduled_date: "2026-05-12"
     status: todo
     published_date: null
@@ -137,7 +185,7 @@ articles:
     category: "Logiciels professionnels"
     volume: null
     kd: null
-    scheduled_date: "2026-05-15"
+    scheduled_date: "2026-05-19"
     status: todo
     published_date: null
     published_url_fr: null
@@ -148,7 +196,7 @@ articles:
     category: "Outillage et materiel"
     volume: null
     kd: null
-    scheduled_date: "2026-05-19"
+    scheduled_date: "2026-05-26"
     status: todo
     published_date: null
     published_url_fr: null

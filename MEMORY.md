@@ -1,6 +1,15 @@
 # Journal de publication
 
 ## Semaine 18 (27/04/2026 - 03/05/2026)
+- 2026-04-30 | Meilleur logiciel facture gratuit (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel CRM (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel de paie (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel gestion locative (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel auto-entrepreneur gratuit (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel de caisse gratuit (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel emailing (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel gestion de projet (FR+EN) | Logiciels professionnels | batch
+- 2026-04-30 | Meilleur logiciel gestion de stock (FR+EN) | Logiciels professionnels | batch
 - 2026-04-28 | Meilleur logiciel comptabilite TPE en 2026 (FR+EN) | Logiciels professionnels | auto
 
 ## Semaine 17 (20/04/2026 - 26/04/2026)
