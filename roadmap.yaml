@@ -164,10 +164,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-05"
+    published_url_fr: "https://comparatif-pro.com/blog/comment-amenager-bureau-open-space/"
+    published_url_en: "https://comparatif-pro.com/en/blog/how-to-design-open-plan-office/"
     error: null
 
   - kw: "formation management certifiante"

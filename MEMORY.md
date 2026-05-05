@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 19 (04/05/2026 - 10/05/2026)
+- 2026-05-05 | Comment aménager un bureau open space (FR+EN) | Amenagement de bureaux | auto
+
 ## Semaine 18 (27/04/2026 - 03/05/2026)
 - 2026-04-30 | Meilleur logiciel facture gratuit (FR+EN) | Logiciels professionnels | batch
 - 2026-04-30 | Meilleur logiciel CRM (FR+EN) | Logiciels professionnels | batch
