@@ -34,6 +34,17 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur logiciel gestion de projet 2026 : comparatif Monday, Asana, Notion, ClickUp: https://comparatif-pro.com/blog/meilleur-logiciel-gestion-de-projet/
 - Meilleur logiciel gestion de stock 2026 : comparatif Erplain, Sellsy, Odoo, Zoho: https://comparatif-pro.com/blog/meilleur-logiciel-gestion-de-stock/
 - Comment aménager un bureau open space : zones, mobilier ergonomique, acoustique et normes: https://comparatif-pro.com/blog/comment-amenager-bureau-open-space/
+- Facturation électronique en France : le guide complet 2026: https://comparatif-pro.com/blog/guide-facturation-electronique/
+- Facturation électronique obligatoire : qui est concerné et quand: https://comparatif-pro.com/blog/facturation-electronique-obligatoire/
+- Calendrier de la facturation électronique : échéances 2026-2027: https://comparatif-pro.com/blog/calendrier-facturation-electronique/
+- Facturation électronique et DGFiP : rôle de l'administration fiscale: https://comparatif-pro.com/blog/facturation-electronique-dgfip/
+- Facturation électronique pour auto-entrepreneur : ce qui change: https://comparatif-pro.com/blog/facturation-electronique-auto-entrepreneur/
+- Facturation électronique pour PME : guide de mise en conformité: https://comparatif-pro.com/blog/facturation-electronique-pme/
+- Facture électronique pour TPE : se préparer sans se ruiner: https://comparatif-pro.com/blog/facture-electronique-tpe/
+- PDP : plateforme de dématérialisation partenaire, rôle et choix: https://comparatif-pro.com/blog/pdp-facture-electronique/
+- Meilleur logiciel de facturation électronique : comparatif 2026: https://comparatif-pro.com/blog/meilleur-logiciel-facturation-electronique/
+- Comparatif des plateformes de facturation électronique: https://comparatif-pro.com/blog/comparatif-plateformes-facturation-electronique/
+- Formats de facture électronique : Factur-X, UBL, CII expliqués: https://comparatif-pro.com/blog/format-facture-electronique-factur-x-ubl-cii/
 
 ## Version anglaise (EN)
 
@@ -59,6 +70,17 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Best project management software 2026: https://comparatif-pro.com/en/blog/best-project-management-software/
 - Best inventory management software 2026: https://comparatif-pro.com/en/blog/best-inventory-management-software/
 - How to design an open-plan office: zones, ergonomic furniture, acoustics and regulations: https://comparatif-pro.com/en/blog/how-to-design-open-plan-office/
+- Electronic invoicing in France: the complete 2026 guide: https://comparatif-pro.com/en/blog/electronic-invoicing-guide/
+- Mandatory electronic invoicing in France: who and when: https://comparatif-pro.com/en/blog/mandatory-electronic-invoicing/
+- Electronic invoicing timeline in France: 2026-2027 deadlines: https://comparatif-pro.com/en/blog/electronic-invoicing-timeline/
+- Electronic invoicing and DGFiP: the role of the French tax authority: https://comparatif-pro.com/en/blog/electronic-invoicing-dgfip/
+- Electronic invoicing for self-employed: what changes: https://comparatif-pro.com/en/blog/electronic-invoicing-self-employed/
+- Electronic invoicing for SMEs: compliance guide: https://comparatif-pro.com/en/blog/electronic-invoicing-sme/
+- Electronic invoicing for very small businesses: prepare without breaking the bank: https://comparatif-pro.com/en/blog/electronic-invoicing-very-small-business/
+- PDP: partner dematerialization platform, role and selection: https://comparatif-pro.com/en/blog/pdp-electronic-invoice/
+- Best electronic invoicing software: 2026 comparison: https://comparatif-pro.com/en/blog/best-electronic-invoicing-software/
+- Electronic invoicing platforms: comparison: https://comparatif-pro.com/en/blog/electronic-invoicing-platforms-comparison/
+- Electronic invoice formats: Factur-X, UBL, CII explained: https://comparatif-pro.com/en/blog/electronic-invoice-format-factur-x-ubl-cii/
 
 ## Informations techniques
 

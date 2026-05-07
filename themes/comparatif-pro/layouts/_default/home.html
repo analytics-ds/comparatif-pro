@@ -53,6 +53,38 @@
     </div>
 </section>
 
+<!-- 1bis. Article a la une -->
+{{ $featuredSlug := "meilleur-logiciel-facturation-electronique" }}
+{{ $featured := "" }}
+{{ range where .Site.RegularPages "Section" "blog" }}
+  {{ if eq .File.BaseFileName $featuredSlug }}
+    {{ $featured = . }}
+  {{ end }}
+{{ end }}
+{{ with $featured }}
+<section class="home-featured">
+    <div class="container">
+        <div class="home-featured-inner">
+            <div class="home-featured-visual">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" loading="lazy" width="720" height="480">
+                {{ end }}
+            </div>
+            <div class="home-featured-content">
+                <span class="home-hero-badge home-featured-badge">Article phare</span>
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p class="home-featured-description">{{ .Description }}</p>
+                <div class="home-featured-meta">
+                    {{ with .Params.categories }}<span class="article-category">{{ index . 0 }}</span>{{ end }}
+                    <time>{{ .Date.Format "2 January 2006" }}</time>
+                </div>
+                <a href="{{ .RelPermalink }}" class="btn-primary">Lire le guide complet</a>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
 <!-- 2. Nos expertises -->
 <section class="home-services">
     <div class="container">

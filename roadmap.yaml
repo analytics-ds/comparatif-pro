@@ -202,3 +202,131 @@ articles:
     published_url_fr: null
     published_url_en: null
     error: null
+
+  # === Cocon facturation electronique (publication 2026-05-06, bulk) ===
+  # Maillage interne : article phare = meilleur-logiciel-facturation-electronique (mis en home "A la une")
+  # Pilier = guide-facturation-electronique. Tous les articles maillent vers pilier + phare.
+
+  - kw: "facturation electronique"
+    category: "Services aux entreprises"
+    volume: 4500
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/guide-facturation-electronique/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-guide/"
+    error: null
+
+  - kw: "facturation electronique obligatoire"
+    category: "Services aux entreprises"
+    volume: 3600
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/facturation-electronique-obligatoire/"
+    published_url_en: "https://comparatif-pro.com/en/blog/mandatory-electronic-invoicing/"
+    error: null
+
+  - kw: "calendrier facturation electronique"
+    category: "Services aux entreprises"
+    volume: 720
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/calendrier-facturation-electronique/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-timeline/"
+    error: null
+
+  - kw: "facturation electronique dgfip"
+    category: "Services aux entreprises"
+    volume: 200
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/facturation-electronique-dgfip/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-dgfip/"
+    error: null
+
+  - kw: "facturation electronique auto entrepreneur"
+    category: "Services aux entreprises"
+    volume: 1900
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/facturation-electronique-auto-entrepreneur/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-self-employed/"
+    error: null
+
+  - kw: "facturation electronique pme"
+    category: "Services aux entreprises"
+    volume: 110
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/facturation-electronique-pme/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-sme/"
+    error: null
+
+  - kw: "facture electronique tpe"
+    category: "Services aux entreprises"
+    volume: 210
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/facture-electronique-tpe/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-very-small-business/"
+    error: null
+
+  - kw: "pdp facture electronique"
+    category: "Logiciels professionnels"
+    volume: 2400
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/pdp-facture-electronique/"
+    published_url_en: "https://comparatif-pro.com/en/blog/pdp-electronic-invoice/"
+    error: null
+
+  - kw: "logiciel facturation electronique"
+    category: "Logiciels professionnels"
+    volume: 1000
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-facturation-electronique/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-electronic-invoicing-software/"
+    error: null
+    # Article phare (home "A la une"). Cible aussi "meilleure solution facturation electronique" (170)
+    # et "meilleur logiciel facture electronique" (NA). Format comparatif, sourcé institutionnel.
+
+  - kw: "plateforme facture electronique"
+    category: "Logiciels professionnels"
+    volume: 1500
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/comparatif-plateformes-facturation-electronique/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoicing-platforms-comparison/"
+    error: null
+
+  - kw: "format facture electronique"
+    category: "Logiciels professionnels"
+    volume: 64
+    kd: null
+    scheduled_date: "2026-05-06"
+    status: done
+    published_date: "2026-05-07"
+    published_url_fr: "https://comparatif-pro.com/blog/format-facture-electronique-factur-x-ubl-cii/"
+    published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoice-format-factur-x-ubl-cii/"
+    error: null
+    # Cible aussi "factur-x", "ubl", "norme EN 16931"

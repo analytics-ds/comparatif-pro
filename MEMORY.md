@@ -1,6 +1,17 @@
 # Journal de publication
 
 ## Semaine 19 (04/05/2026 - 10/05/2026)
+- 2026-05-07 | Facturation électronique en France : le guide complet 2026 (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | Facturation électronique obligatoire : qui est concerné et quand (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | Calendrier de la facturation électronique : échéances 2026-2027 (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | Facturation électronique et DGFiP : rôle de l'administration fiscale (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | Facturation électronique pour auto-entrepreneur : ce qui change (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | Facturation électronique pour PME : guide de mise en conformité (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | Facture électronique pour TPE : se préparer sans se ruiner (FR+EN) | Services aux entreprises | batch
+- 2026-05-07 | PDP : plateforme de dématérialisation partenaire, rôle et choix (FR+EN) | Logiciels professionnels | batch
+- 2026-05-07 | Meilleur logiciel de facturation électronique : comparatif 2026 (FR+EN) | Logiciels professionnels | batch [phare home]
+- 2026-05-07 | Comparatif des plateformes de facturation électronique (FR+EN) | Logiciels professionnels | batch
+- 2026-05-07 | Formats de facture électronique : Factur-X, UBL, CII expliqués (FR+EN) | Logiciels professionnels | batch
 - 2026-05-05 | Comment aménager un bureau open space (FR+EN) | Amenagement de bureaux | auto
 
 ## Semaine 18 (27/04/2026 - 03/05/2026)
