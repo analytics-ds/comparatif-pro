@@ -175,10 +175,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-12"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-12"
+    published_url_fr: "https://comparatif-pro.com/blog/formation-management-certifiante/"
+    published_url_en: "https://comparatif-pro.com/en/blog/certified-management-training/"
     error: null
 
   - kw: "comment choisir son ERP"

@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 20 (11/05/2026 - 17/05/2026)
+- 2026-05-12 | Formation management certifiante : top 2026 (FR+EN) | Formations et certifications | auto
+
 ## Semaine 19 (04/05/2026 - 10/05/2026)
 - 2026-05-07 | Facturation électronique en France : le guide complet 2026 (FR+EN) | Services aux entreprises | batch
 - 2026-05-07 | Facturation électronique obligatoire : qui est concerné et quand (FR+EN) | Services aux entreprises | batch
