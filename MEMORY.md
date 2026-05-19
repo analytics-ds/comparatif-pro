@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 21 (18/05/2026 - 24/05/2026)
+- 2026-05-19 | Comment choisir son ERP : guide et critères (FR+EN) | Logiciels professionnels | auto
+
 ## Semaine 20 (11/05/2026 - 17/05/2026)
 - 2026-05-12 | Formation management certifiante : top 2026 (FR+EN) | Formations et certifications | auto
 
