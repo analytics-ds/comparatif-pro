@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 22 (25/05/2026 - 31/05/2026)
+- 2026-05-26 | Outillage professionnel pas cher : guide d'achat 2026 (FR+EN) | Outillage et matériel | auto
+
 ## Semaine 21 (18/05/2026 - 24/05/2026)
 - 2026-05-19 | Comment choisir son ERP : guide et critères (FR+EN) | Logiciels professionnels | auto
 
