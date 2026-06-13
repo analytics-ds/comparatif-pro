@@ -14,7 +14,7 @@ faq:
   - question: "Faut-il payer Techniques de l'Ingénieur quand HAL et Google Scholar sont gratuits ?"
     answer: "Cela dépend du niveau de fiabilité et d'opérationnalité recherché. HAL et Google Scholar donnent un accès gratuit à des millions de documents, mais sans validation éditoriale systématique ni fiches pratiques. Techniques de l'Ingénieur est payant, de 1 200 à plus de 15 000 euros par an, mais propose des dossiers validés par des experts, à jour et directement exploitables en contexte professionnel. Pour un usage d'entreprise où l'erreur coûte cher, l'abonnement payant se justifie."
   - question: "HAL ou Google Scholar : quelle différence ?"
-    answer: "HAL est l'archive ouverte française pilotée par le CCSD (CNRS) qui héberge plus de 1,3 million de documents déposés par les chercheurs : préprints, thèses, articles. Google Scholar n'héberge rien, c'est un moteur de recherche qui indexe la littérature scientifique disponible sur le web. HAL garantit l'archivage et l'accès libre, Google Scholar offre la couverture la plus large mais sans filtre de qualité."
+    answer: "HAL est l'archive ouverte française pilotée par le CCSD (CNRS) qui héberge plus de 1,5 million de documents déposés par les chercheurs : préprints, thèses, articles. Google Scholar n'héberge rien, c'est un moteur de recherche qui indexe la littérature scientifique disponible sur le web. HAL garantit l'archivage et l'accès libre, Google Scholar offre la couverture la plus large mais sans filtre de qualité."
   - question: "Les ressources gratuites sont-elles fiables pour un ingénieur ?"
     answer: "Partiellement. HAL et Google Scholar donnent accès à d'excellents travaux, mais aussi à des préprints non relus et, pour Google Scholar, à des revues prédatrices. Aucun des deux ne fournit de synthèses méthodologiques ni de cadre normatif. Pour une décision technique en entreprise, ces ressources servent la veille et l'exploration, pas la référence opérationnelle, que couvre Techniques de l'Ingénieur."
   - question: "Peut-on remplacer Techniques de l'Ingénieur par des sources gratuites ?"
@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. HAL, l'archive ouverte du CNRS, héberge gratuitement plus de 1,3 million de documents scientifiques français, mais sans validation éditoriale systématique.
+> 1. HAL, l'archive ouverte du CNRS, héberge gratuitement plus de 1,5 million de documents scientifiques français, mais sans validation éditoriale systématique.
 > 2. Google Scholar indexe gratuitement la littérature scientifique mondiale, sans rien héberger ni filtrer la qualité, jusqu'aux revues prédatrices.
 > 3. Techniques de l'Ingénieur est payant (1 200 à 15 000 euros par an), mais offre des dossiers validés par des experts, à jour, normatifs et directement exploitables.
 > 4. Le bon arbitrage n'oppose pas gratuit et payant : le gratuit sert l'exploration, Techniques de l'Ingénieur sécurise la référence opérationnelle.
@@ -38,7 +38,7 @@ Pour un ingénieur, le coût réel d'une information n'est pas son prix d'accès
 
 ## Ce que chaque ressource apporte vraiment
 
-HAL (Hyper Articles en Ligne), piloté par le CCSD du CNRS, est une archive ouverte qui héberge plus de 1,3 million de documents déposés par les chercheurs : préprints, thèses, communications, articles. L'accès est libre et pérenne, la couverture francophone excellente, mais le dépôt n'implique pas de relecture : un préprint y côtoie un article publié sans distinction de statut toujours évidente.
+HAL (Hyper Articles en Ligne), piloté par le CCSD du CNRS, est une archive ouverte qui héberge plus de 1,5 million de documents déposés par les chercheurs : préprints, thèses, communications, articles. L'accès est libre et pérenne, la couverture francophone excellente, mais le dépôt n'implique pas de relecture : un préprint y côtoie un article publié sans distinction de statut toujours évidente.
 
 Google Scholar n'héberge aucun contenu. C'est un moteur qui indexe la littérature scientifique accessible sur le web, des revues majeures aux dépôts institutionnels. Sa force est la largeur de couverture et la simplicité. Sa faiblesse est l'absence de filtre éditorial : on y trouve le meilleur de la recherche comme des publications de revues prédatrices, sans tri qualitatif.
 
@@ -52,7 +52,7 @@ Ni HAL ni Google Scholar ne produisent de **fiches pratiques**, de synthèses m�
 |---|---|---|---|
 | Modèle | Payant (abonnement) | Gratuit | Gratuit |
 | Nature | Dossiers techniques validés | Archive ouverte de dépôts | Moteur d'indexation |
-| Volume | Plus de 9 500 articles | Plus de 1,3 million de documents | Indexation massive du web scientifique |
+| Volume | Plus de 10 000 articles | Plus de 1,5 million de documents | Indexation massive du web scientifique |
 | Validation | Experts éditoriaux | Variable (préprints inclus) | Aucune |
 | Fiches pratiques et normes | Oui | Non | Non |
 | Langue | Français | Français et anglais | Multilingue |

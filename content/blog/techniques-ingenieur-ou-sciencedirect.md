@@ -12,7 +12,7 @@ imageAlt: "Professionnelle présentant une bibliothèque de ressources technique
 imageCredit: "Photo par IAEA Imagebank via Flickr (CC BY 2.0)"
 faq:
   - question: "Techniques de l'Ingénieur ou ScienceDirect : quelle base choisir ?"
-    answer: "Le choix dépend de l'usage. Pour de la documentation technique opérationnelle, normative et en français, couvrant plusieurs domaines de l'ingénierie en un seul abonnement, Techniques de l'Ingénieur est la référence avec plus de 9 500 articles validés par des experts. Pour de la recherche académique et de la littérature scientifique internationale relue par les pairs, ScienceDirect (Elsevier) domine avec plus de 18 millions de documents. Un bureau d'études francophone privilégiera Techniques de l'Ingénieur, une équipe R and D tournée vers la publication ajoutera ScienceDirect."
+    answer: "Le choix dépend de l'usage. Pour de la documentation technique opérationnelle, normative et en français, couvrant plusieurs domaines de l'ingénierie en un seul abonnement, Techniques de l'Ingénieur est la référence avec plus de 10 000 articles validés par des experts. Pour de la recherche académique et de la littérature scientifique internationale relue par les pairs, ScienceDirect (Elsevier) domine avec plus de 20 millions de documents. Un bureau d'études francophone privilégiera Techniques de l'Ingénieur, une équipe R and D tournée vers la publication ajoutera ScienceDirect."
   - question: "Quelle est la différence entre Techniques de l'Ingénieur et ScienceDirect ?"
     answer: "Techniques de l'Ingénieur publie des dossiers techniques et des fiches pratiques rédigés par des experts, en français, orientés application industrielle et cadre normatif. ScienceDirect agrège des articles de revues scientifiques et des chapitres d'ouvrages, en anglais, relus par des comités de lecture et orientés recherche. L'un répond au besoin opérationnel de l'ingénieur, l'autre au besoin académique du chercheur."
   - question: "ScienceDirect est-il plus complet que Techniques de l'Ingénieur ?"
@@ -25,8 +25,8 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Techniques de l'Ingénieur est la référence francophone de la documentation technique opérationnelle, avec plus de 9 500 articles validés par des experts et classés en bases thématiques (mécanique, énergie, génie civil, procédés, etc.).
-> 2. ScienceDirect (Elsevier) domine la littérature scientifique mondiale avec plus de 18 millions d'articles et chapitres relus par les pairs, mais en anglais et orientés recherche.
+> 1. Techniques de l'Ingénieur est la référence francophone de la documentation technique opérationnelle, avec plus de 10 000 articles validés par des experts et classés en bases thématiques (mécanique, énergie, génie civil, procédés, etc.).
+> 2. ScienceDirect (Elsevier) domine la littérature scientifique mondiale avec plus de 20 millions d'articles et chapitres relus par les pairs, mais en anglais et orientés recherche.
 > 3. Pour un ingénieur en bureau d'études ou en industrie, Techniques de l'Ingénieur répond au besoin opérationnel et normatif quotidien ; ScienceDirect répond au besoin académique de R and D.
 > 4. Les deux bases sont complémentaires : la première pour appliquer et se conformer, la seconde pour chercher et publier.
 
@@ -34,7 +34,7 @@ readingTime: true
 
 Comparer **Techniques de l'Ingénieur** et **ScienceDirect** revient à comparer deux usages de l'information technique, pas deux produits interchangeables. La première est une base de documentation professionnelle pensée pour l'ingénieur en activité. La seconde est une plateforme de littérature scientifique pensée pour le chercheur. Choisir la bonne **base documentaire technique** suppose donc de partir du besoin réel, et non du catalogue le plus volumineux.
 
-Le réflexe du nombre d'articles induit souvent en erreur. ScienceDirect agrège plus de 18 millions de documents quand Techniques de l'Ingénieur en compte plus de 9 500. L'écart paraît écrasant, mais il oppose une masse de publications académiques à un corpus éditorialisé de dossiers de synthèse. La logique de consolidation diffère radicalement, comme le détaille déjà le panorama des [meilleurs sites web d'ingénierie](/blog/meilleurs-sites-web-ingenierie/).
+Le réflexe du nombre d'articles induit souvent en erreur. ScienceDirect agrège plus de 20 millions de documents quand Techniques de l'Ingénieur en compte plus de 10 000. L'écart paraît écrasant, mais il oppose une masse de publications académiques à un corpus éditorialisé de dossiers de synthèse. La logique de consolidation diffère radicalement, comme le détaille déjà le panorama des [meilleurs sites web d'ingénierie](/blog/meilleurs-sites-web-ingenierie/).
 
 ## Couverture et nature des contenus
 
@@ -51,7 +51,7 @@ La qualité repose sur deux mécanismes distincts. Techniques de l'Ingénieur s'
 | Critère | Techniques de l'Ingénieur | ScienceDirect |
 |---|---|---|
 | Nature | Documentation technique appliquée | Littérature scientifique académique |
-| Volume | Plus de 9 500 articles | Plus de 18 millions de documents |
+| Volume | Plus de 10 000 articles | Plus de 20 millions de documents |
 | Langue | Français | Anglais majoritaire |
 | Validation | Experts éditoriaux | Relecture par les pairs |
 | Ancrage normatif | Fort (normes françaises et européennes) | Faible |
@@ -65,7 +65,7 @@ Côté budget, Techniques de l'Ingénieur reste accessible à l'échelle d'un se
 
 ## Quelle base selon le profil
 
-Le bon choix se lit dans le métier. Pour un bureau d'études, un service méthodes ou un responsable maintenance qui ont besoin de réponses applicables et conformes, **Techniques de l'Ingénieur** est le socle naturel : un seul abonnement couvre plusieurs domaines, en français, avec des fiches directement exploitables. C'est aussi l'outil le plus indiqué pour [organiser une veille technologique en ingénierie](/blog/meilleurs-sites-web-ingenierie/) à l'échelle d'une équipe.
+Le bon choix se lit dans le métier. Pour un bureau d'études, un service méthodes ou un responsable maintenance qui ont besoin de réponses applicables et conformes, **Techniques de l'Ingénieur** est le socle naturel : un seul abonnement couvre plusieurs domaines, en français, avec des fiches directement exploitables. Pour intégrer aussi les ressources gratuites à la réflexion, le comparatif [Techniques de l'Ingénieur face à HAL et Google Scholar](/blog/techniques-ingenieur-hal-google-scholar/) prolonge l'analyse.
 
 Pour un laboratoire, une équipe R and D tournée vers la publication ou un doctorant, ScienceDirect apporte la profondeur académique et la couverture internationale indispensables. Le scénario le plus solide, pour une structure qui mêle application et recherche, combine les deux : Techniques de l'Ingénieur pour le travail d'ingénierie au quotidien, ScienceDirect pour la pointe scientifique.
 
