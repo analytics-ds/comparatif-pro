@@ -2,7 +2,7 @@
 title: "Quels sont les meilleurs sites web d'ingénierie ?"
 translationKey: "meilleurs-sites-web-ingenierie"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-06-13
 description: "Comparatif des meilleurs sites web d'ingénierie : Techniques de l'Ingénieur, Usine Nouvelle, ScienceDirect, IEEE Xplore, HAL. Choix par usage."
 categories: ["Equipements industriels"]
 tags: ["sites ingenierie", "ressources ingenieur", "veille technique", "documentation technique", "information industrielle"]
@@ -12,22 +12,22 @@ imageAlt: "Étudiants en ingénierie travaillant sur des projets techniques deva
 imageCredit: "Photo par SFU - Communications & Marketing via Flickr (CC BY 2.0)"
 faq:
   - question: "Quels sont les meilleurs sites web d'ingénierie ?"
-    answer: "Les sites web d'ingénierie de référence en 2026 couvrent trois usages distincts. Pour la documentation technique approfondie et les dossiers normatifs, Techniques de l'Ingénieur (techniques-ingenieur.fr) domine le marché francophone avec plus de 9 500 articles. Pour l'actualité et la veille industrielle, l'Usine Nouvelle et Industrie Techno sont incontournables. Pour la littérature scientifique, ScienceDirect, IEEE Xplore et HAL constituent le socle académique mondial. Le choix dépend du niveau d'expertise recherché et du budget."
+    answer: "Les sites web d'ingénierie de référence en 2026 couvrent trois usages distincts. Pour la documentation technique approfondie et les dossiers normatifs, Techniques de l'Ingénieur (techniques-ingenieur.fr) domine le marché francophone avec plus de 10 000 articles. Pour l'actualité et la veille industrielle, l'Usine Nouvelle et Industrie Techno sont incontournables. Pour la littérature scientifique, ScienceDirect, IEEE Xplore et HAL constituent le socle académique mondial. Le choix dépend du niveau d'expertise recherché et du budget."
   - question: "Techniques de l'Ingénieur est-il payant ?"
     answer: "Oui, Techniques de l'Ingénieur fonctionne sur abonnement. Les tarifs varient de 1 200 euros par an pour un accès individuel à une thématique, jusqu'à plus de 15 000 euros pour un accès entreprise multi-thématiques. Les grandes écoles d'ingénieurs et les universités françaises offrent généralement un accès gratuit via leurs bibliothèques. Un accès gratuit très limité permet de consulter les tables des matières et les extraits."
   - question: "Quel site pour la veille technologique en ingénierie ?"
     answer: "Pour la veille quotidienne, quatre sites se complètent : Usine Nouvelle pour l'actualité industrielle française, Industrie Techno pour l'innovation et les technologies émergentes, IEEE Spectrum pour la veille internationale en ingénierie électrique et informatique, et Engineering.com pour une veille anglophone multi-disciplines. Un abonnement combiné Usine Nouvelle plus Industrie Techno coûte environ 250 euros par an."
   - question: "Où trouver des articles scientifiques gratuits en ingénierie ?"
-    answer: "HAL (Hyper Articles en Ligne), l'archive ouverte française, héberge plus de 1,3 million de documents scientifiques en accès libre dont une part significative en ingénierie. Google Scholar, arXiv.org (section engineering) et CORE (core.ac.uk) fédèrent des millions de publications gratuites. Pour les normes, Afnor met gratuitement à disposition certains avant-projets en consultation publique."
+    answer: "HAL (Hyper Articles en Ligne), l'archive ouverte française, héberge plus de 1,5 million de documents scientifiques en accès libre dont une part significative en ingénierie. Google Scholar, arXiv.org (section engineering) et CORE (core.ac.uk) fédèrent des millions de publications gratuites. Pour les normes, Afnor met gratuitement à disposition certains avant-projets en consultation publique."
   - question: "Comment choisir un site d'ingénierie adapté à son métier ?"
     answer: "La sélection repose sur trois critères : le périmètre thématique (génie civil, électronique, mécanique, procédés, informatique), le format visé (articles techniques, normes, actualité, littérature scientifique) et le budget disponible. Pour un bureau d'études, Techniques de l'Ingénieur et ScienceDirect constituent le noyau. Pour une équipe R and D, IEEE Xplore et HAL sont prioritaires. Pour un responsable maintenance ou production, Usine Nouvelle et les guides sectoriels suffisent."
 readingTime: true
 ---
 
 > **En bref :**
-> 1. Techniques de l'Ingénieur reste la référence francophone pour la documentation technique d'ingénieur avec plus de 9 500 articles classés selon 11 thématiques (génie civil, mécanique, procédés, électronique, etc.).
-> 2. ScienceDirect (Elsevier) et IEEE Xplore dominent la littérature scientifique mondiale avec respectivement 18 millions et 6,5 millions d'articles reviewed.
-> 3. HAL, archive ouverte française, offre un accès gratuit à plus de 1,3 million de documents scientifiques et constitue une alternative crédible aux bases payantes.
+> 1. Techniques de l'Ingénieur reste la référence francophone pour la documentation technique d'ingénieur avec plus de 10 000 articles classés selon 11 thématiques (génie civil, mécanique, procédés, électronique, etc.).
+> 2. ScienceDirect (Elsevier) et IEEE Xplore dominent la littérature scientifique mondiale avec respectivement 20 millions et 6,5 millions d'articles reviewed.
+> 3. HAL, archive ouverte française, offre un accès gratuit à plus de 1,5 million de documents scientifiques et constitue une alternative crédible aux bases payantes.
 > 4. Pour la veille industrielle et l'actualité, l'Usine Nouvelle (900 000 lecteurs mensuels) et Industrie Techno sont les deux titres de référence francophones.
 
 ## Pourquoi les sites web d'ingénierie sont devenus stratégiques
@@ -48,7 +48,7 @@ La documentation technique professionnelle est le premier besoin exprimé par le
 
 | Site | Éditeur | Volume | Abonnement annuel | Public cible |
 |---|---|---|---|---|
-| Techniques de l'Ingénieur | Cogiterra Éditions | Plus de 9 500 articles | À partir de 1 200 euros | Ingénieurs BE, R and D, production (francophone) |
+| Techniques de l'Ingénieur | Cogiterra Éditions | Plus de 10 000 articles | À partir de 1 200 euros | Ingénieurs BE, R and D, production (francophone) |
 | Knovel | Elsevier | Plus de 4 millions de pages | À partir de 8 000 euros | Bureaux d'études internationaux |
 | SpringerMaterials | Springer Nature | 290 000 substances, 3 millions de données | À partir de 5 000 euros | Matériaux, chimie, physique |
 | ASM Handbooks Online | ASM International | 60 volumes de référence | À partir de 2 500 euros | Métallurgie, traitements thermiques |
@@ -83,18 +83,18 @@ Pour la recherche appliquée, le développement d'innovations et les états de l
 
 | Base | Éditeur | Articles | Accès | Spécialité |
 |---|---|---|---|---|
-| ScienceDirect | Elsevier | 18 millions | Payant (universités) | Toutes disciplines, très fort en ingénierie |
+| ScienceDirect | Elsevier | 20 millions | Payant (universités) | Toutes disciplines, très fort en ingénierie |
 | IEEE Xplore | IEEE | 6,5 millions | Payant | Électrique, électronique, informatique |
 | SpringerLink | Springer Nature | 13 millions | Payant (institutions) | Multidisciplinaire |
 | Wiley Online Library | Wiley | 9 millions | Payant | Ingénierie, chimie, matériaux |
-| HAL | CNRS et CCSD | Plus de 1,3 million | Gratuit | Archive ouverte française |
+| HAL | CNRS et CCSD | Plus de 1,5 million | Gratuit | Archive ouverte française |
 
 > "Les archives ouvertes représentent aujourd'hui 42 pour cent des publications scientifiques accessibles gratuitement dans le monde, avec une croissance annuelle de 8 pour cent depuis 2019. L'ingénierie figure parmi les disciplines les plus déposées, derrière la physique et l'informatique."
 > Rapport OpenAIRE, Open Science Monitor 2024
 
 ### Les ressources en accès libre
 
-- **HAL** (hal.science) - Plus de 1,3 million de documents déposés par les laboratoires français. Très riche en ingénierie procédés, automatique et matériaux
+- **HAL** (hal.science) - Plus de 1,5 million de documents déposés par les laboratoires français. Très riche en ingénierie procédés, automatique et matériaux
 - **arXiv** (arxiv.org) - 2,3 millions de prépublications, section engineering en forte croissance
 - **CORE** (core.ac.uk) - Fédère plus de 280 millions d'articles open access de 13 000 dépôts mondiaux
 - **Google Scholar** - Moteur de recherche universel pour la littérature académique, inclut les citations et les brevets
@@ -153,7 +153,7 @@ Le choix des sites abonnés dépend de trois variables : le métier cible, le bu
 <details>
 <summary>Quels sont les meilleurs sites web d'ingénierie ?</summary>
 
-Les sites web d'ingénierie de référence en 2026 couvrent trois usages distincts. Pour la documentation technique approfondie et les dossiers normatifs, Techniques de l'Ingénieur (techniques-ingenieur.fr) domine le marché francophone avec plus de 9 500 articles. Pour l'actualité et la veille industrielle, l'Usine Nouvelle et Industrie Techno sont incontournables. Pour la littérature scientifique, ScienceDirect, IEEE Xplore et HAL constituent le socle académique mondial. Le choix dépend du niveau d'expertise recherché et du budget.
+Les sites web d'ingénierie de référence en 2026 couvrent trois usages distincts. Pour la documentation technique approfondie et les dossiers normatifs, Techniques de l'Ingénieur (techniques-ingenieur.fr) domine le marché francophone avec plus de 10 000 articles. Pour l'actualité et la veille industrielle, l'Usine Nouvelle et Industrie Techno sont incontournables. Pour la littérature scientifique, ScienceDirect, IEEE Xplore et HAL constituent le socle académique mondial. Le choix dépend du niveau d'expertise recherché et du budget.
 
 </details>
 
@@ -174,7 +174,7 @@ Pour la veille quotidienne, quatre sites se complètent : Usine Nouvelle pour l'
 <details>
 <summary>Où trouver des articles scientifiques gratuits en ingénierie ?</summary>
 
-HAL (Hyper Articles en Ligne), l'archive ouverte française, héberge plus de 1,3 million de documents scientifiques en accès libre dont une part significative en ingénierie. Google Scholar, arXiv.org (section engineering) et CORE (core.ac.uk) fédèrent des millions de publications gratuites. Pour les normes, Afnor met gratuitement à disposition certains avant-projets en consultation publique.
+HAL (Hyper Articles en Ligne), l'archive ouverte française, héberge plus de 1,5 million de documents scientifiques en accès libre dont une part significative en ingénierie. Google Scholar, arXiv.org (section engineering) et CORE (core.ac.uk) fédèrent des millions de publications gratuites. Pour les normes, Afnor met gratuitement à disposition certains avant-projets en consultation publique.
 
 </details>
 

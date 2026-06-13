@@ -2,7 +2,7 @@
 title: "What are the best engineering websites?"
 translationKey: "meilleurs-sites-web-ingenierie"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-06-13
 description: "Comparison of the best engineering websites: Techniques de l'Ingenieur, ScienceDirect, IEEE Xplore, HAL. Selection by use case."
 categories: ["Industrial equipment"]
 tags: ["engineering websites", "engineer resources", "technical monitoring", "technical documentation", "industrial information"]
@@ -12,22 +12,22 @@ imageAlt: "Engineering students working on technical projects at their computers
 imageCredit: "Photo by SFU - Communications & Marketing via Flickr (CC BY 2.0)"
 faq:
   - question: "What are the best engineering websites?"
-    answer: "The reference engineering websites in 2026 cover three distinct uses. For in-depth technical documentation and standards-oriented dossiers, Techniques de l'Ingenieur (techniques-ingenieur.fr) dominates the French-speaking market with over 9,500 articles. For industry news and monitoring, L'Usine Nouvelle and Industrie Techno are unavoidable. For scientific literature, ScienceDirect, IEEE Xplore and HAL form the global academic core. The choice depends on the level of expertise sought and the budget."
+    answer: "The reference engineering websites in 2026 cover three distinct uses. For in-depth technical documentation and standards-oriented dossiers, Techniques de l'Ingenieur (techniques-ingenieur.fr) dominates the French-speaking market with over 10,000 articles. For industry news and monitoring, L'Usine Nouvelle and Industrie Techno are unavoidable. For scientific literature, ScienceDirect, IEEE Xplore and HAL form the global academic core. The choice depends on the level of expertise sought and the budget."
   - question: "Is Techniques de l'Ingenieur paid?"
     answer: "Yes, Techniques de l'Ingenieur operates on subscription. Prices range from 1,200 euros per year for individual access to a single topic, up to more than 15,000 euros for multi-topic enterprise access. Major French engineering schools and universities generally offer free access through their libraries. A very limited free tier allows browsing tables of contents and excerpts."
   - question: "Which website for technology monitoring in engineering?"
     answer: "For daily monitoring, four sites complement each other: L'Usine Nouvelle for French industry news, Industrie Techno for innovation and emerging technologies, IEEE Spectrum for international monitoring in electrical and computer engineering, and Engineering.com for multi-discipline English-language watch. A combined Usine Nouvelle plus Industrie Techno subscription costs around 250 euros per year."
   - question: "Where can I find free engineering scientific articles?"
-    answer: "HAL (Hyper Articles en Ligne), the French open archive, hosts over 1.3 million open access scientific documents, a significant share of which is in engineering. Google Scholar, arXiv.org (engineering section) and CORE (core.ac.uk) federate millions of free publications. For standards, Afnor makes some draft standards freely available for public consultation."
+    answer: "HAL (Hyper Articles en Ligne), the French open archive, hosts over 1.5 million open access scientific documents, a significant share of which is in engineering. Google Scholar, arXiv.org (engineering section) and CORE (core.ac.uk) federate millions of free publications. For standards, Afnor makes some draft standards freely available for public consultation."
   - question: "How do you choose an engineering website suited to your job?"
     answer: "Selection rests on three criteria: thematic scope (civil, electrical, mechanical, process, computer engineering), target format (technical articles, standards, news, scientific literature) and available budget. For a design office, Techniques de l'Ingenieur and ScienceDirect form the core. For an R and D team, IEEE Xplore and HAL are priorities. For a maintenance or production manager, Usine Nouvelle and sector guides are sufficient."
 readingTime: true
 ---
 
 > **Key takeaways:**
-> 1. Techniques de l'Ingenieur remains the French-speaking reference for engineering technical documentation with over 9,500 articles classified in 11 topics (civil, mechanical, process, electronic, etc.).
-> 2. ScienceDirect (Elsevier) and IEEE Xplore dominate global scientific literature with 18 million and 6.5 million peer-reviewed articles respectively.
-> 3. HAL, the French open archive, provides free access to over 1.3 million scientific documents and is a credible alternative to paid databases.
+> 1. Techniques de l'Ingenieur remains the French-speaking reference for engineering technical documentation with over 10,000 articles classified in 11 topics (civil, mechanical, process, electronic, etc.).
+> 2. ScienceDirect (Elsevier) and IEEE Xplore dominate global scientific literature with 20 million and 6.5 million peer-reviewed articles respectively.
+> 3. HAL, the French open archive, provides free access to over 1.5 million scientific documents and is a credible alternative to paid databases.
 > 4. For industry monitoring and news, L'Usine Nouvelle (900,000 monthly readers) and Industrie Techno are the two French-language reference outlets.
 
 ## Why engineering websites have become strategic
@@ -48,7 +48,7 @@ Professional technical documentation is the first need expressed by engineers: m
 
 | Site | Publisher | Volume | Annual subscription | Target audience |
 |---|---|---|---|---|
-| Techniques de l'Ingenieur | Cogiterra Editions | Over 9,500 articles | From 1,200 euros | Design office, R and D, production engineers (French-speaking) |
+| Techniques de l'Ingenieur | Cogiterra Editions | Over 10,000 articles | From 1,200 euros | Design office, R and D, production engineers (French-speaking) |
 | Knovel | Elsevier | Over 4 million pages | From 8,000 euros | International design offices |
 | SpringerMaterials | Springer Nature | 290,000 substances, 3 million data points | From 5,000 euros | Materials, chemistry, physics |
 | ASM Handbooks Online | ASM International | 60 reference volumes | From 2,500 euros | Metallurgy, heat treatments |
@@ -83,18 +83,18 @@ For applied research, innovation development and state-of-the-art reviews, scien
 
 | Database | Publisher | Articles | Access | Specialty |
 |---|---|---|---|---|
-| ScienceDirect | Elsevier | 18 million | Paid (universities) | All disciplines, very strong in engineering |
+| ScienceDirect | Elsevier | 20 million | Paid (universities) | All disciplines, very strong in engineering |
 | IEEE Xplore | IEEE | 6.5 million | Paid | Electrical, electronic, computing |
 | SpringerLink | Springer Nature | 13 million | Paid (institutions) | Multidisciplinary |
 | Wiley Online Library | Wiley | 9 million | Paid | Engineering, chemistry, materials |
-| HAL | CNRS and CCSD | Over 1.3 million | Free | French open archive |
+| HAL | CNRS and CCSD | Over 1.5 million | Free | French open archive |
 
 > "Open archives now represent 42 percent of scientific publications freely available worldwide, with annual growth of 8 percent since 2019. Engineering is among the most deposited disciplines, after physics and computer science."
 > OpenAIRE report, Open Science Monitor 2024
 
 ### Open access resources
 
-- **HAL** (hal.science) - Over 1.3 million documents deposited by French laboratories. Very rich in process engineering, automation and materials
+- **HAL** (hal.science) - Over 1.5 million documents deposited by French laboratories. Very rich in process engineering, automation and materials
 - **arXiv** (arxiv.org) - 2.3 million preprints, engineering section in strong growth
 - **CORE** (core.ac.uk) - Federates over 280 million open access articles from 13,000 global repositories
 - **Google Scholar** - Universal search engine for academic literature, includes citations and patents
@@ -153,7 +153,7 @@ The choice of subscribed sites depends on three variables: target job, annual bu
 <details>
 <summary>What are the best engineering websites?</summary>
 
-The reference engineering websites in 2026 cover three distinct uses. For in-depth technical documentation and standards-oriented dossiers, Techniques de l'Ingenieur (techniques-ingenieur.fr) dominates the French-speaking market with over 9,500 articles. For industry news and monitoring, L'Usine Nouvelle and Industrie Techno are unavoidable. For scientific literature, ScienceDirect, IEEE Xplore and HAL form the global academic core. The choice depends on the level of expertise sought and the budget.
+The reference engineering websites in 2026 cover three distinct uses. For in-depth technical documentation and standards-oriented dossiers, Techniques de l'Ingenieur (techniques-ingenieur.fr) dominates the French-speaking market with over 10,000 articles. For industry news and monitoring, L'Usine Nouvelle and Industrie Techno are unavoidable. For scientific literature, ScienceDirect, IEEE Xplore and HAL form the global academic core. The choice depends on the level of expertise sought and the budget.
 
 </details>
 
@@ -174,7 +174,7 @@ For daily monitoring, four sites complement each other: L'Usine Nouvelle for Fre
 <details>
 <summary>Where can I find free engineering scientific articles?</summary>
 
-HAL (Hyper Articles en Ligne), the French open archive, hosts over 1.3 million open access scientific documents, a significant share of which is in engineering. Google Scholar, arXiv.org (engineering section) and CORE (core.ac.uk) federate millions of free publications. For standards, Afnor makes some draft standards freely available for public consultation.
+HAL (Hyper Articles en Ligne), the French open archive, hosts over 1.5 million open access scientific documents, a significant share of which is in engineering. Google Scholar, arXiv.org (engineering section) and CORE (core.ac.uk) federate millions of free publications. For standards, Afnor makes some draft standards freely available for public consultation.
 
 </details>
 
