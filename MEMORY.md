@@ -1,5 +1,9 @@
 # Journal de publication
 
+## Semaine 24 (08/06/2026 - 14/06/2026)
+- 2026-06-13 | Techniques de l'Ingénieur ou ScienceDirect : laquelle choisir ? (FR) | Equipements industriels
+- 2026-06-13 | Techniques de l'Ingénieur, HAL ou Google Scholar : payant ou gratuit ? (FR) | Equipements industriels
+
 ## Semaine 22 (25/05/2026 - 31/05/2026)
 - 2026-05-26 | Outillage professionnel pas cher : guide d'achat 2026 (FR+EN) | Outillage et matériel | auto
 
