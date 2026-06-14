@@ -20,7 +20,7 @@
           {{ range (where (where .Site.RegularPages "Kind" "page") "Section" "") }}
             {{ $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
             {{ if in $legalSlugs $slug }}{{ continue }}{{ end }}
-            {{ if eq $slug (cond $isEN "site-map" "plan-du-site") }}{{ continue }}{{ end }}
+            {{ if eq $slug (cond $isEN "sitemap" "plan-du-site") }}{{ continue }}{{ end }}
             {{ $emoji := "📄" }}
             {{ if in (slice "a-propos" "about") $slug }}{{ $emoji = "👤" }}{{ end }}
             {{ if in (slice "contact") $slug }}{{ $emoji = "✉️" }}{{ end }}

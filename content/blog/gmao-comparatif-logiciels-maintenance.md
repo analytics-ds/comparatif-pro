@@ -2,7 +2,7 @@
 title: "GMAO : comparatif des logiciels de gestion de maintenance assistée par ordinateur"
 description: "Comparatif des GMAO (Gestion de Maintenance Assistée par Ordinateur) : IBM Maximo, SAP PM, Coswin, Altair. Critères, coûts et intégration ERP."
 date: 2026-04-12
-lastmod: 2026-04-12
+lastmod: 2026-06-14
 draft: false
 categories: ["Services aux entreprises"]
 tags: ["GMAO", "maintenance", "services industriels"]
@@ -43,7 +43,7 @@ La couverture fonctionnelle (maintenance préventive, corrective, prédictive) d
 | IBM Maximo | Licence | 80 000 euros et plus | Grands comptes, critique |
 | SAP PM | Module ERP | Inclus dans SAP | Déjà équipés SAP |
 
-Consulter aussi notre [guide des ERP pour PME](/blog/choisir-erp-pme-guide-complet/) pour l'articulation GMAO-ERP, et notre [guide des EPI](/blog/epi-sécurité-industrielle-guide/) pour compléter le pilotage HSE.
+Consulter aussi notre [guide des ERP pour PME](/blog/choisir-erp-pme-guide-complet/) pour l'articulation GMAO-ERP, et notre [guide des EPI](/blog/epi-securite-industrielle-guide/) pour compléter le pilotage HSE.
 
 ## FAQ
 

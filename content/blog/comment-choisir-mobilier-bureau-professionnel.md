@@ -2,7 +2,7 @@
 title: "Comment choisir le mobilier de bureau professionnel adapté à votre entreprise"
 description: "Guide comparatif pour sélectionner le mobilier de bureau professionnel : critères d'ergonomie, modularité, budget et tendances 2026."
 date: 2026-04-17
-lastmod: 2026-04-17
+lastmod: 2026-06-14
 draft: false
 categories: ["Amenagement de bureaux"]
 tags: ["mobilier de bureau", "amenagement", "ergonomie"]
@@ -44,7 +44,7 @@ La modularité permet d'adapter l'espace aux évolutions de l'organisation. Les 
 | Haut de gamme | 2000 à 3500 euros HT | Direction, sièges sociaux | 10 ans |
 | Sur-mesure | Sur devis | Projets architecturaux | Variable |
 
-Pour aller plus loin, consulter notre [guide sur les espaces collaboratifs](/blog/amenager-espace-collaboratif-entreprise/) et notre [comparatif des logiciels de gestion d'entreprise](/blog/choisir-erp-pme-guide-complet/) pour coordonner l'aménagement avec les outils de travail.
+Pour aller plus loin, consulter notre [guide sur les espaces collaboratifs](/blog/comment-amenager-bureau-open-space/) et notre [comparatif des logiciels de gestion d'entreprise](/blog/choisir-erp-pme-guide-complet/) pour coordonner l'aménagement avec les outils de travail.
 
 ## FAQ
 

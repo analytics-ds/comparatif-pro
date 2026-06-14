@@ -2,7 +2,7 @@
 title: "Instruments de mesure industriels : guide comparatif des technologies"
 description: "Comparatif des instruments de mesure industriels : capteurs, multimètres, oscilloscopes, analyseurs. Critères de choix et marques de référence."
 date: 2026-04-16
-lastmod: 2026-04-16
+lastmod: 2026-06-14
 draft: false
 categories: ["Équipements industriels"]
 tags: ["instrumentation", "métrologie", "capteurs"]
@@ -41,7 +41,7 @@ Les capteurs (température, pression, débit, niveau) collectent les données ph
 | Industriel | 0,1 % | CAT IV 600V / CAT III 1000V | 500 à 1200 euros |
 | Métrologie | 0,01 % | CAT III 1000V | 2000 euros et plus |
 
-Pour compléter, consulter notre [guide des EPI industriels](/blog/epi-sécurité-industrielle-guide/) et notre [comparatif des logiciels de GMAO](/blog/gmao-comparatif-logiciels-maintenance/) qui accompagnent les plans de métrologie.
+Pour compléter, consulter notre [guide des EPI industriels](/blog/epi-securite-industrielle-guide/) et notre [comparatif des logiciels de GMAO](/blog/gmao-comparatif-logiciels-maintenance/) qui accompagnent les plans de métrologie.
 
 ## FAQ
 
