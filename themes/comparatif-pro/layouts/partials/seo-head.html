@@ -111,6 +111,31 @@
 }
 </script>
 
+{{- /* JSON-LD : WebPage (toutes les pages, sauf listes=CollectionPage et auteurs=ProfilePage qui sont des sous-types de WebPage) */ -}}
+{{- $isList := or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Section "categories") (and .IsNode (eq .Kind "section")) }}
+{{- $isAuthor := and .IsPage (eq .Section "authors") }}
+{{- if not (or $isList $isAuthor) }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}#webpage",
+    "url": "{{ .Permalink }}",
+    "name": {{ partial "dyn.html" .Title | jsonify }},
+    "description": {{ with .Description }}{{ partial "dyn.html" . | jsonify }}{{ else }}{{ .Site.Params.description | jsonify }}{{ end }},
+    "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
+    "isPartOf": { "@id": "{{ .Site.BaseURL }}#website" },
+    "publisher": { "@id": "{{ .Site.BaseURL }}#organization" }{{ if .IsPage }},
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"{{ end }}{{ with $ogImage }},
+    "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "{{ . | absURL }}"
+    }{{ end }}
+}
+</script>
+{{- end }}
+
 {{- /* JSON-LD : Article (articles) */ -}}
 {{ if and .IsPage (eq .Section "blog") }}
 {{- $lang := .Site.Language.Lang }}
@@ -161,7 +186,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ .Permalink }}"
+        "@id": "{{ .Permalink }}#webpage"
     },
     "isPartOf": {
         "@type": "Blog",
@@ -300,5 +325,45 @@
     ]
 }
 </script>
+
+{{ else if and .IsPage (eq .Section "authors") }}
+
+{{- /* JSON-LD : ProfilePage + Person (pages auteur) */ -}}
+{{- $lang := .Site.Language.Lang }}
+{{- $slug := .Slug | default (path.Base .RelPermalink | strings.TrimSuffix "/") }}
+{{- $a := index hugo.Data.authors $slug }}
+{{- with $a }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "@id": "{{ $.Permalink }}#webpage",
+    "url": "{{ $.Permalink }}",
+    "name": {{ $.Title | jsonify }},
+    "inLanguage": "{{ $.Site.Language.Locale | default "fr-FR" }}",
+    "isPartOf": { "@id": "{{ $.Site.BaseURL }}#website" },
+    "mainEntity": {
+        "@type": "{{ if eq .type "organization" }}Organization{{ else }}Person{{ end }}",
+        "@id": "{{ $.Permalink }}#person",
+        "name": {{ .name | jsonify }},
+        "url": "{{ $.Permalink }}"{{ with .avatar }},
+        "image": "{{ . | absURL }}"{{ end }}{{ with index .jobTitle $lang }},
+        "jobTitle": {{ . | jsonify }}{{ end }}{{ with index .bio $lang }},
+        "description": {{ . | jsonify }}{{ end }}{{ with .expertise }},
+        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}]{{ end }}{{ with .location }},
+        "homeLocation": { "@type": "Place", "name": {{ . | jsonify }} }{{ end }}{{ $certifs := index .certifications $lang }}{{ with $certifs }},
+        "hasCredential": [{{ range $i, $c := . }}{{ if $i }}, {{ end }}{
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "certification",
+            "name": {{ $c.name | jsonify }}{{ with $c.issuer }},
+            "recognizedBy": { "@type": "Organization", "name": {{ . | jsonify }} }{{ end }}{{ with $c.year }},
+            "dateCreated": "{{ . }}"{{ end }}
+        }{{ end }}]{{ end }}{{ with .linkedinUrl }},
+        "sameAs": ["{{ . }}"]{{ end }},
+        "worksFor": { "@id": "{{ $.Site.BaseURL }}#organization" }
+    }
+}
+</script>
+{{- end }}
 
 {{ end }}

@@ -889,3 +889,142 @@ aurelie-vasseur:
       - title: "SERVICES EXPO talk"
         type: "Conference talk"
         description: "Panel on structuring a services portfolio and measuring provider performance."
+
+
+helene-fontaine:
+  id: helene-fontaine
+  name: Hélène Fontaine
+  type: person
+  avatar: ""
+  linkedinUrl: ""
+  category: expertise-comptable
+  location: "Lyon, France"
+  yearsExperience: 15
+  jobTitle:
+    fr: Experte-comptable diplômée, conseil aux TPE et PME
+    en: Chartered accountant, advisor to small and mid-sized businesses
+  role:
+    fr: Experte-comptable et conseil en gestion
+    en: Chartered accountant and management advisor
+  bio:
+    fr: "Hélène Fontaine est diplômée d'expertise comptable (DEC) et a exercé quinze ans en cabinet, dont huit comme responsable de portefeuille TPE et PME. Elle a accompagné des centaines de créations d'entreprise, de bilans annuels et de missions de conseil en gestion, des artisans aux PME en croissance. Après avoir piloté la transformation digitale d'un cabinet de taille intermédiaire, elle se consacre au décryptage des offres comptables, des honoraires et des obligations fiscales pour aider les dirigeants à choisir le bon accompagnement, loin des promesses marketing."
+    en: "Hélène Fontaine holds the French chartered accountancy diploma (DEC) and spent fifteen years in practice, including eight as a portfolio manager for small and mid-sized businesses. She has supported hundreds of company formations, annual accounts and management advisory engagements, from sole traders to growing SMEs. After leading the digital transformation of a mid-sized firm, she now focuses on decoding accounting offerings, fees and tax obligations to help business owners choose the right support, far from marketing promises."
+  expertise:
+    - Comptabilité TPE et PME
+    - Fiscalité des entreprises
+    - Liasse fiscale et bilan
+    - TVA et obligations déclaratives
+    - Création et reprise d'entreprise
+    - Pilotage de gestion et trésorerie
+    - Choix et relation avec un cabinet comptable
+  topics:
+    - expert comptable
+    - expert-comptable
+    - expertise comptable
+    - comptabilité
+    - fiscalité
+    - bilan
+    - liasse fiscale
+    - tva
+    - honoraires comptable
+    - création entreprise
+    - cabinet comptable
+    - gestion
+    - trésorerie
+    - tpe
+    - pme
+  languages:
+    fr:
+      - "Français (natif)"
+      - "Anglais (professionnel)"
+    en:
+      - "French (native)"
+      - "English (professional)"
+  keyNumbers:
+    fr:
+      - label: "Années d'expérience"
+        value: "15+"
+      - label: "Créations d'entreprise accompagnées"
+        value: "300+"
+      - label: "Bilans annuels supervisés"
+        value: "1000+"
+      - label: "Dirigeants de TPE-PME conseillés"
+        value: "250+"
+    en:
+      - label: "Years of experience"
+        value: "15+"
+      - label: "Company formations supported"
+        value: "300+"
+      - label: "Annual accounts supervised"
+        value: "1000+"
+      - label: "SME owners advised"
+        value: "250+"
+  experience:
+    fr:
+      - period: "2020 à aujourd'hui"
+        role: "Consultante éditoriale et conseil en gestion"
+        context: "Indépendante, médias et cabinets spécialisés"
+        description: "Décryptage des offres comptables, des honoraires et des obligations fiscales pour dirigeants de TPE et PME. Analyses comparatives des cabinets et plateformes en ligne."
+      - period: "2012 à 2020"
+        role: "Responsable de portefeuille TPE-PME"
+        context: "Cabinet d'expertise comptable de taille intermédiaire"
+        description: "Supervision d'un portefeuille de clients artisans, commerçants et PME : bilans, liasses fiscales, conseil en gestion et pilotage de la transformation digitale du cabinet."
+      - period: "2008 à 2012"
+        role: "Collaboratrice comptable confirmée"
+        context: "Cabinet d'expertise comptable régional"
+        description: "Tenue, révision et établissement des comptes annuels pour une clientèle de TPE, accompagnement des créations d'entreprise et des obligations déclaratives."
+    en:
+      - period: "2020 to present"
+        role: "Editorial consultant and management advisor"
+        context: "Independent, media and specialized firms"
+        description: "Decoding accounting offerings, fees and tax obligations for SME owners. Comparative analyses of firms and online platforms."
+      - period: "2012 to 2020"
+        role: "SME portfolio manager"
+        context: "Mid-sized chartered accountancy firm"
+        description: "Managed a portfolio of sole traders, retailers and SMEs: annual accounts, tax returns, management advisory and the firm's digital transformation."
+      - period: "2008 to 2012"
+        role: "Senior accountant"
+        context: "Regional chartered accountancy firm"
+        description: "Bookkeeping, review and preparation of annual accounts for SME clients, support for company formations and filing obligations."
+  certifications:
+    fr:
+      - year: 2011
+        name: "DEC (Diplôme d'expertise comptable)"
+        issuer: "État français"
+      - year: 2008
+        name: "DSCG (Diplôme supérieur de comptabilité et de gestion)"
+        issuer: "État français"
+      - year: 2006
+        name: "DCG (Diplôme de comptabilité et de gestion)"
+        issuer: "État français"
+    en:
+      - year: 2011
+        name: "DEC (French chartered accountancy diploma)"
+        issuer: "French State"
+      - year: 2008
+        name: "DSCG (Higher diploma in accounting and management)"
+        issuer: "French State"
+      - year: 2006
+        name: "DCG (Diploma in accounting and management)"
+        issuer: "French State"
+  significantWork:
+    fr:
+      - title: "Baromètre des honoraires comptables TPE-PME"
+        type: "Étude publique"
+        description: "Analyse des fourchettes d'honoraires pratiquées par les cabinets et plateformes en ligne selon la taille et le statut de l'entreprise."
+      - title: "Guide du choix d'un expert-comptable"
+        type: "Dossier long format"
+        description: "Méthodologie de sélection d'un cabinet comptable pour dirigeants de TPE et PME, des critères aux questions à poser."
+      - title: "Comparatif cabinet traditionnel et expert-comptable en ligne"
+        type: "Benchmark"
+        description: "Comparaison des modèles d'accompagnement comptable, du tarif au niveau de conseil, avec grille de scoring."
+    en:
+      - title: "SME Accounting Fees Barometer"
+        type: "Public study"
+        description: "Analysis of fee ranges charged by firms and online platforms depending on company size and legal status."
+      - title: "Guide to choosing a chartered accountant"
+        type: "Long-form report"
+        description: "Selection methodology for SME owners, from criteria to the questions to ask a firm."
+      - title: "Traditional firm versus online accountant comparison"
+        type: "Benchmark"
+        description: "Comparison of accounting support models, from pricing to advisory depth, with a scoring grid."
