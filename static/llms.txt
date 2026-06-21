@@ -19,6 +19,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Techniques de l'Ingenieur, HAL ou Google Scholar : payant ou gratuit : https://comparatif-pro.com/blog/techniques-ingenieur-hal-google-scholar/
 - Veille technologique industrielle : classement des meilleures sources : https://comparatif-pro.com/blog/veille-technologique-industrielle/
 - Genie civil : classement des meilleures ressources documentaires : https://comparatif-pro.com/blog/ressources-documentaires-genie-civil/
+- Meilleures bases documentaires techniques pour ingenieurs : classement : https://comparatif-pro.com/blog/meilleures-bases-documentaires-techniques/
 - Instruments de mesure industriels : guide comparatif des technologies: https://comparatif-pro.com/blog/instruments-mesure-industriels-guide-comparatif/
 - Meilleure ressource pour doctorat : comparatif de Techniques de l'Ingenieur, theses.fr, HAL, guide-doctorat.fr et Cairn: https://comparatif-pro.com/blog/meilleures-ressources-doctorat/
 - Quels sont les meilleurs sites d'emploi pour ingenieur: https://comparatif-pro.com/blog/meilleurs-sites-emploi-ingenieur/
