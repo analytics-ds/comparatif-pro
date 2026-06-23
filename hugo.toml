@@ -41,14 +41,6 @@ removePathAccents = true
 
 # Menu FR (categories uniquement, pas d'Accueil ni de Blog dans le header)
 [[languages.fr.menus.main]]
-  name = "Aménagement de bureaux"
-  url = "/categories/amenagement-de-bureaux/"
-  weight = 2
-[[languages.fr.menus.main]]
-  name = "Équipements industriels"
-  url = "/categories/equipements-industriels/"
-  weight = 3
-[[languages.fr.menus.main]]
   name = "Logiciels professionnels"
   url = "/categories/logiciels-professionnels/"
   weight = 4
@@ -70,14 +62,6 @@ removePathAccents = true
   weight = 8
 
 # Menu EN (categories only, no Home or Blog in header)
-[[languages.en.menus.main]]
-  name = "Office furnishing"
-  url = "/en/categories/office-furnishing/"
-  weight = 2
-[[languages.en.menus.main]]
-  name = "Industrial equipment"
-  url = "/en/categories/industrial-equipment/"
-  weight = 3
 [[languages.en.menus.main]]
   name = "Professional software"
   url = "/en/categories/professional-software/"
