@@ -1,0 +1,125 @@
+<div class="ecs" id="ecs">
+  <div class="ecs-head">
+    <span class="ecs-badge">Outil interactif</span>
+    <h2 class="ecs-title">Quel expert-comptable pour votre TPE ?</h2>
+    <p class="ecs-sub">Répondez à 4 questions et obtenez une recommandation adaptée à votre profil en moins d'une minute.</p>
+  </div>
+  <div class="ecs-progress" aria-hidden="true"><div class="ecs-progress-bar" id="ecsBar"></div></div>
+  <div class="ecs-body" id="ecsBody" role="group" aria-live="polite"></div>
+</div>
+
+<style>
+.ecs{--ecs-primary:var(--primary,#0F2A47);--ecs-accent:var(--cta,#F59E0B);--ecs-accent-hover:var(--cta-hover,#D97706);--ecs-text:var(--text,#1F2937);--ecs-light:var(--text-light,#64748B);--ecs-border:var(--border,#E2E8F0);--ecs-bg:var(--white,#fff);font-family:var(--font-body,'Inter',-apple-system,sans-serif);background:var(--ecs-bg);border:1px solid var(--ecs-border);border-radius:16px;box-shadow:0 10px 30px -12px rgba(15,42,71,.25);padding:1.75rem;margin:0 0 2.5rem;max-width:760px;}
+.ecs *{box-sizing:border-box;}
+.ecs-head{text-align:center;margin-bottom:1.25rem;}
+.ecs-badge{display:inline-block;font-family:var(--font-ui,'Inter',sans-serif);font-size:.72rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ecs-accent-hover);background:rgba(245,158,11,.12);padding:.28rem .7rem;border-radius:999px;margin-bottom:.7rem;}
+.ecs-title{font-family:var(--font-heading,'DM Sans',sans-serif);color:var(--ecs-primary);font-size:1.5rem;line-height:1.2;margin:0 0 .5rem;}
+.ecs-sub{color:var(--ecs-light);font-size:.95rem;margin:0;}
+.ecs-progress{height:6px;background:var(--ecs-border);border-radius:999px;overflow:hidden;margin:0 0 1.5rem;}
+.ecs-progress-bar{height:100%;width:0;background:var(--ecs-accent);border-radius:999px;transition:width .35s ease;}
+.ecs-step-label{font-size:.78rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--ecs-light);margin:0 0 .4rem;}
+.ecs-q{font-family:var(--font-heading,'DM Sans',sans-serif);color:var(--ecs-primary);font-size:1.2rem;margin:0 0 1.1rem;}
+.ecs-opts{display:grid;grid-template-columns:1fr;gap:.6rem;}
+.ecs-opts.ecs-grid{grid-template-columns:repeat(auto-fit,minmax(160px,1fr));}
+.ecs-opt{font-family:var(--font-body,'Inter',sans-serif);text-align:left;background:var(--ecs-bg);border:1.5px solid var(--ecs-border);border-radius:12px;padding:.95rem 1.05rem;font-size:.98rem;color:var(--ecs-text);cursor:pointer;transition:border-color .15s,background .15s,transform .08s;display:flex;align-items:center;gap:.7rem;}
+.ecs-opt:hover{border-color:var(--ecs-accent);background:rgba(245,158,11,.06);}
+.ecs-opt:active{transform:scale(.99);}
+.ecs-opt:focus-visible{outline:2px solid var(--ecs-accent);outline-offset:2px;}
+.ecs-opt .ecs-dot{flex:0 0 auto;width:10px;height:10px;border-radius:50%;background:var(--ecs-border);}
+.ecs-opt:hover .ecs-dot{background:var(--ecs-accent);}
+.ecs-grid .ecs-opt{justify-content:center;text-align:center;}
+.ecs-grid .ecs-opt .ecs-dot{display:none;}
+.ecs-nav{display:flex;justify-content:flex-start;margin-top:1.1rem;}
+.ecs-back{background:none;border:none;color:var(--ecs-light);font-size:.9rem;cursor:pointer;padding:.3rem .1rem;}
+.ecs-back:hover{color:var(--ecs-primary);text-decoration:underline;}
+.ecs-result{text-align:center;}
+.ecs-result-label{font-size:.78rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--ecs-light);margin:0 0 .5rem;}
+.ecs-result-name{font-family:var(--font-heading,'DM Sans',sans-serif);font-size:1.9rem;color:var(--ecs-primary);margin:0 0 .3rem;}
+.ecs-result-tag{color:var(--ecs-light);font-size:.95rem;margin:0 0 1.2rem;}
+.ecs-reasons{list-style:none;padding:0;margin:0 0 1.4rem;text-align:left;display:grid;gap:.6rem;}
+.ecs-reasons li{display:flex;align-items:flex-start;gap:.6rem;font-size:.95rem;color:var(--ecs-text);background:var(--background,#F8F9FB);border-radius:10px;padding:.7rem .85rem;}
+.ecs-reasons li::before{content:"";flex:0 0 auto;width:18px;height:18px;margin-top:1px;border-radius:50%;background:var(--ecs-accent) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'/%3E%3C/svg%3E") center/12px no-repeat;}
+.ecs-cta{display:inline-block;background:var(--ecs-accent);color:#fff;font-family:var(--font-ui,'Inter',sans-serif);font-weight:600;font-size:1rem;text-decoration:none;padding:.85rem 1.6rem;border-radius:10px;transition:background .15s;}
+.ecs-cta:hover{background:var(--ecs-accent-hover);}
+.ecs-restart{display:block;margin:.9rem auto 0;background:none;border:none;color:var(--ecs-light);font-size:.88rem;cursor:pointer;}
+.ecs-restart:hover{color:var(--ecs-primary);text-decoration:underline;}
+.ecs-disclaimer{font-size:.78rem;color:var(--ecs-light);margin:1rem 0 0;font-style:italic;}
+@media(max-width:560px){.ecs{padding:1.25rem;border-radius:14px;}.ecs-title{font-size:1.3rem;}.ecs-q{font-size:1.08rem;}.ecs-result-name{font-size:1.6rem;}.ecs-opts.ecs-grid{grid-template-columns:1fr 1fr;}}
+</style>
+
+<script>
+(function(){
+  var steps=[
+    {key:"profil",label:"Étape 1 sur 4",q:"Quel est le profil de votre TPE ?",opts:[
+      {v:"micro",t:"Micro-entreprise ou auto-entrepreneur"},
+      {v:"artisan",t:"Artisan ou commerçant"},
+      {v:"liberale",t:"Profession libérale"},
+      {v:"societe",t:"Société (SARL, SAS, EURL)"},
+      {v:"creation",t:"Projet en cours de création"}
+    ]},
+    {key:"region",label:"Étape 2 sur 4",q:"Dans quelle région êtes-vous installé ?",grid:true,opts:[
+      {v:"Île-de-France",t:"Île-de-France"},{v:"Auvergne-Rhône-Alpes",t:"Auvergne-Rhône-Alpes"},
+      {v:"Nouvelle-Aquitaine",t:"Nouvelle-Aquitaine"},{v:"Occitanie",t:"Occitanie"},
+      {v:"Hauts-de-France",t:"Hauts-de-France"},{v:"Grand Est",t:"Grand Est"},
+      {v:"Provence-Alpes-Côte d'Azur",t:"Provence-Alpes-Côte d'Azur"},{v:"Pays de la Loire",t:"Pays de la Loire"},
+      {v:"Bretagne",t:"Bretagne"},{v:"Normandie",t:"Normandie"},
+      {v:"Bourgogne-Franche-Comté",t:"Bourgogne-Franche-Comté"},{v:"Centre-Val de Loire",t:"Centre-Val de Loire"},
+      {v:"Corse",t:"Corse"},{v:"Outre-mer",t:"Outre-mer"}
+    ]},
+    {key:"besoin",label:"Étape 3 sur 4",q:"De quel accompagnement avez-vous besoin ?",opts:[
+      {v:"conformite",t:"La conformité seule (bilan, TVA, déclarations)"},
+      {v:"conseil",t:"Comptabilité et conseil de gestion"},
+      {v:"complet",t:"Un accompagnement complet (création, juridique, social, pilotage)"}
+    ]},
+    {key:"relation",label:"Étape 4 sur 4",q:"Comment préférez-vous échanger avec votre expert-comptable ?",opts:[
+      {v:"ligne",t:"Plutôt 100% en ligne"},
+      {v:"dedie",t:"Un conseiller dédié que je peux rencontrer"},
+      {v:"mixte",t:"Peu importe, je veux le meilleur accompagnement"}
+    ]}
+  ];
+  var answers={},current=0;
+  var body=document.getElementById("ecsBody"),bar=document.getElementById("ecsBar");
+  function setBar(){bar.style.width=(current/steps.length*100)+"%";}
+  function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+  function render(){
+    if(current>=steps.length){return result();}
+    var s=steps[current],h="";
+    h+='<p class="ecs-step-label">'+s.label+'</p>';
+    h+='<h3 class="ecs-q">'+s.q+'</h3>';
+    h+='<div class="ecs-opts'+(s.grid?' ecs-grid':'')+'">';
+    for(var i=0;i<s.opts.length;i++){h+='<button type="button" class="ecs-opt" data-v="'+esc(s.opts[i].v)+'"><span class="ecs-dot"></span>'+s.opts[i].t+'</button>';}
+    h+='</div>';
+    if(current>0){h+='<div class="ecs-nav"><button type="button" class="ecs-back" id="ecsBack">&larr; Retour</button></div>';}
+    body.innerHTML=h;setBar();
+    var btns=body.querySelectorAll(".ecs-opt");
+    for(var j=0;j<btns.length;j++){btns[j].addEventListener("click",function(){answers[s.key]=this.getAttribute("data-v");current++;render();});}
+    var back=document.getElementById("ecsBack");if(back){back.addEventListener("click",function(){current--;render();});}
+  }
+  function result(){
+    bar.style.width="100%";
+    var reasons=[];
+    reasons.push("Près de 250 agences en France, dont une en "+esc(answers.region)+", pour rencontrer votre expert-comptable près de chez vous.");
+    if(answers.relation==="ligne"){reasons.push("Une application en ligne pour suivre votre comptabilité au quotidien, doublée d'un conseiller joignable quand vous en avez besoin.");}
+    else{reasons.push("Un conseiller dédié qui suit votre dossier dans la durée et connaît l'historique de votre entreprise.");}
+    if(answers.besoin==="conformite"){reasons.push("La tenue comptable, le bilan et les déclarations pris en charge de bout en bout, avec la possibilité d'aller plus loin quand votre activité grandit.");}
+    else if(answers.besoin==="conseil"){reasons.push("Au-delà de la comptabilité, un conseil de gestion et des tableaux de bord pour piloter votre activité.");}
+    else{reasons.push("Un périmètre 360, de la création au juridique, au social et au pilotage, pour être accompagné sur tous les sujets.");}
+    if(answers.profil==="creation"||answers.profil==="micro"){reasons.push("Un accompagnement adapté aux petites structures et à la création d'entreprise, sans jargon.");}
+    else{var p=answers.profil==="societe"?"sociétés en développement":answers.profil==="liberale"?"professions libérales":"artisans et commerçants";reasons.push("Une expérience reconnue auprès des "+p+" comme la vôtre.");}
+    var h='<div class="ecs-result">';
+    h+='<p class="ecs-result-label">Notre recommandation pour vous</p>';
+    h+='<p class="ecs-result-name">In Extenso</p>';
+    h+='<p class="ecs-result-tag">Le réseau national qui combine proximité et accompagnement complet</p>';
+    h+='<ul class="ecs-reasons">';
+    for(var i=0;i<reasons.length;i++){h+='<li>'+reasons[i]+'</li>';}
+    h+='</ul>';
+    h+='<a class="ecs-cta" href="https://www.inextenso.fr/trouver-une-agence/" target="_blank" rel="noopener">Trouver une agence In Extenso</a>';
+    h+='<button type="button" class="ecs-restart" id="ecsRestart">Recommencer le test</button>';
+    h+='<p class="ecs-disclaimer">Recommandation établie à partir de vos réponses, parmi les solutions de notre comparatif.</p>';
+    h+='</div>';
+    body.innerHTML=h;
+    document.getElementById("ecsRestart").addEventListener("click",function(){answers={};current=0;render();});
+  }
+  render();
+})();
+</script>

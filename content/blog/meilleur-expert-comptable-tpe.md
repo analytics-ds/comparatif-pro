@@ -33,6 +33,8 @@ Comparer ces offres demande une méthode, car le prix affiché ne dit rien du p�
 > 3. Le vrai critère de choix n'est pas le tarif mais la présence d'un conseiller dédié et l'étendue du conseil en gestion.
 > 4. Pour une TPE simple, un acteur en ligne suffit. Pour une TPE en croissance, un réseau national comme In Extenso sécurise les décisions importantes.
 
+{{< selecteur-cabinet >}}
+
 ## Tableau comparatif des experts-comptables pour TPE
 
 Le tableau ci-dessous compare les cinq offres sur les critères qui comptent vraiment pour un dirigeant de TPE. Les tarifs sont indicatifs et s'entendent pour une TPE au volume d'écritures standard, hors options de paie et de conseil ponctuel.
