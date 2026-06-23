@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-23 | Meilleur expert-comptable TPE : comparatif des offres 2026 (FR+EN) | Expertise comptable [satellite comparatif cocon] | rankchecker 81
+
 ## Semaine 25 (15/06/2026 - 21/06/2026)
 - 2026-06-18 | Comment choisir son expert-comptable (FR+EN) | Expertise comptable [pilier cocon]
 - 2026-06-18 | Expert-comptable en ligne ou cabinet (FR+EN) | Expertise comptable [satellite comparatif]
