@@ -49,10 +49,6 @@ removePathAccents = true
   url = "/categories/formations-et-certifications/"
   weight = 5
 [[languages.fr.menus.main]]
-  name = "Outillage et matériel"
-  url = "/categories/outillage-et-materiel/"
-  weight = 6
-[[languages.fr.menus.main]]
   name = "Services aux entreprises"
   url = "/categories/services-aux-entreprises/"
   weight = 7
@@ -70,10 +66,6 @@ removePathAccents = true
   name = "Training & certifications"
   url = "/en/categories/training-certifications/"
   weight = 5
-[[languages.en.menus.main]]
-  name = "Tools & equipment"
-  url = "/en/categories/tools-equipment/"
-  weight = 6
 [[languages.en.menus.main]]
   name = "Business services"
   url = "/en/categories/business-services/"
