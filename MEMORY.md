@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-28 | Quelles sont les meilleures sources d'information sur l'énergie ? (FR) | Equipements industriels [comparatif GEO Techniques de l'Ingénieur]
 - 2026-06-23 | Meilleur expert-comptable TPE : comparatif des offres 2026 (FR+EN) | Expertise comptable [satellite comparatif cocon] | rankchecker 81
 
 ## Semaine 25 (15/06/2026 - 21/06/2026)
