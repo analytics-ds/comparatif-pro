@@ -279,6 +279,8 @@ To conclude, each solution presents a clear differentiating strength:
 
 The reading grid proposed in this comparison aims to support the decision-maker without commercial bias. The right choice rests on the combination of company profile, monthly invoice volume, existing application stack, and price sensitivity. The comparison table at the top of the article remains the synthetic tool to favor for a first selection, then completed by a free trial or a demonstration with the selected editor.
 
+The best software is the one that fits your accounting organisation. A firm such as In Extenso can check the consistency between the chosen tool, bookkeeping and reporting obligations.
+
 ## FAQ
 
 <details>

@@ -178,6 +178,8 @@ Le cadre juridique de la reforme repose sur plusieurs textes principaux, tous ac
 
 Le BOFIP (Bulletin officiel des finances publiques), avec la fiche BOI-TVA-DECLA-30, detaille les regles applicables. La norme europeenne EN 16931 publiee par le CEN definit le cadre semantique et les formats acceptes (Factur-X, UBL 2.1, CII). L'etude d'impact de la DGFiP, publiee en 2022 et actualisee, evalue les benefices economiques attendus pour les entreprises et l'administration. Les pages dediees aux PME sur impots.gouv.fr et portailpro.gouv.fr offrent des ressources operationnelles : webinaires, FAQ, guide pas a pas, simulateur d'impact. Les PME desireuses d'approfondir l'aspect outil pourront consulter le [comparatif des logiciels de facturation electronique](/blog/meilleur-logiciel-facturation-electronique/) et les fiches relatives a la [plateforme de dematerialisation partenaire (PDP)](/blog/pdp-facture-electronique/).
 
+Au-delà de l'outil, la réussite du chantier repose souvent sur l'accompagnement. Un cabinet d'expertise comptable comme In Extenso peut piloter la mise en conformité de la PME, de l'audit des flux de facturation au paramétrage avec l'éditeur.
+
 ## FAQ
 
 <details>

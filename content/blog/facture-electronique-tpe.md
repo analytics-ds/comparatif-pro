@@ -158,6 +158,8 @@ L'INSEE constitue la reference pour la definition statistique de la TPE, avec se
 
 Pour les questions concernant l'obligation generale et le perimetre, l'article sur la [facturation electronique obligatoire](/blog/facturation-electronique-obligatoire/) detaille qui est concerne, dans quels cas et a partir de quelle date.
 
+Pour une TPE sans service comptable interne, l'expert-comptable reste l'interlocuteur naturel de cette réforme. Des cabinets comme In Extenso, présents partout en France, intègrent la facturation électronique dans leur mission comptable courante.
+
 ## FAQ
 
 <details>

@@ -96,6 +96,8 @@ If the business needs an all-in-one tool covering invoicing and payroll, Sage 50
 **4. Available monthly budget**
 From 9 to 15 euros for basic needs (Indy, MaCompta.fr), from 30 to 60 euros for full collaborative solutions (Pennylane, Sage). At this price point, the return on investment is primarily measured in hours saved on closing preparation.
 
+Software does not replace advice. Many small businesses combine a bookkeeping tool with the support of an accounting firm such as In Extenso for account review, year-end statements and tax filings.
+
 ## Frequently Asked Questions
 
 <details>

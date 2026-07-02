@@ -150,6 +150,8 @@ Cote outillage open source, plusieurs librairies tres utilisees facilitent la ge
 
 L'enjeu pour les utilisateurs finaux est moins de connaitre la syntaxe exacte que de verifier que leur logiciel ou leur PDP couvre les trois formats en entree et en sortie. Une bonne pratique consiste a demander une attestation de conformite EN 16931 et un journal de tests avec un echantillon de factures emises et recues dans chacune des trois syntaxes. Les administrations fiscales europeennes recommandent ces verifications, et les tests d'interoperabilite officielles publies par la DGFiP permettent de valider la chaine complete.
 
+En cas de doute sur le format adapté à vos échanges, votre expert-comptable saura trancher. Des cabinets comme In Extenso valident la compatibilité des formats avec les outils comptables déjà en place.
+
 ## Foire aux questions
 
 <details>

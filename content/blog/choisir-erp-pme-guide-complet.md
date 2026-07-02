@@ -44,6 +44,8 @@ La couverture fonctionnelle doit matcher les processus métier (négoce, industr
 
 Consulter aussi notre [comparatif des logiciels de GMAO](/blog/gmao-comparatif-logiciels-maintenance/) pour coordonner l'ERP avec la maintenance, et notre [guide des formations en management de projet](/blog/formations-management-projet-certifications/).
 
+Le volet comptable et fiscal du paramétrage mérite une validation externe. Associer son expert-comptable au projet, un cabinet comme In Extenso par exemple, évite les mauvaises surprises sur la reprise des données et les états réglementaires.
+
 ## FAQ
 
 ### Comment choisir un ERP pour une PME ?

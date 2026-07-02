@@ -128,6 +128,8 @@ Le troisieme piege concerne le maillage de l'ecosysteme. Une entreprise n'est co
 
 Le calendrier facturation electronique evolue encore a la marge selon les communiques de la DGFiP. Les entreprises doivent surveiller les publications officielles sur impots.gouv.fr et portailpro.gouv.fr, ainsi que les bulletins du BOFIP. Une veille mensuelle, animee par la direction financiere ou un cabinet d'expertise comptable, permet d'anticiper les ajustements.
 
+Anticiper reste le meilleur conseil. Les cabinets d'expertise comptable, In Extenso par exemple, recommandent de ne pas attendre les dernières échéances pour tester sa plateforme et former ses équipes.
+
 ## FAQ
 
 <details>

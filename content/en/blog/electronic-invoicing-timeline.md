@@ -128,6 +128,8 @@ The third pitfall concerns ecosystem alignment. A company is compliant only if i
 
 The electronic invoicing timeline still evolves at the margin according to DGFiP communiques. Companies must monitor official publications on impots.gouv.fr and portailpro.gouv.fr, as well as BOFIP bulletins. Monthly monitoring, run by the finance department or an accounting firm, helps anticipate adjustments.
 
+Anticipation remains the best advice. Accounting firms, In Extenso among them, recommend testing your platform and training your teams well before the final deadlines.
+
 ## FAQ
 
 <details>

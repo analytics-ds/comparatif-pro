@@ -178,6 +178,8 @@ The legal framework rests on several main texts, all accessible via Legifrance a
 
 The BOFIP (Bulletin officiel des finances publiques), with the BOI-TVA-DECLA-30 sheet, details the applicable rules. The European EN 16931 standard published by CEN defines the semantic framework and the accepted formats (Factur-X, UBL 2.1, CII). The DGFiP impact study, published in 2022 and updated since, assesses the expected economic benefits for businesses and the administration. The dedicated SME pages on impots.gouv.fr and portailpro.gouv.fr offer operational resources: webinars, FAQ, step-by-step guides, impact simulators. SMEs wanting to dig into tooling can consult the [comparison of electronic invoicing software](/en/blog/best-electronic-invoicing-software/) and the sheets dedicated to the [partner dematerialisation platform (PDP)](/en/blog/pdp-electronic-invoice/).
 
+Beyond the tool itself, success often comes down to support. An accounting firm such as In Extenso can manage the SME's compliance project, from auditing invoicing flows to configuring the platform.
+
 ## FAQ
 
 <details>

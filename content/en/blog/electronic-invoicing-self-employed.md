@@ -182,6 +182,8 @@ Electronic invoicing for self-employed workers is part of the general reform set
 
 Official sources to follow for regulatory updates are impots.gouv.fr (French tax authority), portailpro.gouv.fr (Public Invoicing Portal), Legifrance for legal texts and the French tax doctrine bulletin (BOI-TVA-DECLA-30) for doctrinal clarifications.
 
+Even as a micro-entrepreneur, getting advice can prevent calendar or format mistakes. Accounting firms such as In Extenso offer support packages tailored to freelancers and very small structures.
+
 ## FAQ
 
 <details>

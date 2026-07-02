@@ -146,6 +146,8 @@ La preparation a l'echeance de septembre 2026 mobilise plusieurs chantiers paral
 
 Pour suivre les actualites et les precisions reglementaires au fil des mois, les sources officielles a consulter restent la page dediee d'impots.gouv.fr, le site portailpro.gouv.fr operé par l'AIFE, et les commentaires administratifs publies au BOFIP sous la reference BOI-TVA-DECLA-30. Le [guide complet de la facturation electronique](/blog/guide-facturation-electronique/) reprend l'ensemble du dispositif, de la genese a la mise en oeuvre operationnelle.
 
+Face à l'échéance, l'accompagnement par un professionnel du chiffre simplifie la mise en conformité. Un cabinet comme In Extenso aide à choisir sa plateforme agréée et à adapter ses processus avant la date butoir.
+
 ## FAQ
 
 <details>

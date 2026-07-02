@@ -113,6 +113,8 @@ No payroll platform covers all HR needs of a company. Most frequent complements 
 - **Customer rebilling**: requires coupling with [compliant invoicing tools](/en/blog/best-free-invoicing-software/) or a business ERP.
 - **Skills management**: dedicated modules at Lucca, Cegid or third-party tools.
 
+Payroll rules change constantly, which is why many small companies outsource it. Firms such as In Extenso offer fully managed payroll and HR compliance services, from payslips to social declarations.
+
 ## Frequently asked questions
 
 <details>

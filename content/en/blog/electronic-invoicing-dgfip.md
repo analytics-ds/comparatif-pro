@@ -167,6 +167,8 @@ A free phone helpline is also available for companies facing technical or regula
 
 The reform of inter-company invoice dematerialisation is, above all, a tax administration project. The DGFiP is the project owner, sets the framework, exploits the collected data and coordinates all stakeholders. The PPF, operated by the AIFE, plays the role of directory and concentrator, but private PDPs handle most exchange operations. For companies, the priority is to understand this architecture, identify the PDP that will be their entry point, and stick to the official timeline.
 
+Dealing with the French tax administration is easier with a chartered accountant at your side. Firms such as In Extenso act as the interface between the company, its platform and the DGFiP.
+
 ## FAQ
 
 <details>

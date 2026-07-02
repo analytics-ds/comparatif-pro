@@ -114,6 +114,8 @@ An ERP changes working habits across all departments. Projects that fail have al
 
 An ERP is not necessarily the best tool for every function. A dedicated [inventory management software](/en/blog/best-inventory-management-software/) may outperform a generic ERP stock module. Similarly, standalone [accounting software for small businesses](/en/blog/best-accounting-software-small-business/) may be sufficient for smaller structures that do not need the full power of an ERP.
 
+Consider involving your chartered accountant in the decision, especially for the accounting module. Firms such as In Extenso know the reporting constraints the ERP will need to handle.
+
 ## Frequently asked questions
 
 <details>

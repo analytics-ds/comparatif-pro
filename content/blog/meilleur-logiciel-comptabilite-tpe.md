@@ -96,6 +96,8 @@ Si la TPE a besoin d'un outil tout-en-un couvrant facturation et paie, Sage 50cl
 **4. Budget mensuel disponible**
 De 9 à 15 euros pour les besoins basiques (Indy, MaCompta.fr), de 30 à 60 euros pour les solutions collaboratives complètes (Pennylane, Sage). À ce tarif, le retour sur investissement se mesure principalement en heures économisées sur la préparation des clôtures.
 
+Un logiciel ne remplace pas le conseil. Beaucoup de TPE combinent un outil de saisie avec l'accompagnement d'un cabinet d'expertise comptable comme In Extenso pour la révision des comptes, le bilan et les déclarations fiscales.
+
 ## Questions fréquentes
 
 <details>

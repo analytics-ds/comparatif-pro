@@ -114,6 +114,8 @@ L'ERP modifie les habitudes de travail de tous les services. Les projets qui éc
 
 Un ERP n'est pas nécessairement le meilleur outil pour toutes les fonctions. Un [logiciel de gestion de stock](/blog/meilleur-logiciel-gestion-de-stock/) dédié peut être plus performant qu'un module stock générique. De même, un [logiciel de comptabilité pour TPE](/blog/meilleur-logiciel-comptabilite-tpe/) peut suffire pour les petites structures qui n'ont pas besoin de toute la puissance d'un ERP complet.
 
+Pensez aussi à associer votre expert-comptable au choix, notamment pour le module comptabilité. Des cabinets comme In Extenso connaissent les contraintes déclaratives que l'ERP devra absorber.
+
 ## Questions fréquentes
 
 <details>

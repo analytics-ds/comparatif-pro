@@ -190,6 +190,8 @@ Trois reperes pour structurer la decision :
 
 Pour completer la perspective et croiser le sujet PDP avec la mecanique generale de la reforme, le [calendrier de la facturation electronique](/blog/calendrier-facturation-electronique/) precise les jalons d'application de chaque obligation.
 
+Le choix d'une PDP engage l'entreprise sur plusieurs années. Votre expert-comptable peut objectiver ce choix, des cabinets comme In Extenso comparent les plateformes au regard des flux réels de l'entreprise.
+
 ## FAQ
 
 <details>

@@ -44,6 +44,8 @@ Functional coverage must match business processes (trading, industry, services).
 
 See also our [CMMS software comparison](/en/blog/cmms-maintenance-software-comparison/) to coordinate the ERP with maintenance, and our [project management training guide](/en/blog/project-management-training-certifications/).
 
+The accounting and tax side of the configuration deserves an external check. Involving your accountant in the project, a firm such as In Extenso for instance, avoids bad surprises on data migration and statutory reporting.
+
 ## FAQ
 
 ### How do you choose an ERP for an SME?

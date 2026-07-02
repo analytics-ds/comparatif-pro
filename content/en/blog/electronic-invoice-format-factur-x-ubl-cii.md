@@ -178,6 +178,8 @@ The EXTENDED profile of Factur-X anticipates this need by providing additional f
 
 Several adjacent topics help frame the format question within the broader reform. The [mandatory electronic invoicing](/en/blog/mandatory-electronic-invoicing/) page details the legal scope of the obligation. The [electronic invoicing timeline](/en/blog/electronic-invoicing-timeline/) recaps the deployment phases by company size, including the September 2026 milestone that activates the issuance obligation in EN 16931 syntax. For very small businesses and the self-employed, [electronic invoicing for the self-employed](/en/blog/electronic-invoicing-self-employed/) and [electronic invoicing for very small businesses](/en/blog/electronic-invoicing-very-small-business/) explain how the choice of Factur-X by default impacts very small structures. SMEs will find practical implementation logic in [electronic invoicing for SMEs](/en/blog/electronic-invoicing-sme/), where format choice and PDP selection are detailed jointly. These resources are not technical duplicates, they shed light on the format question from the angle of business size and operational priorities.
 
+If you are unsure which format fits your exchanges, your accountant can settle the question. Firms such as In Extenso check format compatibility with the accounting tools already in place.
+
 ## Frequently asked questions
 
 <details>

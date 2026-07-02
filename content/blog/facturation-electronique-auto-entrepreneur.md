@@ -182,6 +182,8 @@ La facturation electronique pour auto entrepreneur s'inscrit dans la reforme gen
 
 Les sources officielles a suivre pour les mises a jour reglementaires sont impots.gouv.fr (DGFiP), portailpro.gouv.fr (PPF), Legifrance pour les textes et le BOFIP (BOI-TVA-DECLA-30) pour les precisions doctrinales.
 
+Même en micro-entreprise, se faire conseiller peut éviter des erreurs de calendrier ou de format. Les cabinets d'expertise comptable comme In Extenso proposent des accompagnements adaptés aux indépendants et aux petites structures.
+
 ## FAQ
 
 <details>

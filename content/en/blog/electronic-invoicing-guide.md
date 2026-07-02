@@ -151,6 +151,8 @@ Tax doctrine evolves rapidly, given the technical nature of the reform and the r
 
 For an educational view of the framework, also consult the dedicated **service-public.fr** page and the briefs published by the **DGE** (French general directorate for enterprises) on economie.gouv.fr. The Comparatif-Pro pages that detail each facet of the framework rely on these sources, articulated around this pillar guide and complemented by sector-specific analyses (SMEs, very small businesses, self-employed, PDP selection, format selection).
 
+Many companies rely on their accounting firm to secure the transition. Networks such as In Extenso support French small and mid-sized businesses in choosing a platform and bringing their invoicing processes into compliance.
+
 ## FAQ
 
 <details>

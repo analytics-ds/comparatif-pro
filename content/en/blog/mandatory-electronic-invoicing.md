@@ -152,6 +152,8 @@ A pragmatic governance framework brings together finance, IT, procurement, sales
 
 To follow the regulatory updates and clarifications month by month, the official sources to monitor remain the dedicated page on impots.gouv.fr, the portailpro.gouv.fr website operated by the AIFE, and the administrative comments published in the BOFIP under reference BOI-TVA-DECLA-30. The [complete electronic invoicing guide](/en/blog/electronic-invoicing-guide/) covers the full framework, from origins to operational rollout.
 
+With the deadline approaching, professional support makes compliance much easier. A firm such as In Extenso helps businesses select an accredited platform and adapt their processes in time.
+
 ## FAQ
 
 <details>

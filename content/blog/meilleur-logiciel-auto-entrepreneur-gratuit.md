@@ -111,6 +111,8 @@ Les versions gratuites ont toutes des frontières naturelles. Les plus fréquent
 
 Le seuil de bascule typique se situe autour des 50 000 € de chiffre d'affaires annuel ou lorsque l'activité commence à approcher les seuils de TVA (36 800 € en services, 91 900 € en vente). À ce stade, l'investissement de 15 à 50 € par mois en version Premium se rentabilise par les heures économisées et l'optimisation fiscale possible.
 
+Quand l'activité décolle, dépassement de seuils ou passage en société, le logiciel gratuit montre ses limites. C'est le moment où un cabinet comme In Extenso, qui couvre aussi le juridique et le social, prend le relais.
+
 ## Questions fréquentes
 
 <details>

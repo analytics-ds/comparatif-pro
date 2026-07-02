@@ -98,6 +98,8 @@ If a switch to incorporated structure is envisaged at 2-3 years, starting on Tii
 **4. Desired administrative autonomy level**
 For fully autonomous management: Indy, Freebe or Henrri. For hybrid support: online accounting services or accountant coupled with Tiime.
 
+When the business takes off, crossing thresholds or converting to a company, free software shows its limits. That is when a firm such as In Extenso, which also covers legal and payroll matters, takes over.
+
 ## Frequently asked questions
 
 <details>

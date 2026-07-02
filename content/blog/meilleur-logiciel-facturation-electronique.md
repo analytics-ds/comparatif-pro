@@ -248,6 +248,8 @@ Pour conclure, chaque solution presente une force differenciante claire :
 
 La grille de lecture proposee dans ce comparatif vise a accompagner le decideur sans biais commercial. Le bon choix repose sur la combinaison du profil d'entreprise, du volume mensuel de factures, du parc applicatif existant et de la sensibilite au prix. Le tableau comparatif en haut d'article reste l'outil synthetique a privilegier pour une premiere selection, complete ensuite par un essai gratuit ou une demonstration aupres de l'editeur retenu.
 
+Le meilleur logiciel reste celui qui s'articule avec votre organisation comptable. Un cabinet comme In Extenso peut vérifier la cohérence entre l'outil retenu, la tenue comptable et les obligations déclaratives.
+
 ## FAQ
 
 <details>

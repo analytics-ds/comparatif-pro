@@ -157,6 +157,8 @@ La cle est de partir des flux reels et des integrations existantes, pas du marke
 
 Selon l'[Agence pour l'Informatique Financiere de l'Etat](https://www.aife.economie.gouv.fr/) et les communications regulieres du ministere de l'economie, le nombre de PDP immatriculees augmente chaque trimestre, signe d'un marche en croissance. La concurrence devrait peser positivement sur les prix et les niveaux de service au cours des deux prochaines annees.
 
+Ce choix d'infrastructure gagne à être validé avec un professionnel du chiffre. Des cabinets d'expertise comptable comme In Extenso accompagnent la sélection de la plateforme et la migration des flux.
+
 ## Foire aux questions
 
 <details>

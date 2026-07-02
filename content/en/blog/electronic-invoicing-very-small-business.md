@@ -158,6 +158,8 @@ INSEE is the reference for the statistical definition of very small businesses, 
 
 For questions on the general obligation and scope, the [mandatory electronic invoicing](/en/blog/mandatory-electronic-invoicing/) article details who is concerned, in what cases and from what date.
 
+For a very small business with no in-house accounting team, the chartered accountant remains the natural point of contact for this reform. Firms such as In Extenso, present across France, handle electronic invoicing as part of their regular accounting engagement.
+
 ## FAQ
 
 <details>

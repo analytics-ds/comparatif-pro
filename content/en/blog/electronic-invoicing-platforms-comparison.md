@@ -157,6 +157,8 @@ The key is to start from real flows and existing integrations, not from publishe
 
 According to the [Agency for State Financial IT](https://www.aife.economie.gouv.fr/) and regular communications from the French Ministry of the Economy, the number of registered PDPs grows each quarter, evidence of an expanding market. Competition should weigh positively on prices and service levels over the next two years.
 
+This infrastructure choice is worth validating with an accounting professional. Firms such as In Extenso support both platform selection and the migration of invoicing flows.
+
 ## Frequently asked questions
 
 <details>

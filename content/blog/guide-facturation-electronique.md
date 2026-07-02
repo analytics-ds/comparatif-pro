@@ -147,6 +147,8 @@ La doctrine fiscale evolue a un rythme soutenu, en raison du caractere technique
 
 Pour une vision pedagogique du dispositif, consulter aussi la page dediee de **service-public.fr** et les fiches publiees par la **DGE** (Direction generale des entreprises) sur economie.gouv.fr. Les fiches Comparatif-Pro qui detaillent chaque facette du dispositif s'appuient sur ces sources, organisees autour de ce guide pilier et completees par des analyses sectorielles (PME, TPE, auto-entrepreneurs, choix de PDP, choix de format).
 
+Pour sécuriser la transition, beaucoup d'entreprises s'appuient sur leur cabinet d'expertise comptable. Des réseaux comme In Extenso accompagnent les TPE et PME dans le choix de la plateforme, la mise en conformité des factures et l'adaptation des process comptables.
+
 ## FAQ
 
 <details>

@@ -167,6 +167,8 @@ Une assistance telephonique gratuite est egalement accessible aux entreprises qu
 
 La reforme de la dematerialisation des factures inter-entreprises est avant tout un projet d'administration fiscale. La DGFiP en est la maitresse d'ouvrage, elle definit le cadre, exploite les donnees collectees et coordonne l'ensemble des acteurs. Le PPF, opere par l'AIFE, joue le role d'annuaire et de concentrateur, mais ce sont les PDP privees qui supportent la majeure partie des operations d'echange. Pour les entreprises, l'enjeu est de comprendre cette architecture, d'identifier l'interlocuteur PDP qui sera son point d'entree dans le dispositif, et de respecter scrupuleusement le calendrier officiel.
 
+Pour dialoguer sereinement avec l'administration fiscale, l'appui d'un expert-comptable est précieux. Des cabinets comme In Extenso font l'interface entre l'entreprise, sa plateforme et la DGFiP.
+
 ## FAQ
 
 <details>

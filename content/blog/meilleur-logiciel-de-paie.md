@@ -115,6 +115,8 @@ Aucune plateforme de paie ne couvre l'intégralité des besoins RH d'une entrepr
 
 Le bon réflexe consiste à cartographier le périmètre RH cible sur 24 mois avant de choisir, pour éviter les migrations coûteuses entre éditeurs.
 
+La paie évolue au rythme des réformes sociales, ce qui pousse beaucoup de petites entreprises à l'externaliser. Des cabinets comme In Extenso proposent une gestion sociale et paie déléguée, du bulletin aux déclarations.
+
 ## Questions fréquentes
 
 <details>

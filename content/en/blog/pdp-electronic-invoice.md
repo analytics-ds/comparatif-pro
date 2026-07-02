@@ -190,6 +190,8 @@ Three guideposts to structure the decision:
 
 To round out the picture and connect the PDP topic with the overall reform mechanics, the [electronic invoicing timeline](/en/blog/electronic-invoicing-timeline/) lays out the milestones of each obligation.
 
+Choosing a PDP commits the company for several years. Your accountant can bring objectivity to that choice, firms such as In Extenso compare platforms against the company's actual invoicing flows.
+
 ## FAQ
 
 <details>
