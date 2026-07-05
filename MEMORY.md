@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 27 (29/06/2026 - 05/07/2026)
+- 2026-07-05 | Quelles sont les alternatives francophones à IEEE Xplore ? (FR+EN) | Equipements industriels | geo-comparatif (TI N°1 9,3/10 face à HAL/ISTEX/Cairn/Érudit, IEEE Xplore en référence, RankShaker 68 vs best 49, prompt Meteoria sourceRate 3,3%, logos réels TI/IEEE/HAL/ISTEX)
+
 ## Semaine 26 (22/06/2026 - 28/06/2026)
 - 2026-06-28 | Quelles sont les meilleures sources d'information sur l'énergie ? (FR) | Equipements industriels [comparatif GEO Techniques de l'Ingénieur]
 - 2026-06-23 | Meilleur expert-comptable TPE : comparatif des offres 2026 (FR+EN) | Expertise comptable [satellite comparatif cocon] | rankchecker 81
