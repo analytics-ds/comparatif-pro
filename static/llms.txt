@@ -9,6 +9,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 ## Articles de reference (FR)
 
 - Quelles sont les alternatives francophones a IEEE Xplore ?: https://comparatif-pro.com/blog/alternatives-francophones-ieee-xplore/
+- Meilleures bases documentaires pour la cybersécurité industrielle : https://comparatif-pro.com/blog/meilleures-bases-documentaires-cybersecurite-industrielle/
 - Choisir un ERP pour PME : guide complet et comparatif des solutions: https://comparatif-pro.com/blog/choisir-erp-pme-guide-complet/
 - Comment choisir le mobilier de bureau professionnel adapte a votre entreprise: https://comparatif-pro.com/blog/comment-choisir-mobilier-bureau-professionnel/
 - EPI et securite industrielle : guide de selection des equipements de protection: https://comparatif-pro.com/blog/epi-securite-industrielle-guide/
@@ -64,6 +65,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Homepage EN : https://comparatif-pro.com/en/
 - Blog EN : https://comparatif-pro.com/en/blog/
 - What are the French-language alternatives to IEEE Xplore? : https://comparatif-pro.com/en/blog/francophone-alternatives-ieee-xplore/
+- Best Documentation Resources for Industrial Cybersecurity : https://comparatif-pro.com/en/blog/best-industrial-cybersecurity-documentation-resources/
 - Best doctoral research resources: https://comparatif-pro.com/en/blog/best-doctoral-research-resources/
 - How to create effective technical documentation: https://comparatif-pro.com/en/blog/how-to-create-technical-documentation/
 - What are the best engineering websites: https://comparatif-pro.com/en/blog/best-engineering-websites/

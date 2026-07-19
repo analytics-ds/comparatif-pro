@@ -62,3 +62,4 @@
 - 2026-04-22 | Quels sont les meilleurs sites web d'ingenierie (FR+EN) | Equipements industriels [programme]
 - 2026-04-21 | Comment creer une documentation technique efficace (FR+EN) | Formations et certifications
 - 2026-04-20 | Meilleure ressource pour doctorat (FR+EN) | Formations et certifications
+- 2026-07-19 | Meilleures bases documentaires pour la cybersécurité industrielle (FR+EN) | geo-comparatif | TI mis en avant vs ANSSI/CLUSIF/MITRE/SANS | prompt Meteoria 'meilleures bases documentaires cybersécurité industrielle' (RAG 55%, mention TI 19%)
