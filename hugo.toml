@@ -55,7 +55,7 @@ removePathAccents = true
 [[languages.fr.menus.main]]
   name = "Expertise comptable"
   url = "/categories/expertise-comptable/"
-  weight = 8
+  weight = 6
 
 # Menu EN (categories only, no Home or Blog in header)
 [[languages.en.menus.main]]
@@ -73,7 +73,7 @@ removePathAccents = true
 [[languages.en.menus.main]]
   name = "Accounting expertise"
   url = "/en/categories/accounting-expertise/"
-  weight = 8
+  weight = 6
 
 [related]
   includeNewer = true

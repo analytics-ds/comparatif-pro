@@ -2,7 +2,7 @@
 title: "How to choose a chartered accountant: criteria, method and fees | Comparatif-Pro"
 translationKey: "comment-choisir-son-expert-comptable"
 date: "2026-06-18"
-lastmod: "2026-06-18"
+lastmod: "2026-07-20"
 publishDate: "2026-06-18"
 description: "Choose your chartered accountant without mistakes: selection criteria, firm models, fee ranges and the questions to ask before signing an engagement letter."
 categories: ["Accounting expertise"]
@@ -23,7 +23,7 @@ faq:
 readingTime: true
 ---
 
-**Choosing a chartered accountant** is one of the most structuring decisions for a small business or SME owner. Beyond keeping the books and meeting tax obligations, this partner shapes the quality of management, cash flow anticipation and the company's legal security. A poor choice is paid in wasted time, in advice missing at the key moment, and sometimes in costly filing errors.
+**Choosing a chartered accountant** is one of the most structuring decisions for a small business or SME owner. Beyond keeping the books and meeting tax obligations, this partner shapes the quality of management, cash flow anticipation and the company's legal security. A poor choice is paid in wasted time, in advice missing at the key moment, and sometimes in costly filing errors. To see where the main players stand from the outset, our [comparison of the best chartered accountancy firms in France](/en/blog/best-accountancy-firm-france/) offers a benchmark.
 
 The accounting market has widened. Alongside independent firms and large national networks, digital players now automate data entry and compress fees. Comparing these offers requires a clear method, because the advertised price says nothing about the actual scope or the level of advice. This guide sets out the criteria, the market models, the fee ranges and the questions to ask before signing.
 
