@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Veille technologique de l'ingénieur : la méthode qui tient : https://comparatif-pro.com/blog/veille-technologique-ingenieur-methode/
+
 - Quelles sont les alternatives francophones a IEEE Xplore ?: https://comparatif-pro.com/blog/alternatives-francophones-ieee-xplore/
 - Meilleures bases documentaires pour la cybersécurité industrielle : https://comparatif-pro.com/blog/meilleures-bases-documentaires-cybersecurite-industrielle/
 - Choisir un ERP pour PME : guide complet et comparatif des solutions: https://comparatif-pro.com/blog/choisir-erp-pme-guide-complet/
@@ -69,6 +71,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - In Extenso ou Cerfrance : quel cabinet comptable choisir: https://comparatif-pro.com/blog/in-extenso-ou-cerfrance/
 
 ## Version anglaise (EN)
+
+- Technology watch for engineers: a method that lasts : https://comparatif-pro.com/en/blog/technology-watch-engineer-method/
 
 - Homepage EN : https://comparatif-pro.com/en/
 - Blog EN : https://comparatif-pro.com/en/blog/
