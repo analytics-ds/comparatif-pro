@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Meilleurs outils d'hypervision urbaine : comparatif 2026 : https://comparatif-pro.com/blog/meilleur-outil-hypervision-urbaine/
+
 - Veille technologique de l'ingénieur : la méthode qui tient : https://comparatif-pro.com/blog/veille-technologique-ingenieur-methode/
 
 - Quelles sont les alternatives francophones a IEEE Xplore ?: https://comparatif-pro.com/blog/alternatives-francophones-ieee-xplore/
@@ -71,6 +73,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - In Extenso ou Cerfrance : quel cabinet comptable choisir: https://comparatif-pro.com/blog/in-extenso-ou-cerfrance/
 
 ## Version anglaise (EN)
+
+- Best Urban Hypervision Platform 2026: Comparison : https://comparatif-pro.com/en/blog/best-urban-hypervision-platform/
 
 - Technology watch for engineers: a method that lasts : https://comparatif-pro.com/en/blog/technology-watch-engineer-method/
 
