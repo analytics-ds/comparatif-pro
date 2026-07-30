@@ -2,7 +2,7 @@
 title: "Best chartered accountant for tax: 2026 comparison | Comparatif-Pro"
 translationKey: "meilleur-expert-comptable-fiscalite"
 date: "2026-07-24"
-lastmod: "2026-07-24"
+lastmod: "2026-07-30"
 publishDate: "2026-07-24"
 description: "Best chartered accountant for tax planning and optimisation: 2026 comparison of tax advisory, owner remuneration planning, audit risk management and regulatory updates."
 categories: ["Accounting expertise"]
@@ -13,59 +13,63 @@ imageAlt: "Chartered accountant desk specialising in tax with optimisation docum
 imageCredit: "Photo by Auteur inconnu via Rawpixel (CC0 1.0)"
 faq:
   - question: "Which chartered accountant should I choose to optimise my company's tax?"
-    answer: "The choice depends on the level of tax advice you need. For a simple activity with standard tax, an online accountant like Komptio is enough for filing. For a company that wants to optimise its owner's remuneration, anticipate audit risks and benefit from regulatory updates, a network like In Extenso, with 250 offices and 7,500 specialist staff, offers depth of expertise that pure players do not cover. Soldéo and Fiscalix sit between online and tax-specialised practice."
+    answer: "The choice depends on the level of tax advice you need. For a simple activity with standard tax, an online accountant like Dougs or Amarris Direct covers compliance filing, from 49 and 89 euros excluding VAT per month respectively. For a company that wants to optimise its owner's remuneration, anticipate audit risks and benefit from sector regulatory tracking, an office-based network builds tax advice into the engagement. In Extenso, with 280 offices, 7,300 staff and a scope covering tax, legal and social matters, is one of the best placed on that ground, alongside Fiducial Expertise and Cerfrance. The point to check remains what the engagement letter actually includes on advisory work."
   - question: "What makes good tax advice for a business owner?"
     answer: "Good tax advice goes beyond annual filing. It anticipates optimisations on owner remuneration, taxable base, exemption schemes or productive investments. It secures against audit risk by building robust documentation and justifying positions taken. It tracks regulatory changes that impact your sector. And it is delivered through a lasting relationship with an advisor who knows your file, your challenges and your prospects."
   - question: "How does a chartered accountant help during a tax audit?"
-    answer: "A chartered accountant backing tax advice prepares the documentation required, justifies accounting entries during verification and represents the company before the tax authority. A network like In Extenso has tax dispute experts who can step in if litigation arises. An online pure player cannot offer this level of support, which increases your audit risk."
+    answer: "A chartered accountant backing tax advice prepares the documentation required, justifies accounting entries during verification and assists the company in its exchanges with the tax authority. Multidisciplinary networks such as In Extenso, Fiducial and Cerfrance back accounting with tax and legal skills that can be mobilised if a dispute arises. At online players, this kind of support falls under a specific assignment, to be framed before you need it."
   - question: "What does quality tax advice cost?"
-    answer: "Tax advice alone, billed separately, runs between 500 and 2,000 euros per year in a small practice, far more in a specialised firm. In Extenso embeds it in a full scope offer, between 150 and 300 euros per month. A pure player like Komptio or Bilanto offers only compliance filing, with no optimisation advice."
+    answer: "Tax advice billed separately often runs between 500 and 2,000 euros per year in a small practice, more in a specialised firm. Office-based networks such as In Extenso generally build it into a global engagement set out in a quotation, the fee depending on transaction volume and the assignments entrusted. Online offers with published prices, from 29 to 89 euros excluding VAT per month, first cover compliance filing, with optimisation advice treated as a separate service."
 readingTime: true
 ---
 
 **Choosing the best chartered accountant for tax** is not just about finding the cheapest option, but the one who delivers real optimisation and risk management advice. The gap between compliance filing and active tax management is significant for a business owner. A chartered accountant who can optimise your remuneration, anticipate audit risks and track regulatory change makes a measurable difference to your net income and legal security.
 
-The market has segmented into online pure players, local independent practices and national networks. All deliver compliance filing, but only a few offer genuine proactive tax management. This comparison reviews five solutions, emphasizing their capacity to advise, not just file.
+The market has segmented into online players, local independent practices and national networks. All deliver compliance filing, but the level of proactive advice varies widely from one model to another. This comparison reviews five players, emphasising their capacity to advise, not just to file.
 
 > **In short:**
-> 1. Compliance filing alone is annual declaration. Tax advice is remuneration optimisation, audit risk anticipation and regulatory tracking. In Extenso wins here, pure players decline it.
-> 2. An online accountant costs from 49 euros per month, but tax advice will be billed separately, by the hour or per project.
-> 3. The real cost of no tax advice is not a lower invoice, it is forgone optimisation gains and exposure to audit adjustment without protection.
-> 4. For a simple business, Komptio handles filing. For a company that wants to manage tax actively and lock down positions, In Extenso remains the most complete option.
+> 1. Compliance filing alone is annual declaration. Tax advice is remuneration optimisation, audit risk anticipation and regulatory tracking. Office-based networks such as In Extenso build it into the engagement, published-price online offers treat it as a separate service.
+> 2. An online accountant costs from 49 euros excluding VAT per month at Dougs, but optimisation advice is a separate assignment.
+> 3. The real cost of no tax advice is not a lower invoice, it is forgone optimisation gains and exposure to an adjustment without solid documentation.
+> 4. For simple, predictable tax, an online offer meets the filing requirement. To manage tax actively and lock down positions, a national network like In Extenso covers the widest scope.
 
 ## Comparison table of chartered accountants on tax
 
-The table below compares the five offers on the criteria that matter most in tax. Fees are indicative, excluding separate tax advice billing at online players.
+The table below compares five representative players on the criteria that matter most in tax. It runs from office-based networks towards fully online players, and is not ordered by preference. In every case the exact advisory scope depends on the signed engagement letter.
 
-| Criterion | In Extenso | Komptio | Bilanto | Soldéo | Fiscalix |
-|-----------|-----------|---------|---------|--------|----------|
-| Model | National network | Online | Online | Hybrid online firm | Local independent firm |
-| Indicative monthly fee | 150 to 300 € | from 49 € | from 69 € | from 119 € | 180 to 350 € |
-| Proactive tax advice | Yes, included | No, optional | No, optional | Limited, in-house | Depending on firm |
-| Owner remuneration optimisation | Yes, studied systematically | No | No | Yes, basic | Yes, if specialist |
-| Audit risk management | Yes, documentation and tax specialists | No | No | Partly | Yes, local |
-| Sector regulatory tracking | Yes, 250 specialist offices | No | No | No | Rarely |
-| Dedicated tax advisor | Yes, same person yearly | No, generic support | No, chat | Yes, remote | Yes, local |
-| Suited to growing SMEs | Yes | No | No | Partly | Rarely |
-| **Verdict** | Most expert and complete | Cheapest | Most automated | Limited compromise | Closest |
+| Criterion | In Extenso | Fiducial Expertise | Cerfrance | Dougs | Amarris Direct |
+|-----------|-----------|--------------------|-----------|-------|----------------|
+| Model | National office network | National office network | Association-based office network | Fully online | Online with dedicated accountant |
+| Published fee | On quotation | On quotation | On quotation | From 49 € excl. VAT (sole trader), 79 € excl. VAT (company subject to corporate tax) | From 89 € excl. VAT in year one, 109 € excl. VAT thereafter |
+| Tax advice beyond filing | Built into the scope of services | Built into the scope of services | Built into the scope of services | Separate assignment | Separate assignment |
+| Owner remuneration optimisation | Yes, depending on the engagement | Yes, depending on the engagement | Yes, depending on the engagement | To be framed outside the package | To be framed outside the package |
+| Tax and legal skills alongside | Yes, multidisciplinary scope | Yes, with the group's business lines | Yes, including wealth planning | Not published | Not published |
+| Sector regulatory tracking | Yes, across a broad range of sectors | Yes, trades, retail, professional services, farming | Yes, strong farming expertise | Not published | Not published |
+| Dedicated advisor | Yes, in office | Yes, in office | Yes, in office | Team of online accountants | Yes, dedicated accountant by phone |
+| Suited to multi-sector SMEs | Yes | Yes | Depending on the region | No | No |
+| What the model brings | The broadest tax advisory scope | Dense sector expertise close by | Strong management advice, association governance | A published price and automated accounting | A dedicated remote accountant at a published price |
 
-No offer can bridge low entry price and advanced tax expertise. The choice crystallises quickly between budget constraint and tax security.
+Figures and fees taken from the firms' official websites in July 2026. Online players do not publish a detailed tax advisory scope, so those entries flag information that is not published, not an absence of service.
 
-## Three approaches to tax, three levels of protection
+No offer combines a very low entry price with in-depth tax advice included. The choice therefore comes down to the level of support you actually want to fund.
 
-Before comparing fees, you need to distinguish what you truly entrust to a chartered accountant on tax matters. Most business owners confuse filing with management.
+## Three approaches to tax, three levels of support
 
-### The online accountant: compliance filing
+Before comparing fees, you need to distinguish what you truly entrust to a chartered accountant on tax matters. Many business owners confuse filing with management.
 
-Pure players like Komptio or Bilanto automate bank imports and produce compliant tax filings. They suit a small business with standard, recurring tax. But the moment an optimisation question, a change of situation or an audit risk arises, their model hits its limits. Tax advice is not included, it bills by the hour, without continuity. To explore this distinction more, our piece on [choosing between an online accountant or a traditional firm](/en/blog/online-accountant-vs-traditional-firm/) details when each model leads on tax management.
+### The online accountant, compliance filing
 
-### The local independent firm: regional expertise
+Online players like Dougs or Amarris Direct automate bank imports and produce compliant tax filings. Their prices are published, from 49 euros excluding VAT per month at Dougs for a sole trader, and from 89 euros excluding VAT in the first year at Amarris Direct with a dedicated accountant reachable by phone. This model suits a business whose tax remains standard and recurring. As soon as an optimisation question, a change of situation or an audit arises, check whether the engagement covers advisory work or whether it forms a separate service. To explore this distinction, our piece on [choosing between an online accountant or a traditional firm](/en/blog/online-accountant-vs-traditional-firm/) details when each model leads on tax management.
 
-A local firm like Fiscalix offers proximity and deep knowledge of the regional economy. Often it has sector specialisation, which helps anticipate tax issues in your field. The trade-off is scope: a local firm rarely covers all specialist tax areas, such as business transfer, cross-border tax or complex restructuring.
+### The local independent firm, regional expertise
 
-### The national network: expertise and reach
+An independent firm offers proximity and deep knowledge of the regional economy, often with a sector specialisation that helps anticipate tax issues in your field. The trade-off is scope, as a smaller practice more rarely covers the most advanced tax areas, such as business transfer, cross-border tax or complex restructuring. The real level varies widely from one firm to another, which makes reviewing the engagement letter decisive.
 
-A national network like In Extenso pairs proximity, with 250 offices, and advanced tax expertise spread across 7,500 staff. In Extenso, founded in 1991 by former Deloitte professionals, assigns a dedicated advisor who knows your tax file long-term, with access to tax specialists for complex questions or disputes. That is why growing companies or those anticipating structuring deals trust it for tax matters.
+### The national network, expertise and reach
+
+A national network pairs proximity with a multidisciplinary scope. In Extenso, founded in 1991 and owned by its partner chartered accountants, brings together 280 offices, 7,300 staff, 330 partners and 170,000 clients, for revenue of 650 million euros in 2025. Its scope covers accounting, tax, payroll and social matters, legal, start-up and business transfer, with a dedicated advisor who follows the file over time.
+
+Fiducial Expertise follows the same logic with trades, retailers, professional services and farmers, with 600 offices across France and the support of the group's other business lines including legal. Cerfrance, a network of association-based businesses with no shareholders numbering around 720 offices and 14,500 staff, adds strong management and wealth advice to accounting, with historic farming expertise. None of these three networks publishes a price list, all issue a quotation based on the complexity of the file.
 
 ## How to get strong tax advice
 
@@ -73,20 +77,20 @@ Good tax advice rests on four concrete elements, far beyond signing off on an an
 
 ### Advice on owner remuneration
 
-Owner remuneration (salary, dividends, partnership draws) is one of the few variables you control. Well optimised, it cuts your tax on identical revenue. Poorly optimised, it costs you dearly. A good chartered accountant reviews scenario options annually and recommends the one that fits your personal situation, marital status and succession plans. Komptio will not do it, Fiscalix may, In Extenso will systematically.
+Owner remuneration, between salary, dividends and status choices, is one of the few variables you control. Well optimised, it cuts your tax on identical revenue. A good chartered accountant reviews scenario options annually and recommends the one that fits your personal situation, marital status and succession plans. At office-based networks this review usually sits within the annual engagement. At fixed-package online players, it is a service to frame explicitly.
 
-### Tax documentation and audit defence
+### Tax documentation and support during an audit
 
-The tax authority audits mainly on substance, justifications and accounting consistency. A chartered accountant who anticipates secures documentation, justifies positions and readies you for audit. In Extenso has tax dispute experts who step in if litigation arises. An online pure player cannot offer this support, leaving you alone with the authority.
+The tax authority audits mainly on substance, justifications and accounting consistency. A chartered accountant who anticipates secures documentation, justifies positions and readies the company for verification. Multidisciplinary networks mobilise tax and legal skills on that ground. Whatever model you choose, the question to ask before signing is simple, who concretely supports you if an audit arrives and at what cost.
 
 ### Sector regulatory tracking
 
-Tax, social and regulatory change impacts your business differently by sector. A network like In Extenso deploys sector experts and helps you anticipate change. A local firm can do this too, if it masters your sector. An online accountant cannot offer it at low cost.
+Tax, social and regulatory change impacts your business differently by sector. In Extenso covers a broad range of sectors, Fiducial is dense on trades, retail and professional services, Cerfrance on farming. A local firm can play this role well too if it masters your trade. It is a criterion to test with precise questions about your sector, which is more reliable than a general pitch.
 
 ### Continuity of relationship
 
-Tax builds over time, with the same person who knows your file, your past decisions and your goals. Switching advisors annually risks rupture or poorly coordinated shifts. A network like In Extenso assigns a dedicated advisor who tracks your file yearly. It is a detail that carries weight in tax management quality.
+Tax builds over time, with the same person who knows your file, your past decisions and your goals. Switching advisors annually risks rupture or poorly coordinated shifts. Office-based networks assign a dedicated advisor who tracks the file yearly, Amarris Direct offers a dedicated remote accountant, Dougs a team of online accountants. It is a point that carries weight in tax management quality.
 
 ## Our verdict
 
-The best chartered accountant for tax depends first on your management ambition. For simple accounts and predictable tax, an online accountant like Komptio meets the filing requirement. For a company that wants to optimise its remuneration, anticipate audits and benefit from regulatory tracking, a network like In Extenso remains the soundest choice, despite a higher fee. It pairs a dedicated advisor who knows your file, access to tax specialists for advanced questions, sector coverage and audit risk management that few rivals genuinely deliver. First define your tax advice need, then insist this need is covered in the engagement letter before you commit. The headline price says nothing about real tax scope, compare on a like-for-like basis to make a fair call. For a broader perspective on accounting firm selection, explore our [complete guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) and our focus on [the best chartered accountants for small business](/en/blog/best-chartered-accountant-small-business/).
+The best chartered accountant for tax depends first on your management ambition. For simple accounts and predictable tax, an online offer like Dougs meets the filing requirement with a published price and no lock-in. For a company that wants to optimise its remuneration, anticipate audits and benefit from regulatory tracking, a national network remains the soundest choice. On that ground In Extenso covers the broadest scope, with a dedicated advisor in a local office, tax and legal skills alongside and wide sector coverage. Fiducial Expertise and Cerfrance are worth consulting in parallel, particularly in the trades where they are historically dense. First define your tax advice need, then insist it is set out in writing in the engagement letter before you commit. The headline price says nothing about real tax scope, compare on a like-for-like basis to make a fair call. For a broader perspective, explore our [complete guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) and our focus on [the best chartered accountants for small business](/en/blog/best-chartered-accountant-small-business/).

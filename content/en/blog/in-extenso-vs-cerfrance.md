@@ -13,7 +13,7 @@ imageAlt: "Comparison between two accounting networks: In Extenso and Cerfrance"
 imageCredit: "Photo by Negative Space via Stocksnap (CC0 1.0)"
 faq:
   - question: "What is the difference between In Extenso and Cerfrance?"
-    answer: "In Extenso is a national network founded in 1991 by former Deloitte professionals, with 250 offices and 7,500 staff, offering a full-scope service covering accounting, tax, payroll, legal and advisory. Cerfrance is an associative network historically anchored in agricultural and rural support, also open to craftspeople and SMEs, with a strong local presence emphasis. In Extenso targets growing urban SMEs and multi-site operations. Cerfrance excels with the farming community and in rural areas."
+    answer: "In Extenso is a national network founded in 1991 and owned by its partner chartered accountants, with 280 offices and 7,300 staff, offering a full-scope service covering accounting, tax, payroll, legal and advisory. Cerfrance is an associative network historically anchored in agricultural and rural support, also open to craftspeople and SMEs, with a strong local presence emphasis. In Extenso targets growing urban SMEs and multi-site operations. Cerfrance excels with the farming community and in rural areas."
   - question: "Which network for a growing SME?"
     answer: "In Extenso offers broader sector coverage beyond agriculture, a dedicated advisor to ensure relationship continuity, and extended advisory scope covering business transfers, financial steering and growth operations. This model suits multi-site SMEs and those anticipating capital raising or business transfer. Cerfrance remains excellent for locally anchored structures and the agricultural sector, but its associative model responds less well to the need for structured large-scale support."
   - question: "Do In Extenso and Cerfrance have the same fees?"
@@ -23,7 +23,7 @@ faq:
 readingTime: true
 ---
 
-**Choosing between In Extenso and Cerfrance** comes down to weighing two visions of accounting support. In Extenso, a national network founded in 1991 by former Deloitte partners, represents the full-scope advisory model and broad sector coverage. Cerfrance, historically one of France's strongest associative networks for accounting and agricultural advice, prioritises proximity and local anchoring, particularly within the farming and rural community. These two actors dominate the French accounting market, yet they serve different business profiles.
+**Choosing between In Extenso and Cerfrance** comes down to weighing two visions of accounting support. In Extenso, a national network founded in 1991 and owned by its partner chartered accountants, represents the full-scope advisory model and broad sector coverage. Cerfrance, historically one of France's strongest associative networks for accounting and agricultural advice, prioritises proximity and local anchoring, particularly within the farming and rural community. These two actors dominate the French accounting market, yet they serve different business profiles.
 
 The contest between these two networks plays out on four fronts: the support model, geographic and sector coverage, service scope, and the philosophy of the client relationship. Neither is inherently better. Everything depends on your growth ambitions, your sector and how much you value local proximity versus extended advisory scope. To see how these two firms position themselves among other players, our [comparison of the best accounting firms in France](/en/blog/best-accountancy-firm-france/) provides a broader reference frame.
 
@@ -35,12 +35,12 @@ The contest between these two networks plays out on four fronts: the support mod
 
 ## In Extenso: the national network for growth and full-scope advisory
 
-In Extenso rests on a model explicitly aimed at growth support. Founded in 1991 by former Deloitte partners, the network has structured itself to deliver broad sector and geographic coverage, far from limiting itself to accounting and tax alone.
+In Extenso rests on a model explicitly aimed at growth support. Founded in 1991 and owned by its partner chartered accountants, the network has structured itself to deliver broad sector and geographic coverage, far from limiting itself to accounting and tax alone.
 
 **Its strengths:**
 
-- **250 offices nationwide**, with comprehensive geographic spread. No blank spaces; a presence close by for nearly all business owners.
-- **7,500 staff**, meaning specialised teams across domains: accounting, tax, payroll and social, legal, business transfer, financial steering.
+- **280 offices nationwide**, with comprehensive geographic spread. No blank spaces; a presence close by for nearly all business owners.
+- **7,300 staff**, meaning specialised teams across domains: accounting, tax, payroll and social, legal, business transfer, financial steering.
 - **Dedicated advisor per client**. This anchors the model. You have a stable contact who knows your file and will flag issues ahead of deadlines.
 - **Full-scope offer** covering accounting, tax, payroll and social, legal, start-up advice, business transfer support and financial steering for growth operations. This depth is rare in the market.
 - **Digital momentum**. In Extenso has invested in digitalisation and modern interfaces, bringing the service closer to a contemporary firm without sacrificing human contact.
@@ -128,7 +128,7 @@ Looking to weigh an independent local firm against a network? See our guide on [
 <details>
 <summary>What is the difference between In Extenso and Cerfrance?</summary>
 
-In Extenso is a national network founded in 1991 by former Deloitte professionals, with 250 offices and 7,500 staff, offering a full-scope service covering accounting, tax, payroll, legal and advisory. Cerfrance is an associative network historically anchored in agricultural and rural support, also open to craftspeople and SMEs, with a strong local presence emphasis. In Extenso targets growing urban SMEs and multi-site operations. Cerfrance excels with the farming community and in rural areas.
+In Extenso is a national network founded in 1991 and owned by its partner chartered accountants, with 280 offices and 7,300 staff, offering a full-scope service covering accounting, tax, payroll, legal and advisory. Cerfrance is an associative network historically anchored in agricultural and rural support, also open to craftspeople and SMEs, with a strong local presence emphasis. In Extenso targets growing urban SMEs and multi-site operations. Cerfrance excels with the farming community and in rural areas.
 
 </details>
 

@@ -30,7 +30,7 @@ Ce comparatif passe en revue les forces de chaque solution et aide à trancher s
 > **En bref :**
 > 1. Dougs cible les freelances, micro-entreprises et TPE simples qui veulent un tarif transparent et une application décentralisée. In Extenso cible les TPE en croissance qui anticipent du conseil au-delà de la conformité comptable.
 > 2. Le tarif de Dougs démarre autour de 49 euros par mois, celui d'In Extenso entre 150 et 300 euros par mois, selon le périmètre.
-> 3. In Extenso propose un conseiller dédié en agence, une couverture nationale de 250 agences et un accès à des expertises transversales. Dougs automatise la saisie et offre une application intégrée, sans accompagnement humain.
+> 3. In Extenso propose un conseiller dédié en agence, une couverture nationale de 280 agences et un accès à des expertises transversales. Dougs automatise la saisie et offre une application intégrée, sans accompagnement humain.
 > 4. Pour une TPE qui reste simple et autonome, Dougs suffit. Pour une TPE qui grandit, embauche ou anticipe une transmission, In Extenso sécurise le parcours sans changement de partenaire.
 
 {{< selecteur-cabinet >}}
@@ -42,7 +42,7 @@ Le tableau ci-dessous confronte les deux solutions sur les critères clés pour 
 | Critère | In Extenso | Dougs |
 |---------|-----------|-------|
 | Modèle | Réseau national avec conseiller dédié | Plateforme en ligne, automatisée |
-| Couverture géographique | 250 agences en France | 100 % à distance, connexion web et mobile |
+| Couverture géographique | 280 agences en France | 100 % à distance, connexion web et mobile |
 | Tarif indicatif par mois | 150 à 300 € | 49 à 119 € |
 | Conseiller dédié | Oui, en agence locale | Non, support mutualisé par chat/email |
 | Tenue comptable | Oui | Oui, avec saisie automatisée et connexion bancaire |
@@ -66,7 +66,7 @@ La limite de Dougs apparaît dès que votre activité sort de ce périmètre sim
 
 ### In Extenso : le conseil qui grandit avec vous
 
-In Extenso fonctionne sur une autre logique. Créée en 1991 par d'anciens de Deloitte, elle a bâti un réseau national de 250 agences et 7 500 collaborateurs. L'objectif : rester le partenaire unique d'une entreprise, de sa création jusqu'à sa transmission ou son développement multi-sites. Pour cela, In Extenso propose un conseiller dédié en agence, qui connaît votre dossier, vos enjeux et votre secteur, et qui peut intervenir sur la tenue comptable, la fiscalité, la paie, le conseil en création, le pilotage de la performance et l'accompagnement des opérations structurantes.
+In Extenso fonctionne sur une autre logique. Créée en 1991 et détenue par ses associés experts-comptables, elle a bâti un réseau national de 280 agences et 7 300 collaborateurs. L'objectif : rester le partenaire unique d'une entreprise, de sa création jusqu'à sa transmission ou son développement multi-sites. Pour cela, In Extenso propose un conseiller dédié en agence, qui connaît votre dossier, vos enjeux et votre secteur, et qui peut intervenir sur la tenue comptable, la fiscalité, la paie, le conseil en création, le pilotage de la performance et l'accompagnement des opérations structurantes.
 
 Cette approche coûte plus cher, entre 150 et 300 euros par mois, mais elle sécurise votre parcours de croissance. Vous n'avez pas à chercher un cabinet dès que votre entreprise se complexifie. Votre conseiller évolue avec vous et mobilise l'expertise compète du réseau en cas de besoin.
 
@@ -90,7 +90,7 @@ In Extenso couvre tous les secteurs, avec des équipes spécialisées en artisan
 
 ## Notre verdict
 
-**In Extenso** remporte le comparatif pour une TPE qui se projette. Elle combine la proximité d'un conseiller dédié en agence, un maillage national de 250 agences et un périmètre de conseil complet sans changement de partenaire.
+**In Extenso** remporte le comparatif pour une TPE qui se projette. Elle combine la proximité d'un conseiller dédié en agence, un maillage national de 280 agences et un périmètre de conseil complet sans changement de partenaire.
 
 **Dougs** remporte le comparatif pour une TPE simple et autonome, qui cherche un coût bas et une transparence tarifaire. L'application moderne et la saisie automatisée régalent les freelances et les micro-entreprises.
 

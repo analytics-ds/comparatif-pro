@@ -16,17 +16,17 @@ imageCredit: "Photo by KevinJump via Flickr (CC BY 2.0)"
 readingTime: true
 faq:
   - question: "In Extenso or Pennylane: which one to choose?"
-    answer: "The choice depends on your priorities. Choose In Extenso if you seek a dedicated human advisor, a full-service offer (accounting, tax, legal, succession) and local support from one of its 250 branches. Choose Pennylane if you prioritise automation, self-managed simplicity, an ergonomic interface and real-time financial tracking tools. In Extenso suits growing SMEs better, Pennylane suits digital self-managed structures."
+    answer: "The choice depends on your priorities. Choose In Extenso if you seek a dedicated human advisor, a full-service offer (accounting, tax, legal, succession) and local support from one of its 280 branches. Choose Pennylane if you prioritise automation, self-managed simplicity, an ergonomic interface and real-time financial tracking tools. In Extenso suits growing SMEs better, Pennylane suits digital self-managed structures."
   - question: "What is the monthly cost with In Extenso and Pennylane?"
     answer: "In Extenso charges around 250 to 300 euros per month for a small business (standard accounting expertise flat fee). Pennylane starts from 29 euros per month (very small volume) and can reach 200 euros depending on modules and usage. Both can show additional costs based on complexity and optional services, to be checked during quote."
   - question: "Do In Extenso and Pennylane handle electronic invoicing?"
     answer: "Yes. In Extenso relies on its PDP partners (Cegid Pulse, network partners) to integrate electronic invoicing into its services. Pennylane natively integrates a PDP, electronic invoicing is included in the subscription and easy to activate. Pennylane offers better end-to-end automation, In Extenso a traditional firm support approach."
   - question: "Who to choose for a multi-site or growing structure?"
-    answer: "In Extenso. Its national network of 250 branches provides you with a local advisor in each region, service continuity and support for succession or restructuring issues. Its full-service offer (tax, legal, management reporting) becomes very relevant once growth raises structural questions. Pennylane is more oriented toward self-management and suits structures that remain simple."
+    answer: "In Extenso. Its national network of 280 branches provides you with a local advisor in each region, service continuity and support for succession or restructuring issues. Its full-service offer (tax, legal, management reporting) becomes very relevant once growth raises structural questions. Pennylane is more oriented toward self-management and suits structures that remain simple."
 ---
 
 > **Key points:**
-> 1. In Extenso is a traditional accounting firm (1991, 250 branches, 7,500 employees), French leader for SMEs and small businesses, with a dedicated advisor per client and a full-service offer (accounting, tax, legal, succession).
+> 1. In Extenso is a traditional accounting firm (1991, 280 branches, 7,300 employees), French leader for SMEs and small businesses, with a dedicated advisor per client and a full-service offer (accounting, tax, legal, succession).
 > 2. Pennylane is a SaaS financial management platform coupled with a network of partner firms, optimised for automation, bank synchronisation and digital self-management.
 > 3. In Extenso wins on human advice, growth support and local proximity. Pennylane wins on ease of use, tool modernity and low entry cost.
 > 4. The verdict: In Extenso if you seek a growth partner and advisor; Pennylane if you seek financial management software with accounting support in the background.
@@ -38,12 +38,12 @@ In Extenso and Pennylane embody two diametrically opposed models of accounting e
 | Criterion | In Extenso | Pennylane |
 |---|---|---|
 | **Structure type** | Traditional accounting firm | SaaS platform + partner network |
-| **Founded** | 1991 (ex-Deloitte) | 2013 (pure digital player) |
+| **Founded** | 1991 | 2013 (pure digital player) |
 | **Founders** | Independent firm network | Sophie Viger + Milo Krémastiotis (tech founders) |
-| **Network size** | 250 branches, 7,500 employees | Network of partner firms (80+ firms) |
+| **Network size** | 280 branches, 7,300 employees | Network of partner firms (80+ firms) |
 | **Dedicated advisor** | Yes, assigned advisor per client | No, support via chat/email/video on demand |
 | **Service scope** | Full-service (accounting + tax + legal + payroll + succession + management reporting) | Primarily financial management + statutory accounting |
-| **Geographic proximity** | 250 branches, national presence | Digital, partner firms vary by region |
+| **Geographic proximity** | 280 branches, national presence | Digital, partner firms vary by region |
 | **Monthly fee** | 250-300 EUR for small business | 29-200 EUR depending on modules and usage |
 | **Bank synchronisation** | Via connectors, less automated | Native, full automation |
 | **Document generation** | Firm manages, you receive | Automations, you download/manage |
@@ -57,7 +57,7 @@ In Extenso and Pennylane embody two diametrically opposed models of accounting e
 
 ## In Extenso: the historic firm with a dedicated advisor
 
-In Extenso was founded in 1991 by former Deloitte partners. Thirty-five years later, it is the French leader in accounting expertise for SMEs and small businesses, with near-national coverage. Its 7,500 employees spread across 250 branches make it a dense proximity network, a major strength against purely digital competitors.
+In Extenso was founded in 1991 and owned by its partner chartered accountants. Thirty-five years later, it is the French leader in accounting expertise for SMEs and small businesses, with near-national coverage. Its 7,300 employees spread across 280 branches make it a dense proximity network, a major strength against purely digital competitors.
 
 **The service scope.** In Extenso sells a full-service offer: statutory accounting (99% of revenue), integrated optional services (tax, payroll, legal, business creation, succession support, management reporting and business advice). This breadth means an entrepreneur can entrust a single contact with accounting, VAT return, tax audit, director contracts, succession questions, and even restructuring projects. This range appeals to growing SMEs.
 
@@ -81,7 +81,7 @@ Pennylane was founded in 2013 by founders Sophie Viger and Milo Krémastiotis. I
 
 **Multi-site and accounting complexity.** Multiple locations, multiple currencies, different tax regimes. In Extenso masters these cases; Pennylane remains oriented toward simple small structures. An In Extenso advisor will hold your hand.
 
-**Need for local proximity.** You want a firm near you, able to discuss face-to-face with someone who knows your industry and local ecosystem. In Extenso's 250 branches cover almost all French postcodes.
+**Need for local proximity.** You want a firm near you, able to discuss face-to-face with someone who knows your industry and local ecosystem. In Extenso's 280 branches cover almost all French postcodes.
 
 **Support in legal, payroll, succession.** In Extenso offers these services under one roof (or via in-house partners). You manage a single relationship. With Pennylane, you must find another provider.
 

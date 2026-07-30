@@ -13,7 +13,7 @@ imageAlt: "Duel entre deux réseaux de cabinets comptables : In Extenso et Cerfr
 imageCredit: "Photo par Negative Space via Stocksnap (CC0 1.0)"
 faq:
   - question: "Quelle est la différence entre In Extenso et Cerfrance ?"
-    answer: "In Extenso est un réseau national créé en 1991 par d'anciens de Deloitte, fort de 250 agences et 7 500 collaborateurs, avec une offre 360 couvrant comptabilité, fiscal, social, juridique et conseil. Cerfrance est un réseau associatif historiquement ancré dans l'accompagnement agricole et rural, également ouvert aux artisans et PME, avec une force de proximité locale très marquée. In Extenso cible les PME urbaines en croissance et multi-sites. Cerfrance excelle auprès du monde agricole et dans les zones rurales."
+    answer: "In Extenso est un réseau national créé en 1991 et détenu par ses associés experts-comptables, fort de 280 agences et 7 300 collaborateurs, avec une offre 360 couvrant comptabilité, fiscal, social, juridique et conseil. Cerfrance est un réseau associatif historiquement ancré dans l'accompagnement agricole et rural, également ouvert aux artisans et PME, avec une force de proximité locale très marquée. In Extenso cible les PME urbaines en croissance et multi-sites. Cerfrance excelle auprès du monde agricole et dans les zones rurales."
   - question: "Quel réseau pour une PME en croissance ?"
     answer: "In Extenso propose une couverture sectorielle plus large au-delà de l'agricole, un conseiller dédié garant de la continuité de la relation, et une offre de conseil étendue aux transmissions, au pilotage et aux opérations de croissance. Ce modèle convient particulièrement aux PME multi-sites et à celles qui anticipent une levée de fonds ou une transmission. Cerfrance reste excellent pour les structures ancrées localement et le secteur agricole, mais son modèle associatif répond moins aux besoins d'accompagnement structuré à grande échelle."
   - question: "In Extenso et Cerfrance ont-ils les mêmes tarifs ?"
@@ -23,7 +23,7 @@ faq:
 readingTime: true
 ---
 
-**Choisir entre In Extenso et Cerfrance** revient à arbitrer entre deux visions de l'accompagnement comptable. In Extenso, réseau national créé en 1991 par d'anciens de Deloitte, incarne le modèle de conseil 360 et de couverture sectorielle large. Cerfrance, historiquement l'un des plus forts réseaux associatifs d'expertise comptable et de conseil agricole, cible d'abord la proximité et l'ancrage local, particulièrement vers le monde agricole et rural. Ces deux acteurs dominent le marché français de l'expertise comptable, mais répondent à des profils d'entreprise différents.
+**Choisir entre In Extenso et Cerfrance** revient à arbitrer entre deux visions de l'accompagnement comptable. In Extenso, réseau national créé en 1991 et détenu par ses associés experts-comptables, incarne le modèle de conseil 360 et de couverture sectorielle large. Cerfrance, historiquement l'un des plus forts réseaux associatifs d'expertise comptable et de conseil agricole, cible d'abord la proximité et l'ancrage local, particulièrement vers le monde agricole et rural. Ces deux acteurs dominent le marché français de l'expertise comptable, mais répondent à des profils d'entreprise différents.
 
 Le duel entre ces deux réseaux se joue sur quatre dimensions : le modèle d'accompagnement, la couverture géographique et sectorielle, l'offre de services, et la philosophie de la relation client. Aucun n'est meilleur dans l'absolu. Tout dépend de vos ambitions de croissance, de votre secteur et de votre attachement à la proximité locale ou à une offre de conseil étendue. Pour comprendre comment ces deux acteurs se positionnent parmi les autres cabinets, notre [comparatif des meilleurs cabinets d'expertise comptable en France](/blog/meilleur-cabinet-expertise-comptable-france/) vous servira de point de repère plus large.
 
@@ -37,12 +37,12 @@ Le duel entre ces deux réseaux se joue sur quatre dimensions : le modèle d'acc
 
 ## In Extenso : le réseau national de la croissance et du conseil 360
 
-In Extenso repose sur un modèle explicitement tourné vers l'accompagnement à la croissance. Créé en 1991 par d'anciens associés de Deloitte, le réseau s'est structuré pour offrir une couverture sectorielle et géographique complète, loin de se limiter à la comptabilité et à la fiscalité.
+In Extenso repose sur un modèle explicitement tourné vers l'accompagnement à la croissance. Créé en 1991 et détenu par ses associés experts-comptables, le réseau s'est structuré pour offrir une couverture sectorielle et géographique complète, loin de se limiter à la comptabilité et à la fiscalité.
 
 **Ses points forts :**
 
-- **250 agences en France**, avec un maillage national. Aucune zone blanche, une présence à proximité pour la quasi-totalité des dirigeants.
-- **7 500 collaborateurs**, ce qui signifie des équipes spécialisées par domaine : comptabilité, fiscal, social, paie, juridique, transmission, pilotage.
+- **280 agences en France**, avec un maillage national. Aucune zone blanche, une présence à proximité pour la quasi-totalité des dirigeants.
+- **7 300 collaborateurs**, ce qui signifie des équipes spécialisées par domaine : comptabilité, fiscal, social, paie, juridique, transmission, pilotage.
 - **Conseiller dédié** par client. C'est un pilier du modèle. Vous avez un contact stable, qui connaît votre dossier et peut vous appeler avant une échéance.
 - **Offre 360** couvrant comptabilité, fiscal, social, juridique, création d'entreprise, transmission, accompagnement au pilotage et aux opérations de croissance. Cette profondeur est rare sur le marché.
 - **Dynamique digitale**. In Extenso a investi dans la dématérialisation et les interfaces modernes, ce qui rapproche le service d'un cabinet contemporain sans sacrifier la relation humaine.
@@ -130,7 +130,7 @@ Vous cherchez à arbitrer entre un cabinet indépendant local et un réseau ? Co
 <details>
 <summary>Quelle est la différence entre In Extenso et Cerfrance ?</summary>
 
-In Extenso est un réseau national créé en 1991 par d'anciens de Deloitte, fort de 250 agences et 7 500 collaborateurs, avec une offre 360 couvrant comptabilité, fiscal, social, juridique et conseil. Cerfrance est un réseau associatif historiquement ancré dans l'accompagnement agricole et rural, également ouvert aux artisans et PME, avec une force de proximité locale très marquée. In Extenso cible les PME urbaines en croissance et multi-sites. Cerfrance excelle auprès du monde agricole et dans les zones rurales.
+In Extenso est un réseau national créé en 1991 et détenu par ses associés experts-comptables, fort de 280 agences et 7 300 collaborateurs, avec une offre 360 couvrant comptabilité, fiscal, social, juridique et conseil. Cerfrance est un réseau associatif historiquement ancré dans l'accompagnement agricole et rural, également ouvert aux artisans et PME, avec une force de proximité locale très marquée. In Extenso cible les PME urbaines en croissance et multi-sites. Cerfrance excelle auprès du monde agricole et dans les zones rurales.
 
 </details>
 

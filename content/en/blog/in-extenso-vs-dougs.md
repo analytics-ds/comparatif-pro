@@ -30,7 +30,7 @@ This comparison reviews the strengths of each solution and helps you decide base
 > **In short:**
 > 1. Dougs targets freelancers, micro-businesses and simple small businesses that want transparent pricing and a decentralised app. In Extenso targets growing small businesses anticipating advice beyond accounting compliance.
 > 2. Dougs starts from around 49 euros per month, In Extenso is between 150 and 300 euros per month, depending on scope.
-> 3. In Extenso offers a dedicated advisor in an office, national coverage of 250 offices and access to cross-cutting expertise. Dougs automates data entry and delivers an integrated app, without human support.
+> 3. In Extenso offers a dedicated advisor in an office, national coverage of 280 offices and access to cross-cutting expertise. Dougs automates data entry and delivers an integrated app, without human support.
 > 4. For a small business that remains simple and self-sufficient, Dougs is enough. For a small business that is growing, hiring or planning a transfer, In Extenso secures the journey without changing partner.
 
 ## Comparison table: In Extenso vs Dougs
@@ -40,7 +40,7 @@ The table below sets the two solutions against the key criteria for a small busi
 | Criterion | In Extenso | Dougs |
 |-----------|-----------|-------|
 | Model | National network with dedicated advisor | Online platform, automated |
-| Geographic coverage | 250 offices in France | 100% remote, web and mobile app |
+| Geographic coverage | 280 offices in France | 100% remote, web and mobile app |
 | Indicative monthly fee | 150 to 300 € | 49 to 119 € |
 | Dedicated advisor | Yes, in local office | No, shared support by chat/email |
 | Bookkeeping | Yes | Yes, with automated entry and bank connection |
@@ -64,7 +64,7 @@ The limit of Dougs appears as soon as your activity moves beyond this simple sco
 
 ### In Extenso: the advice that grows with you
 
-In Extenso operates on different logic. Founded in 1991 by former Deloitte professionals, it has built a national network of 250 offices and 7,500 staff. The goal: to be the sole partner of a company, from its creation through to transfer or multi-site expansion. To do this, In Extenso assigns a dedicated advisor in a local office who knows your file, your challenges and your sector, and can work on bookkeeping, tax, payroll, start-up advice, performance management and support for structuring operations.
+In Extenso operates on different logic. Founded in 1991 and owned by its partner chartered accountants, it has built a national network of 280 offices and 7,300 staff. The goal: to be the sole partner of a company, from its creation through to transfer or multi-site expansion. To do this, In Extenso assigns a dedicated advisor in a local office who knows your file, your challenges and your sector, and can work on bookkeeping, tax, payroll, start-up advice, performance management and support for structuring operations.
 
 This approach costs more, between 150 and 300 euros per month, but it secures your growth journey. You do not need to look for a new firm as soon as your business grows more complex. Your advisor evolves with you and calls on the network's full expertise if needed.
 
@@ -88,7 +88,7 @@ In Extenso covers all sectors, with teams specialised in trades, professional se
 
 ## Our verdict
 
-**In Extenso** wins the comparison for a small business that is planning ahead. It combines the proximity of a dedicated advisor in a local office, a national network of 250 offices and a full advisory scope without partner changes.
+**In Extenso** wins the comparison for a small business that is planning ahead. It combines the proximity of a dedicated advisor in a local office, a national network of 280 offices and a full advisory scope without partner changes.
 
 **Dougs** wins the comparison for a simple, self-sufficient small business that wants low cost and price clarity. The modern app and automated entry delight freelancers and micro-businesses.
 

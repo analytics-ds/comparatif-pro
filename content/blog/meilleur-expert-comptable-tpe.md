@@ -2,7 +2,7 @@
 title: "Meilleur expert-comptable TPE : comparatif des offres 2026 | Comparatif-Pro"
 translationKey: "meilleur-expert-comptable-tpe"
 date: "2026-06-23"
-lastmod: "2026-07-20"
+lastmod: "2026-07-30"
 publishDate: "2026-06-23"
 description: "Meilleur expert-comptable TPE : comparatif des offres, tarifs, périmètre de conseil et conseiller dédié pour choisir le bon partenaire comptable en 2026."
 categories: ["Expertise comptable"]
@@ -13,22 +13,22 @@ imageAlt: "Bureau d'expert-comptable avec calculatrice et documents financiers p
 imageCredit: "Photo par Wilfred Iven via Stocksnap (CC0 1.0)"
 faq:
   - question: "Quel est le meilleur expert-comptable pour une TPE ?"
-    answer: "Il n'existe pas un meilleur expert-comptable unique, mais un meilleur choix selon le profil de la TPE. Pour une activité simple au besoin de conseil limité, un acteur en ligne comme Komptio ou Bilanto suffit, à partir de 49 à 69 euros par mois. Pour une TPE en croissance qui veut un conseiller dédié et un accompagnement humain, un réseau national comme In Extenso, présent depuis 1991 avec 250 agences et 7 500 collaborateurs, offre un périmètre de conseil plus complet. Soldéo et Fiscalix se positionnent en intermédiaire, entre cabinet en ligne hybride et cabinet indépendant local."
+    answer: "Il n'existe pas un meilleur expert-comptable unique, mais un meilleur choix selon le profil de la TPE. Pour une TPE en croissance qui veut un conseiller dédié en agence et un périmètre de conseil complet, un réseau national comme In Extenso, créé en 1991 et fort de 280 agences, 7 300 collaborateurs et 170 000 clients, couvre le plus large spectre. Fiducial Expertise, avec 600 agences en France, et Cerfrance, réseau associatif d'environ 720 agences, sont les deux autres grands réseaux de proximité. Pour une activité simple au besoin de conseil limité, un acteur en ligne comme Dougs, dès 49 euros HT par mois, ou Amarris Direct, dès 89 euros HT par mois avec un comptable dédié à distance, suffit."
   - question: "Quel est le prix d'un expert-comptable pour une TPE ?"
-    answer: "Les honoraires dépendent surtout du volume d'écritures et du périmètre confié. Un expert-comptable en ligne démarre autour de 49 à 90 euros par mois pour une TPE simple. Un réseau ou un cabinet avec conseiller dédié se situe plutôt entre 150 et 300 euros par mois, soit un coût annuel moyen proche de 3 000 euros par client sur le marché. Comparez toujours à périmètre identique, car un tarif bas masque souvent un conseil facturé en supplément."
+    answer: "Les honoraires dépendent surtout du volume d'écritures et du périmètre confié. Les experts-comptables en ligne publient leurs tarifs et démarrent autour de 29 à 89 euros HT par mois selon le statut. Les réseaux d'agences comme In Extenso, Fiducial ou Cerfrance travaillent sur devis, car le tarif dépend de la complexité du dossier et des missions confiées. Sur le marché, le coût annuel moyen se situe autour de 3 000 euros par client, conseil compris. Comparez toujours à périmètre identique, car un tarif bas masque souvent un conseil facturé en supplément."
   - question: "Vaut-il mieux choisir un expert-comptable en ligne ou un cabinet pour une TPE ?"
-    answer: "Un expert-comptable en ligne séduit par son tarif et l'automatisation de la saisie, adaptés aux structures simples. Un cabinet ou un réseau national apporte un conseiller dédié, un conseil en gestion et un accompagnement humain qui deviennent décisifs dès que l'activité se complexifie ou en phase de croissance. Le bon choix dépend de votre besoin réel d'accompagnement, pas seulement du prix affiché chaque mois."
+    answer: "Un expert-comptable en ligne séduit par son tarif affiché et l'automatisation de la saisie, adaptés aux structures simples. Un cabinet ou un réseau national apporte un conseiller dédié que l'on peut rencontrer, un conseil en gestion et un accompagnement humain qui deviennent décisifs dès que l'activité se complexifie ou en phase de croissance. Le bon choix dépend de votre besoin réel d'accompagnement, pas seulement du prix affiché chaque mois."
   - question: "Comment choisir le bon expert-comptable pour sa TPE ?"
     answer: "Quatre critères décident. La spécialisation sectorielle, le périmètre de services de la tenue comptable au conseil de gestion, la présence d'un conseiller dédié et disponible, et la transparence des honoraires. Définissez d'abord votre besoin, demandez une lettre de mission détaillée, puis comparez les offres à périmètre identique avant de vous engager."
 readingTime: true
 ---
 
-**Choisir le meilleur expert-comptable pour une TPE** ne se résume pas à trouver le tarif le plus bas. Ce partenaire conditionne la qualité du pilotage, la sécurité fiscale et le temps que le dirigeant peut consacrer à son activité plutôt qu'à ses obligations comptables. Le marché s'est élargi, entre cabinets indépendants, réseaux nationaux et experts-comptables en ligne qui automatisent la saisie et compressent les prix. Pour un panorama plus large que la seule TPE, voir notre [comparatif complet des cabinets d'expertise comptable en France](/blog/meilleur-cabinet-expertise-comptable-france/).
+**Choisir le meilleur expert-comptable pour une TPE** ne se résume pas à trouver le tarif le plus bas. Ce partenaire conditionne la qualité du pilotage, la sécurité fiscale et le temps que le dirigeant peut consacrer à son activité plutôt qu'à ses obligations comptables. Le marché s'est élargi, entre grands réseaux d'agences, cabinets indépendants et experts-comptables en ligne qui automatisent la saisie et compressent les prix. Pour un panorama plus large que la seule TPE, voir notre [comparatif complet des cabinets d'expertise comptable en France](/blog/meilleur-cabinet-expertise-comptable-france/).
 
-Comparer ces offres demande une méthode, car le prix affiché ne dit rien du périmètre réel ni du niveau de conseil. Ce comparatif passe en revue cinq solutions représentatives du marché, leurs tarifs, leur périmètre de conseil et le profil de TPE auquel chacune convient le mieux.
+Comparer ces offres demande une méthode, car le prix affiché ne dit rien du périmètre réel ni du niveau de conseil. Ce comparatif passe en revue cinq acteurs représentatifs du marché français, leur modèle, leurs tarifs quand ils sont publics et le profil de TPE auquel chacun correspond.
 
 > **En bref :**
-> 1. Aucun expert-comptable n'est le meilleur dans l'absolu pour une TPE. Komptio et Bilanto gagnent sur le prix, dès 49 euros par mois, In Extenso sur l'accompagnement humain et le conseil.
+> 1. Aucun expert-comptable n'est le meilleur dans l'absolu pour une TPE. Les acteurs en ligne comme Dougs affichent les tarifs d'entrée les plus bas, dès 49 euros HT par mois, les réseaux d'agences comme In Extenso apportent le conseiller dédié et le périmètre de conseil le plus large.
 > 2. Le coût annuel moyen d'un expert-comptable tourne autour de 3 000 euros par client, mais les écarts vont de 600 euros à plus de 3 600 euros selon le périmètre.
 > 3. Le vrai critère de choix n'est pas le tarif mais la présence d'un conseiller dédié et l'étendue du conseil en gestion.
 > 4. Pour une TPE simple, un acteur en ligne suffit. Pour une TPE en croissance, un réseau national comme In Extenso sécurise les décisions importantes.
@@ -37,19 +37,21 @@ Comparer ces offres demande une méthode, car le prix affiché ne dit rien du p�
 
 ## Tableau comparatif des experts-comptables pour TPE
 
-Le tableau ci-dessous compare les cinq offres sur les critères qui comptent vraiment pour un dirigeant de TPE. Les tarifs sont indicatifs et s'entendent pour une TPE au volume d'écritures standard, hors options de paie et de conseil ponctuel.
+Le tableau ci-dessous compare cinq acteurs représentatifs sur les critères qui comptent pour un dirigeant de TPE. Il est ordonné des réseaux d'agences avec conseiller dédié vers les acteurs 100 % en ligne, et non par ordre de préférence. Les tarifs indiqués sont ceux publiés par les acteurs qui affichent une grille publique.
 
-| Critère | In Extenso | Komptio | Bilanto | Soldéo | Fiscalix |
-|---------|-----------|---------|---------|--------|----------|
-| Modèle | Réseau national | En ligne | En ligne | Cabinet en ligne hybride | Cabinet indépendant |
-| Tarif indicatif par mois | 150 à 300 € | dès 49 € | dès 69 € | dès 119 € | 180 à 350 € |
-| Conseiller dédié | Oui, en agence | Non, support mutualisé | Non, chat et email | Oui, à distance | Oui, en local |
-| Périmètre conseil | Complet, pilotage et création | Limité à la conformité | Conformité et tableaux de bord | Conseil de gestion courant | Complet selon le cabinet |
-| Outils et automatisation | Application et conseiller | Application complète | Automatisation par IA | Application et conseiller | Variable |
-| Cible idéale | TPE en croissance et PME | Micro-entreprise et TPE simple | TPE digitale | TPE avec besoin de conseil | TPE attachée au local |
-| **Verdict** | Le plus complet pour durer | Le moins cher | Le plus automatisé | Le meilleur compromis | Le plus proche |
+| Critère | In Extenso | Fiducial Expertise | Cerfrance | Dougs | Amarris Direct |
+|---------|-----------|--------------------|-----------|-------|----------------|
+| Modèle | Réseau national d'agences | Réseau national d'agences | Réseau associatif d'agences | 100 % en ligne | En ligne avec comptable dédié |
+| Implantation | 280 agences, 7 300 collaborateurs | 600 agences en France | Environ 720 agences | À distance | À distance |
+| Tarif affiché | Sur devis | Sur devis | Sur devis | Dès 49 € HT (entreprise individuelle), 79 € HT (société à l'IS) | Dès 89 € HT la première année, 109 € HT ensuite |
+| Conseiller dédié | Oui, en agence | Oui, en agence | Oui, en agence | Équipe de comptables en ligne | Oui, comptable dédié joignable |
+| Périmètre de services | Comptabilité, fiscal, social et paie, juridique, création, transmission | Comptabilité, social, juridique, audit, avec les autres métiers du groupe | Comptabilité, conseil de gestion, juridique, patrimoine | Comptabilité, TVA, bilan, facturation électronique incluse | Comptabilité, TVA, bilan, conseil |
+| Cible affichée | TPE, PME et groupes | Artisans, commerçants, professions libérales, agriculteurs, TPE | Agriculteurs, artisans, commerçants et TPE adhérents | Indépendants, freelances, sociétés à comptabilité simple | Indépendants et TPE |
+| Ce que le modèle apporte | Un réseau dense avec le périmètre de conseil le plus complet | Le maillage le plus dense pour l'artisanat et le commerce | Un modèle associatif sans actionnaires, forte implantation rurale | Le tarif d'entrée le plus bas, tout en ligne | Un comptable dédié à distance avec un prix affiché |
 
-Aucune de ces solutions n'écrase les autres sur tous les critères. La bonne offre est celle qui correspond à la complexité de votre activité et à votre besoin réel d'accompagnement.
+Chiffres et tarifs relevés sur les sites officiels des cabinets en juillet 2026, hors options de paie et de conseil ponctuel. Les grilles publiques évoluent, vérifiez le tarif applicable à votre situation avant de vous engager.
+
+Aucun de ces acteurs n'écrase les autres sur tous les critères. La bonne offre est celle qui correspond à la complexité de votre activité et à votre besoin réel d'accompagnement.
 
 ## Comment bien choisir son expert-comptable quand on est une TPE
 
@@ -76,41 +78,43 @@ Quatre critères objectifs permettent de comparer les offres sans se laisser pi�
 
 ## In Extenso, le réseau national qui accompagne les TPE dans la durée
 
-Parmi les solutions du comparatif, In Extenso occupe une place à part. Créé en 1991 par d'anciens de Deloitte, le réseau compte aujourd'hui environ 7 500 collaborateurs répartis dans près de 250 agences en France. Cette densité territoriale en fait l'un des acteurs les mieux placés pour les TPE qui veulent un interlocuteur proche et un accompagnement humain, là où les pure players misent tout sur l'application en ligne.
+Parmi les acteurs du comparatif, In Extenso occupe une place à part. Créé en 1991 et détenu par ses associés experts-comptables, le groupe revendique 280 agences, 7 300 collaborateurs, 330 associés et 170 000 clients, pour un chiffre d'affaires de 650 millions d'euros en 2025. Il produit 245 000 bulletins de paie chaque mois et affiche 89 % de clients satisfaits de ses services. Cette densité territoriale en fait l'un des acteurs les mieux placés pour les TPE qui veulent un interlocuteur proche et un accompagnement humain, là où les acteurs en ligne misent d'abord sur l'application.
 
 ### Ce qui distingue In Extenso pour une TPE
 
-- **Un conseiller dédié en agence**, qui suit l'entreprise dans la durée et connaît son historique, au lieu d'un support mutualisé.
-- **Un périmètre 360**, de la tenue comptable au conseil en gestion, en passant par le juridique, le social et l'accompagnement à la création d'entreprise.
-- **Un maillage national**, utile pour les dirigeants qui apprécient de rencontrer leur expert-comptable plutôt que de tout gérer par chat.
+- **Un conseiller dédié en agence**, qui suit l'entreprise dans la durée et connaît son historique.
+- **Un périmètre complet**, de la tenue comptable au conseil en gestion, en passant par le juridique, le social et la paie, la création d'entreprise et la transmission.
+- **Un maillage national**, utile pour les dirigeants qui apprécient de rencontrer leur expert-comptable plutôt que de tout gérer à distance.
 
-Avec un coût qui se situe dans la fourchette haute du marché, In Extenso ne vise pas le dirigeant qui cherche uniquement le tarif le plus bas. Le réseau s'adresse aux TPE en croissance et aux entrepreneurs pour qui le conseil au bon moment vaut largement la différence de prix. C'est ce positionnement de partenaire de gestion, et pas seulement de teneur de comptes, qui le différencie des offres 100 % en ligne.
+Comme les autres réseaux d'agences, In Extenso ne publie pas de grille tarifaire et travaille sur devis, le tarif dépendant du volume d'écritures et des missions confiées. Le réseau s'adresse aux TPE en croissance et aux entrepreneurs pour qui le conseil au bon moment pèse davantage que le prix d'appel. C'est ce positionnement de partenaire de gestion, et pas seulement de teneur de comptes, qui le différencie des offres 100 % en ligne.
 
-## Komptio et Bilanto, les experts-comptables en ligne les moins chers
+## Fiducial et Cerfrance, les autres grands réseaux de proximité
 
-Pour une TPE simple, l'expert-comptable en ligne reste l'option la plus économique. Komptio démarre à 49 euros par mois et mise sur une application complète qui automatise la saisie, la facturation et les déclarations. Le conseil reste limité à la conformité, sans conseiller dédié, ce qui convient à une micro-entreprise ou à un indépendant au besoin d'accompagnement faible.
+Fiducial Expertise accompagne les artisans, commerçants, professions libérales, agriculteurs et créateurs depuis plus de cinquante ans. Son atout est la densité de son maillage, avec 600 agences en France métropolitaine et en outre-mer, soit une agence tous les trente kilomètres environ. Le cabinet ne publie pas de tarif et invite à demander un devis, en expliquant que les honoraires dépendent de la complexité du dossier, du volume d'opérations et des services demandés. L'expertise comptable s'y combine avec les autres métiers du groupe, du juridique à l'informatique et à la sécurité.
 
-Bilanto se positionne légèrement au-dessus, dès 69 euros par mois, avec une automatisation par intelligence artificielle qui réduit le temps passé sur la comptabilité de trésorerie. L'outil produit des tableaux de bord clairs, appréciés des entrepreneurs à l'aise avec le digital. Là encore, l'accompagnement humain reste réduit, ce qui en fait un bon choix pour gagner du temps tant que l'activité reste simple.
+Cerfrance repose sur un modèle différent, celui d'un réseau d'entreprises associatives sans actionnaires, où les clients sont des adhérents qui élisent leurs représentants. Le réseau revendique environ 720 agences, 14 500 collaborateurs et 320 000 clients-adhérents, avec une implantation historiquement forte dans le monde agricole, élargie depuis aux artisans, commerçants et TPE. Comme Fiducial, il fonctionne sur devis. Pour un dirigeant attaché à une gouvernance locale et à un conseil de gestion très présent, c'est une option solide.
 
-Ces deux acteurs illustrent la promesse des pure players, un tarif bas et des outils performants, au prix d'un conseil moins présent. Le comparatif détaillé entre ces modèles est développé dans notre analyse [expert-comptable en ligne ou cabinet](/blog/expert-comptable-en-ligne-ou-cabinet/).
+Ces deux réseaux couvrent le même besoin de proximité qu'In Extenso, avec des spécialisations sectorielles différentes. Le bon choix dépend souvent moins de la marque que de l'agence et du conseiller que vous rencontrez.
 
-## Soldéo et Fiscalix, le compromis et la proximité
+## Dougs et Amarris Direct, les experts-comptables en ligne
 
-Soldéo joue la carte de l'hybride. Le cabinet en ligne propose, dès 119 euros par mois, une application moderne doublée d'un conseiller joignable à distance. C'est le meilleur compromis pour une TPE qui veut les outils du digital sans renoncer à un interlocuteur identifié. Le périmètre de conseil de gestion courant couvre les besoins d'une entreprise en développement.
+Pour une TPE simple, l'expert-comptable en ligne reste l'option la plus lisible côté budget, puisque les tarifs sont publiés. Dougs affiche une grille qui démarre à 29 euros HT par mois pour la location meublée et les SCI, 49 euros HT pour les entreprises individuelles et 79 euros HT pour les sociétés soumises à l'impôt sur les sociétés. Le cabinet revendique environ 37 000 clients et inclut la facturation électronique dans toutes ses formules, sans engagement. Le suivi est assuré par une équipe de comptables en ligne plutôt que par un interlocuteur unique en agence.
 
-Fiscalix représente le cabinet indépendant local, avec des honoraires de 180 à 350 euros par mois selon le volume. Son atout est la proximité, un conseiller que l'on rencontre et qui connaît le tissu économique local. Sa qualité dépend toutefois fortement du cabinet, le périmètre de conseil et les outils variant d'une structure à l'autre. C'est l'option de confiance pour le dirigeant attaché à une relation de proximité.
+Amarris Direct, filiale d'Amarris Groupe, se positionne un cran au-dessus avec un comptable dédié joignable par téléphone. Ses offres démarrent à 89 euros HT par mois la première année pour les indépendants, puis passent à 109 euros HT à partir de la deuxième année, avec une formule micro à 29 euros TTC pour les auto-entrepreneurs. C'est un intermédiaire intéressant pour une TPE qui veut un interlocuteur identifié sans passer par un cabinet physique.
+
+Ces deux acteurs illustrent la promesse du modèle en ligne, un tarif affiché et des outils qui automatisent la saisie, avec un accompagnement à distance. Le comparatif détaillé entre ces modèles est développé dans notre analyse [expert-comptable en ligne ou cabinet](/blog/expert-comptable-en-ligne-ou-cabinet/).
 
 ## Combien coûte un expert-comptable pour une TPE
 
-Les honoraires d'un expert-comptable dépendent surtout du volume d'écritures, du périmètre confié et du statut de l'entreprise. Le prix affiché par les pure players ne couvre souvent que la conformité, le conseil étant facturé en supplément. Comparer les tarifs à périmètre identique reste donc la seule méthode fiable.
+Les honoraires d'un expert-comptable dépendent surtout du volume d'écritures, du périmètre confié et du statut de l'entreprise. Le prix affiché par les acteurs en ligne ne couvre souvent que la conformité, le conseil étant facturé en supplément. Comparer les tarifs à périmètre identique reste donc la seule méthode fiable.
 
 | Profil de TPE | Périmètre type | Fourchette mensuelle | Coût annuel indicatif |
 |---------------|----------------|----------------------|-----------------------|
-| Micro-entreprise | Conformité seule | 49 à 90 € | 600 à 1 080 € |
+| Micro-entreprise | Conformité seule | 29 à 90 € | 350 à 1 080 € |
 | TPE simple | Comptabilité et TVA | 100 à 180 € | 1 200 à 2 160 € |
 | TPE en croissance | Conformité et conseil | 180 à 300 € | 2 160 à 3 600 € |
 
-Le coût annuel moyen observé sur le marché tourne autour de 3 000 euros par client, conseil compris. Un tarif très bas n'est pas une bonne affaire s'il faut ajouter chaque tableau de bord, chaque rendez-vous de conseil et chaque déclaration exceptionnelle. À l'inverse, une offre complète mieux affichée fait souvent gagner du temps et de l'argent sur l'année. La transparence des honoraires, formalisée dans la lettre de mission, est l'un des meilleurs indicateurs de confiance d'un cabinet comptable.
+Ces fourchettes sont des ordres de grandeur observés sur le marché, tous acteurs confondus, et non les tarifs d'un cabinet en particulier. Le coût annuel moyen tourne autour de 3 000 euros par client, conseil compris. Un tarif très bas n'est pas une bonne affaire s'il faut ajouter chaque tableau de bord, chaque rendez-vous de conseil et chaque déclaration exceptionnelle. À l'inverse, une offre complète mieux affichée fait souvent gagner du temps et de l'argent sur l'année. La transparence des honoraires, formalisée dans la lettre de mission, est l'un des meilleurs indicateurs de confiance d'un cabinet comptable.
 
 ## Les obligations comptables d'une TPE et le rôle de l'expert-comptable
 
@@ -137,10 +141,10 @@ Les avis clients méritent aussi d'être lus avec recul. Un volume élevé d'avi
 
 Le meilleur expert-comptable pour une TPE dépend avant tout du stade et de la complexité de l'entreprise. Quelques repères pour décider.
 
-- **Micro-entreprise ou TPE très simple :** un acteur en ligne comme Komptio suffit, à moindre coût.
-- **TPE digitale qui veut automatiser :** Bilanto et ses outils d'automatisation font gagner du temps.
-- **TPE qui veut un conseiller sans cabinet physique :** Soldéo offre le bon équilibre entre application et conseil.
-- **TPE en croissance ou PME naissante :** In Extenso et son réseau national sécurisent les décisions et apportent un conseil complet.
-- **Dirigeant attaché au local :** un cabinet indépendant de type Fiscalix garde tout son sens.
+- **TPE en croissance ou PME naissante :** In Extenso et son réseau de 280 agences sécurisent les décisions et apportent un conseil complet, de la création à la transmission.
+- **Artisan ou commerçant attaché à la proximité :** Fiducial Expertise et ses 600 agences offrent le maillage le plus dense sur ces métiers.
+- **Exploitant agricole ou dirigeant attaché à une gouvernance locale :** Cerfrance et son modèle associatif restent une référence sur ce terrain.
+- **Micro-entreprise ou TPE très simple :** un acteur en ligne comme Dougs remplit le contrat à moindre coût, avec un tarif public.
+- **TPE qui veut un comptable dédié sans cabinet physique :** Amarris Direct offre cet équilibre entre distance et interlocuteur identifié.
 
 Quel que soit le modèle, exigez une lettre de mission détaillée et comparez les offres à périmètre identique. Un tarif bas qui facture chaque conseil en supplément coûte souvent plus cher qu'une offre complète mieux affichée. Le bon expert-comptable est celui qui devient un partenaire de gestion, pas une simple ligne de dépense.
