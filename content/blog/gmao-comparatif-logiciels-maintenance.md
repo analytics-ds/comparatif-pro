@@ -5,7 +5,7 @@ date: 2026-04-12
 lastmod: 2026-06-14
 draft: false
 categories: ["Services aux entreprises"]
-tags: ["GMAO", "maintenance", "services industriels"]
+tags: ["logiciel de gestion", "GMAO", "maintenance", "services industriels"]
 translationKey: "gmao-logiciels-maintenance"
 author: aurelie-vasseur
 image: ""

@@ -5,7 +5,7 @@ date: 2026-04-12
 lastmod: 2026-04-12
 draft: false
 categories: ["Business services"]
-tags: ["CMMS", "maintenance", "industrial services"]
+tags: ["management software", "CMMS", "maintenance", "industrial services"]
 translationKey: "gmao-logiciels-maintenance"
 author: aurelie-vasseur
 image: ""

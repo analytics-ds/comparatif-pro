@@ -6,7 +6,7 @@ lastmod: "2026-05-19"
 publishDate: "2026-05-19"
 description: "Criteria, steps and method to choose an ERP suited to your SME: business needs, cloud vs on-premise model, requirements document and common mistakes."
 categories: ["Professional software"]
-tags: ["ERP", "ERP software", "SME", "requirements document", "ERP project", "cloud", "SaaS"]
+tags: ["management software", "ERP", "ERP software", "SME", "requirements document", "ERP project", "cloud", "SaaS"]
 author: thomas-durand
 image: "/images/blog/comment-choisir-son-erp.jpg"
 imageAlt: "ERP software interface with integrated modules across multiple screens"

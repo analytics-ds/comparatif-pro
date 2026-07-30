@@ -6,7 +6,7 @@ lastmod: "2026-04-30"
 publishDate: "2026-04-30"
 description: "Comparison of the best project management software in 2026: Monday, Asana, Notion, ClickUp, Trello, Wrike. Pricing, features, profiles."
 categories: ["Professional software"]
-tags: ["project management", "collaboration", "Monday", "Asana", "Notion", "ClickUp", "agile"]
+tags: ["management software", "project management", "collaboration", "Monday", "Asana", "Notion", "ClickUp", "agile"]
 author: "thomas-durand"
 image: "/images/blog/meilleur-logiciel-gestion-de-projet.jpg"
 imageAlt: "Kanban board displayed on computer screen for team project management"

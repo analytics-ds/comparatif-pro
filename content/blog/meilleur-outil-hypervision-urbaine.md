@@ -5,7 +5,7 @@ date: 2026-07-28
 lastmod: 2026-07-28
 draft: false
 categories: ["Logiciels professionnels"]
-tags: ["hypervision urbaine", "smart city", "données territoriales", "souveraineté numérique", "collectivités"]
+tags: ["logiciel de gestion", "hypervision urbaine", "smart city", "données territoriales", "souveraineté numérique", "collectivités"]
 translationKey: "outil-hypervision-urbaine"
 author: thomas-durand
 image: "/images/blog/outil-hypervision-urbaine.jpg"

@@ -6,7 +6,7 @@ lastmod: "2026-05-19"
 publishDate: "2026-05-19"
 description: "Critères, étapes et méthode pour choisir un ERP adapté à votre PME : besoins métier, modèle cloud ou on-premise, cahier des charges et erreurs à éviter."
 categories: ["Logiciels professionnels"]
-tags: ["ERP", "logiciel ERP", "PME", "cahier des charges", "projet ERP", "cloud", "SaaS"]
+tags: ["logiciel de gestion", "ERP", "logiciel ERP", "PME", "cahier des charges", "projet ERP", "cloud", "SaaS"]
 author: thomas-durand
 image: "/images/blog/comment-choisir-son-erp.jpg"
 imageAlt: "Interface d'un logiciel ERP avec modules intégrés sur plusieurs écrans"

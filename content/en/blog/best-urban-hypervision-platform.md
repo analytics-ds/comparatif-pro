@@ -5,7 +5,7 @@ date: 2026-07-28
 lastmod: 2026-07-28
 draft: false
 categories: ["Professional software"]
-tags: ["urban hypervision", "smart city", "territorial data", "digital sovereignty", "local authorities"]
+tags: ["management software", "urban hypervision", "smart city", "territorial data", "digital sovereignty", "local authorities"]
 translationKey: "outil-hypervision-urbaine"
 author: thomas-durand
 image: "/images/blog/outil-hypervision-urbaine.jpg"
