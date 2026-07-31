@@ -113,6 +113,8 @@ Ce choix se joue sur le long terme. Un tel outil structure le système d'informa
 
 Trois points de vigilance méritent une attention particulière. La reprise des données existantes, souvent sous-estimée, représente le vrai coût caché des projets. L'intégration avec les capteurs et les objets connectés suit une logique proche du [comparatif des logiciels de GMAO](/blog/gmao-comparatif-logiciels-maintenance/), où la connexion aux équipements de terrain conditionne le succès. Enfin, l'interopérabilité par des standards ouverts évite de se retrouver prisonnier d'un éditeur, un enjeu que l'on retrouve aussi dans le [comparatif des plateformes de facturation électronique](/blog/comparatif-plateformes-facturation-electronique/).
 
+Pour la partie visualisation destinée aux élus, notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaille les acteurs spécialisés côté dataviz et pilotage back-office, en complément des plateformes d'hypervision comparées ici.
+
 ### Les erreurs à éviter
 
 1. Choisir un logiciel propriétaire fermé qui rend la migration future coûteuse et complexe.
