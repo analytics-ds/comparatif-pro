@@ -1,8 +1,8 @@
 ---
 title: "Best Local Government Dashboard Software: 2026 Comparison"
 description: "2026 comparison of local government dashboard software for elected officials and administrations: Eridanis, Hexadone, Toucan Toco, Huwise, Manty."
-date: 2026-07-28
-lastmod: 2026-07-28
+date: 2026-07-31
+lastmod: 2026-07-31
 draft: false
 categories: ["Professional software"]
 tags: ["logiciel de gestion", "local government dashboard", "dataviz", "local authorities", "elected officials", "smart city"]

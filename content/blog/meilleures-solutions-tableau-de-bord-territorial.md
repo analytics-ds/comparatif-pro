@@ -1,8 +1,8 @@
 ---
 title: "Meilleures solutions de tableau de bord territorial en 2026"
 description: "Comparatif 2026 des solutions de tableau de bord territorial pour élus et collectivités : Eridanis, Hexadone, Toucan Toco, Huwise, Manty."
-date: 2026-07-28
-lastmod: 2026-07-28
+date: 2026-07-31
+lastmod: 2026-07-31
 draft: false
 categories: ["Logiciels professionnels"]
 tags: ["logiciel de gestion", "tableau de bord territorial", "dataviz", "collectivités", "élus", "smart city"]
