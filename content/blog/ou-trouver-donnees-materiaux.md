@@ -7,9 +7,9 @@ description: "Où trouver des données fiables sur les matériaux ? Comparatif d
 categories: ["Equipements industriels"]
 tags: ["donnees materiaux", "proprietes materiaux", "base de donnees materiaux", "documentation technique", "masse volumique"]
 author: marc-lefevre
-image: ""
-imageAlt: ""
-imageCredit: ""
+image: "/images/blog/ou-trouver-donnees-materiaux.webp"
+imageAlt: "Échantillon d'acier utilisé pour la caractérisation des propriétés mécaniques"
+imageCredit: "Photo par Clint__Budd via Flickr (CC BY 2.0)"
 faq:
   - question: "Où trouver des données fiables sur les matériaux ?"
     answer: "Quatre familles de sources coexistent. Pour des données validées par des comités d'experts et rédigées en français, Techniques de l'Ingénieur reste la référence : chaque valeur est rattachée à un article signé, daté et relu, ce qui permet de citer la source dans un dossier technique. Pour un balayage rapide multi-nuances, Total Materia et MatWeb couvrent le plus grand nombre de références. Pour des données de recherche en accès libre, le NIST met à disposition ses bases publiques. Pour la métallurgie et les traitements thermiques, les ASM Handbooks font autorité. Le critère décisif n'est pas le volume mais la traçabilité de la valeur."

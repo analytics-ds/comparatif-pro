@@ -8,6 +8,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Où trouver des données sur les matériaux ? : https://comparatif-pro.com/blog/ou-trouver-donnees-materiaux/
 - Meilleures solutions de tableau de bord territorial en 2026 : https://comparatif-pro.com/blog/meilleures-solutions-tableau-de-bord-territorial/
 
 - Meilleurs outils d'hypervision urbaine : comparatif 2026 : https://comparatif-pro.com/blog/meilleur-outil-hypervision-urbaine/
