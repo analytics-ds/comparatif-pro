@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Outil d'aide à la décision collectivités 2026 : https://comparatif-pro.com/blog/outil-aide-decision-collectivites/
+
 - Logiciel de note de frais : guide 2026 : https://comparatif-pro.com/blog/logiciel-note-de-frais/
 
 - Logiciel de signature électronique : guide 2026 : https://comparatif-pro.com/blog/logiciel-signature-electronique/
@@ -82,6 +84,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 
 ## Version anglaise (EN)
+
+- Decision Support Tool for Local Authorities 2026 : https://comparatif-pro.com/en/blog/decision-support-tool-local-authorities/
 
 - Expense Report Software: 2026 Guide : https://comparatif-pro.com/en/blog/expense-report-software/
 

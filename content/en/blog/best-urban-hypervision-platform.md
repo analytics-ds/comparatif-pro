@@ -113,6 +113,8 @@ This choice plays out over the long term. Such a tool structures the territory's
 
 Three points deserve particular attention. Migrating existing data, often underestimated, is the real hidden cost of these projects. Integration with sensors and connected objects follows a logic close to the [comparison of CMMS software](/en/blog/cmms-maintenance-software-comparison/), where connecting to field equipment determines success. Finally, interoperability through open standards avoids becoming locked into a single vendor, an issue also found in the [comparison of electronic invoicing platforms](/en/blog/electronic-invoicing-platforms-comparison/).
 
+For the visualisation side aimed at elected officials, our [comparison of local government dashboard solutions](/en/blog/best-local-government-dashboard-software/) details the vendors specialised in dataviz and back-office management, complementing the hypervision platforms compared here. For the forecasting and arbitration dimension, our [comparison of decision support tools for local authorities](/en/blog/decision-support-tool-local-authorities/) details the solutions that use this data to inform a decision.
+
 ### Mistakes to avoid
 
 1. Choosing a closed proprietary software that makes future migration costly and complex.

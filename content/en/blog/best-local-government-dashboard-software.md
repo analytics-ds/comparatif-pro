@@ -110,6 +110,8 @@ The decision hinges on three structuring trade-offs. The first concerns the **de
 
 Three points deserve particular attention. Migrating existing data remains the real hidden cost of these projects. Training elected officials on the dashboard governs its real adoption; a dashboard that is not consulted serves no one. Finally, the articulation with other business software, such as a [CMMS for maintenance](/en/blog/cmms-maintenance-software-comparison/), avoids silos.
 
+A dashboard helps monitor a situation, but does not replace the arbitration itself. Our [comparison of decision support tools for local authorities](/en/blog/decision-support-tool-local-authorities/) details the solutions that use this same data to inform a choice, financial or operational.
+
 ### Mistakes to avoid
 
 1. Choosing a standard BI tool without accounting for territorial specifics (reinforced GDPR, public procurement, sovereignty).

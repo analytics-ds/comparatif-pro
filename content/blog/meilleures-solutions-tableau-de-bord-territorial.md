@@ -110,6 +110,8 @@ La décision dépend de trois arbitrages structurants. Le premier porte sur la *
 
 Trois points de vigilance méritent une attention particulière. La reprise des données existantes reste le vrai coût caché des projets. La formation des élus au dashboard conditionne son adoption réelle, un dashboard non consulté ne sert à personne. Enfin, l'articulation avec les autres logiciels métiers, notamment ceux de gestion technique comme une [GMAO pour la maintenance](/blog/gmao-comparatif-logiciels-maintenance/), évite les silos.
 
+Un tableau de bord aide à suivre une situation, mais ne remplace pas l'arbitrage lui-même. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) détaille les solutions qui exploitent ces mêmes données pour éclairer un choix, financier ou opérationnel.
+
 ### Les erreurs à éviter
 
 1. Choisir un outil BI standard sans tenir compte des spécificités territoriales (RGPD renforcé, marchés publics, souveraineté).
