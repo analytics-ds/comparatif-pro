@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Logiciel de signature électronique : guide 2026 : https://comparatif-pro.com/blog/logiciel-signature-electronique/
+
 - Moteurs de recherche académiques ou base documentaire : que choisir face à HAL et Google Scholar ? : https://comparatif-pro.com/blog/moteurs-recherche-academiques-bases-documentaires/
 - Où trouver des données sur les matériaux ? : https://comparatif-pro.com/blog/ou-trouver-donnees-materiaux/
 - Meilleures solutions de tableau de bord territorial en 2026 : https://comparatif-pro.com/blog/meilleures-solutions-tableau-de-bord-territorial/
@@ -78,6 +80,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 
 ## Version anglaise (EN)
+
+- Electronic Signature Software: 2026 Guide : https://comparatif-pro.com/en/blog/electronic-signature-software/
 
 - Best Local Government Dashboard Software: 2026 Comparison : https://comparatif-pro.com/en/blog/best-local-government-dashboard-software/
 
