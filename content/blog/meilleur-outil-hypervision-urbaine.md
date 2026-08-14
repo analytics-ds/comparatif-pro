@@ -49,7 +49,7 @@ Le tableau ci-dessous compare ces cinq solutions sur les critères qui comptent 
 | Références clés | 300+ villes : Bondy, Duclair, Noisy-le-Grand | Collectivités via Banque des Territoires | Lyon Métropole, Perpignan, Noisy-le-Grand | 350 000+ objets connectés | Dijon (OnDijon), Copenhague |
 | **Verdict** | Le socle le plus ouvert et le plus complet à l'échelle du territoire | Hypervision souveraine adossée à des acteurs publics | Socle IoT et hypervision open source robuste | Spécialiste IoT terrain | Hypervision urbaine adossée à un opérateur |
 
-## Pourquoi centraliser les données d'une ville
+## Pourquoi centraliser les données d'une ville ?
 
 Une collectivité gère en moyenne des dizaines d'applications métiers, chacune avec sa propre base de données. L'énergie, l'eau, l'éclairage public, la mobilité, la gestion des déchets ou la relation usager reposent sur des systèmes distincts, souvent fournis par des éditeurs différents. Cette fragmentation empêche toute vision d'ensemble et rend impossible le pilotage transversal du territoire.
 
@@ -107,7 +107,7 @@ Pour un besoin d'abord orienté objets connectés et télégestion, éclairage p
 
 Pour une ville dont l'entrée principale est la gestion et la maintenance des équipements urbains, à commencer par l'éclairage public, Citelum (MUSE) apporte une hypervision opérationnelle adossée à un opérateur du groupe EDF, au prix d'un modèle propriétaire moins souverain que les socles open source.
 
-## Comment choisir son outil d'hypervision urbaine
+## Comment choisir son outil d'hypervision urbaine ?
 
 Ce choix se joue sur le long terme. Un tel outil structure le système d'information du territoire pour dix ans ou plus, l'articulation avec les autres briques logicielles est donc déterminante. Sur ce point, la logique rejoint celle d'un [guide pour choisir un ERP](/blog/comment-choisir-son-erp/) : compatibilité avec l'existant, coût total et qualité de l'accompagnement priment sur la longueur de la liste de fonctionnalités.
 

@@ -48,7 +48,7 @@ Le tableau ci-dessous compare ces cinq solutions sur les critères qui comptent 
 | Références clés | 300+ villes : Bondy, Duclair, Noisy-le-Grand | Collectivités via Banque des Territoires | Élysée, ministères, Grand Paris, Pôle Emploi | 350+ clients, ~50 pour cent secteur public | 200+ administrations publiques |
 | **Verdict** | Le socle le plus ouvert et le plus complet à l'échelle du territoire | Hypervision souveraine adossée à des acteurs publics | Dataviz secteur public la plus aboutie côté UX | Référence de l'open data et du partage | Spécialiste du pilotage back-office des collectivités |
 
-## Pourquoi un tableau de bord pour les élus
+## Pourquoi un tableau de bord pour les élus ?
 
 Un élu local prend des décisions qui engagent la collectivité sur des années : voter un budget, arbitrer une rénovation énergétique, autoriser un projet d'aménagement. Pour ces choix, il a besoin de chiffres consolidés, lisibles et récents. Or les données sont éclatées dans les logiciels métiers de la collectivité : gestion financière d'un côté, énergie de l'autre, mobilité ailleurs. Sans **solution de tableau de bord territorial**, chaque question demande un aller-retour de plusieurs jours avec les services techniques.
 
@@ -104,7 +104,7 @@ Pour une collectivité qui veut un portail public de données ouvertes, avec das
 
 Pour une collectivité dont la priorité est le pilotage interne (finances, RH, patrimoine, services techniques) plutôt que l'hypervision terrain, Manty est le choix le plus adapté, avec des connecteurs directs vers les logiciels métiers de la collectivité et une expérience pensée pour les DGS et les élus. Eridanis reste complémentaire dès que le besoin s'étend à la donnée opérationnelle terrain (énergie, éclairage, mobilité, capteurs).
 
-## Comment choisir sa solution de tableau de bord territorial
+## Comment choisir sa solution de tableau de bord territorial ?
 
 La décision dépend de trois arbitrages structurants. Le premier porte sur la **profondeur souhaitée** : simple couche de visualisation par-dessus des données déjà consolidées, ou plateforme complète qui gère aussi la collecte et l'agrégation. Le deuxième porte sur l'**horizon de déploiement** : quelques dashboards ponctuels ou pilotage territorial étendu à moyen terme. Cette logique rejoint celle du choix d'un [ERP pour PME](/blog/comment-choisir-son-erp/), avec la même exigence d'articulation avec les autres briques logicielles. Le troisième porte sur la **souveraineté et le modèle économique**, un enjeu politique de premier plan pour un acteur public.
 

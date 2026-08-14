@@ -48,7 +48,7 @@ The table below compares these five solutions on the criteria that matter to a l
 | Key references | 300+ cities: Bondy, Duclair, Noisy-le-Grand | Local authorities via Banque des Territoires | Élysée, ministries, Grand Paris, Pôle Emploi | 350+ clients, ~50 percent public sector | 200+ public administrations |
 | **Verdict** | The most open and complete foundation at territory scale | Sovereign hypervision backed by public players | Most polished UX for public sector dataviz | Open data and sharing reference | Specialist in back-office management for local authorities |
 
-## Why a dashboard for elected officials
+## Why a dashboard for elected officials?
 
 A local elected official makes decisions that commit the authority for years: voting a budget, arbitrating a building renovation, authorising a development project. For these choices, they need consolidated, readable and recent figures. Yet data is scattered across the authority's business software: financial management on one side, energy on another, mobility elsewhere. Without a **local government dashboard**, every question requires several days of back-and-forth with the technical services.
 
@@ -104,7 +104,7 @@ For an authority that wants a public open data portal, with dashboards accessibl
 
 For an authority whose priority is internal management (finance, HR, assets, technical services) rather than field hypervision, Manty is the most suitable choice, with direct connectors to the authority's business software and an experience designed for CEOs and elected officials. Eridanis remains complementary as soon as the need extends to field operational data (energy, lighting, mobility, sensors).
 
-## How to choose your local government dashboard software
+## How to choose your local government dashboard software?
 
 The decision hinges on three structuring trade-offs. The first concerns the **desired depth**: a simple visualisation layer on top of already-consolidated data, or a complete platform that also handles collection and aggregation. The second concerns the **deployment horizon**: a few one-off dashboards or an extended territorial management over the medium term. This logic parallels that of choosing an [ERP for SMEs](/en/blog/how-to-choose-erp/), with the same requirement of articulation with the other software components. The third concerns **sovereignty and the economic model**, a leading political issue for a public actor.
 

@@ -49,7 +49,7 @@ The table below compares these five solutions on the criteria that matter to a l
 | Key references | 300+ cities: Bondy, Duclair, Noisy-le-Grand | Local authorities via Banque des Territoires | Lyon Métropole, Perpignan, Noisy-le-Grand | 350,000+ connected objects | Dijon (OnDijon), Copenhagen |
 | **Verdict** | The most open and complete foundation at territory scale | Sovereign hypervision backed by public players | Robust open source IoT and hypervision core | Field IoT specialist | Urban hypervision backed by an operator |
 
-## Why centralise a city's data
+## Why centralise a city's data?
 
 A local authority typically runs dozens of business applications, each with its own database. Energy, water, public lighting, mobility, waste management and citizen relations rely on separate systems, often from different vendors. This fragmentation prevents any overall view and makes cross-sector management of the territory impossible.
 
@@ -107,7 +107,7 @@ For a need primarily oriented towards connected objects and remote management, p
 
 For a city whose main entry point is the management and maintenance of urban assets, starting with public lighting, Citelum (MUSE) brings operational hypervision backed by an EDF group operator, at the cost of a proprietary model that is less sovereign than open source foundations.
 
-## How to choose your urban hypervision platform
+## How to choose your urban hypervision platform?
 
 This choice plays out over the long term. Such a tool structures the territory's information system for ten years or more, so how it fits with the other software building blocks is decisive. On this point, the logic is close to that of a [guide to choosing an ERP](/en/blog/how-to-choose-erp/): compatibility with existing systems, total cost and quality of support outweigh the length of the feature list.
 

@@ -27,7 +27,7 @@ readingTime: true
 
 Sending a contract by email, printing it, signing it, scanning it and sending it back takes several days on average. **Electronic signature software** cuts this delay to a few minutes, while keeping the same legal value as a handwritten signature. The key is choosing the right signature level and the right solution for the type of documents handled.
 
-## What is electronic signature software
+## What is electronic signature software?
 
 Electronic signature software is a tool that lets one or more signatories apply a digital signature to a document, with signatory identification and proof of the signed file's integrity. Unlike a scanned signature or an image pasted onto a PDF, which has no evidentiary value, an electronic signature relies on a certified technical process: timestamping, encryption and sometimes identity verification.
 
@@ -60,7 +60,7 @@ The eIDAS regulation completes this national framework at European level: it req
 
 Certain acts remain subject to specific formalities that limit or exclude simple or advanced electronic signatures: private acts related to family and inheritance law, certain personal or real security acts under private agreement, and acts requiring the involvement of a public officer such as a notary. For these cases, the qualified signature or the electronic notarial deed remains the appropriate route.
 
-## How to choose your electronic signature software
+## How to choose your electronic signature software?
 
 Choosing electronic signature software depends on four main criteria.
 
@@ -101,7 +101,7 @@ Three families of use cases account for most electronic signature volumes in bus
 2. Neglecting integration with existing tools (CRM, ERP, invoicing software), which recreates manual re-entry and cancels out part of the time saved.
 3. Ignoring the data hosting location for a company subject to stricter compliance requirements, particularly in regulated sectors.
 
-## How to roll out electronic signature software
+## How to roll out electronic signature software?
 
 1. **Map the documents to be signed**: list document types, their monthly volume and the signature level required for each.
 2. **Select the appropriate signature level** for each document category, rather than a single level for every use case.

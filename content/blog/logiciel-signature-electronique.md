@@ -27,7 +27,7 @@ readingTime: true
 
 Envoyer un contrat par e-mail, le faire imprimer, signer, scanner puis renvoyer prend en moyenne plusieurs jours. Un **logiciel de signature électronique** réduit ce délai à quelques minutes, tout en conservant la même valeur juridique qu'une signature manuscrite. Encore faut-il choisir le bon niveau de signature et la bonne solution selon la nature des documents traités.
 
-## Qu'est-ce qu'un logiciel de signature électronique
+## Qu'est-ce qu'un logiciel de signature électronique ?
 
 Un logiciel de signature électronique est un outil qui permet à un ou plusieurs signataires d'apposer une signature numérique sur un document, avec identification du signataire et preuve d'intégrité du fichier signé. Contrairement à une signature scannée ou une image collée sur un PDF, qui n'a aucune valeur probante, la signature électronique s'appuie sur un procédé technique certifié : horodatage, chiffrement et parfois vérification d'identité.
 
@@ -60,7 +60,7 @@ Le règlement eIDAS complète ce cadre national à l'échelle européenne : il i
 
 Certains actes restent soumis à des formalités spécifiques qui limitent ou excluent la signature électronique simple ou avancée : actes sous seing privé relatifs au droit de la famille et des successions, certains actes de sûreté personnelle ou réelle sous seing privé, et actes nécessitant l'intervention d'un officier public comme un notaire. Pour ces cas, la signature qualifiée ou l'acte authentique électronique reste la voie appropriée.
 
-## Comment choisir son logiciel de signature électronique
+## Comment choisir son logiciel de signature électronique ?
 
 Le choix d'un logiciel de signature électronique dépend de quatre critères principaux.
 
@@ -101,7 +101,7 @@ Trois familles d'usages concentrent l'essentiel des volumes de signature électr
 2. Négliger l'intégration avec les outils existants (CRM, ERP, logiciel de facturation), ce qui recrée des ressaisies manuelles et annule une partie du gain de temps.
 3. Ignorer la localisation d'hébergement des données pour une entreprise soumise à des exigences de conformité renforcées, notamment dans les secteurs réglementés.
 
-## Comment déployer un logiciel de signature électronique
+## Comment déployer un logiciel de signature électronique ?
 
 1. **Cartographier les documents à signer** : lister les types de documents, leur volume mensuel et le niveau de signature requis pour chacun.
 2. **Sélectionner le niveau de signature adapté** à chaque catégorie de document, plutôt qu'un niveau unique pour tous les usages.
