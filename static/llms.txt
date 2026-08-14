@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Logiciel de note de frais : guide 2026 : https://comparatif-pro.com/blog/logiciel-note-de-frais/
+
 - Logiciel de signature électronique : guide 2026 : https://comparatif-pro.com/blog/logiciel-signature-electronique/
 
 - Moteurs de recherche académiques ou base documentaire : que choisir face à HAL et Google Scholar ? : https://comparatif-pro.com/blog/moteurs-recherche-academiques-bases-documentaires/
@@ -80,6 +82,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 
 ## Version anglaise (EN)
+
+- Expense Report Software: 2026 Guide : https://comparatif-pro.com/en/blog/expense-report-software/
 
 - Electronic Signature Software: 2026 Guide : https://comparatif-pro.com/en/blog/electronic-signature-software/
 
