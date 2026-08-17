@@ -93,6 +93,22 @@ Every stage of the first year hides deadlines, social contributions, VAT where a
 
 A low entry price can hide advice billed case by case, and a promotional offer comes with eligibility conditions worth reading. Insist on an engagement letter that sets out exactly what is covered from formation and what is extra, and compare on a like-for-like basis, statutory fees included. It is the only fair way to choose, as our guide on [how to choose a chartered accountant](/en/blog/how-to-choose-chartered-accountant/) recalls.
 
+## Firm or support network: what each one covers
+
+Comparing firms against each other is not enough, because a firm is only one link in the business creation support ecosystem. Alongside paid offers there are **public and associative networks**, widely under-used, several of them free.
+
+| | Support networks | Chartered accountancy firm |
+|---|---|---|
+| Examples | Bpifrance Création, CCI, CMA, BGE, ADIE, Initiative France, Réseau Entreprendre, France Active | In Extenso, Fiducial, Cerfrance, Dougs, Amarris Direct |
+| Cost | Free or subsidised depending on the provider and the service | Paid service, quoted or packaged |
+| Strength | Upstream framing, orientation, seed funding, honour loans | Legal structure, forecasts, follow-up after incorporation |
+| What they do not cover | Accounting and tax follow-up over time | Upstream orientation and access to public aid |
+| When they step in | Before and during formation | At structuring choices, then afterwards |
+
+The distinction that matters fits in one sentence. **Network support generally stops at launch**, whereas the first tax return, the first VAT filing and the first decision on the director's pay all come afterwards. That is precisely the firm's space.
+
+So the most effective path is to line them up rather than choose between them. Frame the project with Bpifrance Création's free resources, get challenged by a network suited to your activity, look for funding in the right place for your profile, then settle the structuring choices with a firm. Our article on [business creation support networks](https://meilleur-classement.com/en/blog/business-creation-support-networks-france/) sets out who does what and when.
+
 ## Our verdict
 
-The best firm for your company formation depends first on the complexity of your project. For a simple formation, without staff and with a clear structure, an online offer like Dougs or Amarris Direct does the job with a published price and a short turnaround. For a founder forming a company, planning to hire or preparing funding, a national network remains the most solid choice. On that ground In Extenso combines a dedicated advisor who frames the legal structure choice, accounting in place from the start and access to tax, social and legal advice as the business grows. Fiducial Expertise and Cerfrance are the two other networks to put in competition, particularly in trades, retail and farming. Define your formation type, ask for a detailed engagement letter, then compare offers on a like-for-like basis before committing. To explore further the choice of accounting partner, read our [comprehensive guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) that covers broader considerations beyond formation alone.
+The best firm for your company formation depends first on the complexity of your project. For a simple formation, without staff and with a clear structure, an online offer like Dougs or Amarris Direct does the job with a published price and a short turnaround. For a founder forming a company, planning to hire or preparing funding, a national network remains the most solid choice. On that ground In Extenso combines a dedicated advisor who frames the legal structure choice, accounting in place from the start and access to tax, social and legal advice as the business grows, structured as a [ten-step business creation journey](https://www.inextenso.fr/nos-offres/creation-reprise-entreprise/creation-dentreprise/). Fiducial Expertise and Cerfrance are the two other networks to put in competition, particularly in trades, retail and farming. Define your formation type, ask for a detailed engagement letter, then compare offers on a like-for-like basis before committing. To explore further the choice of accounting partner, read our [comprehensive guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) that covers broader considerations beyond formation alone.
