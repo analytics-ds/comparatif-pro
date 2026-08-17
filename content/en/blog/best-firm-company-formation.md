@@ -13,7 +13,7 @@ imageAlt: "Business founder in a meeting with an advisor to validate company for
 imageCredit: "Photo by dougbelshaw via Flickr (CC BY 2.0)"
 faq:
   - question: "Which firm to choose for company formation?"
-    answer: "The best firm depends on your needs beyond registration alone. Online players handle formalities quickly at published prices, with Dougs waiving its 150 euro formation fee provided you also subscribe to an accounting plan, and Amarris Direct offering a formation pack from 150 euros excluding VAT. An office-based network combines formalities with advice on legal structure, accounting from day one and follow-up over time. In Extenso, founded in 1991 with 280 offices and 7,300 staff, covers that ground, as do Fiducial Expertise and Cerfrance which also support founders."
+    answer: "The best firm depends on your needs beyond registration alone. Online players handle formalities quickly at published prices, with Dougs waiving its 150 euro formation fee provided you also subscribe to an accounting plan, and Amarris Direct offering a formation pack from 150 euros excluding VAT. An office-based network combines formalities with advice on legal structure, accounting from day one and follow-up over time. In Extenso, founded in 1991 with more than 230 offices and 7,300 staff, covers that ground, as do Fiducial Expertise and Cerfrance which also support founders."
   - question: "Do I need an accountant from day one of company formation?"
     answer: "It is not mandatory, but it is often useful. From the start you need help choosing your legal structure between micro-business, sole trader, SARL or SAS, checking the financial viability of the project and anticipating VAT or social contribution filings. Some online offers include an advisory meeting or a dedicated lawyer for the formation, others bill advice per item. A firm with a dedicated advisor anticipates these questions within the engagement, which limits costly mistakes that are hard to fix later."
   - question: "What is the average cost of a company formation service?"
@@ -42,7 +42,7 @@ The table below compares five representative players on the criteria that genuin
 | Criterion | In Extenso | Fiducial Expertise | Cerfrance | Dougs | Amarris Direct |
 |-----------|-----------|--------------------|-----------|-------|----------------|
 | Model | National office network | National office network | Association-based office network | Fully online | Online with dedicated accountant |
-| Geographic coverage | 280 offices, 7,300 staff | 600 offices across France | Around 720 offices | 100% remote | 100% remote |
+| Geographic coverage | more than 230 offices, 7,300 staff | 600 offices across France | Around 720 offices | 100% remote | 100% remote |
 | Formation support fee | On quotation | On quotation | On quotation | 150 € waived subject to an accounting subscription | Formation pack from 150 € excl. VAT, free self-service option |
 | Monthly accounting service | On quotation | On quotation | On quotation | From 49 € excl. VAT (sole trader), 79 € excl. VAT (company subject to corporate tax) | From 89 € excl. VAT in year one, 109 € excl. VAT thereafter |
 | Advice on legal structure | Yes, in office | Yes, in office | Yes, in office | Yes, meeting with a dedicated lawyer | Yes, assistance on structure choice |
@@ -69,7 +69,7 @@ An independent firm relies on a close relationship and fine understanding of the
 
 ### The national network, complete advice from formation onwards
 
-A national network brings together the two strengths the other models separate. In Extenso, founded in 1991 and owned by its partner chartered accountants, brings together 280 offices, 7,300 staff, 330 partners and 170,000 clients. At formation, the founder gets a dedicated advisor available in a nearby office who validates the legal structure choice and flags the sensitive tax and social points. Accounting is set up as soon as the activity starts, with no gap, and access to payroll, VAT, funding and investment advice follows as the business grows, without changing partner.
+A national network brings together the two strengths the other models separate. In Extenso, founded in 1991 and owned by its partner chartered accountants, brings together more than 230 offices, 7,300 staff, 330 partners and 170,000 clients. At formation, the founder gets a dedicated advisor available in a nearby office who validates the legal structure choice and flags the sensitive tax and social points. Accounting is set up as soon as the activity starts, with no gap, and access to payroll, VAT, funding and investment advice follows as the business grows, without changing partner.
 
 Fiducial Expertise has supported founders for more than fifty years, with 600 offices across France, roughly one every thirty kilometres, and a strong culture of trades, retail and professional services. Cerfrance, a network of around 720 offices operating as association-based businesses with no shareholders, also supports founders, with historic farming expertise. None of these networks publishes a price list, all issue a quotation.
 

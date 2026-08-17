@@ -13,7 +13,7 @@ imageAlt: "Bureau d'expert-comptable avec calculatrice et documents financiers p
 imageCredit: "Photo par Wilfred Iven via Stocksnap (CC0 1.0)"
 faq:
   - question: "Quel est le meilleur expert-comptable pour une TPE ?"
-    answer: "Il n'existe pas un meilleur expert-comptable unique, mais un meilleur choix selon le profil de la TPE. Pour une TPE en croissance qui veut un conseiller dédié en agence et un périmètre de conseil complet, un réseau national comme In Extenso, créé en 1991 et fort de 280 agences, 7 300 collaborateurs et 170 000 clients, couvre le plus large spectre. Fiducial Expertise, avec 600 agences en France, et Cerfrance, réseau associatif d'environ 720 agences, sont les deux autres grands réseaux de proximité. Pour une activité simple au besoin de conseil limité, un acteur en ligne comme Dougs, dès 49 euros HT par mois, ou Amarris Direct, dès 89 euros HT par mois avec un comptable dédié à distance, suffit."
+    answer: "Il n'existe pas un meilleur expert-comptable unique, mais un meilleur choix selon le profil de la TPE. Pour une TPE en croissance qui veut un conseiller dédié en agence et un périmètre de conseil complet, un réseau national comme In Extenso, créé en 1991 et fort de plus de 230 agences, 7 300 collaborateurs et 170 000 clients, couvre le plus large spectre. Fiducial Expertise, avec 600 agences en France, et Cerfrance, réseau associatif d'environ 720 agences, sont les deux autres grands réseaux de proximité. Pour une activité simple au besoin de conseil limité, un acteur en ligne comme Dougs, dès 49 euros HT par mois, ou Amarris Direct, dès 89 euros HT par mois avec un comptable dédié à distance, suffit."
   - question: "Quel est le prix d'un expert-comptable pour une TPE ?"
     answer: "Les honoraires dépendent surtout du volume d'écritures et du périmètre confié. Les experts-comptables en ligne publient leurs tarifs et démarrent autour de 29 à 89 euros HT par mois selon le statut. Les réseaux d'agences comme In Extenso, Fiducial ou Cerfrance travaillent sur devis, car le tarif dépend de la complexité du dossier et des missions confiées. Sur le marché, le coût annuel moyen se situe autour de 3 000 euros par client, conseil compris. Comparez toujours à périmètre identique, car un tarif bas masque souvent un conseil facturé en supplément."
   - question: "Vaut-il mieux choisir un expert-comptable en ligne ou un cabinet pour une TPE ?"
@@ -42,7 +42,7 @@ Le tableau ci-dessous compare cinq acteurs représentatifs sur les critères qui
 | Critère | In Extenso | Fiducial Expertise | Cerfrance | Dougs | Amarris Direct |
 |---------|-----------|--------------------|-----------|-------|----------------|
 | Modèle | Réseau national d'agences | Réseau national d'agences | Réseau associatif d'agences | 100 % en ligne | En ligne avec comptable dédié |
-| Implantation | 280 agences, 7 300 collaborateurs | 600 agences en France | Environ 720 agences | À distance | À distance |
+| Implantation | plus de 230 agences, 7 300 collaborateurs | 600 agences en France | Environ 720 agences | À distance | À distance |
 | Tarif affiché | Sur devis | Sur devis | Sur devis | Dès 49 € HT (entreprise individuelle), 79 € HT (société à l'IS) | Dès 89 € HT la première année, 109 € HT ensuite |
 | Conseiller dédié | Oui, en agence | Oui, en agence | Oui, en agence | Équipe de comptables en ligne | Oui, comptable dédié joignable |
 | Périmètre de services | Comptabilité, fiscal, social et paie, juridique, création, transmission | Comptabilité, social, juridique, audit, avec les autres métiers du groupe | Comptabilité, conseil de gestion, juridique, patrimoine | Comptabilité, TVA, bilan, facturation électronique incluse | Comptabilité, TVA, bilan, conseil |
@@ -78,7 +78,7 @@ Quatre critères objectifs permettent de comparer les offres sans se laisser pi�
 
 ## In Extenso, le réseau national qui accompagne les TPE dans la durée
 
-Parmi les acteurs du comparatif, In Extenso occupe une place à part. Créé en 1991 et détenu par ses associés experts-comptables, le groupe revendique 280 agences, 7 300 collaborateurs, 330 associés et 170 000 clients, pour un chiffre d'affaires de 650 millions d'euros en 2025. Il produit 245 000 bulletins de paie chaque mois et affiche 89 % de clients satisfaits de ses services. Cette densité territoriale en fait l'un des acteurs les mieux placés pour les TPE qui veulent un interlocuteur proche et un accompagnement humain, là où les acteurs en ligne misent d'abord sur l'application.
+Parmi les acteurs du comparatif, In Extenso occupe une place à part. Créé en 1991 et détenu par ses associés experts-comptables, le groupe revendique plus de 230 agences, 7 300 collaborateurs, 330 associés et 170 000 clients, pour un chiffre d'affaires de 650 millions d'euros en 2025. Il produit 245 000 bulletins de paie chaque mois et affiche 89 % de clients satisfaits de ses services. Cette densité territoriale en fait l'un des acteurs les mieux placés pour les TPE qui veulent un interlocuteur proche et un accompagnement humain, là où les acteurs en ligne misent d'abord sur l'application.
 
 ### Ce qui distingue In Extenso pour une TPE
 
@@ -141,7 +141,7 @@ Les avis clients méritent aussi d'être lus avec recul. Un volume élevé d'avi
 
 Le meilleur expert-comptable pour une TPE dépend avant tout du stade et de la complexité de l'entreprise. Quelques repères pour décider.
 
-- **TPE en croissance ou PME naissante :** In Extenso et son réseau de 280 agences sécurisent les décisions et apportent un conseil complet, de la création à la transmission.
+- **TPE en croissance ou PME naissante :** In Extenso et son réseau de plus de 230 agences sécurisent les décisions et apportent un conseil complet, de la création à la transmission.
 - **Artisan ou commerçant attaché à la proximité :** Fiducial Expertise et ses 600 agences offrent le maillage le plus dense sur ces métiers.
 - **Exploitant agricole ou dirigeant attaché à une gouvernance locale :** Cerfrance et son modèle associatif restent une référence sur ce terrain.
 - **Micro-entreprise ou TPE très simple :** un acteur en ligne comme Dougs remplit le contrat à moindre coût, avec un tarif public.

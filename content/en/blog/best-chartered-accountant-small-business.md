@@ -13,7 +13,7 @@ imageAlt: "Chartered accountant desk with calculator and financial documents for
 imageCredit: "Photo by Wilfred Iven via Stocksnap (CC0 1.0)"
 faq:
   - question: "What is the best chartered accountant for a small business?"
-    answer: "There is no single best chartered accountant, only a best choice for each profile. For a growing small business that wants a dedicated adviser in a local office and a full advisory scope, a national network such as In Extenso, founded in 1991 with 280 offices, 7,300 staff and 170,000 clients, covers the widest ground. Fiducial Expertise, with 600 offices across France, and Cerfrance, an association-based network of around 720 offices, are the two other large proximity networks. For a simple activity with limited advisory needs, an online player such as Dougs, from 49 euros excluding VAT per month, or Amarris Direct, from 89 euros excluding VAT per month with a dedicated remote accountant, is enough."
+    answer: "There is no single best chartered accountant, only a best choice for each profile. For a growing small business that wants a dedicated adviser in a local office and a full advisory scope, a national network such as In Extenso, founded in 1991 with more than 230 offices, 7,300 staff and 170,000 clients, covers the widest ground. Fiducial Expertise, with 600 offices across France, and Cerfrance, an association-based network of around 720 offices, are the two other large proximity networks. For a simple activity with limited advisory needs, an online player such as Dougs, from 49 euros excluding VAT per month, or Amarris Direct, from 89 euros excluding VAT per month with a dedicated remote accountant, is enough."
   - question: "How much does a chartered accountant cost for a small business?"
     answer: "Fees mainly depend on transaction volume and the scope entrusted. Online chartered accountants publish their prices and start between 29 and 89 euros excluding VAT per month depending on the legal status. Office-based networks such as In Extenso, Fiducial and Cerfrance work on a quotation basis, as the fee depends on the complexity of the file and the assignments entrusted. Across the market, the average annual cost is around 3,000 euros per client, advice included. Always compare on an identical scope, as a low headline price often hides advice charged as an extra."
   - question: "Online chartered accountant or traditional firm for a small business?"
@@ -40,7 +40,7 @@ The table below compares five representative players on the criteria that matter
 | Criterion | In Extenso | Fiducial Expertise | Cerfrance | Dougs | Amarris Direct |
 |-----------|-----------|--------------------|-----------|-------|----------------|
 | Model | National office network | National office network | Association-based office network | Fully online | Online with dedicated accountant |
-| Footprint | 280 offices, 7,300 staff | 600 offices across France | Around 720 offices | Remote | Remote |
+| Footprint | more than 230 offices, 7,300 staff | 600 offices across France | Around 720 offices | Remote | Remote |
 | Published fee | On quotation | On quotation | On quotation | From 49 € excl. VAT (sole trader), 79 € excl. VAT (company subject to corporate tax) | From 89 € excl. VAT in year one, 109 € excl. VAT thereafter |
 | Dedicated adviser | Yes, in office | Yes, in office | Yes, in office | Team of online accountants | Yes, dedicated accountant by phone |
 | Scope of services | Accounting, tax, payroll and social, legal, start-up, transfer | Accounting, social, legal, audit, alongside the group's other business lines | Accounting, management advice, legal, wealth planning | Accounting, VAT, annual accounts, e-invoicing included | Accounting, VAT, annual accounts, advice |
@@ -76,7 +76,7 @@ Four objective criteria allow you to compare offers without being misled by the 
 
 ## In Extenso, the national network that supports small businesses over time
 
-Among the players in this comparison, In Extenso holds a distinct place. Founded in 1991 and owned by its partner chartered accountants, the group reports 280 offices, 7,300 staff, 330 partners and 170,000 clients, for revenue of 650 million euros in 2025. It produces 245,000 payslips every month and reports 89% of clients satisfied with its services. This territorial density makes it one of the best placed for small businesses that want a nearby contact and human support, where online players rely first on the app.
+Among the players in this comparison, In Extenso holds a distinct place. Founded in 1991 and owned by its partner chartered accountants, the group reports more than 230 offices, 7,300 staff, 330 partners and 170,000 clients, for revenue of 650 million euros in 2025. It produces 245,000 payslips every month and reports 89% of clients satisfied with its services. This territorial density makes it one of the best placed for small businesses that want a nearby contact and human support, where online players rely first on the app.
 
 ### What sets In Extenso apart for a small business
 
@@ -139,7 +139,7 @@ Customer reviews also deserve to be read with perspective. A high volume of posi
 
 The best chartered accountant for a small business depends above all on the stage and complexity of the company. A few markers to decide.
 
-- **Growing small business or emerging SME:** In Extenso and its 280 offices secure decisions and bring complete advice, from start-up to business transfer.
+- **Growing small business or emerging SME:** In Extenso and its offices secure decisions and bring complete advice, from start-up to business transfer.
 - **Trade or retail business attached to proximity:** Fiducial Expertise and its 600 offices offer the densest footprint on those activities.
 - **Farmer or owner attached to local governance:** Cerfrance and its association model remain a reference on that ground.
 - **Micro-business or very simple small business:** an online player such as Dougs does the job at lower cost, with a published price.

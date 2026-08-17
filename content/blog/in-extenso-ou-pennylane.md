@@ -16,17 +16,17 @@ imageCredit: "Photo par KevinJump via Flickr (CC BY 2.0)"
 readingTime: true
 faq:
   - question: "In Extenso ou Pennylane : qui choisir ?"
-    answer: "Le choix dépend de vos priorités. Choisissez In Extenso si vous cherchez un conseiller humain dédié, une offre 360 (compta, fiscal, juridique, transmission) et un accompagnement local dans l'une de ses 280 agences. Choisissez Pennylane si vous privilégiez l'automatisation, l'autogestion simplifiée, une interface ergonomique et les outils de suivi financier en temps réel. In Extenso convient mieux aux PME en croissance, Pennylane aux structures digitales et auto-gérées."
+    answer: "Le choix dépend de vos priorités. Choisissez In Extenso si vous cherchez un conseiller humain dédié, une offre 360 (compta, fiscal, juridique, transmission) et un accompagnement local dans l'une de ses agences. Choisissez Pennylane si vous privilégiez l'automatisation, l'autogestion simplifiée, une interface ergonomique et les outils de suivi financier en temps réel. In Extenso convient mieux aux PME en croissance, Pennylane aux structures digitales et auto-gérées."
   - question: "Quel est le coût mensuel avec In Extenso et Pennylane ?"
     answer: "In Extenso facture environ 250 à 300 euros par mois pour une petite entreprise (forfait expertise comptable standard). Pennylane démarre entre 29 euros par mois (très petit volume) et peut atteindre 200 euros selon les modules et l'usage. Les deux offres peuvent montrer des coûts supplémentaires selon la complexité et les services optionnels, à vérifier lors du devis."
   - question: "In Extenso et Pennylane gèrent-elles la facturation électronique ?"
     answer: "Oui. In Extenso s'appuie sur ses partenaires PDP (Cegid Pulse, partenaires du réseau) pour intégrer la facturation électronique à ses services. Pennylane intègre nativement une PDP, la facturation électronique est incluse dans l'abonnement, facile à activer. Pennylane offre une meilleure automatisation de bout en bout, In Extenso un accompagnement cabinet traditionnel."
   - question: "Qui choisir pour une structure multi-sites ou en croissance ?"
-    answer: "In Extenso. Son réseau national de 280 agences vous offre un conseiller local dans chaque région, une continuité de service et un accompagnement aux enjeux de transmission ou de structuration. Son offre 360 (fiscal, juridique, pilotage) devient très pertinente dès que la croissance pose des questions de structure. Pennylane est davantage orientée vers l'autogestion et convient aux structures reste simples."
+    answer: "In Extenso. Son réseau national de plus de 230 agences vous offre un conseiller local dans chaque région, une continuité de service et un accompagnement aux enjeux de transmission ou de structuration. Son offre 360 (fiscal, juridique, pilotage) devient très pertinente dès que la croissance pose des questions de structure. Pennylane est davantage orientée vers l'autogestion et convient aux structures reste simples."
 ---
 
 > **En bref :**
-> 1. In Extenso est un cabinet traditionnel d'expertise comptable (1991, 280 agences, 7 300 collaborateurs), leader français des TPE et PME, avec un conseiller dédié par client et une offre 360 (compta, fiscal, juridique, transmission).
+> 1. In Extenso est un cabinet traditionnel d'expertise comptable (1991, plus de 230 agences, 7 300 collaborateurs), leader français des TPE et PME, avec un conseiller dédié par client et une offre 360 (compta, fiscal, juridique, transmission).
 > 2. Pennylane est une plateforme SaaS de gestion financière couplée à un réseau de cabinets partenaires, optimisée pour l'automatisation, la synchronisation bancaire et l'autogestion digitale.
 > 3. In Extenso gagne pour le conseil humain, l'accompagnement de croissance et la proximité locale. Pennylane gagne pour la facilité d'usage, la modernité de l'outil et le coût d'entrée réduit.
 > 4. Le verdict : In Extenso si vous cherchez un partenaire de conseil et de croissance ; Pennylane si vous cherchez un logiciel de gestion financière avec support comptable en arrière-plan.
@@ -42,10 +42,10 @@ In Extenso et Pennylane incarnent deux modèles diamétralement opposés d'exper
 | **Type de structure** | Cabinet traditionnel | Plateforme SaaS + réseau partenaires |
 | **Création** | 1991 | 2013 (pure player digital) |
 | **Fondateurs de l'offre** | Réseau cabinets indépendants | Fondateurs tech Sophie Viger + Milo Krémastiotis |
-| **Taille du réseau** | 280 agences, 7 300 collaborateurs | Réseau de cabinets partenaires (80+ cabinets) |
+| **Taille du réseau** | plus de 230 agences, 7 300 collaborateurs | Réseau de cabinets partenaires (80+ cabinets) |
 | **Conseil dédié** | Oui, conseiller attitré par client | Non, support via chat/email/visio à la demande |
 | **Offre métier** | 360 (compta + fiscal + juridique + social + transmission + pilotage) | Principalement gestion financière + compta légale |
-| **Proximité géographique** | 280 agences, présence nationale | Digital, cabinets partenaires locaux selon région |
+| **Proximité géographique** | plus de 230 agences, présence nationale | Digital, cabinets partenaires locaux selon région |
 | **Tarif mensuel** | 250-300 EUR pour petite entreprise | 29-200 EUR selon modules et usage |
 | **Synchronisation bancaire** | Via connecteurs, moins automatisée | Native, automatisation complète |
 | **Génération de documents** | Cabinet gère, vous recevez | Automations, vous téléchargez/gérez |
@@ -59,7 +59,7 @@ In Extenso et Pennylane incarnent deux modèles diamétralement opposés d'exper
 
 ## In Extenso : le cabinet historique avec conseiller dédié
 
-In Extenso est fondé en 1991 et détenu par ses associés experts-comptables. Trente-cinq ans plus tard, c'est le leader français de l'expertise comptable pour les TPE et PME, avec une présence quasi-nationale. Ses 7 300 collaborateurs repartis dans 280 agences en font un réseau de proximité dense, une force majeure face aux concurrents purement digitaux.
+In Extenso est fondé en 1991 et détenu par ses associés experts-comptables. Trente-cinq ans plus tard, c'est le leader français de l'expertise comptable pour les TPE et PME, avec une présence quasi-nationale. Ses 7 300 collaborateurs repartis dans plus de 230 agences en font un réseau de proximité dense, une force majeure face aux concurrents purement digitaux.
 
 **L'offre métier.** In Extenso vend une offre 360 : expertise comptable de base (99% du chiffre d'affaires), services optionnels intégrés (fiscalité, paie sociale, juridique, création d'entreprise, accompagnement à la transmission, pilotage et conseil métier). Cette complétude signifie qu'un entrepreneur peut confier à un seul interlocuteur la compta, la déclaration de TVA, l'audit fiscal, le contrat du gérant, les questions de succession, et même des projets de restructuration. Cet éventail plaît aux PME en croissance.
 
@@ -83,7 +83,7 @@ Pennylane est fondée en 2013, après la levée de fonds des fondateurs Sophie V
 
 **Multi-sites et complexité comptable.** Plusieurs agences, plusieurs devises, régimes d'imposition différents. In Extenso maîtrise ces cas ; Pennylane reste orientée vers la petite structure simple. Un conseiller In Extenso vous prendra par la main.
 
-**Besoin de proximité locale.** Vous souhaitez un cabinet à côté de chez vous, pouvoir discuter face à face avec quelqu'un qui connaît votre secteur d'activité et l'écosystème local. Les 280 agences d'In Extenso couvrent presque tous les codes postaux français.
+**Besoin de proximité locale.** Vous souhaitez un cabinet à côté de chez vous, pouvoir discuter face à face avec quelqu'un qui connaît votre secteur d'activité et l'écosystème local. Les agences d'In Extenso couvrent presque tous les codes postaux français.
 
 **Accompagnement en juridique, social, transmission.** In Extenso propose ces services sous un même toit (ou via des partenaires maison). Vous pilotez une relation unique. Chez Pennylane, vous devrez chercher un autre prestataire.
 

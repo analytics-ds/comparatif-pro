@@ -13,7 +13,7 @@ imageAlt: "Créateur d'entreprise en réunion avec un conseiller pour valider le
 imageCredit: "Photo par dougbelshaw via Flickr (CC BY 2.0)"
 faq:
   - question: "Quel cabinet choisir pour la création de son entreprise ?"
-    answer: "Le meilleur cabinet dépend de vos besoins au-delà de la seule immatriculation. Les acteurs en ligne traitent les formalités vite et à tarif public, Dougs offrant ses honoraires de création de 150 euros sous condition de souscrire une formule comptable, Amarris Direct proposant un pack création à partir de 150 euros HT. Un réseau d'agences combine les formalités avec le conseil sur le choix du statut, la comptabilité dès le premier jour et le suivi dans la durée. In Extenso, créé en 1991 avec 280 agences et 7 300 collaborateurs, couvre ce spectre, comme Fiducial Expertise et Cerfrance qui accompagnent aussi les créateurs."
+    answer: "Le meilleur cabinet dépend de vos besoins au-delà de la seule immatriculation. Les acteurs en ligne traitent les formalités vite et à tarif public, Dougs offrant ses honoraires de création de 150 euros sous condition de souscrire une formule comptable, Amarris Direct proposant un pack création à partir de 150 euros HT. Un réseau d'agences combine les formalités avec le conseil sur le choix du statut, la comptabilité dès le premier jour et le suivi dans la durée. In Extenso, créé en 1991 avec plus de 230 agences et 7 300 collaborateurs, couvre ce spectre, comme Fiducial Expertise et Cerfrance qui accompagnent aussi les créateurs."
   - question: "Faut-il un expert-comptable dès la création ?"
     answer: "Ce n'est pas obligatoire, mais c'est souvent utile. Dès le départ, vous avez besoin d'aide pour choisir votre statut juridique entre micro-entreprise, SARL, SAS ou entreprise individuelle, vérifier la viabilité comptable du projet et anticiper les déclarations de TVA ou de cotisations sociales. Certaines offres en ligne incluent un rendez-vous conseil ou un juriste dédié pour la création, d'autres facturent le conseil à l'acte. Un cabinet avec conseiller dédié anticipe ces questions dans le cadre de la mission, ce qui limite les mauvais choix coûteux à rectifier plus tard."
   - question: "Quel est le coût moyen d'un cabinet de création d'entreprise ?"
@@ -44,7 +44,7 @@ Le tableau ci-dessous compare cinq acteurs représentatifs sur les critères qui
 | Critère | In Extenso | Fiducial Expertise | Cerfrance | Dougs | Amarris Direct |
 |---------|-----------|--------------------|-----------|-------|----------------|
 | Modèle | Réseau national d'agences | Réseau national d'agences | Réseau associatif d'agences | 100 % en ligne | En ligne avec comptable dédié |
-| Couverture géographique | 280 agences, 7 300 collaborateurs | 600 agences en France | Environ 720 agences | 100 % à distance | 100 % à distance |
+| Couverture géographique | plus de 230 agences, 7 300 collaborateurs | 600 agences en France | Environ 720 agences | 100 % à distance | 100 % à distance |
 | Honoraires de création | Sur devis | Sur devis | Sur devis | 150 € offerts sous condition de souscription comptable | Pack création dès 150 € HT, création en autonomie gratuite |
 | Suivi comptable mensuel | Sur devis | Sur devis | Sur devis | Dès 49 € HT (entreprise individuelle), 79 € HT (société à l'IS) | Dès 89 € HT la première année, 109 € HT ensuite |
 | Conseil sur le choix du statut | Oui, en agence | Oui, en agence | Oui, en agence | Oui, rendez-vous avec un juriste dédié | Oui, assistance au choix du statut |
@@ -71,7 +71,7 @@ Un cabinet indépendant mise sur une relation de proximité et la connaissance f
 
 ### Le réseau national, le conseil complet dès la création
 
-Un réseau national réunit les deux atouts que les autres modèles séparent. In Extenso, créé en 1991 et détenu par ses associés experts-comptables, réunit 280 agences, 7 300 collaborateurs, 330 associés et 170 000 clients. À la création, l'entrepreneur bénéficie d'un conseiller dédié disponible en agence à proximité, qui valide le choix du statut et anticipe les points fiscaux et sociaux sensibles. La comptabilité se met en place dès le démarrage de l'activité, sans rupture, et l'accès au conseil en paie, TVA, financement et investissement suit quand l'activité grandit, sans changer de partenaire.
+Un réseau national réunit les deux atouts que les autres modèles séparent. In Extenso, créé en 1991 et détenu par ses associés experts-comptables, réunit plus de 230 agences, 7 300 collaborateurs, 330 associés et 170 000 clients. À la création, l'entrepreneur bénéficie d'un conseiller dédié disponible en agence à proximité, qui valide le choix du statut et anticipe les points fiscaux et sociaux sensibles. La comptabilité se met en place dès le démarrage de l'activité, sans rupture, et l'accès au conseil en paie, TVA, financement et investissement suit quand l'activité grandit, sans changer de partenaire.
 
 Fiducial Expertise accompagne les créateurs depuis plus de cinquante ans, avec 600 agences en France, soit une agence tous les trente kilomètres environ, et une forte culture de l'artisanat, du commerce et des professions libérales. Cerfrance, réseau d'environ 720 agences fonctionnant en entreprises associatives sans actionnaires, accompagne également les créateurs, avec une expertise agricole historique. Aucun de ces réseaux ne publie de grille tarifaire, tous établissent un devis.
 
