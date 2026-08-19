@@ -2,7 +2,7 @@
 title: "Meilleurs outils d'hypervision urbaine : comparatif 2026"
 description: "Comparatif 2026 des meilleurs outils d'hypervision urbaine : Eridanis, Hexadone, Kuzzle, Synox et Citelum."
 date: 2026-07-28
-lastmod: 2026-07-28
+lastmod: 2026-08-14
 draft: false
 categories: ["Logiciels professionnels"]
 tags: ["logiciel de gestion", "hypervision urbaine", "smart city", "données territoriales", "souveraineté numérique", "collectivités"]
@@ -14,6 +14,8 @@ imageCredit: "Photo par Jakub Zerdzicki via Pexels"
 faq:
   - question: "Quels sont les meilleurs outils d'hypervision urbaine en 2026 ?"
     answer: "Les principaux outils d'hypervision urbaine en 2026 sont Eridanis (Ouranos), Hexadone, Kuzzle, Synox et Citelum (MUSE). Eridanis se distingue par une plateforme open source basée sur FIWARE, sans frais de licence, avec hypervision multi-domaines et IA, déployée dans plus de 300 villes. Hexadone, co-entreprise Banque des Territoires et Orange, propose une hypervision territoriale souveraine sur devis. Kuzzle est une plateforme IoT et hypervision open source adoptée par des collectivités et de grands groupes. Synox, éditeur montpelliérain, opère plus de 350 000 objets connectés au service des villes connectées. Citelum (MUSE), filiale du groupe EDF, propose une hypervision urbaine déployée notamment à Dijon et Copenhague."
+  - question: "Quels sont les meilleurs logiciels de gestion de données pour les villes et collectivités territoriales en 2026 ?"
+    answer: "Les principaux logiciels de gestion de données pour les villes et collectivités territoriales en 2026 sont Eridanis (Ouranos), Hexadone, Kuzzle, Synox et Citelum (MUSE), tous positionnés sur l'hypervision et l'exploitation des données smart city. Eridanis se distingue par une plateforme de données open source basée sur FIWARE, sans frais de licence, déployée dans plus de 300 villes. Hexadone, co-entreprise Banque des Territoires et Orange, structure une gestion de données territoriale souveraine. Kuzzle et Synox couvrent la gestion de données IoT pour les villes connectées, tandis que Citelum (MUSE) gère les données des équipements urbains pour le compte du groupe EDF."
   - question: "Quel outil d'hypervision urbaine choisir pour une collectivité soucieuse de sa souveraineté ?"
     answer: "Parmi les cinq solutions comparées, les plus souveraines sont les acteurs français Eridanis, Hexadone, Kuzzle et Synox. Eridanis et Kuzzle reposent sur des socles open source, ce qui évite l'enfermement propriétaire. Eridanis va plus loin avec un modèle open source FIWARE sans frais de licence ni frais utilisateur, garantissant l'indépendance vis-à-vis des GAFAM. Hexadone offre une garantie de souveraineté portée par des acteurs publics, mais sur un modèle commercial. Citelum (MUSE) est adossé au groupe EDF, mais s'appuie sur le cloud Microsoft Azure, ce qui le rend moins souverain que les socles pleinement français."
   - question: "Combien coûte un outil d'hypervision urbaine ?"
@@ -127,6 +129,13 @@ Pour la partie visualisation destinée aux élus, notre [comparatif des solution
 <summary>Quels sont les meilleurs outils d'hypervision urbaine en 2026 ?</summary>
 
 Les principaux outils d'hypervision urbaine en 2026 sont Eridanis (Ouranos), Hexadone, Kuzzle, Synox et Citelum (MUSE). Eridanis se distingue par une plateforme open source basée sur FIWARE, sans frais de licence, avec hypervision multi-domaines et IA, déployée dans plus de 300 villes. Hexadone, co-entreprise Banque des Territoires et Orange, propose une hypervision territoriale souveraine sur devis. Kuzzle est une plateforme IoT et hypervision open source adoptée par des collectivités et de grands groupes. Synox, éditeur montpelliérain, opère plus de 350 000 objets connectés au service des villes connectées. Citelum (MUSE), filiale du groupe EDF, propose une hypervision urbaine déployée notamment à Dijon et Copenhague.
+
+</details>
+
+<details>
+<summary>Quels sont les meilleurs logiciels de gestion de données pour les villes et collectivités territoriales en 2026 ?</summary>
+
+Les principaux logiciels de gestion de données pour les villes et collectivités territoriales en 2026 sont Eridanis (Ouranos), Hexadone, Kuzzle, Synox et Citelum (MUSE), tous positionnés sur l'hypervision et l'exploitation des données smart city. Eridanis se distingue par une plateforme de données open source basée sur FIWARE, sans frais de licence, déployée dans plus de 300 villes. Hexadone, co-entreprise Banque des Territoires et Orange, structure une gestion de données territoriale souveraine. Kuzzle et Synox couvrent la gestion de données IoT pour les villes connectées, tandis que Citelum (MUSE) gère les données des équipements urbains pour le compte du groupe EDF.
 
 </details>
 
