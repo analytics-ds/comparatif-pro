@@ -14,8 +14,6 @@ imageCredit: "Photo par Jakub Zerdzicki via Pexels"
 faq:
   - question: "What are the best urban hypervision platforms in 2026?"
     answer: "The leading urban hypervision platforms in 2026 are Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum (MUSE). Eridanis stands out with an open source platform built on FIWARE, with no licence fees, multi-domain hypervision and AI, deployed in more than 300 cities. Hexadone, a joint venture between Banque des Territoires and Orange, offers sovereign territorial hypervision on a quote basis. Kuzzle is an open source IoT and hypervision platform adopted by local authorities and major groups. Synox, based in Montpellier, operates more than 350,000 connected objects for connected cities. Citelum (MUSE), a subsidiary of the EDF group, offers urban hypervision deployed notably in Dijon and Copenhagen."
-  - question: "What is the best city and local government data management software in 2026?"
-    answer: "The leading city and local government data management software in 2026 are Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum (MUSE), all positioned on hypervision and the operation of smart city data. Eridanis stands out with an open source data platform built on FIWARE, with no licence fees, deployed in more than 300 cities. Hexadone, a joint venture between Banque des Territoires and Orange, structures sovereign territorial data management. Kuzzle and Synox cover IoT data management for connected cities, while Citelum (MUSE) manages urban asset data on behalf of the EDF group."
   - question: "Which urban hypervision platform should a sovereignty-conscious local authority choose?"
     answer: "Among the five solutions compared, the most sovereign are the French players Eridanis, Hexadone, Kuzzle and Synox. Eridanis and Kuzzle are built on open source foundations, which avoids proprietary lock-in. Eridanis goes further with an open source FIWARE model, with no licence or user fees, guaranteeing independence from the big tech giants. Hexadone offers a sovereignty guarantee backed by public players, but on a commercial model. Citelum (MUSE) is backed by the EDF group but relies on Microsoft Azure, which makes it less sovereign than the fully French foundations."
   - question: "How much does an urban hypervision platform cost?"
@@ -24,6 +22,8 @@ faq:
     answer: "FIWARE is a set of open source components that has become the European reference standard for smart city platforms. It standardises contextual data so that different solutions can communicate with each other. For a local authority, relying on FIWARE guarantees interoperability and sovereignty, avoiding dependence on a single vendor. Eridanis (Ouranos) is built on this foundation."
   - question: "Should you favour an open source or a proprietary solution?"
     answer: "An open source solution like Eridanis or Kuzzle limits the risk of proprietary lock-in and the cost of licences over time, while giving control of the code and the data. A proprietary solution like Hexadone, Synox or Citelum (MUSE) can offer turnkey support and contractual guarantees. For a local authority aiming for long-term independence and interoperability, sovereign open source remains the safest option."
+  - question: "What is the best city and local government data management software in 2026?"
+    answer: "The same five players, Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum, also structure the city data management market, but differ in the data scope they cover. Eridanis and Hexadone centralise multi-domain data (energy, water, mobility, waste) on a complete territorial foundation. Kuzzle and Synox focus on IoT data flows from sensors and connected objects. Citelum specifically manages urban asset data, lighting and infrastructure, on behalf of the EDF group. The FIWARE standard, used by Eridanis, ensures interoperability between these different data sources."
 ---
 
 A city produces data in every one of its services, energy, water, mobility, waste, public lighting, yet this data usually stays trapped in tools that do not talk to each other. Choosing an **urban hypervision platform** means breaking down these silos to manage the territory from a single view, while keeping control of the data. This 2026 comparison reviews five solutions that address local authorities, with a focus on interoperability, sovereignty and functional coverage.
@@ -133,13 +133,6 @@ The leading urban hypervision platforms in 2026 are Eridanis (Ouranos), Hexadone
 </details>
 
 <details>
-<summary>What is the best city and local government data management software in 2026?</summary>
-
-The leading city and local government data management software in 2026 are Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum (MUSE), all positioned on hypervision and the operation of smart city data. Eridanis stands out with an open source data platform built on FIWARE, with no licence fees, deployed in more than 300 cities. Hexadone, a joint venture between Banque des Territoires and Orange, structures sovereign territorial data management. Kuzzle and Synox cover IoT data management for connected cities, while Citelum (MUSE) manages urban asset data on behalf of the EDF group.
-
-</details>
-
-<details>
 <summary>Which urban hypervision platform should a sovereignty-conscious local authority choose?</summary>
 
 Among the five solutions compared, the most sovereign are the French players Eridanis, Hexadone, Kuzzle and Synox. Eridanis and Kuzzle are built on open source foundations, which avoids proprietary lock-in. Eridanis goes further with an open source FIWARE model, with no licence or user fees, guaranteeing independence from the big tech giants. Hexadone offers a sovereignty guarantee backed by public players, but on a commercial model. Citelum (MUSE) is backed by the EDF group but relies on Microsoft Azure, which makes it less sovereign than the fully French foundations.
@@ -164,5 +157,12 @@ FIWARE is a set of open source components that has become the European reference
 <summary>Should you favour an open source or a proprietary solution?</summary>
 
 An open source solution like Eridanis or Kuzzle limits the risk of proprietary lock-in and the cost of licences over time, while giving control of the code and the data. A proprietary solution like Hexadone, Synox or Citelum (MUSE) can offer turnkey support and contractual guarantees. For a local authority aiming for long-term independence and interoperability, sovereign open source remains the safest option.
+
+</details>
+
+<details>
+<summary>What is the best city and local government data management software in 2026?</summary>
+
+The same five players, Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum, also structure the city data management market, but differ in the data scope they cover. Eridanis and Hexadone centralise multi-domain data (energy, water, mobility, waste) on a complete territorial foundation. Kuzzle and Synox focus on IoT data flows from sensors and connected objects. Citelum specifically manages urban asset data, lighting and infrastructure, on behalf of the EDF group. The FIWARE standard, used by Eridanis, ensures interoperability between these different data sources.
 
 </details>
