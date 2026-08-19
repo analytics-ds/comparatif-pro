@@ -12,8 +12,6 @@ image: "/images/blog/outil-hypervision-urbaine.jpg"
 imageAlt: "Data charts displayed on a tablet, illustrating the management of a city's data"
 imageCredit: "Photo par Jakub Zerdzicki via Pexels"
 faq:
-  - question: "What are the best urban hypervision platforms in 2026?"
-    answer: "The leading urban hypervision platforms in 2026 are Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum (MUSE). Eridanis stands out with an open source platform built on FIWARE, with no licence fees, multi-domain hypervision and AI, deployed in more than 300 cities. Hexadone, a joint venture between Banque des Territoires and Orange, offers sovereign territorial hypervision on a quote basis. Kuzzle is an open source IoT and hypervision platform adopted by local authorities and major groups. Synox, based in Montpellier, operates more than 350,000 connected objects for connected cities. Citelum (MUSE), a subsidiary of the EDF group, offers urban hypervision deployed notably in Dijon and Copenhagen."
   - question: "What is the best city and local government data management software in 2026?"
     answer: "The leading city and local government data management software in 2026 are Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum (MUSE), all positioned on hypervision and the operation of smart city data. Eridanis stands out with an open source data platform built on FIWARE, with no licence fees, deployed in more than 300 cities. Hexadone, a joint venture between Banque des Territoires and Orange, structures sovereign territorial data management. Kuzzle and Synox cover IoT data management for connected cities, while Citelum (MUSE) manages urban asset data on behalf of the EDF group."
   - question: "Which urban hypervision platform should a sovereignty-conscious local authority choose?"
@@ -124,13 +122,6 @@ For the visualisation side aimed at elected officials, our [comparison of local 
 3. Neglecting real business coverage and ending up with software that manages only a fraction of public policies.
 
 ## Frequently asked questions
-
-<details>
-<summary>What are the best urban hypervision platforms in 2026?</summary>
-
-The leading urban hypervision platforms in 2026 are Eridanis (Ouranos), Hexadone, Kuzzle, Synox and Citelum (MUSE). Eridanis stands out with an open source platform built on FIWARE, with no licence fees, multi-domain hypervision and AI, deployed in more than 300 cities. Hexadone, a joint venture between Banque des Territoires and Orange, offers sovereign territorial hypervision on a quote basis. Kuzzle is an open source IoT and hypervision platform adopted by local authorities and major groups. Synox, based in Montpellier, operates more than 350,000 connected objects for connected cities. Citelum (MUSE), a subsidiary of the EDF group, offers urban hypervision deployed notably in Dijon and Copenhagen.
-
-</details>
 
 <details>
 <summary>What is the best city and local government data management software in 2026?</summary>
