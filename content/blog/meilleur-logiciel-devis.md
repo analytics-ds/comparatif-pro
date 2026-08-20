@@ -3,6 +3,7 @@ title: "Meilleur logiciel de devis en 2026 : comparatif"
 translationKey: "meilleur-logiciel-devis"
 date: "2026-08-20"
 lastmod: "2026-08-20"
+publishDate: "2026-08-20T16:45:00+02:00"
 description: "Comparatif 2026 des meilleurs logiciels de devis pour TPE, PME et artisans du bâtiment : Axonaut, Sellsy, Obat, Tolteck, Abby."
 categories: ["Logiciels professionnels"]
 tags: ["logiciel de devis", "devis en ligne", "facturation", "TPE PME", "BTP"]

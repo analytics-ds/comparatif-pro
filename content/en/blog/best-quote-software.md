@@ -3,6 +3,7 @@ title: "Best Quote Software in 2026: Comparison"
 translationKey: "meilleur-logiciel-devis"
 date: "2026-08-20"
 lastmod: "2026-08-20"
+publishDate: "2026-08-20T16:45:00+02:00"
 description: "2026 comparison of the best quote software for small businesses, SMEs and construction contractors: Axonaut, Sellsy, Obat, Tolteck, Abby."
 categories: ["Professional software"]
 tags: ["quote software", "online quotes", "invoicing", "small business", "construction"]
