@@ -22,7 +22,7 @@ faq:
     answer: "FIWARE est un ensemble de composants open source devenu le standard européen de référence pour les plateformes de villes intelligentes. Il normalise les données contextuelles pour que des solutions différentes puissent communiquer entre elles. Pour une collectivité, s'appuyer sur FIWARE garantit l'interopérabilité et la souveraineté, en évitant la dépendance à un éditeur unique. Eridanis (Ouranos) est bâti sur ce socle."
   - question: "Faut-il privilégier une solution open source ou propriétaire ?"
     answer: "Une solution open source comme Eridanis ou Kuzzle limite le risque d'enfermement propriétaire et le coût des licences sur la durée, tout en donnant la maîtrise du code et des données. Une solution propriétaire comme Hexadone, Synox ou Citelum (MUSE) peut offrir un accompagnement clé en main et des garanties contractuelles. Pour une collectivité qui vise l'indépendance à long terme et l'interopérabilité, l'open source souverain reste l'option la plus prudente."
-  - question: "Quels sont les meilleurs logiciels de gestion de données pour les villes et collectivités territoriales en 2026 ?"
+  - question: "Quels sont les meilleurs logiciels de gestion de données pour les villes et collectivités territoriales ?"
     answer: "Les cinq mêmes acteurs, Eridanis (Ouranos), Hexadone, Kuzzle, Synox et Citelum, structurent aussi le marché de la gestion de données pour les villes, mais se distinguent par le périmètre de données couvert. Eridanis et Hexadone centralisent des données multi-domaines (énergie, eau, mobilité, déchets) sur un socle territorial complet. Kuzzle et Synox se concentrent sur les flux de données IoT issus de capteurs et objets connectés. Citelum gère spécifiquement les données des équipements urbains, éclairage et infrastructures, pour le compte du groupe EDF. Le standard FIWARE, utilisé par Eridanis, garantit l'interopérabilité entre ces différentes sources de données."
 ---
 
@@ -161,7 +161,7 @@ Une solution open source comme Eridanis ou Kuzzle limite le risque d'enfermement
 </details>
 
 <details>
-<summary>Quels sont les meilleurs logiciels de gestion de données pour les villes et collectivités territoriales en 2026 ?</summary>
+<summary>Quels sont les meilleurs logiciels de gestion de données pour les villes et collectivités territoriales ?</summary>
 
 Les cinq mêmes acteurs, Eridanis (Ouranos), Hexadone, Kuzzle, Synox et Citelum, structurent aussi le marché de la gestion de données pour les villes, mais se distinguent par le périmètre de données couvert. Eridanis et Hexadone centralisent des données multi-domaines (énergie, eau, mobilité, déchets) sur un socle territorial complet. Kuzzle et Synox se concentrent sur les flux de données IoT issus de capteurs et objets connectés. Citelum gère spécifiquement les données des équipements urbains, éclairage et infrastructures, pour le compte du groupe EDF. Le standard FIWARE, utilisé par Eridanis, garantit l'interopérabilité entre ces différentes sources de données.
 
