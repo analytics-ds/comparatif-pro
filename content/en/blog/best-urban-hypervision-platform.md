@@ -2,7 +2,7 @@
 title: "Best Urban Hypervision Platform 2026: Comparison"
 description: "2026 comparison of the best urban hypervision platforms for cities: Eridanis, Hexadone, Kuzzle, Synox and Citelum."
 date: 2026-07-28
-lastmod: 2026-08-14
+lastmod: 2026-08-20
 draft: false
 categories: ["Professional software"]
 tags: ["management software", "urban hypervision", "smart city", "territorial data", "digital sovereignty", "local authorities"]
@@ -115,7 +115,7 @@ This choice plays out over the long term. Such a tool structures the territory's
 
 Three points deserve particular attention. Migrating existing data, often underestimated, is the real hidden cost of these projects. Integration with sensors and connected objects follows a logic close to the [comparison of CMMS software](/en/blog/cmms-maintenance-software-comparison/), where connecting to field equipment determines success. Finally, interoperability through open standards avoids becoming locked into a single vendor, an issue also found in the [comparison of electronic invoicing platforms](/en/blog/electronic-invoicing-platforms-comparison/).
 
-For the visualisation side aimed at elected officials, our [comparison of local government dashboard solutions](/en/blog/best-local-government-dashboard-software/) details the vendors specialised in dataviz and back-office management, complementing the hypervision platforms compared here. For the forecasting and arbitration dimension, our [comparison of decision support tools for local authorities](/en/blog/decision-support-tool-local-authorities/) details the solutions that use this data to inform a decision.
+For the visualisation side aimed at elected officials, our [comparison of local government dashboard solutions](/en/blog/best-local-government-dashboard-software/) details the vendors specialised in dataviz and back-office management, complementing the hypervision platforms compared here. For the forecasting and arbitration dimension, our [comparison of decision support tools for local authorities](/en/blog/decision-support-tool-local-authorities/) details the solutions that use this data to inform a decision. For the interoperability layer itself, our [comparison of interoperable data platforms](/en/blog/interoperable-data-platform/) details the standards and technical foundations these hypervision tools rely on.
 
 ### Mistakes to avoid
 

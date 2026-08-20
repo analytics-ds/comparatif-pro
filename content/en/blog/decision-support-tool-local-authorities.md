@@ -2,7 +2,7 @@
 title: "Decision Support Tool for Local Authorities 2026"
 description: "2026 comparison of data-driven decision support tools for local authorities: Eridanis, CGI Grand Angle, Simco, Collectiv'Finances, Manty."
 date: "2026-08-14"
-lastmod: "2026-08-14"
+lastmod: "2026-08-20"
 publishDate: "2026-08-14"
 draft: false
 categories: ["Professional software"]
@@ -110,7 +110,7 @@ For a small municipality or a modest-sized inter-municipal body, Collectiv'Finan
 
 For a local authority whose priority is breaking down silos between several internal functions, without going as far as the territory's operational data, Manty offers a relevant trade-off, with a natural language query engine that makes data access easier for non-technical users.
 
-Once the decision is informed, it still needs to be tracked over time. Our [comparison of local government dashboard solutions](/en/blog/best-local-government-dashboard-software/) details the tools centred on visualising indicators for elected officials, a function complementary to the decision support presented here.
+Once the decision is informed, it still needs to be tracked over time. Our [comparison of local government dashboard solutions](/en/blog/best-local-government-dashboard-software/) details the tools centred on visualising indicators for elected officials, a function complementary to the decision support presented here. Our [comparison of interoperable data platforms](/en/blog/interoperable-data-platform/) details the technical foundations that feed these decision support tools.
 
 ## How to choose your tool?
 

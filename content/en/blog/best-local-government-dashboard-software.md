@@ -2,7 +2,7 @@
 title: "Best Local Government Dashboard Software: 2026 Comparison"
 description: "2026 comparison of local government dashboard software for elected officials and administrations: Eridanis, Hexadone, Toucan Toco, Huwise, Manty."
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-20
 draft: false
 categories: ["Professional software"]
 tags: ["logiciel de gestion", "local government dashboard", "dataviz", "local authorities", "elected officials", "smart city"]
@@ -110,7 +110,7 @@ The decision hinges on three structuring trade-offs. The first concerns the **de
 
 Three points deserve particular attention. Migrating existing data remains the real hidden cost of these projects. Training elected officials on the dashboard governs its real adoption; a dashboard that is not consulted serves no one. Finally, the articulation with other business software, such as a [CMMS for maintenance](/en/blog/cmms-maintenance-software-comparison/), avoids silos.
 
-A dashboard helps monitor a situation, but does not replace the arbitration itself. Our [comparison of decision support tools for local authorities](/en/blog/decision-support-tool-local-authorities/) details the solutions that use this same data to inform a choice, financial or operational.
+A dashboard helps monitor a situation, but does not replace the arbitration itself. Our [comparison of decision support tools for local authorities](/en/blog/decision-support-tool-local-authorities/) details the solutions that use this same data to inform a choice, financial or operational. Upstream, our [comparison of interoperable data platforms](/en/blog/interoperable-data-platform/) details the foundations that ensure this data actually flows between systems.
 
 ### Mistakes to avoid
 

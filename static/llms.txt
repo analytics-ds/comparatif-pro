@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Plateforme de données interopérable : comparatif 2026 : https://comparatif-pro.com/blog/plateforme-donnees-interoperable/
+
 - Outil d'aide à la décision collectivités 2026 : https://comparatif-pro.com/blog/outil-aide-decision-collectivites/
 
 - Logiciel de note de frais : guide 2026 : https://comparatif-pro.com/blog/logiciel-note-de-frais/
@@ -85,6 +87,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 
 ## Version anglaise (EN)
+
+- Interoperable Data Platform: 2026 Comparison : https://comparatif-pro.com/en/blog/interoperable-data-platform/
 
 - Decision Support Tool for Local Authorities 2026 : https://comparatif-pro.com/en/blog/decision-support-tool-local-authorities/
 

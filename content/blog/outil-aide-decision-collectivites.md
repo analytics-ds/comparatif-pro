@@ -2,7 +2,7 @@
 title: "Outil d'aide à la décision collectivités 2026"
 description: "Comparatif 2026 des outils d'aide à la décision pour les collectivités : Eridanis, CGI Grand Angle, Simco, Collectiv'Finances, Manty."
 date: "2026-08-14"
-lastmod: "2026-08-14"
+lastmod: "2026-08-20"
 publishDate: "2026-08-14"
 draft: false
 categories: ["Logiciels professionnels"]
@@ -110,7 +110,7 @@ Pour une petite commune ou un EPCI de taille modeste, Collectiv'Finances offre u
 
 Pour une collectivité dont la priorité est de décloisonner plusieurs fonctions internes, sans aller jusqu'aux données opérationnelles du territoire, Manty offre un compromis pertinent, avec un requêteur en langage naturel qui facilite l'accès à la donnée pour des utilisateurs non techniques.
 
-Une fois la décision éclairée, encore faut-il pouvoir en suivre les effets dans la durée. Notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaille les outils centrés sur la visualisation d'indicateurs pour les élus, une fonction complémentaire à l'aide à la décision présentée ici.
+Une fois la décision éclairée, encore faut-il pouvoir en suivre les effets dans la durée. Notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaille les outils centrés sur la visualisation d'indicateurs pour les élus, une fonction complémentaire à l'aide à la décision présentée ici. Notre [comparatif des plateformes de données interopérables](/blog/plateforme-donnees-interoperable/) détaille quant à lui les socles techniques qui alimentent ces outils d'aide à la décision.
 
 ## Comment choisir son outil ?
 

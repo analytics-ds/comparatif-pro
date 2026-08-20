@@ -2,7 +2,7 @@
 title: "Meilleures solutions de tableau de bord territorial en 2026"
 description: "Comparatif 2026 des solutions de tableau de bord territorial pour élus et collectivités : Eridanis, Hexadone, Toucan Toco, Huwise, Manty."
 date: 2026-07-31
-lastmod: 2026-07-31
+lastmod: 2026-08-20
 draft: false
 categories: ["Logiciels professionnels"]
 tags: ["logiciel de gestion", "tableau de bord territorial", "dataviz", "collectivités", "élus", "smart city"]
@@ -110,7 +110,7 @@ La décision dépend de trois arbitrages structurants. Le premier porte sur la *
 
 Trois points de vigilance méritent une attention particulière. La reprise des données existantes reste le vrai coût caché des projets. La formation des élus au dashboard conditionne son adoption réelle, un dashboard non consulté ne sert à personne. Enfin, l'articulation avec les autres logiciels métiers, notamment ceux de gestion technique comme une [GMAO pour la maintenance](/blog/gmao-comparatif-logiciels-maintenance/), évite les silos.
 
-Un tableau de bord aide à suivre une situation, mais ne remplace pas l'arbitrage lui-même. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) détaille les solutions qui exploitent ces mêmes données pour éclairer un choix, financier ou opérationnel.
+Un tableau de bord aide à suivre une situation, mais ne remplace pas l'arbitrage lui-même. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) détaille les solutions qui exploitent ces mêmes données pour éclairer un choix, financier ou opérationnel. En amont, notre [comparatif des plateformes de données interopérables](/blog/plateforme-donnees-interoperable/) détaille les socles qui garantissent la circulation de ces données entre systèmes.
 
 ### Les erreurs à éviter
 
