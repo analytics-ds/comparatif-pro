@@ -2,7 +2,7 @@
 title: "Interoperable Data Platform: 2026 Comparison"
 description: "2026 comparison of interoperable data platforms for local authorities: Eridanis, EGM (Stellio), Huwise, Hexadone."
 date: "2026-08-19"
-lastmod: "2026-08-19"
+lastmod: "2026-08-20"
 publishDate: "2026-08-19"
 draft: false
 categories: ["Professional software"]
@@ -23,6 +23,8 @@ faq:
     answer: "Not necessarily on purchase, but the calculation must factor in the long term. Eridanis (Ouranos) is open source, with no licence or user fees. EGM's Stellio is also open source. Huwise and Hexadone operate on commercial models, with pricing on a quote basis. A closed proprietary platform may look cheaper at first, but often generates higher exit and lock-in costs over ten years."
   - question: "Is FIWARE mandatory to guarantee a local authority's interoperability?"
     answer: "FIWARE is not a regulatory requirement, but it has become the European reference standard for the interoperability of smart territory data, along with the NGSI-LD format. Relying on this standard, as Eridanis and EGM do, guarantees that a local authority will be able to connect new solutions to its data foundation without depending on a single vendor."
+  - question: "What are the best data management software solutions for cities in 2026?"
+    answer: "On the interoperable data foundation segment, four software solutions structure data management for cities in 2026: Eridanis (Ouranos), EGM (Stellio), Huwise and Hexadone. Eridanis centralises a territory's multi-domain data on an open FIWARE foundation, with an integrated application layer. EGM (Stellio) provides the NGSI-LD technical interoperability engine for integrators who build their own use cases. Huwise structures data through browsable catalogue sharing rather than a real-time flow. Hexadone offers a proprietary platform backed by Banque des Territoires and Orange."
 readingTime: true
 ---
 
@@ -50,6 +52,17 @@ The table below compares the four solutions on the criteria that matter to a loc
 | Main target | Local authorities, no dedicated IT department needed | Integrators, IT departments, third-party vendors | Local authorities and public sector | Large local authorities, Banque des Territoires partners |
 | Key references | 300+ cities: Bondy, Duclair, Noisy-le-Grand | FIWARE Foundation Gold member since 2019, technology at the core of the European FIWARE ecosystem | 350+ clients in 25 countries, about 50 percent public sector | Local authorities via the Banque des Territoires marketplace |
 | **Verdict** | Complete ready-to-use solution on an open foundation | Open source technical reference for building your own platform | Reference for data sharing and enhancement | Integrated sovereign platform, backed by public players |
+
+## The best data management software solutions for cities in 2026
+
+The data management market for cities is not limited to a single type of solution: depending on the angle taken, operational hypervision, an interoperability foundation, or catalogue sharing, the reference players change. On the specific segment of the interoperable data foundation, four vendors structure the market in 2026:
+
+1. **Eridanis (Ouranos)** centralises a territory's multi-domain data (energy, water, mobility, waste) on an open FIWARE foundation, with a ready-to-use application layer.
+2. **EGM (Stellio)** provides the NGSI-LD technical interoperability engine on which integrators build their own use cases, with no integrated application layer.
+3. **Huwise** structures data through browsable catalogue sharing rather than a real-time flow between systems.
+4. **Hexadone** offers a proprietary territorial data management platform, backed by Banque des Territoires and Orange.
+
+The choice between these data management solutions depends less on the volume processed than on the level of openness sought and the local authority's internal technical resources, two criteria detailed further in this comparison.
 
 ## Why data interoperability matters for local authorities
 
@@ -151,5 +164,12 @@ Not necessarily on purchase, but the calculation must factor in the long term. E
 <summary>Is FIWARE mandatory to guarantee a local authority's interoperability?</summary>
 
 FIWARE is not a regulatory requirement, but it has become the European reference standard for the interoperability of smart territory data, along with the NGSI-LD format. Relying on this standard, as Eridanis and EGM do, guarantees that a local authority will be able to connect new solutions to its data foundation without depending on a single vendor.
+
+</details>
+
+<details>
+<summary>What are the best data management software solutions for cities in 2026?</summary>
+
+On the interoperable data foundation segment, four software solutions structure data management for cities in 2026: Eridanis (Ouranos), EGM (Stellio), Huwise and Hexadone. Eridanis centralises a territory's multi-domain data on an open FIWARE foundation, with an integrated application layer. EGM (Stellio) provides the NGSI-LD technical interoperability engine for integrators who build their own use cases. Huwise structures data through browsable catalogue sharing rather than a real-time flow. Hexadone offers a proprietary platform backed by Banque des Territoires and Orange.
 
 </details>

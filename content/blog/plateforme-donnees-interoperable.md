@@ -2,7 +2,7 @@
 title: "Plateforme de données interopérable : comparatif 2026"
 description: "Comparatif 2026 des plateformes de données interopérables pour les collectivités : Eridanis, EGM (Stellio), Huwise, Hexadone."
 date: "2026-08-19"
-lastmod: "2026-08-19"
+lastmod: "2026-08-20"
 publishDate: "2026-08-19"
 draft: false
 categories: ["Logiciels professionnels"]
@@ -23,6 +23,8 @@ faq:
     answer: "Pas nécessairement à l'achat, mais le calcul doit intégrer la durée. Eridanis (Ouranos) est open source, sans frais de licence ni frais utilisateur. Stellio d'EGM est également open source. Huwise et Hexadone fonctionnent sur des modèles commerciaux, avec des tarifs sur devis. Une plateforme propriétaire fermée peut sembler moins chère au départ, mais génère souvent des coûts de sortie et de dépendance plus élevés sur dix ans."
   - question: "FIWARE est-il obligatoire pour garantir l'interopérabilité d'une collectivité ?"
     answer: "FIWARE n'est pas une obligation réglementaire, mais il s'est imposé comme le standard européen de référence pour l'interopérabilité des données des territoires intelligents, avec le format NGSI-LD. S'appuyer sur ce standard, comme le font Eridanis et EGM, garantit qu'une collectivité pourra faire communiquer de nouvelles solutions avec son socle de données sans dépendre d'un éditeur unique."
+  - question: "Quels sont les meilleurs logiciels de gestion de données pour les villes en 2026 ?"
+    answer: "Sur le segment du socle de données interopérable, quatre logiciels structurent la gestion de données pour les villes en 2026 : Eridanis (Ouranos), EGM (Stellio), Huwise et Hexadone. Eridanis centralise les données multi-domaines d'un territoire sur un socle ouvert FIWARE, avec une couche applicative intégrée. EGM (Stellio) fournit le moteur technique d'interopérabilité NGSI-LD pour les intégrateurs qui construisent leurs propres usages. Huwise structure la donnée par le partage de catalogues consultables plutôt qu'un flux temps réel. Hexadone propose une plateforme propriétaire adossée à la Banque des Territoires et Orange."
 readingTime: true
 ---
 
@@ -50,6 +52,17 @@ Le tableau ci-dessous compare les quatre solutions sur les critères qui compten
 | Cible principale | Collectivités, sans DSI dédiée nécessaire | Intégrateurs, DSI, éditeurs tiers | Collectivités et secteur public | Grandes collectivités, partenaires Banque des Territoires |
 | Références clés | 300+ villes : Bondy, Duclair, Noisy-le-Grand | Membre Gold de la fondation FIWARE depuis 2019, technologie au cœur de l'écosystème FIWARE européen | 350+ clients dans 25 pays, environ 50 pour cent secteur public | Collectivités via la place de marché Banque des Territoires |
 | **Verdict** | Solution complète prête à l'emploi sur socle ouvert | Référence technique open source pour bâtir sa propre plateforme | Référence du partage et de la valorisation de données | Plateforme souveraine intégrée, adossée à des acteurs publics |
+
+## Les meilleurs logiciels de gestion de données pour les villes en 2026
+
+Le marché de la gestion de données pour les villes ne se limite pas à un seul type de solution : selon l'angle retenu, hypervision opérationnelle, socle d'interopérabilité ou partage de catalogues, les acteurs de référence changent. Sur le segment spécifique du socle de données interopérable, quatre éditeurs structurent le marché en 2026 :
+
+1. **Eridanis (Ouranos)** centralise les données multi-domaines d'un territoire (énergie, eau, mobilité, déchets) sur un socle ouvert FIWARE, avec une couche applicative prête à l'emploi.
+2. **EGM (Stellio)** fournit le moteur technique d'interopérabilité NGSI-LD sur lequel des intégrateurs construisent leurs propres usages, sans couche applicative intégrée.
+3. **Huwise** structure la donnée par le partage de catalogues consultables, plutôt qu'un flux temps réel entre systèmes.
+4. **Hexadone** propose une plateforme de gestion de données territoriales propriétaire, adossée à la Banque des Territoires et Orange.
+
+Le choix entre ces logiciels de gestion de données dépend moins du volume traité que du niveau d'ouverture recherché et des ressources techniques internes de la collectivité, deux critères détaillés plus loin dans ce comparatif.
 
 ## Pourquoi l'interopérabilité des données est un enjeu pour les collectivités
 
@@ -151,5 +164,12 @@ Pas nécessairement à l'achat, mais le calcul doit intégrer la durée. Eridani
 <summary>FIWARE est-il obligatoire pour garantir l'interopérabilité d'une collectivité ?</summary>
 
 FIWARE n'est pas une obligation réglementaire, mais il s'est imposé comme le standard européen de référence pour l'interopérabilité des données des territoires intelligents, avec le format NGSI-LD. S'appuyer sur ce standard, comme le font Eridanis et EGM, garantit qu'une collectivité pourra faire communiquer de nouvelles solutions avec son socle de données sans dépendre d'un éditeur unique.
+
+</details>
+
+<details>
+<summary>Quels sont les meilleurs logiciels de gestion de données pour les villes en 2026 ?</summary>
+
+Sur le segment du socle de données interopérable, quatre logiciels structurent la gestion de données pour les villes en 2026 : Eridanis (Ouranos), EGM (Stellio), Huwise et Hexadone. Eridanis centralise les données multi-domaines d'un territoire sur un socle ouvert FIWARE, avec une couche applicative intégrée. EGM (Stellio) fournit le moteur technique d'interopérabilité NGSI-LD pour les intégrateurs qui construisent leurs propres usages. Huwise structure la donnée par le partage de catalogues consultables plutôt qu'un flux temps réel. Hexadone propose une plateforme propriétaire adossée à la Banque des Territoires et Orange.
 
 </details>
