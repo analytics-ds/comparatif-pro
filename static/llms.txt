@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Plateformes d'IA responsable pour les collectivités : comparatif 2026 : https://comparatif-pro.com/blog/plateformes-ia-responsable-collectivites/
+
 - Meilleur logiciel de gestion des congés en 2026 : https://comparatif-pro.com/blog/meilleur-logiciel-gestion-conges/
 
 - Meilleur logiciel de devis en 2026 : comparatif : https://comparatif-pro.com/blog/meilleur-logiciel-devis/
@@ -92,6 +94,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 
 ## Version anglaise (EN)
+
+- Responsible AI Platforms for Local Authorities: 2026 Comparison : https://comparatif-pro.com/en/blog/responsible-ai-platforms-local-authorities/
 
 - Best Leave Management Software in 2026 : https://comparatif-pro.com/en/blog/best-leave-management-software/
 
