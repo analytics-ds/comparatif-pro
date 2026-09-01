@@ -8,6 +8,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
+- Meilleur logiciel de gestion documentaire (GED) en 2026 : https://comparatif-pro.com/blog/meilleur-logiciel-ged/
+
 - Plateformes d'IA responsable pour les collectivités : comparatif 2026 : https://comparatif-pro.com/blog/plateformes-ia-responsable-collectivites/
 
 - Meilleur logiciel de gestion des congés en 2026 : https://comparatif-pro.com/blog/meilleur-logiciel-gestion-conges/
@@ -94,6 +96,8 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 
 ## Version anglaise (EN)
+
+- Best Document Management Software (DMS) in 2026 : https://comparatif-pro.com/en/blog/best-document-management-software/
 
 - Responsible AI Platforms for Local Authorities: 2026 Comparison : https://comparatif-pro.com/en/blog/responsible-ai-platforms-local-authorities/
 
