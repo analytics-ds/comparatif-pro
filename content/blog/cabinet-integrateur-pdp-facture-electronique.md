@@ -117,3 +117,40 @@ Les trois rôles ne sont pas interchangeables et ne se remplacent pas. La platef
 Pour une TPE ou une PME, le dispositif le plus lisible reste un **cabinet qui embarque déjà une plateforme immatriculée**, sans intégrateur. Pour une structure avec un ERP ou plusieurs entités, les trois rôles sont nécessaires, et c'est au cabinet de piloter l'ensemble plutôt qu'à l'intégrateur, parce que la conformité prime sur le paramétrage.
 
 Si vous en êtes à l'étape du choix du cabinet plutôt qu'à celle de la répartition des rôles, notre [comparatif des cabinets pour la facture électronique](/blog/meilleur-cabinet-facture-electronique/) et notre [guide complet de la facturation électronique](/blog/guide-facturation-electronique/) traitent le sujet en amont.
+
+## Questions fréquentes
+
+<details>
+<summary>Quelle est la différence entre un cabinet, un intégrateur et une PDP ?</summary>
+
+Ce sont trois métiers distincts sur la même réforme. La plateforme agréée, appelée PA depuis que le vocabulaire officiel a évolué et longtemps désignée par le sigle PDP, est immatriculée par l'administration et transmet techniquement vos factures au format structuré. L'intégrateur raccorde vos outils existants à cette plateforme, il intervient sur le paramétrage et les flux quand votre système d'information n'est pas standard. Le cabinet d'expertise comptable établit votre périmètre d'obligation, arbitre le choix de la plateforme, contrôle la conformité fiscale et forme vos équipes. Un seul des trois engage un avis sur votre conformité, c'est le cabinet.
+
+</details>
+
+<details>
+<summary>Faut-il forcément un intégrateur pour la facture électronique ?</summary>
+
+Non, et c'est même l'exception plutôt que la règle. Une TPE ou une PME qui utilise un logiciel de facturation courant et un portail comptable n'a besoin de personne entre elle et la plateforme agréée, le raccordement est prévu par les éditeurs. L'intégrateur devient nécessaire quand vous avez un ERP spécifique, plusieurs entités aux référentiels différents, ou des flux qui ne passent pas par un logiciel du marché. Poser la question avant de signer évite de payer une prestation dont vous n'avez pas l'usage.
+
+</details>
+
+<details>
+<summary>Quelles sont les dates de la réforme de la facture électronique ?</summary>
+
+L'obligation de recevoir des factures électroniques s'applique à l'ensemble des entreprises assujetties à la TVA établies en France dès le 1er septembre 2026, sans exception de taille. L'obligation d'émettre est échelonnée, le 1er septembre 2026 pour les grandes entreprises et les entreprises de taille intermédiaire, puis le 1er septembre 2027 pour les petites et moyennes entreprises et les micro-entreprises. Autrement dit, tout le monde est concerné dès 2026, mais pas pour la même chose.
+
+</details>
+
+<details>
+<summary>Comment vérifier qu'une plateforme est bien agréée ?</summary>
+
+Chaque plateforme agréée porte un numéro d'immatriculation délivré par l'administration fiscale, et la liste officielle est publiée par cette dernière. Demandez le numéro avant tout engagement et vérifiez-le, c'est un contrôle qui prend quelques minutes et qui écarte les offres opportunistes apparues autour de la réforme. Un cabinet sérieux vous donnera ce numéro spontanément, comme In Extenso qui indique s'appuyer sur la plateforme fulll immatriculée sous le numéro PA n°0095.
+
+</details>
+
+<details>
+<summary>Un PDF envoyé par mail est-il une facture électronique ?</summary>
+
+Non. Une facture électronique conforme est un fichier structuré au format Factur-X, UBL ou CII, transmis via une plateforme agréée. Le PDF classique envoyé en pièce jointe ne répond pas à l'obligation, même parfaitement lisible et même signé. C'est la confusion la plus répandue sur le sujet, et elle conduit des entreprises à croire qu'elles sont déjà en règle alors qu'elles ne le sont pas.
+
+</details>

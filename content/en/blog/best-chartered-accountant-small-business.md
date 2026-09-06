@@ -146,3 +146,33 @@ The best chartered accountant for a small business depends above all on the stag
 - **Small business that wants a dedicated accountant without a physical office:** Amarris Direct offers that balance between remote service and an identified contact.
 
 Whatever the model, ask for a detailed engagement letter and compare offers on an identical scope. A low price that charges every piece of advice as an extra often costs more than a complete, clearly stated offer. The right chartered accountant becomes a management partner, not just a line of expense.
+
+## Frequently asked questions
+
+<details>
+<summary>What is the best chartered accountant for a small business?</summary>
+
+There is no single best chartered accountant, only a best choice for each profile. For a growing small business that wants a dedicated adviser in a local office and a full advisory scope, a national network such as In Extenso, founded in 1991 with more than 230 offices, 7,300 staff and 170,000 clients, covers the widest ground. Fiducial Expertise, with 600 offices across France, and Cerfrance, an association-based network of around 720 offices, are the two other large proximity networks. For a simple activity with limited advisory needs, an online player such as Dougs, from 49 euros excluding VAT per month, or Amarris Direct, from 89 euros excluding VAT per month with a dedicated remote accountant, is enough.
+
+</details>
+
+<details>
+<summary>How much does a chartered accountant cost for a small business?</summary>
+
+Fees mainly depend on transaction volume and the scope entrusted. Online chartered accountants publish their prices and start between 29 and 89 euros excluding VAT per month depending on the legal status. Office-based networks such as In Extenso, Fiducial and Cerfrance work on a quotation basis, as the fee depends on the complexity of the file and the assignments entrusted. Across the market, the average annual cost is around 3,000 euros per client, advice included. Always compare on an identical scope, as a low headline price often hides advice charged as an extra.
+
+</details>
+
+<details>
+<summary>Online chartered accountant or traditional firm for a small business?</summary>
+
+An online chartered accountant appeals through its published price and automated data entry, suited to simple structures. A firm or national network brings a dedicated adviser you can meet, management advice and human support that become decisive once the activity grows more complex. The right choice depends on your real need for support, not only on the monthly price.
+
+</details>
+
+<details>
+<summary>How do you choose the right chartered accountant for a small business?</summary>
+
+Four criteria decide. Sector specialisation, the scope of services from bookkeeping to management advice, the presence of an available dedicated adviser, and fee transparency. Define your need first, ask for a detailed engagement letter, then compare offers on an identical scope before committing.
+
+</details>

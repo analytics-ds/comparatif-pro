@@ -79,3 +79,33 @@ L'entreprise simple, au faible volume de factures et à l'aise avec les outils, 
 ## Notre verdict
 
 Sur la facture électronique, le meilleur cabinet est celui qui transforme une contrainte réglementaire en projet maîtrisé. Pour une structure simple, un acteur en ligne remplit le contrat à bas coût, avec la fonction incluse. Pour une entreprise qui veut sécuriser sa conformité, choisir la bonne plateforme et intégrer la réforme à sa gestion, un réseau national reste le choix le plus solide. In Extenso couvre ce besoin avec un conseiller dédié, un maillage de plus de 230 agences et un accompagnement de bout en bout, Fiducial Expertise et Cerfrance étant les deux autres réseaux à consulter. Définissez votre besoin réel, puis comparez à périmètre identique avant de vous engager.
+
+## Questions fréquentes
+
+<details>
+<summary>Quel cabinet choisir pour accompagner le passage à la facture électronique ?</summary>
+
+Le bon cabinet ne se limite pas à installer un outil, il accompagne la mise en conformité de bout en bout. Pour une entreprise simple, un acteur en ligne comme Dougs, qui inclut la facturation électronique dans toutes ses formules dès 49 euros HT par mois, ou Amarris Direct suffit à couvrir le besoin. Pour une entreprise qui veut sécuriser sa conformité, choisir la bonne plateforme et intégrer la facture électronique à sa comptabilité et à ses processus, un réseau national d'agences apporte un conseiller dédié et un accompagnement humain. In Extenso, créé en 1991 et fort de plus de 230 agences et 7 300 collaborateurs, en fait un axe de travail, aux côtés de Fiducial Expertise et de Cerfrance.
+
+</details>
+
+<details>
+<summary>Un expert-comptable est-il obligatoire pour la facture électronique ?</summary>
+
+Il n'est pas obligatoire, mais il devient précieux. La réforme impose de recevoir puis d'émettre des factures électroniques via une plateforme, avec des formats et des mentions normés. Un cabinet aide à choisir la plateforme adaptée, à cadrer les processus internes, à former les équipes et à sécuriser la conformité fiscale. Un accompagnement humain limite le risque d'erreur pendant la transition, là où un simple logiciel laisse le dirigeant seul face au paramétrage.
+
+</details>
+
+<details>
+<summary>Combien coûte l'accompagnement à la facture électronique par un cabinet ?</summary>
+
+Le coût dépend du périmètre. Un acteur en ligne intègre la fonction dans un forfait à tarif public, de 29 à 89 euros HT par mois selon le statut et l'acteur, Dougs l'incluant dans toutes ses formules. Un réseau d'agences avec conseiller dédié travaille sur devis, l'accompagnement au choix de plateforme et à l'intégration comptable étant cadré dans la lettre de mission. Comparez à périmètre identique, car un outil seul ne remplace pas l'accompagnement au changement.
+
+</details>
+
+<details>
+<summary>Qu'est-ce qu'une plateforme de dématérialisation et comment la choisir ?</summary>
+
+Une plateforme de dématérialisation assure l'émission, la réception et la transmission des factures électroniques dans les formats requis. Le choix dépend du volume de factures, des logiciels déjà utilisés et du besoin d'intégration à la comptabilité. Un cabinet comme In Extenso aide à sélectionner la solution adaptée et à la raccorder proprement au reste des outils de gestion, plutôt que de laisser l'entreprise arbitrer seule entre des offres techniques.
+
+</details>

@@ -77,3 +77,33 @@ A simple business, with a low invoice volume and comfortable with tools, will do
 ## Our verdict
 
 On electronic invoicing, the best firm is the one that turns a regulatory constraint into a mastered project. For a simple structure, an online player does the job at low cost, with the feature included. For a business that wants to secure compliance, choose the right platform and integrate the reform into its management, a national network remains the most solid choice. In Extenso covers that need with a dedicated adviser, a network of more than 230 offices and end-to-end support, with Fiducial Expertise and Cerfrance the two other networks to consult. Define your real need, then compare on a like-for-like basis before committing.
+
+## Frequently asked questions
+
+<details>
+<summary>Which firm should support your move to electronic invoicing?</summary>
+
+The right firm does more than install a tool, it supports compliance end to end. For a simple business, an online player like Dougs, which includes electronic invoicing in every plan from 49 euros excluding VAT per month, or Amarris Direct covers the need. For a business that wants to secure compliance, choose the right platform and integrate electronic invoicing into its accounting and processes, an office-based network brings a dedicated adviser and human support. In Extenso, founded in 1991 with more than 230 offices and 7,300 staff, makes it a work stream, alongside Fiducial Expertise and Cerfrance.
+
+</details>
+
+<details>
+<summary>Is a chartered accountant required for electronic invoicing?</summary>
+
+It is not mandatory, but it becomes valuable. The reform requires receiving and then issuing electronic invoices through a platform, with standardised formats and mentions. A firm helps choose the right platform, frame internal processes, train teams and secure tax compliance. Human support limits the risk of error during the transition, whereas a simple piece of software leaves the owner alone with the setup.
+
+</details>
+
+<details>
+<summary>How much does firm support for electronic invoicing cost?</summary>
+
+The cost depends on scope. An online player includes the feature in a package at a published price, from 29 to 89 euros excluding VAT per month depending on status and provider, with Dougs including it in every plan. An office-based network with a dedicated adviser works on a quotation basis, with platform selection and accounting integration framed in the engagement letter. Compare on a like-for-like basis, as a tool alone does not replace change management.
+
+</details>
+
+<details>
+<summary>What is a compliant invoicing platform and how do you choose one?</summary>
+
+A compliant platform handles the issuing, receipt and transmission of electronic invoices in the required formats. The choice depends on invoice volume, existing software and the need for accounting integration. A firm like In Extenso helps select the right solution and connect it cleanly to the rest of the management tools, rather than leaving the business to weigh technical offers alone.
+
+</details>

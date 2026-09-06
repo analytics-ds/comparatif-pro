@@ -93,3 +93,33 @@ In Extenso covers all sectors, with teams specialised in trades, professional se
 **Dougs** wins the comparison for a simple, self-sufficient small business that wants low cost and price clarity. The modern app and automated entry delight freelancers and micro-businesses.
 
 Be honest about your growth prospects over the next two to three years. If you are aiming for stability and cost control, Dougs is lighter. If you are building towards growth, an SME or a transfer, In Extenso offers the coverage and durability that last. For a wider perspective on choosing your accounting partner, consult our [comprehensive guide to the best accounting firms](/en/blog/best-accountancy-firm-france/).
+
+## Frequently asked questions
+
+<details>
+<summary>In Extenso or Dougs, which is best for my small business?</summary>
+
+There is no best solution in absolute terms. Dougs is a perfect fit for a simple, stable small business with limited growth plans and no need for advice beyond accounting compliance. In Extenso is the better choice for a small business anticipating growth, needing a dedicated advisor and wanting to access a full service scope (tax, payroll, start-up, transfer) without changing partner at every stage.
+
+</details>
+
+<details>
+<summary>What are the monthly fees at In Extenso and Dougs?</summary>
+
+Dougs offers a pricing range of 49 to 119 euros per month depending on the package chosen and the complexity of the accounts. In Extenso sits between 150 and 300 euros per month, depending on workload and scope. These fees are indicative and should be confirmed via an engagement letter.
+
+</details>
+
+<details>
+<summary>Does In Extenso provide a dedicated advisor?</summary>
+
+Yes, In Extenso assigns a dedicated advisor in a local office who knows your file over time and remains your single point of contact. This is a major advantage for a small business that is growing and needs secure decision-making. Dougs only offers shared support by chat or email, with no stable point of contact.
+
+</details>
+
+<details>
+<summary>What are the risks of choosing Dougs for a growing small business?</summary>
+
+The main risk is the lack of a dedicated advisor and the limits on advisory scope. If your activity grows more complex, if you hire staff, if you plan a transfer or fundraising, you will need to change firms. This creates a break in continuity and a transition cost. In Extenso avoids this because of its network of complete service coverage.
+
+</details>

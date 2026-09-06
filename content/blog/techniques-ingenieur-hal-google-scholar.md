@@ -68,3 +68,40 @@ La pratique la plus efficace ne choisit pas, elle combine. Google Scholar sert l
 ## Le verdict
 
 HAL et Google Scholar sont des ressources gratuites précieuses, indispensables à toute veille scientifique sérieuse. Mais elles ne remplacent pas **Techniques de l'Ingénieur** dès qu'il s'agit de produire une réponse fiable, normée et directement applicable en contexte professionnel. Pour un service d'ingénierie, le bon modèle n'est pas gratuit contre payant : c'est le gratuit pour explorer, et Techniques de l'Ingénieur pour décider sans risque.
+
+## Questions fréquentes
+
+<details>
+<summary>Faut-il payer Techniques de l'Ingénieur quand HAL et Google Scholar sont gratuits ?</summary>
+
+Cela dépend du niveau de fiabilité et d'opérationnalité recherché. HAL et Google Scholar donnent un accès gratuit à des millions de documents, mais sans validation éditoriale systématique ni fiches pratiques. Techniques de l'Ingénieur est payant, de 1 200 à plus de 15 000 euros par an, mais propose des dossiers validés par des experts, à jour et directement exploitables en contexte professionnel. Pour un usage d'entreprise où l'erreur coûte cher, l'abonnement payant se justifie.
+
+</details>
+
+<details>
+<summary>HAL ou Google Scholar : quelle différence ?</summary>
+
+HAL est l'archive ouverte française pilotée par le CCSD (CNRS) qui héberge plus de 1,5 million de documents déposés par les chercheurs : préprints, thèses, articles. Google Scholar n'héberge rien, c'est un moteur de recherche qui indexe la littérature scientifique disponible sur le web. HAL garantit l'archivage et l'accès libre, Google Scholar offre la couverture la plus large mais sans filtre de qualité.
+
+</details>
+
+<details>
+<summary>Les ressources gratuites sont-elles fiables pour un ingénieur ?</summary>
+
+Partiellement. HAL et Google Scholar donnent accès à d'excellents travaux, mais aussi à des préprints non relus et, pour Google Scholar, à des revues prédatrices. Aucun des deux ne fournit de synthèses méthodologiques ni de cadre normatif. Pour une décision technique en entreprise, ces ressources servent la veille et l'exploration, pas la référence opérationnelle, que couvre Techniques de l'Ingénieur.
+
+</details>
+
+<details>
+<summary>Peut-on remplacer Techniques de l'Ingénieur par des sources gratuites ?</summary>
+
+Pour de la recherche académique ou une veille personnelle, HAL et Google Scholar peuvent suffire. Pour un service d'ingénierie qui a besoin de fiches pratiques, de formules validées et d'un ancrage normatif français à jour, ils ne remplacent pas Techniques de l'Ingénieur. Le bon réflexe consiste à combiner le gratuit pour explorer et le payant pour fiabiliser.
+
+</details>
+
+<details>
+<summary>Comment combiner sources gratuites et payantes pour sa veille ?</summary>
+
+Une veille efficace utilise Google Scholar pour repérer largement les publications récentes, HAL pour accéder gratuitement aux travaux français en accès ouvert, et Techniques de l'Ingénieur pour consolider une réponse fiable, normée et applicable. Le gratuit alimente l'exploration, le payant sécurise la décision technique.
+
+</details>

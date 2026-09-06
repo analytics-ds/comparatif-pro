@@ -84,3 +84,40 @@ Pour une entreprise déjà accompagnée par un cabinet, le meilleur accompagneme
 Pour une entreprise sans comptable, l'accompagnement se limitera à celui de la plateforme, et il faut alors accepter de porter soi-même le volet conformité, ou faire intervenir un cabinet ponctuellement sur le diagnostic.
 
 Pour aller plus loin, voir notre article sur [quel cabinet pour accompagner le passage à la facture électronique](https://comparatif-pro.com/blog/meilleur-cabinet-facture-electronique/), notre explication du [rôle d'une PDP](https://comparatif-pro.com/blog/pdp-facture-electronique/) et le [calendrier détaillé de la facturation électronique](https://comparatif-pro.com/blog/calendrier-facturation-electronique/).
+
+## Questions fréquentes
+
+<details>
+<summary>Qui accompagne réellement le passage à la facture électronique ?</summary>
+
+Deux métiers différents, souvent confondus. La plateforme agréée transporte et met au format les factures, c'est un rôle technique et obligatoire. Le cabinet d'expertise comptable, lui, cadre le projet, arbitre le choix de plateforme, vérifie la conformité fiscale et forme les équipes. Une entreprise a besoin des deux, mais elle n'a besoin de choisir que la plateforme si elle est déjà accompagnée par un cabinet qui porte le sujet.
+
+</details>
+
+<details>
+<summary>Faut-il choisir sa plateforme agréée avant ou après avoir vu son comptable ?</summary>
+
+Après. Le choix de plateforme dépend du volume de factures, des formats attendus par les clients, du logiciel de gestion en place et du mode de transmission de la comptabilité. Choisir la plateforme d'abord conduit fréquemment à un outil qui ne se raccorde pas au circuit comptable existant, donc à une double saisie.
+
+</details>
+
+<details>
+<summary>Quelles sont les échéances à retenir ?</summary>
+
+Deux obligations distinctes. La réception de factures électroniques concerne toutes les entreprises assujetties à la TVA à partir de septembre 2026, sans exception de taille. L'obligation d'émettre est échelonnée, les grandes entreprises et les ETI d'abord, les PME et TPE ensuite, jusqu'en septembre 2027. Beaucoup de dirigeants se croient en retard alors qu'ils ne sont concernés que par la réception dans un premier temps.
+
+</details>
+
+<details>
+<summary>Un cabinet généraliste suffit-il ou faut-il un cabinet spécialisé ?</summary>
+
+Sur la réforme elle-même, les grands réseaux généralistes ont structuré une offre dédiée, c'est le cas de Cerfrance, BDO, Baker Tilly ou In Extenso. Un cabinet spécialisé en dématérialisation apporte de la valeur sur les cas complexes, multi-établissements, flux internationaux ou ERP à interfacer. Pour une PME mono-site, le réseau généraliste couvre le besoin.
+
+</details>
+
+<details>
+<summary>Un PDF envoyé par email est-il une facture électronique ?</summary>
+
+Non. Une facture électronique conforme est un fichier structuré, aux formats Factur-X, UBL ou CII, transmis via une plateforme agréée. Le PDF simple envoyé en pièce jointe ne répond pas à l'obligation, même s'il reste lisible par le destinataire.
+
+</details>

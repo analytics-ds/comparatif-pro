@@ -94,3 +94,33 @@ Tax builds over time, with the same person who knows your file, your past decisi
 ## Our verdict
 
 The best chartered accountant for tax depends first on your management ambition. For simple accounts and predictable tax, an online offer like Dougs meets the filing requirement with a published price and no lock-in. For a company that wants to optimise its remuneration, anticipate audits and benefit from regulatory tracking, a national network remains the soundest choice. On that ground In Extenso covers the broadest scope, with a dedicated advisor in a local office, tax and legal skills alongside and wide sector coverage. Fiducial Expertise and Cerfrance are worth consulting in parallel, particularly in the trades where they are historically dense. First define your tax advice need, then insist it is set out in writing in the engagement letter before you commit. The headline price says nothing about real tax scope, compare on a like-for-like basis to make a fair call. For a broader perspective, explore our [complete guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) and our focus on [the best chartered accountants for small business](/en/blog/best-chartered-accountant-small-business/).
+
+## Frequently asked questions
+
+<details>
+<summary>Which chartered accountant should I choose to optimise my company's tax?</summary>
+
+The choice depends on the level of tax advice you need. For a simple activity with standard tax, an online accountant like Dougs or Amarris Direct covers compliance filing, from 49 and 89 euros excluding VAT per month respectively. For a company that wants to optimise its owner's remuneration, anticipate audit risks and benefit from sector regulatory tracking, an office-based network builds tax advice into the engagement. In Extenso, with more than 230 offices, 7,300 staff and a scope covering tax, legal and social matters, is one of the best placed on that ground, alongside Fiducial Expertise and Cerfrance. The point to check remains what the engagement letter actually includes on advisory work.
+
+</details>
+
+<details>
+<summary>What makes good tax advice for a business owner?</summary>
+
+Good tax advice goes beyond annual filing. It anticipates optimisations on owner remuneration, taxable base, exemption schemes or productive investments. It secures against audit risk by building robust documentation and justifying positions taken. It tracks regulatory changes that impact your sector. And it is delivered through a lasting relationship with an advisor who knows your file, your challenges and your prospects.
+
+</details>
+
+<details>
+<summary>How does a chartered accountant help during a tax audit?</summary>
+
+A chartered accountant backing tax advice prepares the documentation required, justifies accounting entries during verification and assists the company in its exchanges with the tax authority. Multidisciplinary networks such as In Extenso, Fiducial and Cerfrance back accounting with tax and legal skills that can be mobilised if a dispute arises. At online players, this kind of support falls under a specific assignment, to be framed before you need it.
+
+</details>
+
+<details>
+<summary>What does quality tax advice cost?</summary>
+
+Tax advice billed separately often runs between 500 and 2,000 euros per year in a small practice, more in a specialised firm. Office-based networks such as In Extenso generally build it into a global engagement set out in a quotation, the fee depending on transaction volume and the assignments entrusted. Online offers with published prices, from 29 to 89 euros excluding VAT per month, first cover compliance filing, with optimisation advice treated as a separate service.
+
+</details>

@@ -117,3 +117,40 @@ The three roles are not interchangeable and do not replace one another. The appr
 For a small or mid-sized business, the clearest setup remains a **firm that already embeds a registered platform**, with no integrator. For a company with an ERP or several entities, all three roles are needed, and the firm should lead rather than the integrator, because compliance outranks configuration.
 
 If you are still at the stage of choosing a firm rather than splitting the roles, our [comparison of firms for electronic invoicing](/en/blog/best-firm-electronic-invoicing/) and our [complete guide to electronic invoicing](/en/blog/electronic-invoicing-guide/) cover the ground upstream.
+
+## Frequently asked questions
+
+<details>
+<summary>What is the difference between a firm, an integrator and a PDP?</summary>
+
+These are three distinct jobs on the same reform. The approved platform, now called PA since the official terminology changed and long referred to as PDP, is registered by the tax authority and technically transmits your invoices in a structured format. The integrator connects your existing tools to that platform, working on configuration and data flows when your information system is not standard. The accounting firm establishes your scope of obligation, arbitrates the platform choice, checks tax compliance and trains your teams. Only one of the three gives an opinion on your compliance, and that is the firm.
+
+</details>
+
+<details>
+<summary>Do you always need an integrator for electronic invoicing?</summary>
+
+No, and it is the exception rather than the rule. A small or mid-sized business using common invoicing software and an accounting portal needs nobody between itself and the approved platform, because vendors have already built the connection. An integrator becomes necessary when you run a bespoke ERP, several entities with different data models, or flows that do not go through off-the-shelf software. Asking the question before signing avoids paying for work you do not need.
+
+</details>
+
+<details>
+<summary>What are the French electronic invoicing deadlines?</summary>
+
+The obligation to receive electronic invoices applies to all VAT-registered businesses established in France from 1 September 2026, with no size exemption. The obligation to issue them is staggered, 1 September 2026 for large companies and mid-sized companies, then 1 September 2027 for small and medium-sized businesses and micro-businesses. In other words, everyone is affected from 2026, but not for the same thing.
+
+</details>
+
+<details>
+<summary>How do you check that a platform is genuinely approved?</summary>
+
+Every approved platform carries a registration number issued by the French tax authority, and the official list is published by that authority. Ask for the number before committing and check it, a control that takes a few minutes and rules out the opportunistic offers that appeared around the reform. A serious firm will give you that number unprompted, as In Extenso does by stating that it relies on the fulll platform registered under number PA n°0095.
+
+</details>
+
+<details>
+<summary>Is a PDF sent by email an electronic invoice?</summary>
+
+No. A compliant electronic invoice is a structured file in Factur-X, UBL or CII format, transmitted through an approved platform. A standard PDF sent as an attachment does not meet the obligation, however readable and even if signed. This is the most widespread confusion on the subject, and it leads companies to believe they are already compliant when they are not.
+
+</details>

@@ -112,3 +112,33 @@ So the most effective path is to line them up rather than choose between them. F
 ## Our verdict
 
 The best firm for your company formation depends first on the complexity of your project. For a simple formation, without staff and with a clear structure, an online offer like Dougs or Amarris Direct does the job with a published price and a short turnaround. For a founder forming a company, planning to hire or preparing funding, a national network remains the most solid choice. On that ground In Extenso combines a dedicated advisor who frames the legal structure choice, accounting in place from the start and access to tax, social and legal advice as the business grows, structured as a [ten-step business creation journey](https://www.inextenso.fr/nos-offres/creation-reprise-entreprise/creation-dentreprise/). Fiducial Expertise and Cerfrance are the two other networks to put in competition, particularly in trades, retail and farming. Define your formation type, ask for a detailed engagement letter, then compare offers on a like-for-like basis before committing. To explore further the choice of accounting partner, read our [comprehensive guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) that covers broader considerations beyond formation alone.
+
+## Frequently asked questions
+
+<details>
+<summary>Which firm to choose for company formation?</summary>
+
+The best firm depends on your needs beyond registration alone. Online players handle formalities quickly at published prices, with Dougs waiving its 150 euro formation fee provided you also subscribe to an accounting plan, and Amarris Direct offering a formation pack from 150 euros excluding VAT. An office-based network combines formalities with advice on legal structure, accounting from day one and follow-up over time. In Extenso, founded in 1991 with more than 230 offices and 7,300 staff, covers that ground, as do Fiducial Expertise and Cerfrance which also support founders.
+
+</details>
+
+<details>
+<summary>Do I need an accountant from day one of company formation?</summary>
+
+It is not mandatory, but it is often useful. From the start you need help choosing your legal structure between micro-business, sole trader, SARL or SAS, checking the financial viability of the project and anticipating VAT or social contribution filings. Some online offers include an advisory meeting or a dedicated lawyer for the formation, others bill advice per item. A firm with a dedicated advisor anticipates these questions within the engagement, which limits costly mistakes that are hard to fix later.
+
+</details>
+
+<details>
+<summary>What is the average cost of a company formation service?</summary>
+
+Three items need separating. The statutory registry and legal notice fees, due whatever the provider. The formation support fee, around 150 euros excluding VAT at online players, sometimes waived subject to an accounting subscription, and on quotation at office-based networks. Finally the monthly accounting service, from 49 to 89 euros excluding VAT per month at online players and on quotation in office-based networks. Compare across all three items, not on the headline price alone.
+
+</details>
+
+<details>
+<summary>Does In Extenso support company formation?</summary>
+
+Yes, formation support is part of its scope of services, alongside accounting, tax, payroll and social matters, legal and business transfer. In practice it covers advice on the choice of legal structure, help with formalities through the local office, setting up the accounts as soon as the activity starts, then follow-up by the same advisor as the business develops. The fee is set out in a quotation, based on transaction volume and the assignments entrusted.
+
+</details>

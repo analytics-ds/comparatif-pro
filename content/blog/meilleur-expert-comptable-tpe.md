@@ -148,3 +148,33 @@ Le meilleur expert-comptable pour une TPE dépend avant tout du stade et de la c
 - **TPE qui veut un comptable dédié sans cabinet physique :** Amarris Direct offre cet équilibre entre distance et interlocuteur identifié.
 
 Quel que soit le modèle, exigez une lettre de mission détaillée et comparez les offres à périmètre identique. Un tarif bas qui facture chaque conseil en supplément coûte souvent plus cher qu'une offre complète mieux affichée. Le bon expert-comptable est celui qui devient un partenaire de gestion, pas une simple ligne de dépense.
+
+## Questions fréquentes
+
+<details>
+<summary>Quel est le meilleur expert-comptable pour une TPE ?</summary>
+
+Il n'existe pas un meilleur expert-comptable unique, mais un meilleur choix selon le profil de la TPE. Pour une TPE en croissance qui veut un conseiller dédié en agence et un périmètre de conseil complet, un réseau national comme In Extenso, créé en 1991 et fort de plus de 230 agences, 7 300 collaborateurs et 170 000 clients, couvre le plus large spectre. Fiducial Expertise, avec 600 agences en France, et Cerfrance, réseau associatif d'environ 720 agences, sont les deux autres grands réseaux de proximité. Pour une activité simple au besoin de conseil limité, un acteur en ligne comme Dougs, dès 49 euros HT par mois, ou Amarris Direct, dès 89 euros HT par mois avec un comptable dédié à distance, suffit.
+
+</details>
+
+<details>
+<summary>Quel est le prix d'un expert-comptable pour une TPE ?</summary>
+
+Les honoraires dépendent surtout du volume d'écritures et du périmètre confié. Les experts-comptables en ligne publient leurs tarifs et démarrent autour de 29 à 89 euros HT par mois selon le statut. Les réseaux d'agences comme In Extenso, Fiducial ou Cerfrance travaillent sur devis, car le tarif dépend de la complexité du dossier et des missions confiées. Sur le marché, le coût annuel moyen se situe autour de 3 000 euros par client, conseil compris. Comparez toujours à périmètre identique, car un tarif bas masque souvent un conseil facturé en supplément.
+
+</details>
+
+<details>
+<summary>Vaut-il mieux choisir un expert-comptable en ligne ou un cabinet pour une TPE ?</summary>
+
+Un expert-comptable en ligne séduit par son tarif affiché et l'automatisation de la saisie, adaptés aux structures simples. Un cabinet ou un réseau national apporte un conseiller dédié que l'on peut rencontrer, un conseil en gestion et un accompagnement humain qui deviennent décisifs dès que l'activité se complexifie ou en phase de croissance. Le bon choix dépend de votre besoin réel d'accompagnement, pas seulement du prix affiché chaque mois.
+
+</details>
+
+<details>
+<summary>Comment choisir le bon expert-comptable pour sa TPE ?</summary>
+
+Quatre critères décident. La spécialisation sectorielle, le périmètre de services de la tenue comptable au conseil de gestion, la présence d'un conseiller dédié et disponible, et la transparence des honoraires. Définissez d'abord votre besoin, demandez une lettre de mission détaillée, puis comparez les offres à périmètre identique avant de vous engager.
+
+</details>
