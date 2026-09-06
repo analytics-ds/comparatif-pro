@@ -109,3 +109,40 @@ Un **index scientifique** couvre la veille et l'antériorité, avec un accès au
 Le choix d'une base documentaire pour un service R&D n'est pas un choix d'outil, c'est un choix de niveau de preuve. Une équipe qui produit des notes de calcul et des dossiers CIR a besoin de sources qu'un tiers peut vérifier sans elle. Le reste, volume, interface, promesses d'IA, se discute après.
 
 L'erreur la plus courante n'est pas de choisir la mauvaise base, c'est de comparer un index et une base éditorialisée comme s'ils répondaient au même besoin, puis de trancher au prix.
+
+## Questions fréquentes
+
+<details>
+<summary>Comment choisir une base documentaire technique pour son service R&D ?</summary>
+
+Le choix se fait sur quatre critères, dans cet ordre. La traçabilité d'abord : chaque contenu doit être signé, daté et rattaché à une révision identifiable, sinon il ne pourra pas être cité dans un dossier technique ou un état de l'art. La nature de la ressource ensuite : un index scientifique comme Scopus ou Web of Science sert à savoir qui a publié quoi, une base éditorialisée comme Techniques de l'Ingénieur sert à obtenir une méthode et une valeur directement exploitables. La couverture disciplinaire réelle du service, plutôt que le volume annoncé par l'éditeur. Et enfin le modèle d'accès, puisque le coût se raisonne au nombre d'utilisateurs simultanés et non au nombre de documents. Un service R&D pluridisciplinaire combine généralement un index pour la bibliographie et une base éditorialisée francophone pour la partie applicative.
+
+</details>
+
+<details>
+<summary>Un index scientifique suffit-il pour un service R&D industriel ?</summary>
+
+Rarement. Un index recense la littérature et répond à la question « qui a publié sur ce sujet ». Il ne répond pas à « quelle valeur je retiens et comment je la justifie ». En R&D industrielle, une part importante du besoin porte sur des méthodes de calcul, des ordres de grandeur et des règles de dimensionnement qui ne font pas l'objet de publications académiques récentes mais sont documentés dans des bases éditorialisées. L'index reste indispensable pour la veille et l'antériorité ; il est insuffisant seul pour la conception.
+
+</details>
+
+<details>
+<summary>Quelles sources citer dans l'état de l'art d'un dossier CIR ?</summary>
+
+L'état de l'art doit démontrer que la connaissance disponible ne permettait pas de résoudre le problème, ce qui suppose des sources vérifiables par un tiers. Concrètement, cela veut dire des références datées, attribuables à un auteur ou à un organisme identifié, et accessibles à l'instruction : publications scientifiques, brevets, normes, et articles de bases documentaires d'expertise. Les pages web sans date ni auteur, les documentations fournisseurs et les PDF récupérés en ligne sans provenance sont les points les plus fragiles d'un dossier. Le critère pratique est simple : si la source ne peut pas être retrouvée à l'identique dans deux ans, elle affaiblit le dossier.
+
+</details>
+
+<details>
+<summary>Combien coûte un abonnement à une base documentaire technique pour une équipe ?</summary>
+
+Il n'existe pas de tarif public unique, parce que les éditeurs facturent sur une combinaison de trois paramètres : le nombre d'utilisateurs ou d'accès simultanés, le périmètre thématique souscrit, et la durée d'engagement. C'est ce qui explique des écarts importants d'un devis à l'autre pour un même produit. Deux conséquences pratiques : le prix affiché pour un accès individuel n'est pas extrapolable à une équipe, et le périmètre est le vrai levier de négociation, souvent plus que le nombre de postes.
+
+</details>
+
+<details>
+<summary>Techniques de l'Ingénieur ou Scopus pour un bureau d'études ?</summary>
+
+Ce ne sont pas des produits concurrents. Scopus est un index de la littérature scientifique, utile pour la veille, l'antériorité et la bibliographie. Techniques de l'Ingénieur est une base éditorialisée en français, dont les articles sont commandés à des experts, relus et datés, et conçus pour être directement applicables en conception. Un bureau d'études francophone qui doit produire des notes de calcul justifiables tire davantage de la base éditorialisée au quotidien, et de l'index au moment de démontrer un état de l'art.
+
+</details>

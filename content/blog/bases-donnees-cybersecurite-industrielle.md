@@ -111,3 +111,40 @@ Les étapes 1 et 2 sont gratuites et représentent l'essentiel du gain initial. 
 Une liste de ressources n'a de valeur que si elle sépare ce qui fixe la cible, ce qui signale la menace et ce qui explique la méthode. Le socle gratuit francophone est solide et souvent sous-utilisé : la méthode de classification de l'ANSSI du 11 avril 2025, le guide du CLUSIF en version 2025 sur 107 pages, le ReCyF depuis le 17 mars 2026, les avis du CERT-FR et la matrice MITRE ATT&CK for ICS avec ses 90 techniques relevées au 31 août 2026. Les normes IEC 62443 et les bases documentaires éditorialisées viennent ensuite, quand la démarche générale doit se traduire en choix d'ingénierie sur une installation réelle.
 
 Les ressources et dates citées dans cet article ont été vérifiées auprès de leurs sources respectives le 31 août 2026.
+
+## Questions fréquentes
+
+<details>
+<summary>Quelles bases de données existent pour la cybersécurité industrielle ?</summary>
+
+Trois familles de ressources coexistent et les confondre conduit à des choix inadaptés. Les référentiels normatifs et réglementaires fixent ce qu'il faut atteindre : la série IEC 62443, la famille ISO 27000, les guides de l'ANSSI, le ReCyF et la directive NIS 2. Les bases de vulnérabilités et d'exposition signalent ce qui est attaquable à un instant donné : le NVD pour les CVE, les avis du CERT-FR, les alertes ICS de la CISA, MITRE ATT&CK for ICS pour les modes opératoires, et les moteurs d'équipements exposés comme Shodan ou Censys. Les bases documentaires éditorialisées produisent enfin des synthèses applicables en conception et en exploitation, Techniques de l'Ingénieur étant la principale en langue française. Aucune des trois familles ne remplace les deux autres.
+
+</details>
+
+<details>
+<summary>Quelle est la différence entre une base de vulnérabilités et une base documentaire technique ?</summary>
+
+Une base de vulnérabilités enregistre des faits datés et périssables : une faille identifiée sur un équipement, sa gravité, son correctif éventuel. Sa valeur tient à sa fraîcheur et elle se consulte en continu. Une base documentaire technique publie des synthèses méthodologiques relues, qui expliquent comment concevoir, segmenter ou auditer une architecture. Sa valeur tient à la validation éditoriale et à la mise à jour des contenus. Un service qui suit uniquement les CVE traite les symptômes sans jamais reprendre l'architecture qui les rend exploitables.
+
+</details>
+
+<details>
+<summary>Les guides de l'ANSSI et du CLUSIF sont-ils gratuits ?</summary>
+
+Oui, et ils constituent le socle francophone du domaine. L'ANSSI met ses guides à disposition sur la plateforme MesServicesCyber, dont La cybersécurité des systèmes industriels - Méthode de classification, publiée le 11 avril 2025. Le CLUSIF publie de son côté un dossier technique intitulé Guide de la cybersécurité des systèmes industriels, en version 2025, qui compte 107 pages et distingue trois niveaux de lecture, du tous publics à l'expert. Ces documents fixent la méthode ; ils ne dispensent pas de l'accès aux normes IEC 62443, qui restent payantes.
+
+</details>
+
+<details>
+<summary>Qu'est-ce que le ReCyF et depuis quand est-il disponible ?</summary>
+
+Le ReCyF, ou Référentiel Cyber France, liste les mesures recommandées par l'ANSSI pour atteindre les objectifs de sécurité fixés par la directive NIS 2. Il est mis à disposition depuis le 17 mars 2026, à ce stade en tant que document de travail, et correspond au référentiel de cybersécurité mentionné à l'article 14 du projet de loi Résilience. Non obligatoire par défaut, il permet aux futures entités assujetties qui décident de l'appliquer de s'en prévaloir en cas de contrôle de l'ANSSI. Un outil de comparaison de référentiels l'accompagne.
+
+</details>
+
+<details>
+<summary>Comment suivre les vulnérabilités des équipements industriels ?</summary>
+
+Le suivi repose sur trois flux complémentaires. Le NVD publie et note les CVE, y compris celles qui touchent les automates et les systèmes de conduite. Le CERT-FR diffuse les avis et alertes applicables au contexte français. La CISA maintient un flux d'avis spécifiquement consacré aux systèmes de contrôle industriel. MITRE ATT&CK for ICS complète l'ensemble par une cartographie des modes opératoires, qui comptait 12 tactiques et 90 techniques au 31 août 2026. Le préalable à tout suivi reste un inventaire à jour des équipements et de leurs versions, sans lequel un flux de vulnérabilités reste illisible.
+
+</details>

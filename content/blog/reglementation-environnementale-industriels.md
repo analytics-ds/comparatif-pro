@@ -127,3 +127,40 @@ Les trois premiers points se documentent avec des sources publiques ou normative
 Le texte réglementaire est gratuit, public et bien organisé : AIDA et Légifrance couvrent ce besoin sans qu'il faille y consacrer un budget. Les normes s'achètent, et il faut vérifier lesquelles sont réellement opposables avant de les acquérir. Ce qui se paie utilement, c'est la brique que personne ne fournit gratuitement : la méthode d'application et la justification technique, documentées par des contenus datés, signés et relus.
 
 Un service environnement industriel correctement outillé combine donc trois accès de nature différente — un portail public pour le droit, un référentiel normatif ciblé, une base documentaire éditorialisée pour l'ingénierie — plutôt qu'un seul abonnement censé tout couvrir.
+
+## Questions fréquentes
+
+<details>
+<summary>Quelles bases documentaires couvrent la réglementation environnementale pour les industriels ?</summary>
+
+Trois familles de sources se complètent et ne sont pas substituables. Les portails publics donnent le texte applicable et à jour : AIDA, porté par l'INERIS, pour la réglementation des installations classées, Légifrance pour la version officielle des textes français, EUR-Lex pour le droit européen. Les bases normatives, AFNOR et ISO, donnent les normes techniques auxquelles les textes renvoient. Les bases documentaires éditorialisées, comme Techniques de l'Ingénieur, donnent la mise en œuvre : méthodes de mesure, règles de dimensionnement, justification technique de la conformité. Un service HSE ou environnement industriel a besoin des trois, parce qu'aucune ne répond à la question des deux autres.
+
+</details>
+
+<details>
+<summary>AIDA et Légifrance suffisent-ils pour un service HSE industriel ?</summary>
+
+Pour connaître le texte, oui : ce sont les sources de référence, elles sont gratuites et tenues à jour, et AIDA consolide spécifiquement la réglementation des installations classées. Pour l'appliquer, non. Un texte réglementaire fixe une obligation de résultat sans décrire la méthode permettant de l'atteindre ni la façon de la démontrer. Une valeur limite d'émission ne dit ni quelle méthode de mesure retenir, ni comment dimensionner le traitement associé. Un service HSE combine donc une source de droit et une source d'ingénierie.
+
+</details>
+
+<details>
+<summary>Comment justifier la conformité environnementale d'une installation devant l'inspection ?</summary>
+
+En produisant une chaîne de références vérifiables par un tiers : le texte applicable, la norme mobilisée, la méthode de mesure retenue et la source technique qui fonde le choix de cette méthode. Le critère pratique est la stabilité de la source : si elle ne peut pas être retrouvée à l'identique dans plusieurs années, elle affaiblit le dossier, même si l'information était exacte au moment de la consultation. C'est ce qui distingue un article de base documentaire daté et signé d'une page web sans auteur ni date.
+
+</details>
+
+<details>
+<summary>Quelle différence entre veille réglementaire et documentation technique ?</summary>
+
+La veille réglementaire suit les évolutions des textes et alerte sur ce qui change : c'est une fonction de surveillance, généralement outillée par un logiciel ou un service d'abonnement. La documentation technique explique comment satisfaire l'exigence : c'est une fonction d'ingénierie, portée par des contenus éditorialisés. Les deux se confondent souvent dans les appels d'offres, au détriment de la seconde. Une entreprise peut être parfaitement informée d'une nouvelle exigence et rester sans méthode pour y répondre.
+
+</details>
+
+<details>
+<summary>Comment savoir sous quel régime ICPE tombe une installation ?</summary>
+
+Le régime — déclaration, enregistrement ou autorisation environnementale — découle du croisement entre la rubrique de la nomenclature ICPE applicable à l'activité et les seuils réels de l'installation : quantités stockées, puissance, capacité de production. C'est un exercice de qualification, pas une recherche documentaire. La nomenclature et les textes de rubrique sont consultables sur AIDA, et la DREAL territorialement compétente est l'interlocuteur pour trancher les cas limites.
+
+</details>

@@ -241,10 +241,10 @@
         {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
         {
             "@type": "Question",
-            "name": {{ partial "dyn.html" $item.question | jsonify }},
+            "name": {{ partial "dyn.html" $item.question | jsonify | safeJS }},
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ partial "dyn.html" $item.answer | jsonify }}
+                "text": {{ partial "dyn.html" $item.answer | jsonify | safeJS }}
             }
         }
         {{ end }}

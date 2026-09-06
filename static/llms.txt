@@ -171,6 +171,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Affordable professional tools: buyer's guide 2026: https://comparatif-pro.com/en/blog/affordable-professional-tools/
 - Best support for electronic invoicing: firm or platform? : https://comparatif-pro.com/en/blog/best-support-electronic-invoicing/
 - Documentation Sources for Industrial Regulatory Compliance: The Landscape : https://comparatif-pro.com/en/blog/industrial-regulatory-compliance-databases/
+- Industrial Cybersecurity Databases and Frameworks: The Current Landscape : https://comparatif-pro.com/en/blog/industrial-cybersecurity-databases/
 
 ## Informations techniques
 

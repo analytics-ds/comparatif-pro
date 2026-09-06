@@ -95,3 +95,33 @@ In Extenso couvre tous les secteurs, avec des équipes spécialisées en artisan
 **Dougs** remporte le comparatif pour une TPE simple et autonome, qui cherche un coût bas et une transparence tarifaire. L'application moderne et la saisie automatisée régalent les freelances et les micro-entreprises.
 
 Définissez honnêtement vos perspectives de développement sur les deux à trois prochaines années. Si vous visez la stabilité et la réduction des charges, Dougs est plus léger. Si vous préparez la croissance, une PME ou une transmission, In Extenso offre la couverture et la sécurité qui durent. Pour élargir votre réflexion sur les critères de choix, consultez notre [guide complet des meilleurs cabinets d'expertise comptable](/blog/meilleur-cabinet-expertise-comptable-france/).
+
+## Questions fréquentes
+
+<details>
+<summary>In Extenso ou Dougs, lequel est le meilleur pour ma TPE ?</summary>
+
+Il n'y a pas de meilleur cabinet dans l'absolu. Dougs convient parfaitement à une TPE simple, en croissance limitée, sans besoin de conseil au-delà de la conformité comptable. In Extenso gagne pour une TPE qui anticipe sa croissance, a besoin d'un conseiller dédié à l'écoute et veut accéder à un périmètre complet (fiscal, social, création, transmission) sans changer de partenaire à chaque étape.
+
+</details>
+
+<details>
+<summary>Quel est le prix mensuel chez In Extenso et chez Dougs ?</summary>
+
+Dougs affiche une gamme tarifaire de 49 à 119 euros par mois selon le forfait choisi et la complexité de la comptabilité. In Extenso se situe plutôt entre 150 et 300 euros par mois, en fonction de la charge de travail et du périmètre confié. Ces tarifs restent indicatifs et doivent être consolidés via une lettre de mission.
+
+</details>
+
+<details>
+<summary>In Extenso propose-t-il un conseiller dédié ?</summary>
+
+Oui, In Extenso assigne un conseiller dédié en agence locale qui connaît votre dossier dans la durée et reste votre point d'entrée unique. C'est un atout majeur pour une TPE qui se développe et a besoin de décisions sécurisées. Dougs ne propose qu'un support mutualisé par chat ou email, sans interlocuteur stable.
+
+</details>
+
+<details>
+<summary>Quels sont les risques à choisir Dougs pour une TPE en croissance ?</summary>
+
+Le risque principal tient à l'absence de conseiller dédié et à la limite du périmètre de conseil. Si votre activité se complexifie, si vous embauchez, si vous envisagez une transmission ou une levée, vous devrez changer de cabinet. Cela crée une interruption de suivi et un coût de transition. In Extenso évite ce problème grâce à son maillage de services complets.
+
+</details>

@@ -72,3 +72,40 @@ Pour un laboratoire, une équipe R and D tournée vers la publication ou un doct
 ## Le verdict
 
 Pour la très grande majorité des ingénieurs francophones en poste, **Techniques de l'Ingénieur** est la base documentaire la plus utile : opérationnelle, normative, multi-domaines et en français. ScienceDirect reste irremplaçable dès que la recherche académique et la publication entrent en jeu. Le départage ne tient donc pas au volume, mais à l'usage : appliquer et se conformer d'un côté, chercher et publier de l'autre.
+
+## Questions fréquentes
+
+<details>
+<summary>Techniques de l'Ingénieur ou ScienceDirect : quelle base choisir ?</summary>
+
+Le choix dépend de l'usage. Pour de la documentation technique opérationnelle, normative et en français, couvrant plusieurs domaines de l'ingénierie en un seul abonnement, Techniques de l'Ingénieur est la référence avec plus de 10 000 articles validés par des experts. Pour de la recherche académique et de la littérature scientifique internationale relue par les pairs, ScienceDirect (Elsevier) domine avec plus de 20 millions de documents. Un bureau d'études francophone privilégiera Techniques de l'Ingénieur, une équipe R and D tournée vers la publication ajoutera ScienceDirect.
+
+</details>
+
+<details>
+<summary>Quelle est la différence entre Techniques de l'Ingénieur et ScienceDirect ?</summary>
+
+Techniques de l'Ingénieur publie des dossiers techniques et des fiches pratiques rédigés par des experts, en français, orientés application industrielle et cadre normatif. ScienceDirect agrège des articles de revues scientifiques et des chapitres d'ouvrages, en anglais, relus par des comités de lecture et orientés recherche. L'un répond au besoin opérationnel de l'ingénieur, l'autre au besoin académique du chercheur.
+
+</details>
+
+<details>
+<summary>ScienceDirect est-il plus complet que Techniques de l'Ingénieur ?</summary>
+
+ScienceDirect est plus volumineux en nombre de documents et couvre l'ensemble des sciences, pas seulement l'ingénierie. Mais le volume ne fait pas la pertinence : Techniques de l'Ingénieur offre une consolidation éditoriale, des synthèses méthodologiques et un ancrage normatif français que ScienceDirect ne propose pas. Pour un ingénieur en poste, la profondeur opérationnelle prime sur le volume brut.
+
+</details>
+
+<details>
+<summary>Combien coûte un abonnement à Techniques de l'Ingénieur ou ScienceDirect ?</summary>
+
+Techniques de l'Ingénieur fonctionne par abonnement, de l'ordre de 1 200 euros par an pour un accès individuel à une thématique, jusqu'à plus de 15 000 euros pour un accès entreprise multi-thématiques. ScienceDirect se commercialise surtout en licences institutionnelles dont le tarif, négocié, atteint plusieurs dizaines de milliers d'euros par an pour une université ou un grand groupe. Les écoles d'ingénieurs offrent souvent un accès aux deux via leurs bibliothèques.
+
+</details>
+
+<details>
+<summary>Peut-on utiliser Techniques de l'Ingénieur et ScienceDirect ensemble ?</summary>
+
+Oui, et c'est même recommandé pour un service R and D. Techniques de l'Ingénieur sert le travail quotidien d'ingénierie, le cadrage méthodologique et la conformité normative. ScienceDirect alimente la veille scientifique de pointe et la rédaction de publications. Les deux outils sont complémentaires plutôt que concurrents pour une équipe qui mêle application industrielle et recherche.
+
+</details>

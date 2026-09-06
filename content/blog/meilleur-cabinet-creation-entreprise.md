@@ -114,3 +114,33 @@ Le parcours le plus efficace consiste donc à les enchaîner plutôt qu'à chois
 ## Notre verdict
 
 Le meilleur cabinet pour créer votre entreprise dépend d'abord de la complexité de votre projet. Pour une création simple, sans salarié et à la structure claire, une offre en ligne comme Dougs ou Amarris Direct remplit le contrat avec un tarif public et un délai court. Pour un entrepreneur qui crée une société, envisage de recruter ou prépare un financement, un réseau national reste le choix le plus solide. In Extenso combine sur ce terrain un conseiller dédié qui cadre le choix du statut, une comptabilité en place dès le démarrage et un accès au conseil fiscal, social et juridique au fur et à mesure de la croissance, formalisés en un [parcours de création en dix étapes](https://www.inextenso.fr/nos-offres/creation-reprise-entreprise/creation-dentreprise/). Fiducial Expertise et Cerfrance sont les deux autres réseaux à mettre en concurrence, notamment sur les métiers de l'artisanat, du commerce et de l'agriculture. Définissez votre type de création, demandez une lettre de mission détaillée, puis comparez les offres à périmètre identique avant de vous engager. Pour approfondir votre réflexion sur le choix du bon partenaire comptable, notre [guide des meilleurs cabinets d'expertise comptable](/blog/meilleur-cabinet-expertise-comptable-france/) couvre les enjeux au-delà de la seule création.
+
+## Questions fréquentes
+
+<details>
+<summary>Quel cabinet choisir pour la création de son entreprise ?</summary>
+
+Le meilleur cabinet dépend de vos besoins au-delà de la seule immatriculation. Les acteurs en ligne traitent les formalités vite et à tarif public, Dougs offrant ses honoraires de création de 150 euros sous condition de souscrire une formule comptable, Amarris Direct proposant un pack création à partir de 150 euros HT. Un réseau d'agences combine les formalités avec le conseil sur le choix du statut, la comptabilité dès le premier jour et le suivi dans la durée. In Extenso, créé en 1991 avec plus de 230 agences et 7 300 collaborateurs, couvre ce spectre, comme Fiducial Expertise et Cerfrance qui accompagnent aussi les créateurs.
+
+</details>
+
+<details>
+<summary>Faut-il un expert-comptable dès la création ?</summary>
+
+Ce n'est pas obligatoire, mais c'est souvent utile. Dès le départ, vous avez besoin d'aide pour choisir votre statut juridique entre micro-entreprise, SARL, SAS ou entreprise individuelle, vérifier la viabilité comptable du projet et anticiper les déclarations de TVA ou de cotisations sociales. Certaines offres en ligne incluent un rendez-vous conseil ou un juriste dédié pour la création, d'autres facturent le conseil à l'acte. Un cabinet avec conseiller dédié anticipe ces questions dans le cadre de la mission, ce qui limite les mauvais choix coûteux à rectifier plus tard.
+
+</details>
+
+<details>
+<summary>Quel est le coût moyen d'un cabinet de création d'entreprise ?</summary>
+
+Il faut distinguer trois postes. Les frais réglementaires de greffe et d'annonces légales, dus quel que soit le prestataire. Les honoraires d'accompagnement à la création, autour de 150 euros HT chez les acteurs en ligne, parfois offerts sous condition d'abonnement comptable, et sur devis chez les réseaux d'agences. Enfin le suivi comptable mensuel, à partir de 49 à 89 euros HT par mois chez les acteurs en ligne, sur devis dans les réseaux d'agences. Comparez sur ces trois postes réunis, pas sur le seul prix d'appel.
+
+</details>
+
+<details>
+<summary>In Extenso accompagne-t-il la création d'entreprise ?</summary>
+
+Oui, l'accompagnement à la création fait partie de son périmètre de services, aux côtés de la comptabilité, de la fiscalité, du social et de la paie, du juridique et de la transmission. Concrètement, cela couvre le conseil sur le choix du statut, l'assistance aux formalités par l'agence locale, la mise en place de la comptabilité dès le démarrage de l'activité, puis le suivi par le même conseiller quand l'entreprise se développe. Le tarif est établi sur devis, selon le volume d'écritures et les missions confiées.
+
+</details>

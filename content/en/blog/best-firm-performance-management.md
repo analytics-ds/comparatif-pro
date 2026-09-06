@@ -108,3 +108,33 @@ The best firm for performance management depends on the complexity of the busine
 In Extenso covers that need with performance management connected to its other areas of expertise, tax, social, legal and business transfer, and a dedicated advisor who follows the company over time. Fiducial Expertise, with its forecasts, dashboards and interim accounts, and Cerfrance, with its historic management advice, deserve to be put in competition on the same brief.
 
 Define the type of performance management you need, ask for concrete examples of dashboards and meeting reports, then commit to the firm that can truly back you in decision-making. To broaden your evaluation of accounting partners, read our [guide to the best accounting firms](/en/blog/best-accountancy-firm-france/) and our analysis of [the best chartered accountants for small business](/en/blog/best-chartered-accountant-small-business/) for additional perspectives.
+
+## Frequently asked questions
+
+<details>
+<summary>Which firm offers the best performance management?</summary>
+
+It depends on the level of advice expected. Online players like Dougs or Amarris Direct provide reliable accounting and indicators available in their app, with remote support. Office-based networks build management advice into the engagement, with a dedicated advisor who helps the owner interpret indicators and decide. In Extenso covers that need within a scope running from performance steering to tax and business transfer, Cerfrance is historically strong on management advice, and Fiducial Expertise offers budget forecasts, dashboards and interim accounts.
+
+</details>
+
+<details>
+<summary>What is performance management in business?</summary>
+
+It is the ability to track key business indicators regularly, margin, cash flow, inventory turnover, debt ratio and break-even point, and adjust operational and strategic decisions based on this data. Without management, you steer the business by the rear-view mirror, with results known several months after the fact.
+
+</details>
+
+<details>
+<summary>Can an online firm handle performance management?</summary>
+
+Yes on the data side, through indicators linked to accounting and updated automatically. The question to ask is about interpretation. Check who discusses those figures with you, how often, and whether that exchange is included in the package or billed separately. At Amarris Direct a dedicated accountant is reachable by phone. At Dougs, support is provided by a team of online accountants.
+
+</details>
+
+<details>
+<summary>What is the cost of performance management?</summary>
+
+At online players, indicators are generally included in the subscription, from 29 to 109 euros excluding VAT per month depending on status and plan, with in-depth management advice as a separate service. Office-based networks such as In Extenso, Fiducial and Cerfrance build performance management into a global engagement set out in a quotation, with a dedicated advisor who helps with interpretation and decision-making. In both cases, ask for a concrete dashboard example before signing.
+
+</details>

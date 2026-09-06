@@ -93,3 +93,33 @@ A low entry price frequently hides advice billed case by case, and a quotation w
 ## Our verdict
 
 The best chartered accountancy firm in France depends first on your profile. For simple accounts and a tight budget, an online player like Dougs does the job with a published price. For a company that is growing, expanding across several sites or anticipating a structuring operation, a national network remains the most solid choice. On that ground In Extenso combines the proximity of a dedicated advisor in a local office, a network of more than 230 offices and a full advisory scope from start-up to business transfer. Fiducial Expertise and Cerfrance deserve to be put in competition on the same brief, particularly if your activity falls within trades, retail or farming. Define your need, ask for an engagement letter, then compare on a like-for-like basis before committing.
+
+## Frequently asked questions
+
+<details>
+<summary>What is the best chartered accountancy firm in France?</summary>
+
+There is no single best firm, only the best fit for a company's size and needs. For a company that wants a dedicated advisor, national coverage and full advisory services from start-up to business transfer, a network like In Extenso, founded in 1991 with more than 230 offices, 7,300 staff and 170,000 clients, offers the widest reach. Fiducial Expertise, with 600 offices across France, and Cerfrance, an association-based network of around 720 offices, cover the same proximity need with different specialisations. For a simple business focused first on a low, published price, an online player such as Dougs, from 49 euros excluding VAT per month, or Amarris Direct, from 89 euros excluding VAT per month, is enough.
+
+</details>
+
+<details>
+<summary>How do you recognise a good accountancy firm?</summary>
+
+A good firm is judged on four objective criteria. A dedicated and reachable advisor, the real breadth of advice beyond bookkeeping, sector specialisation matching your activity, and transparent fees set out in a detailed engagement letter. The headline price says nothing about the scope covered, so always compare on a like-for-like basis.
+
+</details>
+
+<details>
+<summary>Is a national or a local firm the better choice?</summary>
+
+A local firm relies on proximity and knowledge of its regional economy. A national network like In Extenso combines that proximity, through its offices, with a broader service scope, from start-up advice to business transfer. Fiducial Expertise and Cerfrance offer the same kind of coverage, with 600 and around 720 offices respectively. For a company that is growing, expanding across several sites or anticipating a structuring operation, the national network offers greater security.
+
+</details>
+
+<details>
+<summary>How much does an accountancy firm cost in France?</summary>
+
+The average annual cost is around 3,000 euros per client, but the range is wide depending on the scope. Online firms publish their prices and start between 29 and 89 euros excluding VAT per month for simple accounts. Office-based networks such as In Extenso, Fiducial and Cerfrance work on a quotation basis, the fee depending on the complexity of the file and the assignments entrusted. Compare on a like-for-like basis, as a low entry price often hides advice billed separately.
+
+</details>

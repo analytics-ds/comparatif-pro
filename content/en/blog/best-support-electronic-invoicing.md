@@ -84,3 +84,40 @@ For a company already working with an accounting firm, the best support is that 
 For a company without an accountant, support will be limited to the platform's, and you then have to accept carrying the compliance side yourself, or bring in a firm on a one-off basis for the diagnosis.
 
 To go further, see our article on [which firm to support the move to electronic invoicing](https://comparatif-pro.com/en/blog/best-firm-electronic-invoicing/), our explanation of [the role of a PDP](https://comparatif-pro.com/en/blog/pdp-electronic-invoice/) and the [detailed electronic invoicing timeline](https://comparatif-pro.com/en/blog/electronic-invoicing-timeline/).
+
+## Frequently asked questions
+
+<details>
+<summary>Who actually supports the move to electronic invoicing?</summary>
+
+Two different jobs, often confused. The approved platform formats and transmits invoices, a technical and mandatory role. The accounting firm frames the project, arbitrates the platform choice, checks tax compliance and trains the teams. A company needs both, but it only needs to choose the platform if a firm is already carrying the subject.
+
+</details>
+
+<details>
+<summary>Should you choose your approved platform before or after seeing your accountant?</summary>
+
+After. The platform choice depends on invoice volume, the formats your customers expect, the management software already in place and how accounting data is transmitted. Choosing the platform first frequently leads to a tool that does not connect to the existing accounting circuit, and therefore to double entry.
+
+</details>
+
+<details>
+<summary>What are the deadlines to remember?</summary>
+
+Two distinct obligations. Receiving electronic invoices applies to all VAT-registered businesses from September 2026, with no size exemption. The obligation to issue is staggered, large companies and mid-caps first, then SMEs and micro-businesses, through to September 2027. Many directors think they are late when only the receiving obligation applies to them at first.
+
+</details>
+
+<details>
+<summary>Is a generalist firm enough, or do you need a specialist?</summary>
+
+On the reform itself, the large generalist networks have built dedicated offers, including Cerfrance, BDO, Baker Tilly and In Extenso. A firm specialised in digitisation adds value on complex cases, multi-site groups, cross-border flows or an ERP to interface. For a single-site SME, the generalist network covers the need.
+
+</details>
+
+<details>
+<summary>Is a PDF sent by email an electronic invoice?</summary>
+
+No. A compliant electronic invoice is a structured file, in Factur-X, UBL or CII format, transmitted through an approved platform. A plain PDF attachment does not meet the obligation, even though the recipient can read it.
+
+</details>
