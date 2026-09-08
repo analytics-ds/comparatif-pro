@@ -1,44 +1,54 @@
 ---
 title: "Mentions légales"
-description: "Mentions légales du site Comparatif-Pro : éditeur, hébergeur, propriété intellectuelle, responsabilité."
+description: "Mentions légales de Comparatif-Pro : éditeur, directeur de la publication, hébergement, propriété intellectuelle et droit applicable."
+slug: "mentions-legales"
 translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Éditeur du site
 
-Le site Comparatif-Pro, accessible à l'adresse https://comparatif-pro.fr, est édité par :
+Le site Comparatif-Pro, accessible à l'adresse https://comparatif-pro.com/, est édité par une personne physique exerçant en tant qu'éditeur de contenu indépendant.
 
-**Comparatif-Pro**
-Adresse : France
-Email : contact@comparatif-pro.fr
+**Contact éditorial** : contact@comparatif-pro.com
 
 ## Directeur de la publication
 
-Le directeur de la publication est le représentant légal de Comparatif-Pro.
+Le directeur de la publication est le responsable éditorial du site Comparatif-Pro.
 
-## Hébergeur
+## Hébergement
 
-Le site est hébergé par :
+Le site est hébergé par GitHub, Inc.
 
-**GitHub Pages**
-GitHub, Inc.
-88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis
-https://github.com
+**Adresse** : 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
+**Site** : https://github.com
+
+## Nature du site
+
+Comparatif-Pro est un site éditorial indépendant. Il publie des contenus d'information, des guides et des comparatifs à visée documentaire. Ces contenus n'ont pas valeur de conseil personnalisé et ne se substituent pas à l'avis d'un professionnel qualifié.
 
 ## Propriété intellectuelle
 
-L'ensemble des contenus présents sur Comparatif-Pro (textes, images, graphismes, logo, icônes, sons, logiciels) sont la propriété exclusive de Comparatif-Pro ou de ses partenaires, à l'exception des contenus sous licences libres correctement attribués.
+L'ensemble des contenus publiés sur Comparatif-Pro (textes, images, éléments graphiques, structure et mise en page) est protégé par le droit d'auteur. Toute reproduction ou représentation, même partielle, est interdite sans autorisation écrite préalable, en dehors des usages permis par la loi, notamment la courte citation accompagnée de la mention de la source et d'un lien vers la page d'origine.
 
-Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite sans autorisation écrite préalable.
+## Marques et droit de citation
 
-## Responsabilité
+Les marques, dénominations commerciales, logos et noms de produits cités restent la propriété de leurs détenteurs respectifs. Leur mention dans les contenus relève du droit de citation, à des fins d'information éditoriale. Elle n'implique aucun lien de partenariat ni aucune approbation de leur part, sauf lorsque cela est explicitement indiqué.
 
-Les informations publiées sur Comparatif-Pro sont fournies à titre informatif. Malgré le soin apporté à leur exactitude, des erreurs ou omissions peuvent subsister. Comparatif-Pro ne saurait être tenu responsable des décisions prises sur la base de ces informations.
+## Crédits photographiques
+
+Les visuels utilisés proviennent de productions originales ou de banques d'images libres de droits. Le crédit est indiqué à proximité de l'image lorsque la licence l'exige.
 
 ## Liens hypertextes
 
-Le site peut contenir des liens vers des sites tiers. Comparatif-Pro n'exerce aucun contrôle sur ces sites et décline toute responsabilité quant à leur contenu.
+Le site renvoie vers des ressources externes à titre documentaire. L'éditeur n'exerce aucun contrôle sur ces ressources et décline toute responsabilité quant à leur contenu.
+
+La mise en place d'un lien vers Comparatif-Pro est libre et ne requiert pas d'autorisation préalable, dès lors qu'elle ne porte pas atteinte à l'image du site et n'induit pas de confusion sur l'origine des contenus. L'éditeur se réserve le droit de demander le retrait d'un lien qu'il estime contraire à l'objet du site.
+
+## Signalement
+
+Toute personne estimant qu'un contenu publié porte atteinte à ses droits peut le signaler à contact@comparatif-pro.com, en précisant la page concernée, la nature de l'atteinte invoquée et les éléments qui la justifient. Les signalements fondés sont traités dans les meilleurs délais.
 
 ## Droit applicable
 
-Le présent site est soumis au droit français. Tout litige relatif à son utilisation relève des tribunaux français compétents.
+Les présentes mentions légales sont régies par le droit français. Tout litige relève de la compétence des tribunaux français.

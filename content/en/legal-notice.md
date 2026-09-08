@@ -1,44 +1,54 @@
 ---
 title: "Legal notice"
-description: "Legal notice for Comparatif-Pro: publisher, host, intellectual property, liability."
+description: "Legal notice for Comparatif-Pro: publisher, editorial manager, hosting, intellectual property and applicable law."
+slug: "legal-notice"
 translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Site publisher
 
-The Comparatif-Pro website, accessible at https://comparatif-pro.fr, is published by:
+Comparatif-Pro, available at https://comparatif-pro.com/, is published by a private individual acting as an independent content publisher.
 
-**Comparatif-Pro**
-Address: France
-Email: contact@comparatif-pro.fr
+**Editorial contact**: contact@comparatif-pro.com
 
-## Publication director
+## Editorial manager
 
-The publication director is the legal representative of Comparatif-Pro.
+The editorial manager is the person responsible for the editorial content of Comparatif-Pro.
 
-## Host
+## Hosting
 
-The site is hosted by:
+The site is hosted by GitHub, Inc.
 
-**GitHub Pages**
-GitHub, Inc.
-88 Colin P Kelly Jr St, San Francisco, CA 94107, United States
-https://github.com
+**Address**: 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States
+**Website**: https://github.com
+
+## Nature of the site
+
+Comparatif-Pro is an independent editorial website. It publishes informational content, guides and comparisons for documentary purposes. This content does not constitute personalised advice and is no substitute for the opinion of a qualified professional.
 
 ## Intellectual property
 
-All content present on Comparatif-Pro (texts, images, graphics, logo, icons, sounds, software) is the exclusive property of Comparatif-Pro or its partners, except for content under open licenses properly attributed.
+All content published on Comparatif-Pro (text, images, graphic elements, structure and layout) is protected by copyright. Any reproduction or representation, even partial, is prohibited without prior written permission, outside the uses permitted by law, in particular short quotations accompanied by an attribution and a link to the original page.
 
-Any reproduction, representation, modification, publication or adaptation of all or part of the site elements, regardless of the means or process used, is prohibited without prior written authorization.
+## Trade marks and quotation
 
-## Liability
+The trade marks, trade names, logos and product names mentioned remain the property of their respective owners. Their mention in the content falls under the right of quotation, for editorial information purposes. It implies no partnership with, and no endorsement by, those owners unless expressly stated.
 
-Information published on Comparatif-Pro is provided for informational purposes. Despite the care taken in ensuring its accuracy, errors or omissions may remain. Comparatif-Pro cannot be held responsible for decisions made on the basis of this information.
+## Image credits
+
+The visuals used are either original productions or come from royalty-free image libraries. Credit is displayed next to the image where the licence requires it.
 
 ## Hyperlinks
 
-The site may contain links to third-party websites. Comparatif-Pro exercises no control over these sites and declines all responsibility for their content.
+The site links to external resources for documentary purposes. The publisher exercises no control over those resources and accepts no liability for their content.
+
+Linking to Comparatif-Pro is free and requires no prior permission, provided it does not harm the image of the site and does not create confusion as to the origin of the content. The publisher reserves the right to request the removal of any link it considers inconsistent with the purpose of the site.
+
+## Reporting
+
+Anyone who considers that published content infringes their rights may report it to contact@comparatif-pro.com, specifying the page concerned, the nature of the alleged infringement and the evidence supporting the request. Well-founded reports are handled as promptly as possible.
 
 ## Applicable law
 
-This site is subject to French law. Any dispute relating to its use falls under the jurisdiction of the competent French courts.
+This legal notice is governed by French law. Any dispute falls within the jurisdiction of the French courts.

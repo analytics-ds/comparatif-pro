@@ -1,51 +1,87 @@
 ---
 title: "Politique de confidentialité"
-description: "Politique de confidentialité de Comparatif-Pro : collecte, utilisation et protection des données personnelles conformément au RGPD."
+description: "Politique de confidentialité de Comparatif-Pro : données collectées, finalités, durées de conservation, cookies et droits RGPD."
+slug: "politique-de-confidentialite"
 translationKey: "privacy-policy"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
+## Responsable du traitement
 
-## Engagement RGPD
+Le responsable du traitement des données collectées sur Comparatif-Pro est l'éditeur du site, joignable à l'adresse contact@comparatif-pro.com. Toute question relative à la protection des données peut lui être adressée directement.
 
-Comparatif-Pro s'engage à protéger la confidentialité et la sécurité des données personnelles de ses visiteurs, conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés.
+## Principe de collecte minimale
+
+Comparatif-Pro ne recueille que les données strictement nécessaires au fonctionnement du site et au traitement des demandes reçues. Aucune donnée n'est vendue, louée ni cédée à des tiers à des fins commerciales.
 
 ## Données collectées
 
-Le site Comparatif-Pro collecte les données suivantes :
+**Données de navigation.** Adresse IP, type et version du navigateur, système d'exploitation, pages consultées, date et durée de la visite, site de provenance. Ces données sont exploitées sous forme agrégée par les outils de mesure d'audience.
 
-- **Données de navigation** : adresse IP, type de navigateur, pages visitées, durée de visite (via les outils d'analyse d'audience anonymisés).
-- **Données de contact** : nom, prénom, email, message, uniquement lorsque vous nous contactez volontairement via le formulaire ou par email.
+**Données de contact.** Adresse électronique, nom ou pseudonyme et contenu du message, uniquement lorsque vous écrivez volontairement à l'éditeur.
 
-Aucune donnée bancaire n'est collectée sur ce site.
+**Journaux techniques.** Les journaux du serveur enregistrent les requêtes reçues, à des fins de sécurité et de diagnostic.
 
-## Finalités du traitement
+Aucune donnée bancaire n'est collectée. Aucune donnée sensible au sens de l'article 9 du RGPD n'est demandée, et il est recommandé de ne pas en transmettre spontanément.
 
-Les données collectées sont utilisées pour :
+## Finalités et bases légales
 
-- Améliorer la qualité éditoriale et l'expérience utilisateur du site
-- Répondre aux demandes de contact
-- Établir des statistiques anonymisées de fréquentation
+| Finalité | Base légale |
+|---|---|
+| Mesurer l'audience du site sous forme agrégée | Intérêt légitime |
+| Répondre aux messages reçus | Intérêt légitime |
+| Assurer la sécurité et la disponibilité du site | Intérêt légitime |
+| Déposer des traceurs non essentiels | Consentement |
 
-## Durée de conservation
+## Destinataires
 
-- Données de navigation : 13 mois maximum
-- Données de contact : 3 ans après le dernier échange
+Les données ne sont accessibles qu'à l'éditeur du site et, le cas échéant, aux prestataires techniques strictement nécessaires à son fonctionnement : hébergement, mesure d'audience, acheminement des messages. Ces prestataires n'interviennent que sur instruction et pour les seules finalités décrites ci-dessus.
 
-## Cookies
+## Transferts hors Union européenne
 
-Comparatif-Pro utilise uniquement des cookies techniques nécessaires au fonctionnement du site et des cookies d'audience anonymisés. Aucun cookie publicitaire ou de tracking tiers n'est déposé sans consentement explicite.
+L'hébergement du site est assuré par un prestataire établi aux États-Unis. Les transferts de données vers ce pays sont encadrés par les mécanismes prévus par le RGPD, notamment les clauses contractuelles types adoptées par la Commission européenne.
 
-## Vos droits
+## Durées de conservation
 
-Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, de suppression, de limitation, d'opposition et de portabilité de vos données. Pour exercer ces droits, contactez :
+- Données de navigation et statistiques d'audience : 13 mois au maximum
+- Journaux techniques du serveur : 12 mois au maximum
+- Messages reçus et adresses associées : 3 ans à compter du dernier échange
 
-**contact@comparatif-pro.fr**
-
-Vous pouvez également introduire une réclamation auprès de la CNIL (https://www.cnil.fr).
+Au terme de ces durées, les données sont supprimées ou anonymisées de manière irréversible.
 
 ## Sécurité
 
-Comparatif-Pro met en œuvre les mesures techniques et organisationnelles appropriées pour protéger vos données contre tout accès non autorisé, altération, divulgation ou destruction.
+L'éditeur met en œuvre les mesures techniques et organisationnelles appropriées pour préserver la confidentialité et l'intégrité des données : diffusion du site en HTTPS, accès aux outils d'administration restreint et protégé, limitation du nombre de personnes habilitées.
 
-## Modifications
+## Cookies et traceurs
 
-La présente politique peut être mise à jour. La date de dernière mise à jour est indiquée en haut de page.
+Le site utilise des cookies techniques nécessaires à son affichage et à sa sécurité. Ceux-ci ne requièrent pas de consentement.
+
+Des traceurs de mesure d'audience peuvent également être déposés afin de comprendre la fréquentation du site. Lorsqu'ils ne sont pas configurés en mode strictement anonyme, leur dépôt est soumis à votre consentement, recueilli lors de votre première visite et révocable à tout moment.
+
+Aucun cookie publicitaire et aucun traceur de profilage à des fins de ciblage ne sont déposés.
+
+Vous pouvez à tout moment configurer votre navigateur pour refuser les cookies, les supprimer ou être averti de leur dépôt. Ce réglage se trouve dans les préférences de confidentialité de chaque navigateur. Le refus des cookies techniques peut altérer certaines fonctionnalités du site.
+
+## Vos droits
+
+Conformément au Règlement général sur la protection des données et à la loi Informatique et Libertés, vous disposez des droits suivants :
+
+- Droit d'accès à vos données
+- Droit de rectification des données inexactes
+- Droit à l'effacement
+- Droit à la limitation du traitement
+- Droit d'opposition au traitement
+- Droit à la portabilité des données que vous avez fournies
+- Droit de retirer votre consentement à tout moment, lorsque le traitement repose sur celui-ci
+- Droit de définir des directives relatives au sort de vos données après votre décès
+
+Ces droits s'exercent par simple demande adressée à contact@comparatif-pro.com. Une réponse vous est apportée dans un délai d'un mois. Si vous estimez que vos droits ne sont pas respectés, vous pouvez introduire une réclamation auprès de la Commission nationale de l'informatique et des libertés (CNIL), 3 place de Fontenoy, 75334 Paris Cedex 07, www.cnil.fr.
+
+## Décision automatisée
+
+Aucune décision produisant des effets juridiques à votre égard n'est prise sur le fondement d'un traitement exclusivement automatisé.
+
+## Mise à jour
+
+La présente politique peut être modifiée pour tenir compte des évolutions du site ou de la réglementation. La version en vigueur est celle publiée sur cette page.
