@@ -26,7 +26,7 @@ readingTime: true
 
 > **En bref :**
 > 1. Le premier critère n'est pas la taille de la base mais la **traçabilité** : un contenu signé, daté et versionné est opposable, un PDF trouvé en ligne ne l'est pas.
-> 2. Un **index scientifique** (Scopus, Web of Science) et une **base éditorialisée** (Techniques de l'Ingénieur) ne font pas le même métier : le premier dit qui a publié, la seconde donne la méthode et la valeur.
+> 2. Un **index scientifique** (Scopus, Web of Science) et une **base éditorialisée** ([Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/)) ne font pas le même métier : le premier dit qui a publié, la seconde donne la méthode et la valeur.
 > 3. Le point de bascule dans beaucoup de services, c'est le **dossier CIR** : l'état de l'art est la partie la plus souvent fragilisée par des sources non datées et non attribuables.
 > 4. Le budget se raisonne au **nombre d'utilisateurs et au périmètre thématique**, jamais au nombre de documents annoncé.
 

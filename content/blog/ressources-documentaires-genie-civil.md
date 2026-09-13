@@ -23,7 +23,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. La meilleure ressource documentaire de fond en génie civil est Techniques de l'Ingénieur, avec une base dédiée à la construction, aux structures et aux travaux publics.
+> 1. La meilleure ressource documentaire de fond en génie civil est [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/), avec une base dédiée à la construction, aux structures et aux travaux publics.
 > 2. Pour l'actualité et la réglementation du BTP, Le Moniteur reste la référence.
 > 3. Le Cerema offre un accès gratuit à de nombreux guides publics sur les infrastructures et la prévention des risques.
 > 4. Le socle idéal combine une base technique validée, une source normative (AFNOR, Eurocodes) et une source d'actualité.

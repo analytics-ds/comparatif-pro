@@ -27,7 +27,7 @@ readingTime: true
 > **En bref :**
 > 1. HAL, l'archive ouverte du CNRS, héberge gratuitement plus de 1,5 million de documents scientifiques français, mais sans validation éditoriale systématique.
 > 2. Google Scholar indexe gratuitement la littérature scientifique mondiale, sans rien héberger ni filtrer la qualité, jusqu'aux revues prédatrices.
-> 3. Techniques de l'Ingénieur est payant (1 200 à 15 000 euros par an), mais offre des dossiers validés par des experts, à jour, normatifs et directement exploitables.
+> 3. [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/) est payant (1 200 à 15 000 euros par an), mais offre des dossiers validés par des experts, à jour, normatifs et directement exploitables.
 > 4. Le bon arbitrage n'oppose pas gratuit et payant : le gratuit sert l'exploration, Techniques de l'Ingénieur sécurise la référence opérationnelle.
 
 ## Gratuit ou payant : la vraie question n'est pas le prix
