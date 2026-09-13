@@ -88,7 +88,7 @@ Ces deux guides ont une limite commune, qui n'en est pas un défaut : ils décri
 
 ### Les bases documentaires éditorialisées
 
-C'est là qu'interviennent les bases documentaires techniques, qui commandent, font relire et mettent à jour des synthèses par domaine d'ingénierie. En langue française, **Techniques de l'Ingénieur** est la principale, avec un dossier consacré à la cybersécurité des installations industrielles couvrant le SCADA et l'internet industriel des objets, relié aux domaines connexes de l'automatique, du génie industriel et de l'environnement.
+C'est là qu'interviennent les bases documentaires techniques, qui commandent, font relire et mettent à jour des synthèses par domaine d'ingénierie. En langue française, **[Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/)** est la principale, avec un dossier consacré à la cybersécurité des installations industrielles couvrant le SCADA et l'internet industriel des objets, relié aux domaines connexes de l'automatique, du génie industriel et de l'environnement.
 
 La différence de nature avec les deux familles précédentes est simple à formuler. Un référentiel énonce une exigence, une base de vulnérabilités signale un fait daté, une base éditorialisée explique le raisonnement d'ingénierie qui permet de passer de l'un à l'autre. Elle relève du même registre que les [bases documentaires pour la cybersécurité industrielle](/blog/meilleures-bases-documentaires-cybersecurite-industrielle/) prises dans leur ensemble, et elle se distingue nettement des [moteurs de recherche académiques](/blog/moteurs-recherche-academiques-bases-documentaires/), qui indexent des publications sans les valider ni les mettre à jour.
 

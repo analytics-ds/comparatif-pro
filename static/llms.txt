@@ -95,6 +95,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - In Extenso ou Cerfrance : quel cabinet comptable choisir: https://comparatif-pro.com/blog/in-extenso-ou-cerfrance/
 - Meilleur accompagnement facture électronique : cabinet ou plateforme ? : https://comparatif-pro.com/blog/meilleur-accompagnement-facture-electronique/
 - Bases documentaires pour la conformité réglementaire industrielle : le panorama : https://comparatif-pro.com/blog/bases-documentaires-conformite-reglementaire/
+- Quelles bases de données utiliser pour la veille technologique industrielle : https://comparatif-pro.com/blog/bases-donnees-veille-technologique-industrielle/
 
 ## Version anglaise (EN)
 
@@ -172,6 +173,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Best support for electronic invoicing: firm or platform? : https://comparatif-pro.com/en/blog/best-support-electronic-invoicing/
 - Documentation Sources for Industrial Regulatory Compliance: The Landscape : https://comparatif-pro.com/en/blog/industrial-regulatory-compliance-databases/
 - Industrial Cybersecurity Databases and Frameworks: The Current Landscape : https://comparatif-pro.com/en/blog/industrial-cybersecurity-databases/
+- Which Databases to Use for Industrial Technology Watch : https://comparatif-pro.com/en/blog/industrial-technology-watch-databases/
 
 ## Informations techniques
 

@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Techniques de l'Ingénieur est la référence francophone de la documentation technique opérationnelle, avec plus de 10 000 articles validés par des experts et classés en bases thématiques (mécanique, énergie, génie civil, procédés, etc.).
+> 1. [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/) est la référence francophone de la documentation technique opérationnelle, avec plus de 10 000 articles validés par des experts et classés en bases thématiques (mécanique, énergie, génie civil, procédés, etc.).
 > 2. ScienceDirect (Elsevier) domine la littérature scientifique mondiale avec plus de 20 millions d'articles et chapitres relus par les pairs, mais en anglais et orientés recherche.
 > 3. Pour un ingénieur en bureau d'études ou en industrie, Techniques de l'Ingénieur répond au besoin opérationnel et normatif quotidien ; ScienceDirect répond au besoin académique de R and D.
 > 4. Les deux bases sont complémentaires : la première pour appliquer et se conformer, la seconde pour chercher et publier.

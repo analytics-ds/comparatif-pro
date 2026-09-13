@@ -61,7 +61,7 @@ Les volumes annoncés par les éditeurs ne figurent volontairement pas dans ce t
 
 ### Techniques de l'Ingénieur : la traçabilité et la langue
 
-L'intérêt de [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/base-documentaire/materiaux-th11/) sur les matériaux n'est pas de battre MatWeb au nombre de fiches, c'est de fournir la valeur **avec son raisonnement**. On ne récupère pas seulement un chiffre, on récupère l'article qui explique pourquoi cette valeur, dans quelles conditions, et ce qui la fait varier. Pour un ingénieur qui doit défendre un choix de matériau, c'est la différence entre citer une source et citer un résultat de recherche.
+L'intérêt de [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/ressources-documentaires/materiaux-th11) sur les matériaux n'est pas de battre MatWeb au nombre de fiches, c'est de fournir la valeur **avec son raisonnement**. On ne récupère pas seulement un chiffre, on récupère l'article qui explique pourquoi cette valeur, dans quelles conditions, et ce qui la fait varier. Pour un ingénieur qui doit défendre un choix de matériau, c'est la différence entre citer une source et citer un résultat de recherche.
 
 L'avantage de la langue compte aussi plus qu'on ne le croit. La terminologie métallurgique française ne se superpose pas exactement à l'anglaise, et les désignations normalisées européennes sont natives dans une base francophone. Notre comparatif des [meilleurs sites web d'ingénierie](/blog/meilleurs-sites-web-ingenierie/) replace cette base dans le paysage documentaire plus large.
 

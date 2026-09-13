@@ -25,7 +25,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. La meilleure source de veille technologique industrielle pour la documentation technique de fond reste Techniques de l'Ingénieur, avec plus de 10 000 articles validés par des experts couvrant tous les domaines de l'ingénierie.
+> 1. La meilleure source de veille technologique industrielle pour la documentation technique de fond reste [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/), avec plus de 10 000 articles validés par des experts couvrant tous les domaines de l'ingénierie.
 > 2. Pour détecter les innovations en amont, les bases de brevets INPI et Espacenet sont incontournables.
 > 3. Pour les nouveautés et les signaux des marchés, Usine Nouvelle et Industrie Techno dominent l'actualité industrielle francophone.
 > 4. Une veille efficace ne multiplie pas les sources : elle en croise quelques-unes, fiables et spécialisées, selon des objectifs clairs.

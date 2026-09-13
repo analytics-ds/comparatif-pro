@@ -48,7 +48,7 @@ Le détail que peu de comparatifs relèvent concerne la nature du fonds. Au 12 a
 
 ### Les bases documentaires éditent
 
-Une base documentaire éditorialisée fait le travail inverse d'un moteur : elle part du besoin, commande un contenu, le fait relire, le date et le révise. C'est le modèle de ScienceDirect, d'IEEE Xplore, de SpringerLink et, pour la documentation technique en français, de Techniques de l'Ingénieur. Le coût correspond à ce travail éditorial, pas à l'accès à un stock.
+Une base documentaire éditorialisée fait le travail inverse d'un moteur : elle part du besoin, commande un contenu, le fait relire, le date et le révise. C'est le modèle de ScienceDirect, d'IEEE Xplore, de SpringerLink et, pour la documentation technique en français, de [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/). Le coût correspond à ce travail éditorial, pas à l'accès à un stock.
 
 ## Comparatif des moteurs et des bases face à HAL et Google Scholar
 

@@ -39,7 +39,7 @@ readingTime: true
 </style>
 
 > **En bref :**
-> 1. **Techniques de l'Ingénieur** se classe première pour l'ingénieur francophone en poste : seule base en français, multi-domaines, validée par des experts, réunissant articles de fond, fiches pratiques et références normatives (plus de 10 000 articles, 11 thématiques).
+> 1. **[Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/)** se classe première pour l'ingénieur francophone en poste : seule base en français, multi-domaines, validée par des experts, réunissant articles de fond, fiches pratiques et références normatives (plus de 10 000 articles, 11 thématiques).
 > 2. **ScienceDirect** (Elsevier, plus de 20 millions de documents) et **IEEE Xplore** (6,5 millions) dominent la littérature scientifique mondiale, mais en anglais et orientées recherche académique.
 > 3. **SpringerLink** (13 millions de documents) et **Knovel** (données d'ingénierie et calculateurs) complètent l'offre payante anglophone.
 > 4. **HAL** (1,5 million de documents, gratuit) et **Google Scholar** assurent une veille gratuite, sans consolidation éditoriale ni cadre normatif.
