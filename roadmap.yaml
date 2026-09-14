@@ -330,3 +330,183 @@ articles:
     published_url_en: "https://comparatif-pro.com/en/blog/electronic-invoice-format-factur-x-ubl-cii/"
     error: null
     # Cible aussi "factur-x", "ubl", "norme EN 16931"
+
+  # === Batch routine auto - reprise 2026-09 (16 mots-cles, recherche Haloscan + verif anti-cannibalisation) ===
+
+  - kw: "portage salarial"
+    category: "Services aux entreprises"
+    volume: 13500
+    kd: null
+    scheduled_date: "2026-09-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "chaise de bureau ergonomique"
+    category: "Amenagement de bureaux"
+    volume: 20200
+    kd: null
+    scheduled_date: "2026-09-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur logiciel RH"
+    category: "Logiciels professionnels"
+    volume: 1100
+    kd: null
+    scheduled_date: "2026-09-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "certification ISO 9001"
+    category: "Formations et certifications"
+    volume: 1500
+    kd: null
+    scheduled_date: "2026-09-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "logiciel CAO gratuit"
+    category: "Equipements industriels"
+    volume: 880
+    kd: null
+    scheduled_date: "2026-09-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "location outillage"
+    category: "Outillage et materiel"
+    volume: 600
+    kd: null
+    scheduled_date: "2026-10-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "domiciliation entreprise"
+    category: "Services aux entreprises"
+    volume: 300
+    kd: null
+    scheduled_date: "2026-10-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur logiciel de planning"
+    category: "Logiciels professionnels"
+    volume: 600
+    kd: null
+    scheduled_date: "2026-10-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "bilan de competences"
+    category: "Formations et certifications"
+    volume: 300
+    kd: null
+    scheduled_date: "2026-10-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+    # Cluster inclut "bilan de competences gratuit" (~300 supplementaires)
+
+  - kw: "meilleur outillage de chantier"
+    category: "Outillage et materiel"
+    volume: 320
+    kd: null
+    scheduled_date: "2026-10-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "expert comptable BTP"
+    category: "Expertise comptable"
+    volume: 100
+    kd: null
+    scheduled_date: "2026-10-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "mutuelle entreprise obligatoire"
+    category: "Services aux entreprises"
+    volume: 200
+    kd: null
+    scheduled_date: "2026-10-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+    # Cluster inclut "mutuelle obligatoire cdi" (~550 supplementaires)
+
+  - kw: "meilleur logiciel helpdesk"
+    category: "Logiciels professionnels"
+    volume: 260
+    kd: null
+    scheduled_date: "2026-10-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tarif expert comptable"
+    category: "Expertise comptable"
+    volume: 260
+    kd: null
+    scheduled_date: "2026-10-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "formation certifiante CPF"
+    category: "Formations et certifications"
+    volume: 110
+    kd: null
+    scheduled_date: "2026-11-03"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "amenager un bureau a domicile"
+    category: "Amenagement de bureaux"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-11-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
