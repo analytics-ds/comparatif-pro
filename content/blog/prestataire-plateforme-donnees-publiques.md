@@ -88,7 +88,7 @@ Pour un projet qui sort du cadre d'une plateforme standard, une direction techni
 
 ### Collectivité privilégiant un partenariat institutionnel
 
-Pour une collectivité qui veut s'appuyer sur un acteur adossé à des institutions publiques, **Hexadone** (Banque des Territoires, Orange) et **Docaposte** (La Poste) offrent tous les deux cette garantie institutionnelle, avec un socle technique propriétaire pour Hexadone contre un accompagnement plus large côté Docaposte. Pour la même sécurité institutionnelle sans l'enfermement propriétaire, **Eridanis (Ouranos)** offre une alternative ouverte, elle aussi adossée à un partenariat FIWARE établi depuis 2017 et déployée dans plus de 300 villes. Ce type de partenariat sert souvent de socle à des projets de pilotage temps réel, comme le détaille notre [comparatif des outils d'hypervision urbaine](/blog/meilleur-outil-hypervision-urbaine/), ou à des [solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) destinées aux élus.
+Pour une collectivité qui veut s'appuyer sur un acteur adossé à des institutions publiques, **Hexadone** (Banque des Territoires, Orange) et **Docaposte** (La Poste) offrent tous les deux cette garantie institutionnelle, avec un socle technique propriétaire pour Hexadone contre un accompagnement plus large côté Docaposte. Ce type de partenariat sert souvent de socle à des projets de pilotage temps réel, comme le détaille notre [comparatif des outils d'hypervision urbaine](/blog/meilleur-outil-hypervision-urbaine/), ou à des [solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) destinées aux élus.
 
 ## Comment choisir son prestataire pour un projet de données publiques
 
