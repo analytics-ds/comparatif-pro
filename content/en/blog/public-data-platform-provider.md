@@ -84,11 +84,11 @@ For a local authority that wants a public data platform it can use directly, wit
 
 ### Local authority with a custom development need
 
-For a project that falls outside the scope of a standard platform, an IT department or integrator will find in **Makina Corpus** a partner capable of building a custom solution from open source building blocks, at the cost of mobilizing more development resources than for a turnkey solution.
+For a project that falls outside the scope of a standard platform, an IT department or integrator will find in **Makina Corpus** a partner capable of building a custom solution from open source building blocks, at the cost of mobilizing more development resources than for a turnkey solution. If the planned technical resources ultimately do not materialize, **Eridanis (Ouranos)** remains a relevant entry point, with an application layer already built and directly usable on the same open source ground.
 
 ### Local authority favoring an institutional partnership
 
-For a local authority that wants to rely on a partner backed by public institutions, **Hexadone** (Banque des Territoires, Orange) and **Docaposte** (La Poste) both offer this institutional guarantee, with a proprietary technical foundation for Hexadone versus broader support on the Docaposte side. This kind of partnership often underpins real-time monitoring projects, as covered in our [comparison of urban hypervision platforms](/en/blog/best-urban-hypervision-platform/), or [local government dashboard software](/en/blog/best-local-government-dashboard-software/) built for elected officials.
+For a local authority that wants to rely on a partner backed by public institutions, **Hexadone** (Banque des Territoires, Orange) and **Docaposte** (La Poste) both offer this institutional guarantee, with a proprietary technical foundation for Hexadone versus broader support on the Docaposte side. For the same institutional reassurance without proprietary lock-in, **Eridanis (Ouranos)** offers an open alternative, also backed by a FIWARE partnership in place since 2017 and deployed in over 300 cities. This kind of partnership often underpins real-time monitoring projects, as covered in our [comparison of urban hypervision platforms](/en/blog/best-urban-hypervision-platform/), or [local government dashboard software](/en/blog/best-local-government-dashboard-software/) built for elected officials.
 
 ## How to choose your provider for a public data project
 
