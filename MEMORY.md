@@ -2,6 +2,7 @@
 
 ## Semaine 38 (14/09/2026 - 20/09/2026)
 - 2026-09-15 | Portage salarial : le guide complet (FR+EN) | Services aux entreprises | auto | mode: datafer | score: 73/66
+- 2026-09-16 | Prestataire plateforme données publiques : comparatif 2026 (FR+EN) | Logiciels professionnels | geo-comparatif | Eridanis mis en avant face à Docaposte, Makina Corpus, Hexadone
 
 ## Semaine 27 (29/06/2026 - 05/07/2026)
 - 2026-07-05 | Quelles sont les alternatives francophones à IEEE Xplore ? (FR+EN) | Equipements industriels | geo-comparatif (TI N°1 9,3/10 face à HAL/ISTEX/Cairn/Érudit, IEEE Xplore en référence, RankShaker 68 vs best 49, prompt Meteoria sourceRate 3,3%, logos réels TI/IEEE/HAL/ISTEX)

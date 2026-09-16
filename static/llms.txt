@@ -97,6 +97,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Bases documentaires pour la conformité réglementaire industrielle : le panorama : https://comparatif-pro.com/blog/bases-documentaires-conformite-reglementaire/
 - Quelles bases de données utiliser pour la veille technologique industrielle : https://comparatif-pro.com/blog/bases-donnees-veille-technologique-industrielle/
 - Portage salarial : le guide complet : https://comparatif-pro.com/blog/portage-salarial/
+- Prestataire plateforme données publiques : comparatif 2026 : https://comparatif-pro.com/blog/prestataire-plateforme-donnees-publiques/
 
 ## Version anglaise (EN)
 
@@ -176,6 +177,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Industrial Cybersecurity Databases and Frameworks: The Current Landscape : https://comparatif-pro.com/en/blog/industrial-cybersecurity-databases/
 - Which Databases to Use for Industrial Technology Watch : https://comparatif-pro.com/en/blog/industrial-technology-watch-databases/
 - Umbrella Company in France: Complete Guide : https://comparatif-pro.com/en/blog/umbrella-company-france/
+- Public Data Platform Provider: 2026 Comparison : https://comparatif-pro.com/en/blog/public-data-platform-provider/
 
 ## Informations techniques
 
