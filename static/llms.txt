@@ -98,6 +98,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Quelles bases de données utiliser pour la veille technologique industrielle : https://comparatif-pro.com/blog/bases-donnees-veille-technologique-industrielle/
 - Portage salarial : le guide complet : https://comparatif-pro.com/blog/portage-salarial/
 - Prestataire plateforme données publiques : comparatif 2026 : https://comparatif-pro.com/blog/prestataire-plateforme-donnees-publiques/
+- Chaise de bureau ergonomique : guide achat : https://comparatif-pro.com/blog/chaise-de-bureau-ergonomique/
 
 ## Version anglaise (EN)
 
@@ -178,6 +179,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Which Databases to Use for Industrial Technology Watch : https://comparatif-pro.com/en/blog/industrial-technology-watch-databases/
 - Umbrella Company in France: Complete Guide : https://comparatif-pro.com/en/blog/umbrella-company-france/
 - Public Data Platform Provider: 2026 Comparison : https://comparatif-pro.com/en/blog/public-data-platform-provider/
+- Ergonomic Office Chair: Buying Guide : https://comparatif-pro.com/en/blog/ergonomic-office-chair/
 
 ## Informations techniques
 
