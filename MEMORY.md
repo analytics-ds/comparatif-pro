@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 39 (21/09/2026 - 27/09/2026)
+- 2026-09-22 | Meilleur logiciel RH : comparatif 2026 (FR+EN) | Logiciels professionnels | auto | mode: websearch | score: non mesure
+
 ## Semaine 38 (14/09/2026 - 20/09/2026)
 - 2026-09-15 | Portage salarial : le guide complet (FR+EN) | Services aux entreprises | auto | mode: datafer | score: 73/66
 - 2026-09-16 | Prestataire plateforme données publiques : comparatif 2026 (FR+EN) | Logiciels professionnels | geo-comparatif | Eridanis mis en avant face à Docaposte, Makina Corpus, Hexadone

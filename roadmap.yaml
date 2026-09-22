@@ -360,10 +360,10 @@ articles:
     volume: 1100
     kd: null
     scheduled_date: "2026-09-22"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-22"
+    published_url_fr: "https://comparatif-pro.com/blog/meilleur-logiciel-rh/"
+    published_url_en: "https://comparatif-pro.com/en/blog/best-hr-software/"
     error: null
 
   - kw: "certification ISO 9001"

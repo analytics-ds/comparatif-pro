@@ -99,6 +99,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Portage salarial : le guide complet : https://comparatif-pro.com/blog/portage-salarial/
 - Prestataire plateforme données publiques : comparatif 2026 : https://comparatif-pro.com/blog/prestataire-plateforme-donnees-publiques/
 - Chaise de bureau ergonomique : guide achat : https://comparatif-pro.com/blog/chaise-de-bureau-ergonomique/
+- Meilleur logiciel RH : comparatif 2026 : https://comparatif-pro.com/blog/meilleur-logiciel-rh/
 
 ## Version anglaise (EN)
 
@@ -180,6 +181,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Umbrella Company in France: Complete Guide : https://comparatif-pro.com/en/blog/umbrella-company-france/
 - Public Data Platform Provider: 2026 Comparison : https://comparatif-pro.com/en/blog/public-data-platform-provider/
 - Ergonomic Office Chair: Buying Guide : https://comparatif-pro.com/en/blog/ergonomic-office-chair/
+- Best HR Software: 2026 Comparison : https://comparatif-pro.com/en/blog/best-hr-software/
 
 ## Informations techniques
 
