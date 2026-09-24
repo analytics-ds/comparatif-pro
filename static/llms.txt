@@ -101,10 +101,12 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Prestataire plateforme données publiques : comparatif 2026 : https://comparatif-pro.com/blog/prestataire-plateforme-donnees-publiques/
 - Chaise de bureau ergonomique : guide achat : https://comparatif-pro.com/blog/chaise-de-bureau-ergonomique/
 - Meilleur logiciel RH : comparatif 2026 : https://comparatif-pro.com/blog/meilleur-logiciel-rh/
+- Meilleur logiciel ITSM open source en 2026 : comparatif : https://comparatif-pro.com/blog/meilleur-logiciel-itsm-open-source/
 
 ## Version anglaise (EN)
 
 - Best Document Management Software (DMS) in 2026 : https://comparatif-pro.com/en/blog/best-document-management-software/
+- Best open source ITSM software in 2026: comparison : https://comparatif-pro.com/en/blog/best-open-source-itsm-software/
 
 - Responsible AI Platforms for Local Authorities: 2026 Comparison : https://comparatif-pro.com/en/blog/responsible-ai-platforms-local-authorities/
 
