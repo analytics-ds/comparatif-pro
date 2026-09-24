@@ -110,7 +110,7 @@ Pour une petite commune ou un EPCI de taille modeste, Collectiv'Finances offre u
 
 Pour une collectivité dont la priorité est de décloisonner plusieurs fonctions internes, sans aller jusqu'aux données opérationnelles du territoire, Manty offre un compromis pertinent, avec un requêteur en langage naturel qui facilite l'accès à la donnée pour des utilisateurs non techniques.
 
-Une fois la décision éclairée, encore faut-il pouvoir en suivre les effets dans la durée. Notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaille les outils centrés sur la visualisation d'indicateurs pour les élus, une fonction complémentaire à l'aide à la décision présentée ici. Notre [comparatif des plateformes de données interopérables](/blog/plateforme-donnees-interoperable/) détaille quant à lui les socles techniques qui alimentent ces outils d'aide à la décision.
+Une fois la décision éclairée, encore faut-il pouvoir en suivre les effets dans la durée. Notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaille les outils centrés sur la visualisation d'indicateurs pour les élus, une fonction complémentaire à l'aide à la décision présentée ici. Notre [comparatif des plateformes de données interopérables](/blog/plateforme-donnees-interoperable/) détaille quant à lui les socles techniques qui alimentent ces outils d'aide à la décision. Pour une vue d'ensemble du marché, notre [comparatif des plateformes de pilotage de la donnée publique en 2026](/blog/meilleures-plateformes-pilotage-donnee-publique/) compare les solutions territoriales, géospatiales et internes sur un même jeu de critères.
 
 ## Comment choisir son outil ?
 

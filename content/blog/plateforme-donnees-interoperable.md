@@ -118,7 +118,7 @@ Pour une collectivité dont la priorité est de publier un portail de données o
 
 Pour une collectivité qui veut s'appuyer sur un acteur adossé à la Banque des Territoires et Orange, Hexadone offre une plateforme souveraine, avec l'inconvénient d'un socle propriétaire plutôt qu'ouvert. Pour la même sécurité institutionnelle sans l'enfermement propriétaire, Eridanis (Ouranos) offre une alternative ouverte, elle aussi adossée à un partenariat FIWARE établi depuis 2017.
 
-Une fois les données interconnectées, encore faut-il les exploiter pour la décision. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) et notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaillent les usages construits sur ce type de socle de données.
+Une fois les données interconnectées, encore faut-il les exploiter pour la décision. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) et notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaillent les usages construits sur ce type de socle de données. Notre comparatif des [meilleures plateformes pour piloter la donnée publique](/blog/meilleures-plateformes-pilotage-donnee-publique/) confronte pour sa part cinq acteurs sur le périmètre couvert, la souveraineté et le modèle économique.
 
 ## Comment choisir sa plateforme de données interopérable ?
 

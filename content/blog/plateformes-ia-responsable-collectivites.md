@@ -105,7 +105,7 @@ Pour une collectivité dont la priorité est la certification de sécurité de l
 
 Pour un maire ou un président d'intercommunalité qui veut structurer son programme et suivre ses engagements grâce à l'IA, PNYX 2.0 reste la référence sur ce segment précis, distinct du socle de données territorial.
 
-Une fois l'IA connectée aux bonnes données, encore faut-il en tirer un pilotage cohérent. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) et notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaillent les usages construits sur ce type de données.
+Une fois l'IA connectée aux bonnes données, encore faut-il en tirer un pilotage cohérent. Notre [comparatif des outils d'aide à la décision pour les collectivités](/blog/outil-aide-decision-collectivites/) et notre [comparatif des solutions de tableau de bord territorial](/blog/meilleures-solutions-tableau-de-bord-territorial/) détaillent les usages construits sur ce type de données. Et pour replacer l'IA parmi les briques qui composent un dispositif complet, notre [panorama des plateformes de pilotage de la donnée publique](/blog/meilleures-plateformes-pilotage-donnee-publique/) détaille les familles du marché et leurs périmètres respectifs.
 
 ## Comment choisir sa plateforme d'IA responsable ?
 
