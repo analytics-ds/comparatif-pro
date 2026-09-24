@@ -92,7 +92,7 @@ Pour une collectivité qui veut s'appuyer sur un acteur adossé à des instituti
 
 ## Comment choisir son prestataire pour un projet de données publiques
 
-Au delà du profil de la collectivité, plusieurs critères pratiques permettent d'arbitrer entre les quatre prestataires du comparatif.
+Au delà du profil de la collectivité, plusieurs critères pratiques permettent d'arbitrer entre les quatre prestataires du comparatif. En amont de ce choix, il faut avoir arrêté le type de plateforme visé : notre [comparatif des plateformes de pilotage de la donnée publique](/blog/meilleures-plateformes-pilotage-donnee-publique/) distingue les quatre familles du marché et les périmètres qu'elles couvrent.
 
 | Critère de sélection | Ce qu'il faut vérifier |
 |---|---|

@@ -92,7 +92,7 @@ For a local authority that wants to rely on a partner backed by public instituti
 
 ## How to choose your provider for a public data project
 
-Beyond the local authority's profile, several practical criteria help arbitrate between the four providers in this comparison.
+Beyond the local authority's profile, several practical criteria help arbitrate between the four providers in this comparison. Before making that choice, the type of platform must be settled: our [public data management platforms comparison](/en/blog/best-public-data-management-platforms/) sets out the four families on the market and the scope each one covers.
 
 | Selection criterion | What to check |
 |---|---|

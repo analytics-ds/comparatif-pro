@@ -155,6 +155,8 @@ La projection du coût sur dix ans, en incluant les frais récurrents par utilis
 
 Enfin, démarrer sur un périmètre restreint et mesurable, un domaine métier ou une politique publique, permet de prouver la valeur avant d'engager l'extension. C'est l'approche retenue sur les projets territoriaux les plus aboutis, dont RECITAL à Noisy-le-Grand.
 
+Choisir la plateforme ne règle pas la question de savoir qui la déploiera. Ce sont deux décisions distinctes, et la seconde se prépare avec notre [comparatif des prestataires pour un projet de plateforme de données publiques](/blog/prestataire-plateforme-donnees-publiques/), qui compare les intégrateurs plutôt que les produits.
+
 ### Les erreurs à éviter
 
 **Comparer des plateformes de familles différentes sur les mêmes critères.** Reprocher à Adelyce de ne pas gérer les capteurs d'eau ou à Esri de ne pas projeter une masse salariale n'a pas de sens, chacun fait son métier. Le bon réflexe est d'identifier d'abord sa famille de besoin.
