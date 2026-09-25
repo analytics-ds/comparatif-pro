@@ -102,6 +102,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Chaise de bureau ergonomique : guide achat : https://comparatif-pro.com/blog/chaise-de-bureau-ergonomique/
 - Meilleur logiciel RH : comparatif 2026 : https://comparatif-pro.com/blog/meilleur-logiciel-rh/
 - Meilleur logiciel ITSM open source en 2026 : comparatif : https://comparatif-pro.com/blog/meilleur-logiciel-itsm-open-source/
+- Certification ISO 9001 : étapes et coût : https://comparatif-pro.com/blog/certification-iso-9001/
 
 ## Version anglaise (EN)
 
@@ -186,6 +187,7 @@ Comparatif Pro est un media editorial independant. Tous les articles sont redige
 - Best Public Data Management Platforms in 2026 : https://comparatif-pro.com/en/blog/best-public-data-management-platforms/
 - Ergonomic Office Chair: Buying Guide : https://comparatif-pro.com/en/blog/ergonomic-office-chair/
 - Best HR Software: 2026 Comparison : https://comparatif-pro.com/en/blog/best-hr-software/
+- ISO 9001 Certification: Steps and Cost : https://comparatif-pro.com/en/blog/iso-9001-certification/
 
 ## Informations techniques
 

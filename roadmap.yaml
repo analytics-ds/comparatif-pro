@@ -371,10 +371,10 @@ articles:
     volume: 1500
     kd: null
     scheduled_date: "2026-09-25"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-25"
+    published_url_fr: "https://comparatif-pro.com/blog/certification-iso-9001/"
+    published_url_en: "https://comparatif-pro.com/en/blog/iso-9001-certification/"
     error: null
 
   - kw: "logiciel CAO gratuit"
