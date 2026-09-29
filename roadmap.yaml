@@ -382,10 +382,10 @@ articles:
     volume: 880
     kd: null
     scheduled_date: "2026-09-29"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-29"
+    published_url_fr: "https://comparatif-pro.com/blog/logiciel-cao-gratuit/"
+    published_url_en: "https://comparatif-pro.com/en/blog/free-cad-software/"
     error: null
 
   - kw: "location outillage"

@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 40 (28/09/2026 - 04/10/2026)
+- 2026-09-29 | Logiciel de CAO gratuit : comparatif 2026 (FR+EN) | Equipements industriels | auto | mode: datafer | score: 80/59
+
 ## Semaine 39 (21/09/2026 - 27/09/2026)
 - 2026-09-25 | Certification ISO 9001 : étapes et coût (FR+EN) | Formations et certifications | auto | mode: datafer | score: 81/64
 - 2026-09-24 | Meilleur logiciel ITSM open source en 2026 : comparatif (FR+EN) | Logiciels professionnels | geo-comparatif | GLPI mis en avant face à ServiceNow, iTop, Zammad
