@@ -444,9 +444,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "expert comptable BTP"
-    category: "Expertise comptable"
-    volume: 100
+  # Remplace "expert comptable BTP" (retire le 2026-09-29 : univers In Extenso)
+  - kw: "cabinet de recrutement"
+    category: "Services aux entreprises"
+    volume: 2800
     kd: null
     scheduled_date: "2026-10-20"
     status: todo
@@ -467,9 +468,10 @@ articles:
     error: null
     # Cluster inclut "mutuelle obligatoire cdi" (~550 supplementaires)
 
-  - kw: "meilleur logiciel helpdesk"
-    category: "Logiciels professionnels"
-    volume: 260
+  # Remplace "meilleur logiciel helpdesk" (retire le 2026-09-29 : chevauche GLPI)
+  - kw: "assurance RC pro"
+    category: "Services aux entreprises"
+    volume: 4500
     kd: null
     scheduled_date: "2026-10-27"
     status: todo
@@ -478,9 +480,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "tarif expert comptable"
-    category: "Expertise comptable"
-    volume: 260
+  # Remplace "tarif expert comptable" (retire le 2026-09-29 : univers In Extenso)
+  - kw: "transpalette électrique"
+    category: "Equipements industriels"
+    volume: 8643
     kd: null
     scheduled_date: "2026-10-30"
     status: todo
@@ -505,6 +508,411 @@ articles:
     volume: 20
     kd: null
     scheduled_date: "2026-11-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # === Batch evergreen S46 2026 a S10 2027 (ajoute le 2026-09-29) ===
+  # Genere via geo-roadmap. Aucun chevauchement avec GLPI, Eridanis, Techniques de
+  # l'Ingenieur et In Extenso (roadmaps editoriales, prompts GEO, esm-guide, territoire-connecte).
+  # volume : Haloscan du 2026-09-29, mot-cle de base (informatif).
+
+  - kw: "meilleur logiciel ATS"
+    category: "Logiciels professionnels"
+    volume: 1700
+    kd: null
+    scheduled_date: "2026-11-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur chariot élévateur"
+    category: "Equipements industriels"
+    volume: 1600
+    kd: null
+    scheduled_date: "2026-11-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure banque pro"
+    category: "Services aux entreprises"
+    volume: 400
+    kd: null
+    scheduled_date: "2026-11-17"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur bureau assis-debout"
+    category: "Amenagement de bureaux"
+    volume: 1700
+    kd: null
+    scheduled_date: "2026-11-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "plateforme LMS"
+    category: "Logiciels professionnels"
+    volume: 600
+    kd: null
+    scheduled_date: "2026-11-24"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "formation prise de parole"
+    category: "Formations et certifications"
+    volume: 800
+    kd: null
+    scheduled_date: "2026-11-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "affacturage"
+    category: "Services aux entreprises"
+    volume: 4600
+    kd: null
+    scheduled_date: "2026-12-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "nacelle élévatrice"
+    category: "Equipements industriels"
+    volume: 1800
+    kd: null
+    scheduled_date: "2026-12-04"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur logiciel de pointage"
+    category: "Logiciels professionnels"
+    volume: 320
+    kd: null
+    scheduled_date: "2026-12-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure perceuse visseuse"
+    category: "Outillage et materiel"
+    volume: 421
+    kd: null
+    scheduled_date: "2026-12-11"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure agence de traduction"
+    category: "Services aux entreprises"
+    volume: 1583
+    kd: null
+    scheduled_date: "2026-12-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "accompagnement Qualiopi"
+    category: "Formations et certifications"
+    volume: 720
+    kd: null
+    scheduled_date: "2026-12-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "IA prise de notes"
+    category: "Logiciels professionnels"
+    volume: 300
+    kd: null
+    scheduled_date: "2026-12-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "fontaine à eau entreprise"
+    category: "Amenagement de bureaux"
+    volume: 100
+    kd: null
+    scheduled_date: "2026-12-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur terminal de paiement"
+    category: "Services aux entreprises"
+    volume: 400
+    kd: null
+    scheduled_date: "2026-12-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cobot"
+    category: "Equipements industriels"
+    volume: 1100
+    kd: null
+    scheduled_date: "2027-01-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "séminaire d'entreprise"
+    category: "Services aux entreprises"
+    volume: 70
+    kd: null
+    scheduled_date: "2027-01-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "logiciel de visioconférence"
+    category: "Logiciels professionnels"
+    volume: 100
+    kd: null
+    scheduled_date: "2027-01-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "formation IA entreprise"
+    category: "Formations et certifications"
+    volume: 480
+    kd: null
+    scheduled_date: "2027-01-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "outillage électroportatif"
+    category: "Outillage et materiel"
+    volume: 889
+    kd: null
+    scheduled_date: "2027-01-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "coworking ou bureau privatif"
+    category: "Services aux entreprises"
+    volume: 6000
+    kd: null
+    scheduled_date: "2027-01-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "logiciel CSE"
+    category: "Logiciels professionnels"
+    volume: 200
+    kd: null
+    scheduled_date: "2027-01-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur compresseur industriel"
+    category: "Equipements industriels"
+    volume: 480
+    kd: null
+    scheduled_date: "2027-01-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "titre-restaurant"
+    category: "Services aux entreprises"
+    volume: 324
+    kd: null
+    scheduled_date: "2027-01-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "logiciel de questionnaire"
+    category: "Logiciels professionnels"
+    volume: 170
+    kd: null
+    scheduled_date: "2027-02-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure formation Excel"
+    category: "Formations et certifications"
+    volume: 400
+    kd: null
+    scheduled_date: "2027-02-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "machine à café entreprise"
+    category: "Amenagement de bureaux"
+    volume: 100
+    kd: null
+    scheduled_date: "2027-02-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "logiciel marketing automation"
+    category: "Logiciels professionnels"
+    volume: 100
+    kd: null
+    scheduled_date: "2027-02-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "société de recouvrement"
+    category: "Services aux entreprises"
+    volume: 100
+    kd: null
+    scheduled_date: "2027-02-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "nettoyeur haute pression pro"
+    category: "Outillage et materiel"
+    volume: 200
+    kd: null
+    scheduled_date: "2027-02-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "logiciel prise de rendez-vous"
+    category: "Logiciels professionnels"
+    volume: 90
+    kd: null
+    scheduled_date: "2027-02-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure formation commerciale"
+    category: "Formations et certifications"
+    volume: 200
+    kd: null
+    scheduled_date: "2027-02-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Remplace "meilleurs outils social media" (volume trop faible)
+  - kw: "groupe électrogène"
+    category: "Outillage et materiel"
+    volume: 49300
+    kd: null
+    scheduled_date: "2027-03-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Remplace "nettoyage de bureaux" (volume trop faible)
+  - kw: "plateforme freelance"
+    category: "Services aux entreprises"
+    volume: 1100
+    kd: null
+    scheduled_date: "2027-03-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Remplace "standard telephonique virtuel" (volume trop faible)
+  - kw: "label RSE"
+    category: "Services aux entreprises"
+    volume: 600
+    kd: null
+    scheduled_date: "2027-03-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Remplace "meilleur createur de site pro" (volume trop faible)
+  - kw: "échafaudage"
+    category: "Outillage et materiel"
+    volume: 4125
+    kd: null
+    scheduled_date: "2027-03-12"
     status: todo
     published_date: null
     published_url_fr: null
