@@ -393,10 +393,10 @@ articles:
     volume: 600
     kd: null
     scheduled_date: "2026-10-02"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-10-02"
+    published_url_fr: "https://comparatif-pro.com/blog/location-outillage/"
+    published_url_en: "https://comparatif-pro.com/en/blog/tool-rental/"
     error: null
 
   - kw: "domiciliation entreprise"

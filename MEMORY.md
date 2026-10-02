@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 40 (28/09/2026 - 04/10/2026)
+- 2026-10-02 | Location outillage : prix et guide 2026 (FR+EN) | Outillage et matériel | auto | mode: datafer | score: 60/53
 - 2026-09-29 | Logiciel de CAO gratuit : comparatif 2026 (FR+EN) | Equipements industriels | auto | mode: datafer | score: 80/59
 
 ## Semaine 39 (21/09/2026 - 27/09/2026)
